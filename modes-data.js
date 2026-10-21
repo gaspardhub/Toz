@@ -106,6 +106,9 @@ window.TOURNEE_SEPT = `
 3|x|trucs qu'on fait sous la couette à part dormir
 3|x|endroits du corps qu'on peut embrasser
 3|x|films avec des scènes chaudes
+3|x|catégories de porno
+3|x|mots cochons
+3|x|fétiches
 `;
 
 // 10/10 mais… : « Il ou elle est 10/10, mais … »
@@ -254,6 +257,16 @@ window.TOURNEE_DIX = `
 3|x|commente tout comme dans un tuto YouTube
 3|x|a gardé les sextoys de son ex
 3|x|veut absolument que ça se passe chez ses parents
+3|x|refuse tout ce qui se fait avec la bouche
+3|x|regarde du porno pendant
+3|x|t'appelle « papa » ou « maman » au lit
+3|x|veut toujours être dominé, même au restaurant
+3|x|a un fétiche des pieds très assumé
+3|x|ne tient jamais plus de deux minutes
+3|x|veut le faire sept fois par jour
+3|x|veut tout filmer pour son OnlyFans
+3|x|a couché avec toute ta bande de potes
+3|x|ne peut jouir qu'en pensant à son ex
 `;
 
 // Team Battle : épreuves entre deux équipes. {A} sert d'arbitre quand il en faut un.
@@ -323,6 +336,7 @@ window.TOURNEE_TEAM = `
 3|x|Chaque équipe mime un film culte avec une scène chaude. L'autre équipe doit deviner. La plus rapide gagne.
 3|x|L'équipe qui compte le plus de joueurs ayant déjà fait l'amour dehors gagne.
 3|x|Chaque équipe désigne un joueur qui fait le gémissement le plus convaincant. {A} juge.
+3|x|Chaque équipe a 30 secondes pour citer un maximum de catégories de porno.
 `;
 
 // Quiz : question | bonne réponse | trois mauvaises réponses
@@ -665,4 +679,19 @@ window.TOURNEE_OUINON = `
 3|xg|Raconter ici ta dernière fois, avec les détails
 3|xg|Dire qui ici tu trouves le plus sexy
 3|xg|Classer les joueurs d'ici du plus sage au plus sauvage
+3|x|Tester la sodomie
+3|x|Faire une partouze
+3|x|Échanger de partenaire le temps d'une nuit
+3|x|Ouvrir un OnlyFans pour 10 000 euros par mois
+3|x|Coucher avec quelqu'un du même sexe, juste pour essayer
+3|x|Te faire filmer, et que la vidéo existe pour toujours
+3|x|Coucher avec ton boss pour doubler ton salaire
+3|x|Un plan à trois avec ton ex et sa moitié actuelle
+3|x|Coucher avec quelqu'un de 30 ans de plus pour 50 000 euros
+3|x|Te faire complètement dominer pendant une nuit
+3|x|Autoriser ta moitié à te tromper une fois
+3|x|Dire à voix haute à quoi tu as pensé la dernière fois que tu t'es fait plaisir
+3|x|Faire l'amour sous un miroir au plafond
+3|xg|Coucher avec quelqu'un d'ici pour 1 000 euros
+3|xg|Dormir nu avec {B} sans rien faire
 `;

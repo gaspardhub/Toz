@@ -1184,4 +1184,116 @@ P|x|3||Que ta mère trouve tes sextoys // que ton boss lise tes sextos
 P|x|3||Ne plus jamais pouvoir le faire le matin // ne plus jamais pouvoir le faire le soir
 P|x|3||Raconter ta pire nuit à ta moitié // que ta moitié raconte la sienne
 P|x|3||Un plan à trois avec ton ex // un plan à trois avec deux inconnus
+V|x|3||Combien de fois par semaine tu te fais plaisir, en vrai ?
+V|x|3||Quel est le dernier porno que tu as regardé ? Le titre ou la catégorie.
+V|x|3||Fellation, cunnilingus : tu préfères donner ou recevoir ?
+V|x|3||As-tu déjà essayé la sodomie ? Verdict ?
+V|x|3||Quelle est ta position préférée, et pourquoi celle-là ?
+V|x|3||Quelle est la position que tu détestes ?
+V|x|3||Combien de fois as-tu simulé un orgasme cette année ?
+V|x|3||Quelle est la partie de ton corps la plus sensible ?
+V|x|3||Ton record de fois en 24 heures ?
+V|x|3||Le plus long que tu aies tenu ? Et le plus court ?
+V|x|3||Lumière ou noir, bruit ou silence, mots ou rien : choisis pour chaque.
+V|x|3||As-tu déjà joué avec de la nourriture ? Laquelle ?
+V|x|3||Combien de sextoys as-tu, et lequel est ton préféré ?
+V|x|3||Ton fantasme le plus inavouable, et avec qui tu le réaliserais.
+V|x|3||As-tu déjà été dominé ou dominant ? Raconte.
+V|x|3||Menottes, bandeau, fessées : qu'est-ce que tu as déjà testé ?
+V|x|3||As-tu déjà payé pour du contenu sexy ?
+V|x|3||As-tu déjà envoyé des photos sexy en échange d'argent ou d'un cadeau ?
+V|x|3||Quel est le mot le plus cochon que tu aies dit au lit ?
+V|x|3||Qu'est-ce qui te fait jouir le plus vite ?
+V|x|3||Ton body count exact, et combien tu en regrettes ?
+V|x|3||Combien de plans à trois as-tu faits, et dans quelle configuration ?
+V|x|3||À qui as-tu pensé la dernière fois que tu t'es fait plaisir ?
+V|x|3||As-tu déjà regardé du porno au travail ou en cours ?
+V|x|3||As-tu déjà couché avec quelqu'un pour un avantage : argent, promo, note, cadeau ?
+V|x|3||As-tu déjà eu une expérience avec quelqu'un du même sexe ? Jusqu'où ?
+V|x|3||As-tu déjà fait l'amour à plus de trois ?
+V|x|3||As-tu déjà été dans un sauna ou un club libertin ? Raconte.
+V|x|3||Quel est ton plus gros kink ?
+V|x|3||Qu'est-ce que tu préfères dans les préliminaires, précisément ?
+V|x|3||Qu'est-ce que ton dernier partenaire faisait vraiment mal ?
+V|x|3||Note tes trois derniers partenaires sur 10.
+V|x|3||Raconte ton meilleur orgasme, sans donner de nom.
+V|x|3|pn|Tu t'es déjà fait plaisir en pensant à quelqu'un ici ? Qui ?
+V|x|3|pn|Selon toi, {B} est plutôt dominant ou soumis ?
+V|x|3|pn|Qui ici a l'air d'aimer les fessées ?
+V|x|3|pn|Plan à trois : avec qui ici, et qui comme troisième ?
+V|x|3|c|Note votre dernière fois sur 10, honnêtement.
+V|x|3|c|Qu'est-ce que {B} fait mieux que tous tes ex ?
+V|x|3|c|Qu'est-ce que tu veux que {B} te fasse ce soir, précisément ?
+V|x|3|c|Quel fantasme veux-tu réaliser avec {B} cette année ?
+J|x|3||Je n'ai jamais essayé la sodomie.
+J|x|3|pn|Je ne me suis jamais fait plaisir en pensant à quelqu'un de cette pièce.
+J|x|3||Je ne me suis jamais fait plaisir au travail.
+J|x|3||Je n'ai jamais payé pour du contenu sexy.
+J|x|3||Je n'ai jamais fait de fellation ou de cunnilingus dans un lieu public.
+J|x|3||Je n'ai jamais simulé avec ma moitié actuelle ou la dernière.
+J|x|3||Je n'ai jamais donné ni reçu de fessée.
+J|x|3||Je n'ai jamais eu les yeux bandés.
+J|x|3||Je n'ai jamais couché avec quelqu'un du même sexe.
+J|x|3||Je n'ai jamais eu plus de dix partenaires.
+J|x|3||Je n'ai jamais eu plus de vingt partenaires.
+J|x|3||Je n'ai jamais couché avec plus de trois personnes dans le même mois.
+J|x|3||Je n'ai jamais fait l'amour cinq fois dans la même journée.
+J|x|3||Je n'ai jamais utilisé de sextoy à deux.
+J|x|3||Je ne me suis jamais fait livrer un sextoy chez mes parents.
+J|x|3||Je n'ai jamais couché avec quelqu'un dont je ne parlais pas la langue.
+J|x|3||Je n'ai jamais fait de partouze.
+J|x|3||Je n'ai jamais échangé de partenaire.
+J|x|3||Je n'ai jamais couché avec quelqu'un qui avait le double de mon âge.
+J|x|3||Je n'ai jamais gardé les nudes d'un ex.
+J|x|3||Je n'ai jamais fait de visio coquine avec un inconnu.
+J|x|3||Je n'ai jamais joué à un jeu de domination.
+J|x|3||Je n'ai jamais fait l'amour lumière allumée et rideaux ouverts.
+J|x|3||Je n'ai jamais couché avec un ex alors que j'étais en couple.
+J|x|3||Je n'ai jamais fait l'amour dans une voiture sur une aire d'autoroute.
+J|x|3|p|Je n'ai jamais couché avec un ex de {B}.
+J|x|3|pn|Je n'ai jamais vu {B} sans vêtements.
+Q|x|3||Qui de nous se fait le plus souvent plaisir ?
+Q|x|3||Qui de nous regarde le plus de porno ?
+Q|x|3||Qui de nous a déjà testé la sodomie ?
+Q|x|3||Qui de nous aime les fessées ?
+Q|x|3||Qui de nous a déjà fait une partouze ?
+Q|x|3||Qui de nous a déjà payé pour du contenu sexy ?
+Q|x|3||Qui de nous a encore des nudes de ses ex dans son téléphone ?
+Q|x|3||Qui de nous simule le plus souvent ?
+Q|x|3||Qui de nous est le plus endurant ?
+Q|x|3||Qui de nous finit le plus vite ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un du même sexe ?
+Q|x|3||Qui de nous a un fétiche qu'il n'avoue pas ?
+Q|x|3||Qui de nous a déjà joué à des jeux de domination ?
+Q|x|3||Qui de nous a déjà fait l'amour en se filmant ?
+Q|x|3||Qui de nous préfère donner plutôt que recevoir ?
+Q|x|3||Qui de nous a déjà échangé de partenaire ?
+Q|x|3||Qui de nous a déjà couché avec deux personnes dans la même nuit ?
+Q|x|3|pn|Qui de nous a déjà pensé à {B} en se faisant plaisir ?
+Q|x|3|p|Qui de nous a déjà vu {B} sans vêtements ?
+P|x|3||Recevoir sans jamais donner // donner sans jamais recevoir
+P|x|3||Dominer toute ta vie // être dominé toute ta vie
+P|x|3||Une fessée surprise // un bandeau sur les yeux
+P|x|3||Une partouze avec des inconnus // un plan à trois avec des amis
+P|x|3|pn|Que ton dernier porno soit projeté ici // que ton historique de recherche le soit
+P|x|3||Coucher avec ton boss // coucher avec ton prof de fac
+P|x|3||Ne plus jamais pouvoir te faire plaisir seul // ne plus jamais pouvoir le faire à deux
+P|x|3||Dix minutes chaque jour // une nuit entière une fois par mois
+P|x|3||Quelqu'un qui crie très fort // quelqu'un qui pleure à la fin
+P|x|3|pn|Que {B} connaisse ton body count // que {B} connaisse ton fantasme numéro un
+P|x|3|pn|Un strip-tease de {B} pour toi // un strip-tease de toi pour {B}
+A|x|3||Retire tout jusqu'aux sous-vêtements, ou prends {s5}.
+A|x|3||Fais un body shot sur {B}, ou avec un bonbon en mode sans alcool. Si {B} refuse, c'est {B} qui boit.
+A|x|3||Embrasse {B} sur la bouche pendant trois secondes. Celui qui refuse prend {s4}.
+A|x|3||Fais un strip-tease d'une minute en musique. Arrête-toi où tu veux, mais chaque vêtement gardé vaut {s1}.
+A|x|3||Mime ta technique préférée avec une banane.
+A|x|3||Prends ta position préférée sur le canapé, habillé, pendant 10 secondes.
+A|x|3||Simule un orgasme le plus fort possible pendant 5 secondes.
+A|x|3||Laisse {B} t'embrasser où {B} veut. Tu peux refuser et prendre {s4}.
+A|x|3||Retire un sous-vêtement sans enlever le reste, ou prends {s5}.
+A|x|3||Fais un lap dance d'une minute à {B}. Si {B} refuse, c'est {B} qui boit.
+A|x|3||Décris en 30 secondes ce que tu ferais à {B} si vous étiez seuls. Si {B} rougit, distribue {s3}.
+A|x|3|c|Enlève un vêtement à {B} avec les dents.
+A|x|3|c|Embrasse {B} pendant 30 secondes sans t'arrêter.
+A|x|3|c|Laisse {B} choisir ta tenue, ou ton absence de tenue, pour la fin de la soirée.
 `;
