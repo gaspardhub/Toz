@@ -314,6 +314,47 @@ button:disabled { cursor: not-allowed; }
 .bet .suits .btn[aria-pressed="true"] { background: var(--c); color: var(--on-card); }
 .stepper { display: flex; align-items: center; gap: 6px; font-weight: 800; font-variant-numeric: tabular-nums; }
 .stepper button { width: 32px; height: 32px; border-radius: 50%; border: 2px solid var(--c); background: transparent; font-weight: 800; color: var(--ink); }
+.sheet {
+  position: fixed; inset: 0;
+  background: rgba(10, 6, 14, .86);
+  display: grid; place-items: center;
+  padding: 16px; z-index: 30;
+}
+.sheet .box {
+  background: var(--night-2);
+  border: 2px solid var(--line);
+  border-radius: 22px;
+  padding: 20px; width: 100%; max-width: 440px; max-height: 90%;
+  box-sizing: border-box; overflow-y: auto;
+  display: flex; flex-direction: column; gap: 12px;
+  color: var(--ink);
+}
+.sheet h3 { font-family: var(--display); font-weight: 400; margin: 0; font-size: 1.4rem; line-height: 1.1; }
+.sheet label { font-weight: 800; font-size: .8rem; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.sheet textarea {
+  width: 100%; box-sizing: border-box; min-height: 92px;
+  background: var(--night); color: var(--ink);
+  border: 2px solid var(--line); border-radius: 14px;
+  padding: 12px; font: inherit; font-weight: 600; resize: vertical;
+}
+.sheet textarea:focus { border-color: var(--sun); outline: none; }
+.sheet .row { display: flex; gap: 8px; flex-wrap: wrap; }
+.sheet .row button { flex: 1 1 auto; border-radius: 14px; padding: 12px; font-weight: 800; border: 2px solid var(--line); background: transparent; color: var(--ink); }
+.sheet .row .primary { background: var(--mint); border-color: var(--mint); color: var(--on-card); }
+.sheet .row .danger { border-color: var(--coral); color: var(--coral); }
+.mods { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.mods li { border: 2px solid var(--line); border-radius: 14px; padding: 10px 12px; display: flex; flex-direction: column; gap: 6px; }
+.mods small { color: var(--muted); font-weight: 600; }
+.mods button { align-self: flex-start; border-radius: 999px; padding: 6px 14px; font-weight: 800; border: 2px solid var(--mint); background: transparent; color: var(--ink); }
+.toast {
+  position: fixed; left: 50%; transform: translateX(-50%);
+  bottom: calc(100px + env(safe-area-inset-bottom, 0px));
+  background: var(--ink); color: var(--on-card);
+  padding: 10px 16px; border-radius: 999px;
+  font-weight: 800; z-index: 40; text-align: center;
+  max-width: calc(100% - 32px); box-sizing: border-box;
+}
+#mods { align-self: flex-start; }
 .results { margin: 0; padding: 0; text-align: left; list-style: none; display: flex; flex-direction: column; gap: 6px; font-weight: 700; font-size: 1.05rem; }
 
 @keyframes pop { from { transform: translateY(14px) scale(.98); opacity: .2; } to { transform: none; opacity: 1; } }
@@ -344,6 +385,7 @@ button:disabled { cursor: not-allowed; }
     <button type="button" class="pill" id="edit">Réglages</button>
   </div>
   <p class="summary" id="summary"></p>
+  <button type="button" class="pill" id="mods" hidden></button>
   <div class="modes" id="modes"></div>
 </main>
 
@@ -358,9 +400,20 @@ button:disabled { cursor: not-allowed; }
   </div>
 </div>
 
+<div id="sheet" class="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="sheet-title">
+  <div class="box">
+    <h3 id="sheet-title"></h3>
+    <div id="sheet-body" class="pair"></div>
+    <p class="hint" id="sheet-note"></p>
+    <div class="row" id="sheet-actions"></div>
+  </div>
+</div>
+<div id="toast" class="toast" role="status" hidden></div>
+
 <div id="play" hidden>
   <div class="play-top">
     <button type="button" id="quit">← Jeux</button>
+    <button type="button" id="editcard" hidden>✎ Modifier</button>
     <span class="counter" id="counter"></span>
   </div>
   <div class="play-head"><h2 class="play-title" id="ptitle"></h2><span class="emo" id="emo" aria-hidden="true"></span></div>
@@ -446,14 +499,22 @@ const nm = s => `<span class="nm">${esc(s)}</span>`;
 const pen = n => state.sober ? `${n} point${n > 1 ? "s" : ""}` : `${n} gorgée${n > 1 ? "s" : ""}`;
 const fill = (text, A = "", B = "") => text.replace(/\{A\}/g, A).replace(/\{B\}/g, B).replace(/\{s(\d)\}/g, (_, n) => pen(+n));
 
+// ---------- Cartes supprimées ou modifiées ----------
+// Partagées par la base de l'artifact quand elle répond, sinon gardées sur ce téléphone.
+let shared = {}, local = store.get("overrides", {}), edits = null;
+const ov = id => local[id] || shared[id];
+const live = c => !ov(c.id)?.del;
+const txt = c => ov(c.id)?.text ?? c.text;
+
 function pool() {
   return CARDS.filter(c =>
+    live(c) &&
     c.lvl <= state.level &&
     c.groups.includes(state.group) &&
     c.topics.some(t => state.topics.includes(t)) &&
     (!c.topics.includes("x") || state.topics.includes("x")));
 }
-const okSimple = it => it.lvl <= state.level && (!it.x || state.topics.includes("x")) && !(it.g && state.group === "c");
+const okSimple = it => live(it) && it.lvl <= state.level && (!it.x || state.topics.includes("x")) && !(it.g && state.group === "c");
 
 // ---------- Questionnaire ----------
 const STEPS = ["welcome", "group", "players", "topics", "level"];
@@ -596,13 +657,17 @@ const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { c
 let decks = {};
 // Les éléments jamais vus sortent en premier, même d'une soirée à l'autre.
 function draw(key, items) {
+  items = items.filter(live);
   if (!items.length) return null;
-  if (!decks[key]?.length) {
-    const fresh = items.filter(c => !seen.has(c.id)), old = items.filter(c => seen.has(c.id));
-    if (!fresh.length) old.forEach(c => seen.delete(c.id));
-    decks[key] = [...shuffle(old), ...shuffle(fresh)];
-  }
-  const c = decks[key].pop();
+  let c;
+  do {
+    if (!decks[key]?.length) {
+      const fresh = items.filter(c => !seen.has(c.id)), old = items.filter(c => seen.has(c.id));
+      if (!fresh.length) old.forEach(c => seen.delete(c.id));
+      decks[key] = [...shuffle(old), ...shuffle(fresh)];
+    }
+    c = decks[key].pop();
+  } while (!live(c));
   seen.add(c.id);
   store.set("seen", [...seen]);
   return c;
@@ -614,7 +679,10 @@ const P = () => roster();
 function nextPlayer() { const ps = P(); return ps[turn++ % ps.length]; }
 function otherThan(A) { const o = P().filter(p => p !== A); return o[Math.floor(Math.random() * o.length)]; }
 
-function show({ html, next = "Suivant", tap = false, counter }) {
+let cur = null;
+function show({ html, next = "Suivant", tap = false, counter, item = null }) {
+  cur = item;
+  $("editcard").hidden = !item;
   const el = $("card");
   el.innerHTML = html;
   el.classList.toggle("tap", tap);
@@ -636,7 +704,7 @@ function cardHTML(type, card, A, B) {
   const T = TYPES[type], couple = state.group === "c";
   if (type === "Q") theme({ ...T, t: ["Qui de", couple ? "nous deux" : "nous"] });
   const f = s => fill(esc(s), nm(A), nm(B));
-  let text = card.text;
+  let text = txt(card);
   if (type === "Q" && couple) text = text.replace(/^Qui de nous/, "Qui de nous deux");
   let html = T.target ? `<span class="label">${T.name}</span><p class="target">${esc(A)}</p>` : "";
   const cap = t => t.charAt(0).toUpperCase() + t.slice(1);
@@ -661,7 +729,7 @@ function playCard(type, items) {
   const A = nextPlayer(), B = otherThan(A);
   const card = draw("c" + type, items);
   theme(TYPES[type]);
-  show({ html: cardHTML(type, card, A, B), tap: true });
+  show({ item: card, html: cardHTML(type, card, A, B), tap: true });
 }
 // Jeu à un seul type de carte (Je n'ai jamais, Qui pourrait, Tu préfères)
 const single = (type, extra) => ({
@@ -693,7 +761,7 @@ const MODES = {
       const A = nextPlayer(), B = otherThan(A);
       const it = draw("on", OUINON.filter(okSimple));
       setColor();
-      show({ html: `<p class="target">${esc(A)}</p><p class="text">${fill(esc(it.text), nm(A), nm(B))}</p>
+      show({ item: it, html: `<p class="target">${esc(A)}</p><p class="text">${fill(esc(txt(it)), nm(A), nm(B))}</p>
         <p class="text"><span class="nm">Oui</span> ou <span class="nm">Non</span> ?</p>
         <p class="rule">Réponds tout de suite, sans te justifier. Le premier qui lance un débat prend ${pen(2)}.</p>`, tap: true });
     },
@@ -713,7 +781,7 @@ const MODES = {
     act(k) {
       const card = draw("c" + k, byType([k])[k]);
       theme(TYPES[k]);
-      show({ html: cardHTML(k, card, this.A, this.B), tap: true });
+      show({ item: card, html: cardHTML(k, card, this.A, this.B), tap: true });
     },
   },
   Q: single("Q", { desc: "Tout le monde pointe le coupable en même temps." }),
@@ -727,7 +795,7 @@ const MODES = {
       this.it = draw("sept", SEPT.filter(okSimple));
       clearInterval(this.timer);
       setColor("var(--lime)");
-      show({ html: `<p class="target">${esc(this.A)}</p><p class="text">Cite 3 ${esc(this.it.text)}</p>
+      show({ item: this.it, html: `<p class="target">${esc(this.A)}</p><p class="text">Cite 3 ${esc(txt(this.it))}</p>
         <p class="rule">Raté : prends ${pen(2)}. Réussi : distribue ${pen(2)}.</p>
         <div class="btns"><button type="button" class="btn solid" data-act="go">Lancer le chrono</button></div>`, next: null });
     },
@@ -735,10 +803,10 @@ const MODES = {
       if (k === "go") {
         let t = 7;
         const tick = () => {
-          show({ html: `<span class="label">${esc(this.A)} · cite 3 ${esc(this.it.text)}</span><p class="big">${t}</p>`, next: null });
+          show({ html: `<span class="label">${esc(this.A)} · cite 3 ${esc(txt(this.it))}</span><p class="big">${t}</p>`, next: null });
           if (t-- <= 0) {
             clearInterval(this.timer);
-            show({ html: `<span class="label">Temps écoulé</span><p class="text">${esc(this.A)}, tu as cité 3 ${esc(this.it.text)} ?</p>
+            show({ html: `<span class="label">Temps écoulé</span><p class="text">${esc(this.A)}, tu as cité 3 ${esc(txt(this.it))} ?</p>
               <div class="btns"><button type="button" class="btn solid" data-act="ok">Réussi</button><button type="button" class="btn" data-act="ko">Raté</button></div>`, next: null });
           }
         };
@@ -758,7 +826,7 @@ const MODES = {
       const A = nextPlayer(), B = otherThan(A);
       const it = draw("dix", DIX.filter(okSimple));
       setColor();
-      show({ html: `<p class="target">${esc(A)}</p><p class="text">${fill(esc(it.text), nm(A), nm(B))}.</p>
+      show({ item: it, html: `<p class="target">${esc(A)}</p><p class="text">${fill(esc(txt(it)), nm(A), nm(B))}.</p>
         <p class="rule">${esc(A)} donne sa nouvelle note sur 10. Ceux qui auraient mis une note éloignée de plus de 2 points prennent ${pen(1)}.</p>`, tap: true });
     },
   },
@@ -826,7 +894,7 @@ const MODES = {
       round++;
       const it = draw("team", TEAM.filter(okSimple));
       const ref = P()[Math.floor(Math.random() * P().length)];
-      show({ html: `<span class="label">Épreuve ${round}</span><p class="text small">${fill(esc(it.text), esc(ref))}</p>
+      show({ item: it, html: `<span class="label">Épreuve ${round}</span><p class="text small">${fill(esc(txt(it)), esc(ref))}</p>
         <p class="rule">L'équipe perdante prend ${pen(2)} par joueur.</p>
         <div class="btns">${this.names.map((n, i) => `<button type="button" class="btn ${i ? "" : "solid"}" data-act="w${i}">${n} gagne</button>`).join("")}</div>`, next: null, counter });
     },
@@ -891,7 +959,7 @@ const MODES = {
       const tiers = [["Facile", 1], ["Moyen", 3], ["Hardcore", 5]];
       this.tiers = tiers.slice(3 - picks.length);
       show({ html: `<p class="target">${esc(this.A)}</p>
-        <div class="btns col">${picks.map((c, i) => `<button type="button" class="btn left" data-act="${i}"><small>${this.tiers[i][0]} · distribue ${pen(this.tiers[i][1])}</small>${fill(esc(c.text), esc(this.A), esc(this.B))}</button>`).join("")}</div>`, next: null });
+        <div class="btns col">${picks.map((c, i) => `<button type="button" class="btn left" data-act="${i}"><small>${this.tiers[i][0]} · distribue ${pen(this.tiers[i][1])}</small>${fill(esc(txt(c)), esc(this.A), esc(this.B))}</button>`).join("")}</div>`, next: null });
     },
     act(k) {
       if (k === "done" || k === "no") {
@@ -901,7 +969,7 @@ const MODES = {
       }
       this.choice = +k;
       const [tier, n] = this.tiers[this.choice];
-      show({ html: `<span class="label">${tier} · ${esc(this.A)}</span><p class="text">${fill(esc(this.picks[this.choice].text), esc(this.A), esc(this.B))}</p>
+      show({ item: this.picks[this.choice], html: `<span class="label">${tier} · ${esc(this.A)}</span><p class="text">${fill(esc(txt(this.picks[this.choice])), esc(this.A), esc(this.B))}</p>
         <p class="rule">Fait : tu distribues ${pen(n)}. Refusé : tu les prends.</p>
         <div class="btns"><button type="button" class="btn solid" data-act="done">Fait</button><button type="button" class="btn" data-act="no">Refusé</button></div>`, next: null });
     },
@@ -1045,6 +1113,9 @@ function renderMenu() {
   const lv = LEVELS.find(l => l.id === state.level).name;
   const tp = TOPICS.filter(t => state.topics.includes(t.id)).map(t => t.name).join(", ");
   $("summary").innerHTML = `<b>${P().map(esc).join(", ")}</b><br>${GROUPS.find(g => g.id === state.group).name} · ${lv} · ${tp}${state.sober ? " · sans alcool" : ""}`;
+  const nmods = Object.keys({ ...shared, ...local }).length;
+  $("mods").hidden = !nmods;
+  $("mods").textContent = `Cartes retirées ou modifiées (${nmods})`;
   $("modes").innerHTML = MODES_LIST.map(id => {
     const m = MODES[id], min = m.min || 2, cnt = m.count();
     const why = n < min ? `Il faut au moins ${min} joueurs.` : !cnt ? "Aucune carte avec vos sujets. Changez les réglages." : "";
@@ -1080,6 +1151,110 @@ $("quit").addEventListener("click", () => {
   try { wakeLock?.release(); } catch {}
   wakeLock = null;
 });
+
+const ALL = new Map([...CARDS, ...OUINON, ...SEPT, ...DIX, ...TEAM].map(c => [c.id, c]));
+const toUser = t => t.replace(/\{A\}/g, "[joueur]").replace(/\{B\}/g, "[autre joueur]").replace(/\{s(\d)\}/g, "[$1 gorgées]");
+const fromUser = t => t.replace(/\[joueur\]/gi, "{A}").replace(/\[autre joueur\]/gi, "{B}").replace(/\[(\d) gorgées?\]/gi, "{s$1}");
+const scopeNote = () => edits ? "Le changement vaut pour tous ceux qui jouent avec ce lien." : "Le changement est gardé sur ce téléphone.";
+
+function toast(msg) {
+  const t = $("toast");
+  t.textContent = msg; t.hidden = false;
+  clearTimeout(toast.timer);
+  toast.timer = setTimeout(() => { t.hidden = true; }, 2600);
+}
+
+// val = {del: true} ou {text}, null pour rétablir la carte d'origine.
+async function setOverride(id, val) {
+  if (edits) {
+    try {
+      if (val) { await edits.doc(id).set(val); shared[id] = val; }
+      else { await edits.doc(id).delete(); delete shared[id]; }
+      delete local[id]; store.set("overrides", local);
+      return true;
+    } catch { /* lecture seule pour ce joueur : on garde le changement sur son téléphone */ }
+  }
+  if (val) local[id] = val;
+  else { if (!local[id]) return false; delete local[id]; }
+  store.set("overrides", local);
+  return true;
+}
+
+function openSheet(title, body, actions, note) {
+  $("sheet-title").textContent = title;
+  $("sheet-body").innerHTML = body;
+  $("sheet-note").textContent = note || "";
+  $("sheet-actions").innerHTML = actions;
+  $("sheet").hidden = false;
+}
+const closeSheet = () => { $("sheet").hidden = true; };
+
+function openEdit(item) {
+  const isP = item.type === "P";
+  const parts = isP ? txt(item).split(" // ") : [txt(item)];
+  openSheet("Modifier cette carte",
+    parts.map((_, i) => `<label for="f${i}">${isP ? `Choix ${i + 1}` : "Texte de la carte"}</label><textarea id="f${i}"></textarea>`).join(""),
+    `<button type="button" class="danger" data-sheet="del">Supprimer</button><button type="button" data-sheet="close">Annuler</button><button type="button" class="primary" data-sheet="save">Enregistrer</button>`,
+    `[joueur] et [autre joueur] sont remplacés par des prénoms. ${scopeNote()}`);
+  parts.forEach((t, i) => { $("f" + i).value = toUser(t); });
+  openEdit.item = item;
+  $("f0").focus();
+}
+
+function openMods() {
+  const ids = Object.keys({ ...shared, ...local });
+  if (!ids.length) { closeSheet(); renderMenu(); return; }
+  const rows = ids.map(id => {
+    const o = ov(id), base = ALL.get(id);
+    const orig = base ? toUser(base.text).replace(" // ", " / ") : "Carte qui n'existe plus dans le jeu";
+    const what = o.del ? "Supprimée" : `Modifiée : ${toUser(o.text).replace(" // ", " / ")}`;
+    return `<li><span>${esc(orig)}</span><small>${esc(what)}${local[id] ? " · sur ce téléphone" : ""}</small><button type="button" data-restore="${esc(id)}">Rétablir</button></li>`;
+  }).join("");
+  openSheet("Cartes retirées ou modifiées", `<ul class="mods">${rows}</ul>`,
+    `<button type="button" class="primary" data-sheet="close">Fermer</button>`);
+}
+
+$("editcard").addEventListener("click", () => { if (cur) openEdit(cur); });
+$("mods").addEventListener("click", openMods);
+$("sheet").addEventListener("click", async e => {
+  const restore = e.target.closest("[data-restore]");
+  if (restore) {
+    const ok = await setOverride(restore.dataset.restore, null);
+    toast(ok ? "Carte rétablie" : "Seul le propriétaire du lien peut rétablir cette carte.");
+    openMods(); renderMenu();
+    return;
+  }
+  const act = e.target.closest("[data-sheet]")?.dataset.sheet;
+  if (!act) { if (e.target === $("sheet")) closeSheet(); return; }
+  if (act === "close") { closeSheet(); return; }
+  const item = openEdit.item;
+  if (act === "del") {
+    await setOverride(item.id, { del: true });
+    closeSheet(); toast("Carte supprimée. Elle est récupérable depuis le menu des jeux.");
+    advance();
+    return;
+  }
+  const vals = [...$("sheet-body").querySelectorAll("textarea")].map(t => fromUser(t.value.trim().replace(/\s+/g, " ")));
+  if (vals.some(v => !v)) { $("sheet-note").textContent = "Le texte ne peut pas être vide. Pour retirer la carte, utilise Supprimer."; return; }
+  const text = vals.join(" // ");
+  await setOverride(item.id, text === item.text ? null : { text });
+  closeSheet(); toast("Carte modifiée");
+  advance();
+});
+document.addEventListener("keydown", e => { if (e.key === "Escape" && !$("sheet").hidden) closeSheet(); });
+
+// Base partagée de l'artifact : absente hors de claude.ai, l'appli marche alors sans.
+(async () => {
+  const db = await window.claude?.use?.("db");
+  if (!db) return;
+  edits = db.collection("edits");
+  edits.onSnapshot(snap => {
+    const next = {};
+    snap.docs.forEach(d => { next[d.id] = d.data(); });
+    shared = next;
+    if (!$("menu").hidden) renderMenu();
+  }, () => { edits = null; });
+})();
 
 render();
 </script>
