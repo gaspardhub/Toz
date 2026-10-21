@@ -127,6 +127,18 @@ window.TOURNEE_DIX = `
 3|x|a une collection de 200 sextoys
 3|x|ne veut le faire que dans le noir complet
 3|x|veut un câlin de deux heures après, tous les soirs
+1||c'est l'ex de {B}
+1||c'est le frère ou la sœur de {B}
+1||c'est le crush de {B}
+1||c'est le boss de {B}
+1||{B} le trouve insupportable
+1||c'est le meilleur ami d'enfance de {B}
+2||c'est le père ou la mère de {B}
+2||{B} a déjà eu une histoire avec
+2||c'est le coloc de {B} et il est toujours là
+2||{B} dit que c'est la pire personne qu'il ou elle ait connue
+3|x|{B} dit que c'était son pire coup
+3|x|{B} raconte vos nuits à tout le monde
 `;
 
 // Team Battle : épreuves entre deux équipes. {A} sert d'arbitre quand il en faut un.
@@ -355,4 +367,67 @@ window.TOURNEE_MOTS = `
 3|x|Club libertin
 3|x|Nude
 3|x|Préliminaires
+`;
+
+// Oui ou non sans débattre : {A} répond par oui ou non, sans se justifier. Tag g = jeu en groupe seulement.
+window.TOURNEE_OUINON = `
+1||Partir vivre à l'autre bout du monde pour quelqu'un rencontré il y a un mois
+1||Lire les messages de ta moitié si son téléphone était déverrouillé devant toi
+1||Dire à un pote que sa moitié ne te plaît pas
+1||Recontacter ton premier amour
+1||Partir en vacances avec ton ex, en amis
+1||Accepter un million d'euros pour ne plus jamais revoir tes potes actuels
+1||Avouer à {B} un truc que tu lui caches
+1||Pardonner une tromperie
+1||Arrêter l'alcool pendant un an pour 10 000 euros
+1||Te raser la tête pour 1 000 euros
+1||Faire un tatouage choisi par {B}
+1||Sortir avec quelqu'un qui a dix ans de plus que toi
+1||Supprimer tous tes réseaux sociaux pendant un an pour 5 000 euros
+1||Participer à une téléréalité
+1||Manger un insecte vivant pour 100 euros
+1||Laisser {B} répondre à tes messages pendant une journée
+1||Dire « je t'aime » en premier
+1||Aller à un rencard à l'aveugle organisé par {B}
+1||Dire à un pote que sa moitié le trompe
+1||Rester ami avec un ex
+1||Te marier avant 30 ans
+1||Montrer ton historique de recherche à {B}
+1||Prêter 1 000 euros à {B}
+1||Faire un saut en parachute demain
+1||Annuler un rencard à la dernière minute avec une fausse excuse
+1||Inviter ton crush à un rencard, ce soir, par message
+1||Habiter avec ta belle-famille pendant un an
+1||Lire à voix haute ta dernière conversation avec ta mère
+1|g|Lire ton journal intime d'ado devant tout le monde ici
+2||Te remettre avec ton ex
+2||Sortir avec l'ex d'un pote
+2||Accepter une relation libre
+2||Envoyer un message à ton ex, maintenant
+2||Partager ta localisation en permanence avec ta moitié
+2||Aller à un mariage au bras de ton ex
+2||Sortir avec quelqu'un que tes potes détestent
+2||Pardonner à {B} s'il ou elle sortait avec ton ex
+2||Passer une nuit dans une cabane sans électricité avec {B}
+2|g|Embrasser {B} pour 500 euros
+2|g|Montrer ta dernière conversation à tout le monde ici
+2|g|Dire à {B} ce que tu penses vraiment de son ex
+2|x|Coucher le premier soir
+2|x|Rester avec quelqu'un d'incroyable mais nul au lit
+2|x|Avoir un plan cul avec un ex
+2|x|Coucher avec un collègue
+3|x|Faire un plan à trois
+3|x|Envoyer un nude à quelqu'un ce soir
+3|x|Faire l'amour dans un lieu public
+3|x|Tester un club libertin
+3|x|Te faire filmer pendant l'amour
+3|x|Ouvrir ton couple
+3|x|Raconter ta dernière fois en détail à {B}
+3|x|Laisser ta moitié avoir une aventure d'un soir
+3|x|Coucher avec ton boss pour une promotion
+3|x|Utiliser des menottes
+3|x|Recoucher une dernière fois avec ton ex
+3|xg|Coucher avec {B} pour 10 000 euros
+3|xg|Faire un strip-tease ici, maintenant
+3|xg|Coucher avec quelqu'un d'ici si vous étiez les deux derniers sur Terre
 `;

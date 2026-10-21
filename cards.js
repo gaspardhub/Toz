@@ -669,4 +669,49 @@ T|f|1||Thème : jeux vidéo
 T|f|1||Thème : pays d'Afrique
 T|a|1||Thème : idées de premier rencard
 T|x|2||Thème : sextoys
+J|a|1|pn|Je n'ai jamais trouvé {B} canon.
+J|a|2|pn|Je n'ai jamais eu envie d'embrasser {B}.
+J|x|3|pn|Je n'ai jamais eu envie de coucher avec {B}.
+J|x|3|pn|Je n'ai jamais imaginé {B} sans vêtements.
+J|x|2|pn|Je n'ai jamais fait un rêve bizarre avec {B} dedans.
+J|d|1|pn|Je n'ai jamais dit du mal de {B}.
+J|d|1|pn|Je n'ai jamais menti à {B}.
+J|d|2|p|Je n'ai jamais répété un secret de {B} à quelqu'un d'autre.
+J|d|2|p|Je n'ai jamais pensé que {B} méritait mieux que sa moitié.
+J|t|1|pn|Je n'ai jamais stalké {B} sur Instagram.
+J|t|1|pn|Je n'ai jamais liké une vieille photo de {B}.
+J|t|2|p|Je n'ai jamais envoyé la capture d'une conversation avec {B} à quelqu'un d'autre.
+J|a|2|pn|Je n'ai jamais été jaloux de {B}.
+J|a|2|p|Je n'ai jamais eu de crush sur {B}.
+J|a|2|p|Je n'ai jamais trouvé l'ex de {B} canon.
+J|f|1|pn|Je n'ai jamais imité {B} dans son dos.
+J|s|1|p|Je n'ai jamais dû raccompagner {B} bourré.
+J|s|1|pn|Je n'ai jamais trouvé {B} insupportable bourré.
+Q|a|2|pn|Qui pourrait avoir un crush caché sur {B} ?
+Q|x|3|pn|Qui pourrait finir la nuit avec {B} ?
+Q|x|2|pn|Qui pourrait embrasser {B} ce soir ?
+Q|d|1|pn|Qui pourrait balancer tous les secrets de {B} ?
+Q|d|2|p|Qui pourrait avoir déjà critiqué {B} dans son dos ?
+Q|f|1|pn|Qui pourrait survivre une semaine en coloc avec {B} ?
+Q|f|1|pn|Qui pourrait faire la meilleure imitation de {B} ?
+Q|f|1|pn|Qui pourrait partir en road trip avec {B} sans s'engueuler ?
+Q|a|1|pn|Qui pourrait se marier avec {B} ?
+Q|a|2|p|Qui pourrait sortir avec l'ex de {B} ?
+Q|s|1|pn|Qui pourrait ramener {B} chez lui ce soir parce qu'il est trop bourré ?
+Q|t|1|pn|Qui pourrait avoir stalké {B} cette semaine ?
+P|x|3|pn|Embrasser {B} devant tout le monde // raconter ta pire nuit devant tout le monde
+P|x|2|pn|Un slow collé-serré avec {B} // un bisou de trois secondes avec {B}
+P|x|3|pn|Masser {B} pendant cinq minutes // que {B} te masse pendant cinq minutes
+P|x|2|pn|Dormir collé à {B} toute une nuit // partager une douche en maillot avec {B}
+P|a|2|pn|Partir en vacances en amoureux avec {B} // avec ton ex
+P|a|2|p|Sortir avec {B} // sortir avec l'ex de {B}
+P|f|1|pn|Que {B} lise tes messages // que {B} lise ton historique de recherche
+P|f|1|pn|Échanger ta vie avec celle de {B} pendant un mois // garder la tienne pour toujours
+P|f|1|pn|Être coincé six heures dans un ascenseur avec {B} // seul pendant douze heures
+P|f|1|pn|Que {B} choisisse tes vêtements pendant un mois // ta coupe de cheveux
+P|d|2|p|Connaître tous les secrets de {B} // que {B} connaisse tous les tiens
+V|a|2|pn|Qu'est-ce qui te plaît le plus chez {B} ?
+V|d|1|pn|Quel défaut de {B} t'énerve le plus ?
+V|a|2|pn|Si {B} te proposait un rencard ce soir, tu dirais quoi ?
+V|x|3|pn|Si tu devais passer une nuit avec {B}, tu commencerais par quoi ?
 `;
