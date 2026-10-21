@@ -241,6 +241,19 @@ window.TOURNEE_DIX = `
 3|x|a un body count à trois chiffres
 3|x|veut toujours inviter quelqu'un d'autre
 3|x|c'est le plan cul de {B}
+3|x|refuse d'éteindre la lumière
+3|x|t'envoie des sextos bourrés de fautes
+3|x|dit « merci » à la fin
+3|x|veut toujours le faire devant un miroir
+3|x|a les mains gelées, tout le temps
+3|x|planifie vos câlins dans un agenda partagé
+3|x|a un lit qui grince à réveiller tout l'immeuble
+3|x|ne fait jamais le premier pas
+3|x|répond à ses messages pendant
+3|x|a des colocs qui applaudissent à chaque fois
+3|x|commente tout comme dans un tuto YouTube
+3|x|a gardé les sextoys de son ex
+3|x|veut absolument que ça se passe chez ses parents
 `;
 
 // Team Battle : épreuves entre deux équipes. {A} sert d'arbitre quand il en faut un.
@@ -631,4 +644,25 @@ window.TOURNEE_OUINON = `
 3|xg|Embrasser quelqu'un d'ici pour 100 euros
 3|xg|Dire avec qui ici tu passerais une nuit
 3|xg|Échanger un vêtement avec {B}, maintenant
+3|x|Recoucher avec ton pire coup pour 1 000 euros
+3|x|Coucher avec le sosie parfait de ton ex
+3|x|Envoyer un sexto à ton dernier match, maintenant
+3|x|Coucher avec quelqu'un qui embrasse mal
+3|x|Faire l'amour dans un avion
+3|x|Avoir un plan cul avec ton voisin
+3|x|Accepter un plan à trois si ta moitié le propose
+3|x|Faire l'amour dans le lit d'un pote pendant sa soirée
+3|x|Coucher avec le meilleur ami de ton ex
+3|x|Avoir une relation uniquement physique pendant un an
+3|x|Coucher avec quelqu'un qui a une mauvaise réputation au lit
+3|x|Coucher avec un collègue en sachant que tout le bureau le saura
+3|x|Partir en vacances avec un plan cul
+3|x|Coucher avec quelqu'un uniquement parce qu'il sent bon
+3|x|Faire l'amour sans jamais pouvoir s'embrasser
+3|x|Dire ton body count exact à tes parents
+3|x|Raconter ta dernière fois à ta mère
+3|x|Lire tes derniers sextos à voix haute
+3|xg|Raconter ici ta dernière fois, avec les détails
+3|xg|Dire qui ici tu trouves le plus sexy
+3|xg|Classer les joueurs d'ici du plus sage au plus sauvage
 `;

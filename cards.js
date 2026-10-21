@@ -1054,4 +1054,134 @@ A|f|1||Fais une déclaration d'amour à ton plat préféré.
 A|f|1||Tiens la chaise contre le mur pendant 30 secondes.
 A|f|1||Fais une chorégraphie TikTok, même mal.
 A|f|1||Vends ta chaussure gauche à {B} comme dans un téléachat.
+V|x|2||Raconte ta première fois : où, quand, et le détail qui te fait encore rire.
+V|x|2||Raconte la fois où tu t'es fait surprendre.
+V|x|2||Raconte ton plan d'un soir le plus improbable.
+V|x|2||Raconte le moment le plus gênant que tu aies vécu au lit.
+V|x|2||Raconte la fois où tu as dû partir discrètement au petit matin.
+V|x|2||Raconte ton pire réveil à côté de quelqu'un.
+V|x|2||Raconte la fois où ça a failli se faire, et pourquoi ça ne s'est pas fait.
+V|x|2||Raconte ton pire fou rire au mauvais moment.
+V|x|2||Raconte le message coquin le plus raté que tu aies envoyé.
+V|x|2||Raconte la fois où tu as entendu des voisins ou des colocs, et ce que tu as fait.
+V|x|2||Raconte ton plus gros malentendu au lit.
+V|x|2||Raconte la fois où tu as menti sur ton expérience.
+V|x|2||Raconte ta nuit la plus folle en vacances.
+V|x|2||Raconte la fois où quelqu'un t'a fait une proposition à laquelle tu ne t'attendais pas du tout.
+V|x|2||Raconte la pire excuse que tu aies donnée pour éviter de finir la nuit avec quelqu'un.
+V|x|2||Raconte ton plus gros râteau au moment de passer à l'action.
+V|x|2||Raconte la fois où un objet a cassé ou s'est renversé en plein milieu.
+V|x|2||Raconte le truc le plus bizarre qui te soit arrivé avec quelqu'un rencontré sur une appli.
+V|x|2||Raconte la fois où tu as failli te faire prendre par tes parents.
+V|x|2||Raconte le moment exact où tu as compris que quelqu'un voulait finir la nuit avec toi.
+V|x|2||Raconte la fois où quelqu'un a dit le mauvais prénom, ou celle où c'était toi.
+V|x|2||Raconte un plan d'un soir qui s'est transformé en vraie histoire.
+V|x|2||Raconte ta pire tentative d'être sexy.
+V|x|2||Raconte la fois où tu as dû cacher quelqu'un.
+V|x|2||Raconte ta première nuit chez quelqu'un que tu venais de rencontrer.
+V|x|2||Quelle est la phrase qui t'a fait craquer le plus vite ?
+V|x|2||Quel est le plus grand écart d'âge que tu aies eu avec quelqu'un ?
+V|x|2||Ton record : combien de temps entre la rencontre et la première nuit ?
+V|x|2||Combien de personnes as-tu embrassées en une seule soirée, au maximum ?
+V|x|2||Quelle est ta plus grosse insécurité au lit ?
+V|x|2||As-tu déjà eu un faible pour quelqu'un d'interdit : prof, boss, beau-frère, belle-sœur ?
+V|x|3||Raconte l'endroit le plus risqué où tu as fait l'amour, et comment ça s'est fini.
+V|x|3||Raconte la fois où tu as couché avec quelqu'un avec qui tu n'aurais vraiment pas dû.
+V|x|3||Raconte ton dernier coup d'un soir, du premier regard jusqu'au lendemain.
+V|x|3||Raconte la plus longue nuit de ta vie.
+V|x|3||Raconte ton meilleur souvenir sous la douche à deux.
+V|x|3||Raconte la fois où un nude a mal tourné.
+V|x|3||Raconte la fois où quelqu'un t'a demandé un truc au lit auquel tu ne t'attendais pas.
+V|x|3||Raconte ta dernière fois en trois mots, puis développe.
+V|x|3||Quelle est la chose que tu as faite une seule fois et que tu ne referas jamais ?
+V|x|3||Quelle est la chose que tu as faite une fois et que tu referais tous les jours ?
+V|x|3||As-tu déjà couché avec quelqu'un uniquement par vengeance ?
+V|x|3||As-tu déjà été le plan secret de quelqu'un qui était en couple ?
+V|x|3||As-tu déjà dit oui à quelque chose au lit uniquement pour faire plaisir ?
+V|x|3||Quel est ton record de partenaires différents en une semaine ?
+V|x|3||Ton meilleur coup était-il aussi la personne que tu aimais le plus ?
+V|x|3||Quelle est la recherche la plus coquine de ton historique ?
+V|x|3||Quelle est la chose que tu n'oserais jamais demander à ta moitié ?
+V|x|3||As-tu déjà fait l'amour en sachant que quelqu'un entendait tout ?
+V|x|3|pn|Qui ici a le plus d'expérience, d'après toi ? Et le moins ?
+V|x|3|pn|Avec qui ici as-tu déjà eu une pensée pas très sage ?
+V|x|3|pn|Classe les joueurs du plus sage au plus sauvage au lit.
+V|x|3|pn|Qui ici serait parfait pour un plan d'un soir, mais le pire pour une relation ?
+V|x|3|pn|{B} t'a déjà fait de l'effet ? Raconte quand.
+V|x|2|c|Raconte à {B} le moment où tu as eu le plus envie de lui ou d'elle.
+V|x|3|c|Qu'est-ce que tu voudrais essayer avec {B} que vous n'avez jamais testé ?
+V|x|3|c|Raconte ta meilleure nuit avec {B}, sans rien oublier.
+V|x|3|c|Qu'est-ce que tu n'as jamais osé dire à {B} au lit ?
+V|x|2|c|Raconte la fois où vous avez failli vous faire surprendre.
+J|x|2||Je n'ai jamais fait l'amour en soirée pendant que tout le monde était dans la pièce d'à côté.
+J|x|2||Je n'ai jamais fait l'amour dans une voiture garée devant chez mes parents.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un rencontré à un afterwork.
+J|x|2||Je n'ai jamais couché avec quelqu'un que je n'ai plus jamais revu.
+J|x|2||Je n'ai jamais couché avec l'ex d'un pote.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un à cause d'un pari.
+J|x|2||Je n'ai jamais fait l'amour dans un camping, un festival ou une auberge de jeunesse.
+J|x|2||Je n'ai jamais couché avec un ami et fait comme si de rien n'était le lendemain.
+J|x|2||Je n'ai jamais fait l'amour sur une plage.
+J|x|2||Je n'ai jamais fait l'amour dans une piscine ou un jacuzzi.
+J|x|2||Je n'ai jamais fait l'amour dans un lit superposé.
+J|x|2||Je n'ai jamais eu de plan cul qui a duré plus d'un an.
+J|x|2||Je n'ai jamais couché avec quelqu'un qui n'était pas du tout mon genre.
+J|x|2||Je n'ai jamais envoyé de sexto pendant un repas de famille.
+J|x|2||Je n'ai jamais fait de sexting avec quelqu'un que je n'ai jamais rencontré.
+J|x|2||Je n'ai jamais couché avec quelqu'un en couple sans le savoir.
+J|x|2||Je n'ai jamais eu de crampe en plein milieu.
+J|x|2||Je n'ai jamais dû m'arrêter parce que quelqu'un frappait à la porte.
+J|x|2||Je n'ai jamais lancé un film sans jamais savoir comment il finissait.
+J|x|2||Je n'ai jamais couché avec quelqu'un qui avait le même prénom que moi.
+J|x|2||Je n'ai jamais couché avec quelqu'un rencontré dans un train ou un avion.
+J|x|2||Je n'ai jamais fait de strip-poker qui a dégénéré.
+J|x|2||Je n'ai jamais eu un plan d'un soir qui a duré tout le week-end.
+J|x|2||Je n'ai jamais oublié un sous-vêtement chez quelqu'un.
+J|x|3||Je n'ai jamais couché avec quelqu'un en couple en le sachant très bien.
+J|x|3||Je n'ai jamais eu de plan cul avec un collègue que je croise tous les jours.
+J|x|3||Je n'ai jamais fait un truc au lit en me disant « je ne raconterai jamais ça ».
+J|x|3||Je n'ai jamais couché avec deux personnes de la même famille.
+J|x|3||Je n'ai jamais couché avec quelqu'un d'un peu connu.
+J|x|3||Je n'ai jamais fait de plan à trois qui a mal tourné.
+J|x|3||Je n'ai jamais fait l'amour dehors en plein hiver.
+J|x|3||Je n'ai jamais fait l'amour dans le bureau de quelqu'un.
+J|x|3||Je n'ai jamais fini la nuit avec quelqu'un après un enterrement de vie de garçon ou de jeune fille.
+J|x|3||Je n'ai jamais réveillé quelqu'un en pleine nuit pour remettre ça.
+J|x|3||Je n'ai jamais payé une chambre d'hôtel juste pour quelques heures.
+J|x|3|p|Je n'ai jamais fait un truc coquin chez quelqu'un ici.
+J|x|3|p|Je n'ai jamais eu d'aventure avec quelqu'un que tout le monde ici connaît.
+J|x|3|pn|Je n'ai jamais imaginé {B} au lit.
+Q|x|2||Qui de nous a l'anecdote de lit la plus folle ?
+Q|x|2||Qui de nous a déjà fait l'amour à un endroit dont on n'oserait même pas parler ?
+Q|x|2||Qui de nous a le plus de plans cul en cours ?
+Q|x|2||Qui de nous a déjà eu une histoire avec un prof ou un boss ?
+Q|x|2||Qui de nous fait le plus de bruit, d'après ses voisins ?
+Q|x|2||Qui de nous est le plus sage en public et le plus fou en privé ?
+Q|x|2||Qui de nous a déjà oublié un sous-vêtement chez quelqu'un ?
+Q|x|2||Qui de nous a déjà dragué quelqu'un à un mariage et fini la nuit avec ?
+Q|x|2||Qui de nous enchaîne les plans d'un soir sans jamais rappeler ?
+Q|x|2||Qui de nous aura une anecdote coquine à raconter demain matin ?
+Q|x|3||Qui de nous a déjà couché avec deux personnes de la même bande de potes ?
+Q|x|3||Qui de nous a déjà payé une chambre d'hôtel pour une seule heure ?
+Q|x|3||Qui de nous a déjà fait l'amour sur son lieu de travail ?
+Q|x|3||Qui de nous a déjà fait l'amour dans les toilettes d'un avion ?
+Q|x|3||Qui de nous a déjà fait un plan à trois sans jamais le dire ?
+Q|x|3||Qui de nous a le moins de limites ?
+Q|x|3||Qui de nous a déjà fini la nuit avec quelqu'un rencontré moins d'une heure avant ?
+Q|x|3||Qui de nous a déjà été attaché, ou a déjà attaché quelqu'un ?
+Q|x|3||Qui de nous a déjà testé un truc vu dans un porno ?
+Q|x|3|p|Qui de nous a déjà fait l'amour pendant une soirée chez l'un de nous ?
+Q|x|3|p|Qui de nous a déjà eu une aventure avec l'ex de quelqu'un ici ?
+Q|x|3|pn|Qui de nous {B} choisirait pour une nuit ?
+Q|x|2|pn|Qui de nous a déjà fait de l'effet à {B} ?
+P|x|2||Que ton ex raconte vos nuits à tes potes // que tes potes racontent tes plans d'un soir à ton ex
+P|x|2||Une nuit incroyable avec quelqu'un d'odieux // une nuit ratée avec quelqu'un d'adorable
+P|x|2||Être surpris par tes colocs // par tes voisins à la fenêtre
+P|x|2||Un partenaire très expérimenté // un débutant mais très motivé
+P|x|2||Une nuit avec ton crush d'ado // une nuit avec ta célébrité préférée
+P|x|3|pn|Raconter ta première fois à tout le monde ici // raconter ta dernière fois
+P|x|3||Que ta mère trouve tes sextoys // que ton boss lise tes sextos
+P|x|3||Ne plus jamais pouvoir le faire le matin // ne plus jamais pouvoir le faire le soir
+P|x|3||Raconter ta pire nuit à ta moitié // que ta moitié raconte la sienne
+P|x|3||Un plan à trois avec ton ex // un plan à trois avec deux inconnus
 `;
