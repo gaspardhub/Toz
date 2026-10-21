@@ -34,7 +34,7 @@ J|s|2||Je n'ai jamais fait un after chez des gens que je ne connaissais pas.
 J|s|2||Je n'ai jamais fait pipi dans un endroit vraiment pas prévu pour.
 J|s|2||Je n'ai jamais pris un bain de minuit tout nu.
 J|s|2||Je n'ai jamais pleuré dans les toilettes d'une boîte.
-J|s|2||Je ne me suis jamais réveillé quelque part sans savoir comment j'y étais arrivé.
+J|s|2||Je n'ai jamais ouvert les yeux quelque part sans savoir comment j'y étais arrivé.
 J|s|2||Je n'ai jamais été tellement bourré que j'ai dragué un videur.
 J|s|2||Je n'ai jamais dû appeler quelqu'un pour venir me chercher en pleine nuit parce que j'étais incapable de rentrer.
 J|s|2||Je n'ai jamais fini aux urgences après une soirée.
@@ -79,7 +79,7 @@ J|a|1||Je n'ai jamais fait semblant d'aimer un cadeau de ma moitié.
 J|a|1||Je n'ai jamais dit « je t'aime » en premier sans avoir de réponse.
 J|a|1||Je n'ai jamais écouté des chansons tristes exprès après une rupture.
 J|a|1||Je n'ai jamais ghosté quelqu'un après un premier rencard.
-J|a|1||Je ne me suis jamais fait ghoster.
+J|a|1||Je n'ai jamais été ghosté.
 J|a|1||Je n'ai jamais quitté un rencard d'appli au bout de 30 minutes.
 J|a|1||Je n'ai jamais stalké le nouveau ou la nouvelle de mon ex.
 J|a|1||Je n'ai jamais préparé un rencard en répétant mes phrases devant le miroir.
@@ -91,7 +91,7 @@ J|a|2||Je n'ai jamais été trompé, à ma connaissance.
 J|a|2||Je n'ai jamais embrassé l'ex d'un pote.
 J|a|2||Je n'ai jamais dragué quelqu'un juste pour rendre mon ex jaloux.
 J|a|2||Je n'ai jamais eu un crush sur le ou la partenaire d'un pote.
-J|a|2||Je ne me suis jamais remis avec un ex plus de deux fois.
+J|a|2||Je n'ai jamais recommencé avec un ex plus de deux fois.
 J|a|2|pn|Je n'ai jamais eu de crush sur quelqu'un dans cette pièce.
 J|a|2||Je n'ai jamais embrassé deux personnes différentes dans la même soirée.
 J|d|1||Je n'ai jamais lu les messages de quelqu'un par-dessus son épaule.
@@ -687,18 +687,18 @@ J|a|2|p|Je n'ai jamais trouvé l'ex de {B} canon.
 J|f|1|pn|Je n'ai jamais imité {B} dans son dos.
 J|s|1|p|Je n'ai jamais dû raccompagner {B} bourré.
 J|s|1|pn|Je n'ai jamais trouvé {B} insupportable bourré.
-Q|a|2|pn|Qui pourrait avoir un crush caché sur {B} ?
-Q|x|3|pn|Qui pourrait finir la nuit avec {B} ?
-Q|x|2|pn|Qui pourrait embrasser {B} ce soir ?
-Q|d|1|pn|Qui pourrait balancer tous les secrets de {B} ?
-Q|d|2|p|Qui pourrait avoir déjà critiqué {B} dans son dos ?
-Q|f|1|pn|Qui pourrait survivre une semaine en coloc avec {B} ?
-Q|f|1|pn|Qui pourrait faire la meilleure imitation de {B} ?
-Q|f|1|pn|Qui pourrait partir en road trip avec {B} sans s'engueuler ?
-Q|a|1|pn|Qui pourrait se marier avec {B} ?
-Q|a|2|p|Qui pourrait sortir avec l'ex de {B} ?
-Q|s|1|pn|Qui pourrait ramener {B} chez lui ce soir parce qu'il est trop bourré ?
-Q|t|1|pn|Qui pourrait avoir stalké {B} cette semaine ?
+Q|a|2|pn|Qui de nous pourrait avoir un crush caché sur {B} ?
+Q|x|3|pn|Qui de nous pourrait finir la nuit avec {B} ?
+Q|x|2|pn|Qui de nous pourrait embrasser {B} ce soir ?
+Q|d|1|pn|Qui de nous pourrait balancer tous les secrets de {B} ?
+Q|d|2|p|Qui de nous pourrait avoir déjà critiqué {B} dans son dos ?
+Q|f|1|pn|Qui de nous pourrait survivre une semaine en coloc avec {B} ?
+Q|f|1|pn|Qui de nous pourrait faire la meilleure imitation de {B} ?
+Q|f|1|pn|Qui de nous pourrait partir en road trip avec {B} sans s'engueuler ?
+Q|a|1|pn|Qui de nous pourrait se marier avec {B} ?
+Q|a|2|p|Qui de nous pourrait sortir avec l'ex de {B} ?
+Q|s|1|pn|Qui de nous pourrait ramener {B} chez lui ce soir parce qu'il est trop bourré ?
+Q|t|1|pn|Qui de nous pourrait avoir stalké {B} cette semaine ?
 P|x|3|pn|Embrasser {B} devant tout le monde // raconter ta pire nuit devant tout le monde
 P|x|2|pn|Un slow collé-serré avec {B} // un bisou de trois secondes avec {B}
 P|x|3|pn|Masser {B} pendant cinq minutes // que {B} te masse pendant cinq minutes
@@ -731,7 +731,7 @@ J|s|2||Je n'ai jamais appelé quelqu'un bourré en croyant appeler quelqu'un d'a
 J|s|2||Je n'ai jamais dormi tout habillé, chaussures comprises.
 J|s|2||Je n'ai jamais vomi dans un sac, un chapeau ou une poubelle de rue.
 J|s|2||Je n'ai jamais fait la fête un dimanche soir alors que je bossais à 8 h le lendemain.
-J|s|2||Je ne suis jamais allé au travail ou en cours encore bourré.
+J|s|2||Je n'ai jamais débarqué au travail ou en cours encore bourré.
 J|s|2||Je n'ai jamais fait pipi dans un lavabo.
 J|s|2||Je n'ai jamais ramené un panneau, un cône ou un caddie en rentrant de soirée.
 J|s|2||Je n'ai jamais menti à mes parents sur l'endroit où je dormais.
@@ -767,7 +767,7 @@ J|a|1||Je n'ai jamais largué quelqu'un juste avant son anniversaire ou les fêt
 J|a|1||Je n'ai jamais fait semblant d'aimer un sport ou une série pour plaire à quelqu'un.
 J|a|1||Je n'ai jamais été amoureux de deux personnes en même temps.
 J|a|1||Je n'ai jamais fait un détour exprès pour passer devant chez quelqu'un.
-J|a|1||Je ne me suis jamais inscrit à un cours ou à une salle de sport juste pour voir mon crush.
+J|a|1||Je n'ai jamais pris un abonnement à un cours ou à une salle de sport juste pour voir mon crush.
 J|a|1||Je n'ai jamais dragué quelqu'un avec une phrase préparée à l'avance.
 J|a|1||Je n'ai jamais eu un rencard avec quelqu'un qui ne ressemblait pas du tout à ses photos.
 J|a|1||Je n'ai jamais payé un premier rencard alors que j'étais à découvert.
@@ -782,7 +782,7 @@ J|a|2||Je n'ai jamais eu une relation avec quelqu'un que mes parents détestaien
 J|a|2||Je n'ai jamais gardé un cadeau d'un ex que j'utilise encore aujourd'hui.
 J|a|2||Je n'ai jamais eu un « situationship » de plus de six mois.
 J|a|2||Je n'ai jamais quitté quelqu'un à cause de sa façon d'embrasser.
-J|a|2||Je ne suis jamais retourné dans un restaurant juste pour revoir un serveur ou une serveuse.
+J|a|2||Je n'ai jamais réservé dans un restaurant juste pour revoir un serveur ou une serveuse.
 J|a|2|p|Je n'ai jamais été jaloux de la moitié d'un pote ici.
 J|d|1||Je n'ai jamais pris un arrêt maladie pour partir en week-end.
 J|d|1||Je n'ai jamais lu un message qui ne m'était pas destiné sur un écran verrouillé.
@@ -1226,8 +1226,8 @@ V|x|3|c|Qu'est-ce que {B} fait mieux que tous tes ex ?
 V|x|3|c|Qu'est-ce que tu veux que {B} te fasse ce soir, précisément ?
 V|x|3|c|Quel fantasme veux-tu réaliser avec {B} cette année ?
 J|x|3||Je n'ai jamais essayé la sodomie.
-J|x|3|pn|Je ne me suis jamais fait plaisir en pensant à quelqu'un de cette pièce.
-J|x|3||Je ne me suis jamais fait plaisir au travail.
+J|x|3|pn|Je n'ai jamais eu de plaisir solo en pensant à quelqu'un de cette pièce.
+J|x|3||Je n'ai jamais eu de plaisir solo au travail.
 J|x|3||Je n'ai jamais payé pour du contenu sexy.
 J|x|3||Je n'ai jamais fait de fellation ou de cunnilingus dans un lieu public.
 J|x|3||Je n'ai jamais simulé avec ma moitié actuelle ou la dernière.
@@ -1239,7 +1239,7 @@ J|x|3||Je n'ai jamais eu plus de vingt partenaires.
 J|x|3||Je n'ai jamais couché avec plus de trois personnes dans le même mois.
 J|x|3||Je n'ai jamais fait l'amour cinq fois dans la même journée.
 J|x|3||Je n'ai jamais utilisé de sextoy à deux.
-J|x|3||Je ne me suis jamais fait livrer un sextoy chez mes parents.
+J|x|3||Je n'ai jamais fait livrer un sextoy chez mes parents.
 J|x|3||Je n'ai jamais couché avec quelqu'un dont je ne parlais pas la langue.
 J|x|3||Je n'ai jamais fait de partouze.
 J|x|3||Je n'ai jamais échangé de partenaire.

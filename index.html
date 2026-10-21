@@ -222,7 +222,6 @@ button:disabled { cursor: not-allowed; }
 }
 .card.tap { cursor: pointer; }
 .card .label { font-size: .8rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); }
-.card .pre { margin: 0 0 -8px; font-weight: 600; font-size: clamp(1.1rem, 5vw, 1.4rem); }
 .card .target { color: var(--c); font-family: var(--display); font-size: clamp(1.7rem, 7.5vw, 2.5rem); line-height: 1; margin: 0; overflow-wrap: anywhere; }
 .card .text { font-size: clamp(1.75rem, 8vw, 2.6rem); font-weight: 800; line-height: 1.2; margin: 0; text-wrap: balance; overflow-wrap: anywhere; }
 .card .text.small { font-size: clamp(1.15rem, 5vw, 1.5rem); }
@@ -376,7 +375,7 @@ button:disabled { cursor: not-allowed; }
 const TYPES = {
   J: { t: ["Je n'ai", "jamais"], e: "🤞", name: "Je n'ai jamais", color: "var(--coral)", weight: 22, groups: "pnc",
        rule: "Ceux qui l'ont déjà fait prennent {s1}.", ruleC: "Si tu l'as déjà fait, prends {s1}. Pareil pour {B}." },
-  Q: { t: ["Qui", "pourrait"], e: "👉", name: "Qui pourrait", color: "var(--mint)", weight: 20, groups: "pnc",
+  Q: { t: ["Qui de", "nous"], e: "👉", name: "Qui pourrait", color: "var(--mint)", weight: 20, groups: "pnc",
        rule: "À 3, tout le monde pointe quelqu'un. Chaque doigt pointé sur toi = {s1}.",
        ruleC: "Pointez en même temps. Même personne désignée ? Elle prend {s2}. Sinon, {s1} chacun." },
   P: { t: ["Tu", "préfères"], e: "🚪", name: "Tu préfères", color: "var(--sky)", weight: 13, groups: "pnc",
@@ -635,16 +634,19 @@ const setColor = () => theme(M);
 
 function cardHTML(type, card, A, B) {
   const T = TYPES[type], couple = state.group === "c";
+  if (type === "Q") theme({ ...T, t: ["Qui de", couple ? "nous deux" : "nous"] });
   const f = s => fill(esc(s), nm(A), nm(B));
   let text = card.text;
   if (type === "Q" && couple) text = text.replace(/^Qui de nous/, "Qui de nous deux");
   let html = T.target ? `<span class="label">${T.name}</span><p class="target">${esc(A)}</p>` : "";
-  const pre = text.match(/^(Je n'ai jamais|Je ne me suis jamais|Qui de nous deux|Qui de nous|Qui pourrait)\s+/);
+  const cap = t => t.charAt(0).toUpperCase() + t.slice(1);
+  text = text.replace(/^Je n'ai jamais /, "").replace(/^Qui de nous (deux )?/, "")
+    .replace(/^Thème : /, "").replace(/^Nouvelle règle : /, "");
+  if (type === "T" || type === "R") text = cap(text);
   if (type === "P") {
     const [x, y] = text.split(" // ");
     html += `<div class="choices"><div>${f(x)}</div><span class="or">ou</span><div>${f(y)}</div></div>`;
-  } else if (pre) html += `<p class="pre">${esc(pre[1])}</p><p class="text">${f(text.slice(pre[0].length))}</p>`;
-  else html += `<p class="text">${f(text)}</p>`;
+  } else html += `<p class="text">${f(text)}</p>`;
   const rule = (couple && T.ruleC) || T.rule;
   if (rule) html += `<p class="rule">${f(rule)}</p>`;
   return html;
@@ -705,7 +707,7 @@ const MODES = {
       this.A = nextPlayer(); this.B = otherThan(this.A);
       const g = byType(["V", "A"]);
       setColor("var(--sun)");
-      show({ html: `<span class="label">Action ou Vérité</span><p class="target">${esc(this.A)}</p><p class="text">Tu choisis quoi ?</p>
+      show({ html: `<p class="target">${esc(this.A)}</p><p class="text">Tu choisis quoi ?</p>
         <div class="btns"><button type="button" class="btn solid" data-act="V" ${g.V ? "" : "disabled"}>Vérité</button><button type="button" class="btn" data-act="A" ${g.A ? "" : "disabled"}>Action</button></div>`, next: null });
     },
     act(k) {
@@ -725,7 +727,7 @@ const MODES = {
       this.it = draw("sept", SEPT.filter(okSimple));
       clearInterval(this.timer);
       setColor("var(--lime)");
-      show({ html: `<span class="label">7 secondes</span><p class="target">${esc(this.A)}</p><p class="text">Cite 3 ${esc(this.it.text)}</p>
+      show({ html: `<p class="target">${esc(this.A)}</p><p class="text">Cite 3 ${esc(this.it.text)}</p>
         <p class="rule">Raté : prends ${pen(2)}. Réussi : distribue ${pen(2)}.</p>
         <div class="btns"><button type="button" class="btn solid" data-act="go">Lancer le chrono</button></div>`, next: null });
     },
@@ -743,7 +745,7 @@ const MODES = {
         tick();
         this.timer = setInterval(tick, 1000);
       } else {
-        show({ html: `<span class="label">7 secondes</span><p class="text">${esc(this.A)} ${k === "ok" ? `distribue ${pen(2)}.` : `prend ${pen(2)}.`}</p>`, tap: true });
+        show({ html: `<p class="text">${esc(this.A)} ${k === "ok" ? `distribue ${pen(2)}.` : `prend ${pen(2)}.`}</p>`, tap: true });
       }
     },
     stop() { clearInterval(this.timer); },
@@ -756,7 +758,7 @@ const MODES = {
       const A = nextPlayer(), B = otherThan(A);
       const it = draw("dix", DIX.filter(okSimple));
       setColor();
-      show({ html: `<p class="target">${esc(A)}</p><p class="text">C'est un 10 mais ${fill(esc(it.text), nm(A), nm(B))}.</p>
+      show({ html: `<p class="target">${esc(A)}</p><p class="text">${fill(esc(it.text), nm(A), nm(B))}.</p>
         <p class="rule">${esc(A)} donne sa nouvelle note sur 10. Ceux qui auraient mis une note éloignée de plus de 2 points prennent ${pen(1)}.</p>`, tap: true });
     },
   },
@@ -766,7 +768,7 @@ const MODES = {
     start() { this.deck = newDeck(); this.kings = 0; },
     step() {
       if (!this.deck.length) {
-        show({ html: `<span class="label">Le Roi</span><p class="text">Paquet terminé !</p><p class="rule">On remélange pour une nouvelle partie ?</p>`, next: "Nouveau paquet", counter: "" });
+        show({ html: `<p class="text">Paquet terminé !</p><p class="rule">On remélange pour une nouvelle partie ?</p>`, next: "Nouveau paquet", counter: "" });
         this.start(); round = 0; return;
       }
       round++;
@@ -802,7 +804,7 @@ const MODES = {
       }).join("");
       let res = "";
       if (picked !== null) res = `<p class="text small">${picked === 0 ? `Bonne réponse ! ${esc(this.A)} distribue ${pen(2)}.` : `Raté ! ${esc(this.A)} prend ${pen(2)}.`}</p>`;
-      show({ html: `<span class="label">Quiz · ${esc(this.A)}</span><p class="text small">${esc(this.it.q)}</p><div class="btns col">${btns}</div>${res}`, next: picked !== null ? "Suivant" : null });
+      show({ html: `<p class="target">${esc(this.A)}</p><p class="text small">${esc(this.it.q)}</p><div class="btns col">${btns}</div>${res}`, next: picked !== null ? "Suivant" : null });
     },
     act(i) { this.render(+i); },
   },
@@ -816,7 +818,7 @@ const MODES = {
       setColor("var(--coral)");
       const counter = `${this.names[0].replace("Équipe ", "")} ${this.score[0]} – ${this.score[1]} ${this.names[1].replace("Équipe ", "")}`;
       if (!this.ready) {
-        show({ html: `<span class="label">Team Battle</span><p class="text">Voici les équipes</p>
+        show({ html: `<p class="text">Voici les équipes</p>
           <div class="teams">${this.teams.map((t, i) => `<div><b>${this.names[i]}</b><span>${t.map(esc).join(", ")}</span></div>`).join("")}</div>
           <div class="btns"><button type="button" class="btn" data-act="mix">Refaire les équipes</button></div>`, next: "C'est parti", counter });
         this.ready = true; return;
@@ -852,7 +854,7 @@ const MODES = {
     pass() {
       if (this.i >= this.order.length) {
         const first = this.order[Math.floor(Math.random() * this.order.length)];
-        show({ html: `<span class="label">Imposteur</span><p class="text">Tout le monde a vu son mot.</p>
+        show({ html: `<p class="text">Tout le monde a vu son mot.</p>
           <p class="rule">${esc(first)} commence. Chacun dit un seul mot en rapport avec le mot secret, sans être trop évident. Faites deux tours, puis votez à 3 pour désigner ${this.imps.length > 1 ? "les imposteurs" : "l'imposteur"}.</p>
           <div class="btns"><button type="button" class="btn solid" data-act="end">Révéler</button></div>`, next: null });
         return;
@@ -888,13 +890,13 @@ const MODES = {
       setColor("var(--mint)");
       const tiers = [["Facile", 1], ["Moyen", 3], ["Hardcore", 5]];
       this.tiers = tiers.slice(3 - picks.length);
-      show({ html: `<span class="label">Choisis ton défi</span><p class="target">${esc(this.A)}</p>
+      show({ html: `<p class="target">${esc(this.A)}</p>
         <div class="btns col">${picks.map((c, i) => `<button type="button" class="btn left" data-act="${i}"><small>${this.tiers[i][0]} · distribue ${pen(this.tiers[i][1])}</small>${fill(esc(c.text), esc(this.A), esc(this.B))}</button>`).join("")}</div>`, next: null });
     },
     act(k) {
       if (k === "done" || k === "no") {
         const n = this.tiers[this.choice][1];
-        show({ html: `<span class="label">Choisis ton défi</span><p class="text">${esc(this.A)} ${k === "done" ? `distribue ${pen(n)}.` : `prend ${pen(n)}.`}</p>`, tap: true });
+        show({ html: `<p class="text">${esc(this.A)} ${k === "done" ? `distribue ${pen(n)}.` : `prend ${pen(n)}.`}</p>`, tap: true });
         return;
       }
       this.choice = +k;
@@ -924,7 +926,7 @@ const MODES = {
       ][this.q];
       const btns = Q[1] ? `<div class="btns">${Q[1].map(([k, t], i) => `<button type="button" class="btn ${i ? "" : "solid"}" data-act="${k}">${t}</button>`).join("")}</div>`
         : `<div class="suits">${SUITS.map(s => `<button type="button" class="btn ${RED.includes(s) ? "red" : ""}" data-act="${s}" aria-label="${SUIT_NAMES[s]}">${s}</button>`).join("")}</div>`;
-      show({ html: `<span class="label">Rouge ou Noir · question ${this.q + 1} sur 4</span><p class="target">${esc(this.A)}</p>
+      show({ html: `<span class="label">Question ${this.q + 1} sur 4</span><p class="target">${esc(this.A)}</p>
         <div class="hand">${h.map(c => pcard(c)).join("")}<div class="pc back"></div></div>
         <p class="text small">${Q[0]}</p>${btns}<p class="rule">Bonne réponse : distribue ${pen(this.q + 1)}. Mauvaise : prends-les. Égalité = perdu.</p>`, next: null });
     },
@@ -938,7 +940,7 @@ const MODES = {
       h.push(c);
       const n = this.q + 1;
       this.q++;
-      show({ html: `<span class="label">Rouge ou Noir · question ${n} sur 4</span><p class="target">${esc(this.A)}</p>
+      show({ html: `<span class="label">Question ${n} sur 4</span><p class="target">${esc(this.A)}</p>
         <div class="hand">${h.map(x => pcard(x)).join("")}</div>
         <p class="text">${ok ? `Bien vu ! Distribue ${pen(n)}.` : `Raté ! Prends ${pen(n)}.`}</p>`,
         next: this.q < 4 ? "Question suivante" : "Joueur suivant" });
@@ -978,7 +980,7 @@ const MODES = {
       this.renderRace(msg);
     },
     renderBets() {
-      show({ html: `<span class="label">Course de chevaux · les paris</span><p class="text small">Chacun choisit son cheval et sa mise.</p>
+      show({ html: `<span class="label">Les paris</span><p class="text small">Chacun choisit son cheval et sa mise.</p>
         <div class="bets">${P().map((p, i) => `<div class="bet"><b>${esc(p)}</b>
           <span class="stepper"><button type="button" data-act="m${i}" aria-label="Moins">−</button>${this.bets[p].n}<button type="button" data-act="p${i}" aria-label="Plus">+</button></span>
           <div class="suits">${SUITS.map(s => `<button type="button" class="btn ${RED.includes(s) ? "red" : ""}" data-act="s${i}${s}" aria-pressed="${this.bets[p].s === s}" aria-label="${SUIT_NAMES[s]}">${s}</button>`).join("")}</div></div>`).join("")}</div>
@@ -996,7 +998,7 @@ const MODES = {
         cells.push(`<div class="lane ${RED.includes(s) ? "red" : ""}">${s}</div>`);
         for (let k = 0; k < 8; k++) cells.push(`<div class="${this.pos[s] === k ? "horse" : ""} ${k === 7 ? "goal" : ""} ${RED.includes(s) ? "red" : ""}">${this.pos[s] === k ? "A" + s : ""}</div>`);
       }
-      show({ html: `<span class="label">Course de chevaux</span><div class="track">${cells.join("")}</div><p class="text small">${msg}</p>`, next: "Tirer une carte", counter: `Carte ${round}` });
+      show({ html: `<div class="track">${cells.join("")}</div><p class="text small">${msg}</p>`, next: "Tirer une carte", counter: `Carte ${round}` });
     },
     renderEnd(win) {
       const res = P().map(p => { const b = this.bets[p]; return b.s === win ? `${esc(p)} distribue ${pen(b.n * 2)}` : `${esc(p)} prend ${pen(b.n)}`; });
