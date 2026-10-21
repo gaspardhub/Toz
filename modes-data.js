@@ -70,6 +70,42 @@ window.TOURNEE_SEPT = `
 3|x|célébrités avec qui tu passerais une nuit
 3|x|choses qu'on dit pendant l'amour
 3|x|tenues sexy
+1||méchants de Disney
+1||marques de chips
+1||choses qu'on trouve dans une cuisine
+1||sports qui se jouent avec un ballon
+1||pays d'Amérique du Sud
+1||personnages de Friends
+1||marques de soda
+1||villes italiennes
+1||noms de chiens
+1||mots qui commencent par « re »
+1||boissons chaudes
+1||choses qui piquent
+1||personnages de Star Wars
+1||youtubeurs français
+1||films de Noël
+1||choses qu'on emporte en festival
+1||marques de luxe
+1||plats italiens
+1||choses qu'on fait quand on s'ennuie au travail
+1||trucs qui sentent mauvais
+1||choses qu'on ne prête jamais
+1||métiers où on porte un uniforme
+1||cris d'animaux
+1||phrases qu'on dit à sa mère au téléphone
+1||sauces
+1||raisons de pleurer en soirée
+2||excuses pour ne pas rappeler quelqu'un
+2||trucs qu'on regrette le lendemain d'une soirée
+2||phrases pour larguer quelqu'un
+2||mensonges qu'on dit à un premier rencard
+2||endroits où draguer
+3|x|types de sous-vêtements
+3|x|surnoms coquins pour sa moitié
+3|x|trucs qu'on fait sous la couette à part dormir
+3|x|endroits du corps qu'on peut embrasser
+3|x|films avec des scènes chaudes
 `;
 
 // 10/10 mais… : « Il ou elle est 10/10, mais … »
@@ -139,6 +175,72 @@ window.TOURNEE_DIX = `
 2||{B} dit que c'est la pire personne qu'il ou elle ait connue
 3|x|{B} dit que c'était son pire coup
 3|x|{B} raconte vos nuits à tout le monde
+1||parle de sa mère toutes les cinq minutes
+1||t'appelle « bébé » dès le premier rencard
+1||a la même coupe de cheveux depuis 2009
+1||met 🙂 à la fin de chaque message
+1||est plus actif sur LinkedIn que sur Instagram
+1||commente tous les posts de sa famille
+1||dit « en vrai » toutes les trois phrases
+1||n'a jamais vu Titanic et en est fier
+1||se prend en photo avec sa voiture
+1||a peur du noir
+1||connaît par cœur toutes les chorégraphies de K-pop
+1||parle à son chat avec une voix de bébé
+1||porte des lunettes de soleil en intérieur
+1||a le logo de son club de foot tatoué sur le mollet
+1||se coupe les ongles dans le salon
+1||met un réveil à 5 h pour aller courir, même le dimanche
+1||a toujours une excuse pour ne pas payer
+1||note ses rencards sur 10 dans un tableau Excel
+1||écoute ses vocaux en haut-parleur dans le métro
+1||croit dur comme fer à l'astrologie
+1||joue à la console huit heures par jour
+1||n'a pas de lit, juste un matelas par terre
+1||envoie des mèmes de 2012
+1||ne rit jamais à tes blagues
+1||s'habille en total look fluo
+1||a déjà fait une téléréalité
+1||met de l'ananas sur tout
+1||refuse de prendre l'avion
+1||vapote en permanence, même au cinéma
+1||regarde des vidéos sans écouteurs dans le train
+1||ne quitte jamais son survêt
+1||a une collection de figurines qui envahit tout son appart
+1||te demande de noter son plat à chaque repas
+1||a été le premier crush de {B}
+1||est le meilleur pote de {B} et lui raconte tout
+2||est l'ex de ton meilleur pote
+2||t'a déjà ghosté une fois
+2||a encore la photo de son ex en fond d'écran
+2||veut un contrat de mariage dès le deuxième rencard
+2||a déjà été marié trois fois
+2||vit toujours avec son ex « pour des raisons pratiques »
+2||te compare à son ex à chaque dispute
+2||drague tes potes devant toi
+2||veut emménager avec toi au bout d'une semaine
+2||raconte votre couple en vidéo sur TikTok
+2||like toutes les photos en maillot de tes potes
+2||n'a jamais eu de relation de plus de deux semaines
+2||a une mère qui l'appelle six fois par jour
+2||est en couple, mais « c'est presque fini »
+2||est le crush de ta sœur ou de ton frère
+2||{B} l'a déjà dragué
+2||a un passé très flou avec {B}
+3|x|embrasse très mal
+3|x|n'enlève jamais ses chaussettes au lit
+3|x|veut toujours le faire là où vous risquez de vous faire arrêter
+3|x|donne un petit nom à ses parties intimes
+3|x|ne veut le faire qu'une fois par an
+3|x|raconte vos nuits à son groupe de potes
+3|x|demande une note après chaque fois
+3|x|a une photo de son ex au-dessus du lit
+3|x|met la même chanson à chaque fois
+3|x|s'endort en plein milieu
+3|x|appelle sa mère juste après
+3|x|a un body count à trois chiffres
+3|x|veut toujours inviter quelqu'un d'autre
+3|x|c'est le plan cul de {B}
 `;
 
 // Team Battle : épreuves entre deux équipes. {A} sert d'arbitre quand il en faut un.
@@ -178,6 +280,36 @@ window.TOURNEE_TEAM = `
 3|x|Chaque équipe désigne un danseur. Danse sensuelle de 20 secondes, {A} choisit la plus convaincante.
 3|x|L'équipe qui a le plus gros body count cumulé gagne. Personne ne vérifie.
 3|x|Chaque équipe mime une position sans contact. L'autre équipe doit deviner. Celle qui devine le plus vite gagne.
+1||Chaque équipe a une minute pour reproduire une pochette d'album ou une scène de film célèbre. {A} choisit la meilleure.
+1||Chaque équipe a 30 secondes pour rassembler le plus d'objets bleus de la pièce.
+1||Questions pour un champion : {A} pose 5 questions de culture générale. La première équipe qui répond juste marque, celle qui a le plus de bonnes réponses gagne.
+1||Un joueur par équipe récite l'alphabet à l'envers. Le premier qui finit sans erreur gagne.
+1||Chaque équipe invente une pub de 20 secondes pour un objet choisi par l'autre équipe. {A} juge.
+1||Ni oui ni non : chaque équipe interroge un joueur adverse pendant 30 secondes. Celui qui tient le plus longtemps fait gagner son équipe.
+1||Chaque équipe a une minute pour écrire le plus de titres de films français.
+1||Sans parler, chaque équipe doit se ranger par pointure. La première qui y arrive gagne.
+1||Un joueur par équipe fait deviner 5 célébrités sans dire leur nom. L'équipe la plus rapide gagne.
+1||Chaque équipe chante le générique d'un dessin animé. {A} choisit le plus complet.
+1||Chaque équipe révèle une anecdote vraie sur un de ses joueurs. L'autre équipe doit deviner de qui il s'agit. L'équipe qui devine juste gagne.
+1||À tour de rôle, chaque équipe cite une marque de vêtements. La première qui sèche perd.
+1||À tour de rôle, chaque équipe cite un mot qui finit en « -tion ». La première qui sèche perd.
+1||Chaque équipe compose un rap de quatre phrases sur l'autre équipe. {A} choisit le meilleur.
+1||Chaque équipe a 20 secondes pour imiter le plus de cris d'animaux différents. {A} compte.
+1||Pictionary : chaque équipe fait deviner un film choisi par l'autre équipe en dessinant. La plus rapide gagne.
+1||Face-à-face : un joueur de chaque équipe doit faire rire l'autre sans le toucher. Le premier qui rit fait perdre son équipe.
+1||Chaque équipe a 30 secondes pour faire le plus de pompes cumulées.
+1||Chaque équipe montre la photo la plus ancienne de la galerie d'un de ses joueurs. La plus ancienne gagne.
+1||L'équipe dont un joueur a le plus d'abonnés sur Instagram gagne.
+1||Tous les joueurs de chaque équipe tiennent sur un pied. La dernière équipe avec un joueur debout gagne.
+1||Le téléphone sans fil : {A} murmure une phrase au premier joueur de chaque équipe. L'équipe dont la phrase arrive la plus intacte au bout gagne.
+2||Chaque équipe raconte le pire rencard d'un de ses joueurs. {A} choisit le plus catastrophique.
+2||Chaque équipe a 30 secondes pour citer le plus de prénoms d'ex de ses propres joueurs.
+2||L'équipe qui a le plus de conversations avec un ex dans ses téléphones gagne. Preuves exigées.
+2||Chaque équipe écrit une bio d'appli de rencontre pour un joueur de l'autre équipe. {A} choisit la plus drôle.
+3|x|Chaque équipe écrit le sexto le plus chaud possible en 30 secondes. {A} lit les deux et choisit.
+3|x|Chaque équipe mime un film culte avec une scène chaude. L'autre équipe doit deviner. La plus rapide gagne.
+3|x|L'équipe qui compte le plus de joueurs ayant déjà fait l'amour dehors gagne.
+3|x|Chaque équipe désigne un joueur qui fait le gémissement le plus convaincant. {A} juge.
 `;
 
 // Quiz : question | bonne réponse | trois mauvaises réponses
@@ -430,4 +562,73 @@ window.TOURNEE_OUINON = `
 3|xg|Coucher avec {B} pour 10 000 euros
 3|xg|Faire un strip-tease ici, maintenant
 3|xg|Coucher avec quelqu'un d'ici si vous étiez les deux derniers sur Terre
+1||Quitter ton travail demain pour faire le tour du monde
+1||Raconter tous tes secrets à ton meilleur pote, sans exception
+1||Accepter un rencard avec quelqu'un choisi par tes parents
+1||Vivre un an sans téléphone pour 50 000 euros
+1||Faire un enfant avec ton meilleur ami si vous êtes encore célibataires à 40 ans
+1||Partir vivre seul à l'étranger
+1||Lire le journal intime de ta mère si tu tombais dessus
+1||Rappeler quelqu'un qui t'a ghosté
+1||Aller à un concert tout seul
+1||Pardonner à un pote qui a raconté ton secret
+1||Partir en road trip avec tes parents
+1||Arrêter une amitié pour une histoire d'argent
+1||Donner ton avis honnête sur la nouvelle coupe de cheveux d'un pote
+1||Changer de prénom
+1||Manger la même chose tous les jours pendant un an pour 20 000 euros
+1||Te faire tatouer le prénom de ta moitié
+1||Partager ta brosse à dents avec ta moitié
+1||Accepter un job que tu détestes, payé trois fois plus
+1||Retourner vivre chez tes parents pour économiser
+1||Dire à ta moitié qu'un de ses potes te drague
+1||Pleurer devant tes potes
+1||Prêter ta voiture à {B}
+1||Partir deux semaines en vacances avec {B}
+1||Laisser {B} choisir ta prochaine coupe de cheveux
+1||Regarder dans le téléphone de ta moitié pour lui préparer une surprise
+1||Mentir pour couvrir un pote qui trompe
+1||Revoir tes potes du collège
+1||Adopter un chien, même en vivant dans 20 m²
+2||Embrasser un inconnu à minuit au Nouvel An
+2||Sortir avec le frère ou la sœur d'un ex
+2||Te remettre avec quelqu'un qui t'a trompé
+2||Sortir avec quelqu'un qui a déjà un enfant
+2||Laisser ta moitié partir seule en vacances avec ses potes
+2||Draguer quelqu'un au supermarché
+2||Dire à ton crush ce que tu ressens, ce soir
+2||Regarder les stories de ton ex
+2||Accepter que ta moitié reste amie avec ses ex
+2||Faire un rencard avec quelqu'un rencontré il y a une heure
+2||Montrer tes conversations avec ton ex à ta moitié
+2||Embrasser quelqu'un pour gagner un pari
+2||Dire « je t'aime » au bout de deux semaines
+2||Te marier sans faire de fête
+2||Rendre quelqu'un jaloux exprès
+2||Accepter que ta moitié like des photos sexy
+2||Sortir avec ton boss
+2||Lire les messages de {B} si tu en avais l'occasion
+2||Dire à {B} un truc que tu n'as jamais osé lui dire
+2||Partager une chambre d'hôtel avec {B} tout un week-end
+2|g|Montrer ton historique de recherche à tout le monde ici
+2|g|Raconter ton dernier rencard en détail, ici, maintenant
+2|x|Coucher avec quelqu'un rencontré le soir même
+3|x|Recoucher avec un ex dont tu es encore amoureux
+3|x|Faire l'amour dans une voiture en plein jour
+3|x|Tester un sextoy à deux
+3|x|Envoyer une vidéo coquine
+3|x|Faire l'amour chez tes parents
+3|x|Coucher le premier soir avec quelqu'un dont tu es vraiment amoureux
+3|x|Partir en week-end coquin avec quelqu'un rencontré sur une appli
+3|x|Avouer ton plus gros fantasme à ta moitié
+3|x|Coucher avec quelqu'un qui est en couple
+3|x|Coucher avec quelqu'un sans lui donner ton vrai prénom
+3|x|Dormir nu chez quelqu'un que tu connais à peine
+3|x|Faire un jeu de rôle au lit
+3|x|Regarder un porno avec ta moitié
+3|x|Faire l'amour en pleine nature
+3|x|Raconter à {B} ton meilleur souvenir au lit
+3|xg|Embrasser quelqu'un d'ici pour 100 euros
+3|xg|Dire avec qui ici tu passerais une nuit
+3|xg|Échanger un vêtement avec {B}, maintenant
 `;

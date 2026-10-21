@@ -714,4 +714,344 @@ V|a|2|pn|Qu'est-ce qui te plaît le plus chez {B} ?
 V|d|1|pn|Quel défaut de {B} t'énerve le plus ?
 V|a|2|pn|Si {B} te proposait un rencard ce soir, tu dirais quoi ?
 V|x|3|pn|Si tu devais passer une nuit avec {B}, tu commencerais par quoi ?
+J|s|1||Je n'ai jamais sorti « je connais le DJ » pour essayer d'entrer quelque part.
+J|s|1||Je n'ai jamais commandé un VTC pour faire 600 mètres.
+J|s|1||Je n'ai jamais pleuré sur une chanson de Céline Dion en fin de soirée.
+J|s|1||Je n'ai jamais caché une bouteille dans un buisson avant d'entrer en soirée.
+J|s|1||Je n'ai jamais supprimé une photo de groupe parce que j'étais moche dessus alors que les autres étaient bien.
+J|s|1||Je n'ai jamais dit « je passe juste une heure » avant de rester jusqu'à la fermeture.
+J|s|1||Je n'ai jamais vidé le frigo de mes hôtes à 4 h du matin.
+J|s|1||Je n'ai jamais réveillé tout un immeuble en rentrant de soirée.
+J|s|1||Je n'ai jamais dansé la Macarena en boîte sans la moindre ironie.
+J|s|1||Je n'ai jamais cherché mon manteau pendant 45 minutes à la fin d'une soirée.
+J|s|1||Je n'ai jamais fini une soirée à refaire le monde avec un inconnu sur un trottoir.
+J|s|2||Je n'ai jamais bu dans une bouteille trouvée sans savoir à qui elle était.
+J|s|2||Je n'ai jamais eu une gueule de bois tellement forte que j'ai juré d'arrêter de boire.
+J|s|2||Je n'ai jamais appelé quelqu'un bourré en croyant appeler quelqu'un d'autre.
+J|s|2||Je n'ai jamais dormi tout habillé, chaussures comprises.
+J|s|2||Je n'ai jamais vomi dans un sac, un chapeau ou une poubelle de rue.
+J|s|2||Je n'ai jamais fait la fête un dimanche soir alors que je bossais à 8 h le lendemain.
+J|s|2||Je ne suis jamais allé au travail ou en cours encore bourré.
+J|s|2||Je n'ai jamais fait pipi dans un lavabo.
+J|s|2||Je n'ai jamais ramené un panneau, un cône ou un caddie en rentrant de soirée.
+J|s|2||Je n'ai jamais menti à mes parents sur l'endroit où je dormais.
+J|s|2||Je n'ai jamais fini une soirée en pleurant dans les bras de quelqu'un que je connaissais à peine.
+J|x|2||Je n'ai jamais craqué pour quelqu'un uniquement à cause de son parfum.
+J|x|2||Je n'ai jamais embrassé quelqu'un pendant un jeu de soirée comme celui-ci.
+J|x|2||Je n'ai jamais fait l'amour dans une tente.
+J|x|2||Je n'ai jamais fait semblant de dormir quand mon coloc est rentré au mauvais moment.
+J|x|2||Je n'ai jamais couché avec quelqu'un pour oublier quelqu'un d'autre.
+J|x|2||Je n'ai jamais cherché sur Google un truc sexuel que je ne comprenais pas.
+J|x|2||Je n'ai jamais refait mon lit en catastrophe avant que quelqu'un monte chez moi.
+J|x|2||Je n'ai jamais eu de suçon visible au travail ou en cours.
+J|x|2||Je n'ai jamais inventé une excuse pour partir en plein milieu d'un plan d'un soir.
+J|x|2||Je n'ai jamais couché avec quelqu'un dont je ne connaissais que le surnom.
+J|x|2||Je n'ai jamais préparé une playlist exprès pour une nuit avec quelqu'un.
+J|x|3||Je n'ai jamais fait l'amour dans les toilettes d'un bar ou d'une boîte.
+J|x|3||Je n'ai jamais fait l'amour à un endroit où on aurait pu me voir depuis la rue.
+J|x|3||Je n'ai jamais eu deux plans en même temps avec des gens qui se connaissaient.
+J|x|3||Je n'ai jamais fait l'amour plus de trois heures d'affilée.
+J|x|3||Je n'ai jamais envoyé de vocal coquin.
+J|x|3||Je n'ai jamais fait l'amour au téléphone.
+J|x|3||Je n'ai jamais couché avec l'ex de quelqu'un avec qui j'avais déjà couché.
+J|x|3||Je n'ai jamais fait une pause en plein milieu pour manger quelque chose.
+J|x|3||Je n'ai jamais acheté de la lingerie en pensant à quelqu'un de précis.
+J|x|3||Je n'ai jamais eu les mains attachées.
+J|x|3||Je n'ai jamais fait l'amour sur une machine à laver.
+J|x|3||Je n'ai jamais dû cacher un sextoy en urgence parce que quelqu'un arrivait.
+J|x|3||Je n'ai jamais fait l'amour juste après une grosse dispute.
+J|x|3|pn|Je n'ai jamais pensé à quelqu'un d'ici pendant que j'étais avec quelqu'un d'autre.
+J|a|1||Je n'ai jamais relu en entier une vieille conversation avec un ex.
+J|a|1||Je n'ai jamais écrit de lettre d'amour à la main.
+J|a|1||Je n'ai jamais largué quelqu'un juste avant son anniversaire ou les fêtes.
+J|a|1||Je n'ai jamais fait semblant d'aimer un sport ou une série pour plaire à quelqu'un.
+J|a|1||Je n'ai jamais été amoureux de deux personnes en même temps.
+J|a|1||Je n'ai jamais fait un détour exprès pour passer devant chez quelqu'un.
+J|a|1||Je ne me suis jamais inscrit à un cours ou à une salle de sport juste pour voir mon crush.
+J|a|1||Je n'ai jamais dragué quelqu'un avec une phrase préparée à l'avance.
+J|a|1||Je n'ai jamais eu un rencard avec quelqu'un qui ne ressemblait pas du tout à ses photos.
+J|a|1||Je n'ai jamais payé un premier rencard alors que j'étais à découvert.
+J|a|1||Je n'ai jamais demandé à un pote de m'appeler en urgence pour fuir un rencard.
+J|a|1||Je n'ai jamais été le dernier au courant que mon couple était fini.
+J|a|2||Je n'ai jamais eu une relation que j'ai cachée à mes potes.
+J|a|2||Je n'ai jamais rompu et remis ça dans la même semaine.
+J|a|2||Je n'ai jamais dit « c'est pas toi, c'est moi » alors que c'était clairement l'autre.
+J|a|2||Je n'ai jamais flirté avec quelqu'un juste pour voir si j'avais encore la cote.
+J|a|2||Je n'ai jamais dragué le pote de quelqu'un avec qui j'avais un rencard.
+J|a|2||Je n'ai jamais eu une relation avec quelqu'un que mes parents détestaient.
+J|a|2||Je n'ai jamais gardé un cadeau d'un ex que j'utilise encore aujourd'hui.
+J|a|2||Je n'ai jamais eu un « situationship » de plus de six mois.
+J|a|2||Je n'ai jamais quitté quelqu'un à cause de sa façon d'embrasser.
+J|a|2||Je ne suis jamais retourné dans un restaurant juste pour revoir un serveur ou une serveuse.
+J|a|2|p|Je n'ai jamais été jaloux de la moitié d'un pote ici.
+J|d|1||Je n'ai jamais pris un arrêt maladie pour partir en week-end.
+J|d|1||Je n'ai jamais lu un message qui ne m'était pas destiné sur un écran verrouillé.
+J|d|1||Je n'ai jamais fait semblant d'avoir oublié un rendez-vous que je voulais éviter.
+J|d|1||Je n'ai jamais menti sur ma taille ou mon âge sur une appli.
+J|d|1||Je n'ai jamais copié sur quelqu'un et eu une meilleure note que lui.
+J|d|1||Je n'ai jamais accusé un collègue d'une erreur que j'avais faite.
+J|d|1||Je n'ai jamais revendu un cadeau sur une appli de seconde main.
+J|d|1||Je n'ai jamais utilisé le compte Netflix de quelqu'un sans qu'il le sache.
+J|d|1||Je n'ai jamais piqué des frites dans l'assiette de quelqu'un pendant qu'il était aux toilettes.
+J|d|2||Je n'ai jamais mangé le repas de quelqu'un dans le frigo commun du bureau.
+J|d|2||Je n'ai jamais ouvert le courrier de quelqu'un d'autre.
+J|d|2||Je n'ai jamais fait une fausse réclamation pour être remboursé.
+J|d|2||Je n'ai jamais séché un mariage ou un anniversaire avec une fausse excuse.
+J|d|2||Je n'ai jamais prétendu avoir plus de réseau pour ne pas répondre à quelqu'un.
+J|d|2|p|Je n'ai jamais menti à quelqu'un ici ce mois-ci.
+J|d|2|p|Je n'ai jamais été dans un groupe de discussion dont quelqu'un ici était exclu.
+J|t|1||Je n'ai jamais archivé une photo au lieu de la supprimer, juste au cas où.
+J|t|1||Je n'ai jamais tapé le prénom de mon crush dans la recherche juste pour revoir ses photos.
+J|t|1||Je n'ai jamais commencé un message, laissé « en train d'écrire » s'afficher, puis tout effacé.
+J|t|1||Je n'ai jamais fait une playlist pour quelqu'un sans jamais la lui envoyer.
+J|t|1||Je n'ai jamais changé ma photo de profil pour que mon ex la voie.
+J|t|1||Je n'ai jamais acheté un truc vu dans une pub à 2 h du matin.
+J|t|1||Je n'ai jamais lu tous les commentaires sous les posts de mon ex.
+J|t|2||Je n'ai jamais utilisé un faux compte pour regarder une story sans être vu.
+J|t|2||Je n'ai jamais écrit à quelqu'un juste parce que je l'avais vu en ligne.
+J|t|2||Je n'ai jamais supprimé un message avant que l'autre ait eu le temps de le lire.
+J|t|2||Je n'ai jamais regardé les likes de mon crush pour savoir qui l'intéresse.
+J|t|2||Je n'ai jamais réécouté le vocal de quelqu'un juste pour entendre sa voix.
+J|f|1||Je n'ai jamais répondu « toi aussi » à quelqu'un qui me souhaitait bon voyage alors qu'il ne partait pas.
+J|f|1||Je n'ai jamais commandé un plat juste parce que je n'arrivais pas à prononcer l'autre.
+J|f|1||Je n'ai jamais appelé quelqu'un par le mauvais prénom pendant des mois sans oser corriger.
+J|f|1||Je n'ai jamais fait semblant de connaître quelqu'un pendant toute une conversation.
+J|f|1||Je n'ai jamais fait une sieste cachée au travail.
+J|f|1||Je n'ai jamais cherché mon téléphone alors que je l'avais dans la main.
+J|f|1||Je n'ai jamais fait une chute mémorable en public.
+J|f|1||Je n'ai jamais appelé les secours pour une raison complètement débile.
+J|f|1||Je n'ai jamais répondu « oui » trois fois de suite à quelqu'un sans avoir compris sa question.
+J|f|1||Je n'ai jamais fini un plat que je détestais pour ne pas vexer quelqu'un.
+J|f|1||Je n'ai jamais porté le même t-shirt trois jours de suite.
+J|f|1||Je n'ai jamais eu un fou rire pendant une réunion importante.
+J|f|1|pn|Je n'ai jamais pioché dans le frigo de quelqu'un ici sans demander.
+J|a|2|pn|Je n'ai jamais pensé que {B} était trop bien pour moi.
+J|d|2|pn|Je n'ai jamais été jaloux de la vie de {B}.
+J|f|1|pn|Je n'ai jamais copié le style de {B}.
+J|d|2|p|Je n'ai jamais été à deux doigts de me fâcher avec {B}.
+J|f|1|pn|Je n'ai jamais eu un peu peur de {B}.
+J|a|2|pn|Je n'ai jamais regardé {B} un peu trop longtemps ce soir.
+J|x|2|pn|Je n'ai jamais trouvé {B} sexy ce soir.
+J|d|2|p|Je n'ai jamais parlé de la vie amoureuse de {B} sans que {B} soit là.
+J|a|1|p|Je n'ai jamais pensé que {B} sortait avec la mauvaise personne.
+Q|s|1||Qui de nous dit « c'est ma tournée » et disparaît avant de payer ?
+Q|s|1||Qui de nous finit toujours par consoler quelqu'un dans la salle de bain ?
+Q|s|1||Qui de nous a déjà été le plus bourré à un mariage ?
+Q|s|1||Qui de nous organise les meilleures soirées ?
+Q|s|1||Qui de nous ramènera un inconnu à la prochaine soirée ?
+Q|s|1||Qui de nous va finir par chanter ce soir ?
+Q|s|1||Qui de nous débarque chez les gens à minuit avec « j'ai des bières » ?
+Q|s|1||Qui de nous a oublié une soirée entière dont tout le monde parle encore ?
+Q|s|2||Qui de nous a déjà fini une soirée sans son pantalon ?
+Q|s|2||Qui de nous a déjà vomi sur quelqu'un ?
+Q|s|2||Qui de nous ferait un discours de mariage complètement bourré ?
+Q|s|2||Qui de nous a le plus de chances de se réveiller dans une autre ville demain ?
+Q|x|2||Qui de nous envoie les messages les plus chauds ?
+Q|x|2||Qui de nous fait semblant d'être sage alors que c'est le pire ?
+Q|x|2||Qui de nous a déjà eu un crush sur un prof ou un boss ?
+Q|x|2||Qui de nous a déjà eu une aventure en vacances ?
+Q|x|2||Qui de nous a un body count qui nous surprendrait ?
+Q|x|2||Qui de nous rougirait le plus si on lisait ses DM ?
+Q|x|2||Qui de nous a déjà eu une histoire avec un voisin ?
+Q|x|2||Qui de nous a encore un profil actif sur une appli de rencontre ?
+Q|x|3||Qui de nous a déjà fait un plan à trois ?
+Q|x|3||Qui de nous accepterait de tester un club libertin ?
+Q|x|3||Qui de nous a déjà fait l'amour au travail ?
+Q|x|3||Qui de nous est le plus kinky ?
+Q|x|3||Qui de nous a déjà envoyé un nude à la mauvaise personne ?
+Q|x|3||Qui de nous ferait le meilleur strip-tease ?
+Q|x|3|pn|Qui de nous pourrait finir la nuit avec quelqu'un d'ici ?
+Q|a|1||Qui de nous envoie « tu dors ? » à 2 h du matin ?
+Q|a|1||Qui de nous est le plus romantique ?
+Q|a|1||Qui de nous ferait une demande en mariage en public ?
+Q|a|1||Qui de nous stalke le plus le nouveau ou la nouvelle de son ex ?
+Q|a|1||Qui de nous est le plus difficile en amour ?
+Q|a|1||Qui de nous va se caser en premier ?
+Q|a|1||Qui de nous se fait le plus souvent recaler ?
+Q|a|1||Qui de nous répondrait « mdr » à une déclaration d'amour ?
+Q|a|1||Qui de nous tombe amoureux de son ou sa prof de sport ?
+Q|a|2||Qui de nous a déjà trompé sans jamais se faire prendre ?
+Q|a|2||Qui de nous a déjà été l'amant ou la maîtresse de quelqu'un ?
+Q|a|2||Qui de nous parle à plusieurs personnes en même temps en ce moment ?
+Q|a|2||Qui de nous garde des ex « en réserve » ?
+Q|d|1||Qui de nous a fait la recherche Google la plus honteuse cette semaine ?
+Q|d|1||Qui de nous pourrait mener une double vie sans que personne ne le sache ?
+Q|d|1||Qui de nous garde le secret le plus lourd ?
+Q|d|1||Qui de nous craquerait en premier pendant un interrogatoire ?
+Q|d|1||Qui de nous sait des choses sur chacun de nous qu'il ne devrait pas savoir ?
+Q|d|2||Qui de nous a déjà fait un truc illégal dont il est fier ?
+Q|d|2||Qui de nous a déjà fouillé le téléphone de sa moitié ?
+Q|d|2|p|Qui de nous a déjà eu un crush sur quelqu'un ici ?
+Q|f|1||Qui de nous finirait en prison en premier ?
+Q|f|1||Qui de nous ouvrirait un bar et ferait faillite en trois mois ?
+Q|f|1||Qui de nous mettrait le feu à la cuisine en faisant des pâtes ?
+Q|f|1||Qui de nous croirait à une théorie du complot ?
+Q|f|1||Qui de nous ferait le meilleur agent secret ?
+Q|f|1||Qui de nous serait éliminé en premier à Koh-Lanta ?
+Q|f|1||Qui de nous adopterait l'animal le plus bizarre ?
+Q|f|1||Qui de nous partirait vivre dans une cabane au fond des bois ?
+Q|f|1||Qui de nous se ferait virer pour une raison absurde ?
+Q|f|1||Qui de nous répondrait à un SMS d'arnaque juste pour s'amuser ?
+Q|f|1||Qui de nous ferait le pire repas pour un premier rencard ?
+Q|f|1||Qui de nous se ferait tatouer un truc qu'il regretterait ?
+Q|f|1||Qui de nous serait le plus nul dans un escape game ?
+Q|f|1||Qui de nous serait le pire en voyage de groupe ?
+Q|f|1||Qui de nous ferait le meilleur parent ?
+Q|t|1||Qui de nous envoie des mèmes à 3 h du matin ?
+Q|t|1||Qui de nous a le fond d'écran le plus gênant ?
+Q|t|1||Qui de nous poste des stories de soirée qu'il regrette le lendemain ?
+Q|t|1||Qui de nous a le plus de groupes de discussion en sourdine ?
+Q|t|2||Qui de nous a déjà envoyé dans le groupe de famille un message destiné à quelqu'un d'autre ?
+Q|f|1|pn|Qui de nous connaît le mieux {B} ?
+Q|d|2|pn|Qui de nous a déjà menti à {B} ce soir ?
+Q|a|2|pn|Qui de nous {B} embrasserait en premier ?
+Q|s|1|pn|Qui de nous {B} appellerait en premier depuis une garde à vue ?
+Q|f|1|pn|Qui de nous {B} aimerait le plus ressembler ?
+Q|x|3|pn|Qui de nous a déjà rêvé de {B} ?
+P|f|1||Savoir combien de fois tu vas tomber amoureux // savoir combien d'argent tu vas gagner dans ta vie
+P|f|1||Avoir un narrateur qui commente ta vie et que toi seul entends // que tout le monde entend
+P|f|1||Être très célèbre mais détesté // inconnu mais adoré de tes proches
+P|f|1||Ne plus jamais pouvoir mentir // que plus personne ne te croie jamais
+P|f|1||Avoir cinq ans de moins // avoir cinq millions d'euros
+P|f|1||Revivre la même journée pendant un an // sauter une année entière de ta vie
+P|f|1||Que chaque chanson entendue te reste en tête une semaine // ne plus jamais entendre de musique
+P|f|1||Te réveiller avec une perruque blonde collée à vie // avec un sourcil en moins à vie
+P|f|1||Que tes parents soient tes colocs // que ton patron soit ton coloc
+P|f|1||Sentir toujours un peu la soupe // toujours un peu le chien mouillé
+P|f|1||Avoir des bras de T-Rex // des jambes de flamant rose
+P|f|1||Ne plus jamais manger au restaurant // ne plus jamais cuisiner
+P|f|1||Faire un discours devant 10 000 personnes // passer une nuit seul dans un cimetière
+P|s|1||Une soirée dont tout le monde se souvient de chaque détail sur toi // une soirée filmée en entier
+P|s|1||Que la soirée finisse maintenant // qu'elle dure jusqu'à midi demain
+P|s|1||Ne boire que du rosé pamplemousse toute ta vie // que du whisky sec
+P|s|1||Être le seul sobre dans une soirée de bourrés // le seul bourré dans un dîner de sobres
+P|s|1||Te réveiller demain avec un tatouage dont tu ne te souviens pas // avec un piercing dont tu ne te souviens pas
+P|s|2||Que ton patron te voie danser bourré // que tes parents te voient draguer
+P|s|2||Rentrer avec quelqu'un que tu ne te rappelles pas avoir rencontré // rentrer seul après avoir envoyé 40 messages à ton ex
+P|x|2||Que ton ex soit le meilleur coup de ta vie // qu'il soit le pire
+P|x|2||Un premier rencard qui finit au lit // un premier rencard qui finit en vraie histoire
+P|x|2||Coucher avec quelqu'un qui commente tout // avec quelqu'un qui rit pendant
+P|x|2||Te faire surprendre par ta grand-mère // par ton boss
+P|x|2||Que ta moitié ait un fantasme très bizarre // qu'elle n'en ait aucun
+P|x|2||Une nuit incroyable que tu ne pourras jamais raconter // une nuit moyenne que tout le monde connaîtra
+P|x|3||Faire l'amour devant un miroir géant // sous un ciel étoilé
+P|x|3||Être réveillé par des bisous partout // par un petit-déjeuner au lit
+P|x|3||Une moitié qui en veut tous les jours // une fois par mois
+P|x|3||Que ta vie sexuelle ait des avis Google comme un restaurant // qu'elle soit racontée dans un podcast
+P|x|3|pn|Embrasser la personne à ta gauche // la personne à ta droite
+P|x|3|pn|Que {B} lise ton dernier sexto à voix haute // que tu lises le sien
+P|a|1||Une moitié qui envoie beaucoup trop de messages // une qui n'en envoie presque jamais
+P|a|1||Une demande en mariage en public // une demande en privé mais complètement ratée
+P|a|1||Te marier demain avec ton dernier match // rester célibataire dix ans
+P|a|1||Rencontrer l'amour de ta vie à 20 ans // à 40 ans
+P|a|1||Une moitié qui t'aime plus que tu ne l'aimes // l'inverse
+P|a|1||Savoir tout ce que ton ex dit sur toi // ne jamais rien savoir
+P|a|1||Un rencard parfait avec quelqu'un d'ennuyeux // un rencard catastrophe avec quelqu'un de génial
+P|a|2||Une moitié qui like les photos des autres // une moitié qui garde ses ex en amis proches
+P|a|2||Te faire larguer le jour de ton anniversaire // à Noël devant ta famille
+P|a|2|pn|Un rencard avec {B} // un rencard avec l'ex de {B}
+P|d|1|pn|Que tout le monde ici voie ton historique de recherche // ta galerie photo
+P|d|1||Avouer ton plus gros mensonge à tes parents // à ton meilleur ami
+P|d|1||Que ta mère lise tes messages avec tes potes // que tes potes lisent tes messages avec ta mère
+P|d|1|pn|Connaître le secret le plus lourd de chacun ici // que tout le monde connaisse le tien
+P|d|2||Que ton ex publie vos conversations // que ton boss lise ce que tu dis de lui
+P|t|1||Perdre ton téléphone avec toutes tes photos // perdre ton portefeuille
+P|t|1||Ne plus pouvoir communiquer que par vocaux // que par appels vidéo
+P|t|1||Que ton téléphone poste chaque jour une photo au hasard de ta galerie // qu'il envoie chaque semaine un message au hasard à un contact
+P|t|2||Que tes DM soient publics // que ton temps d'écran s'affiche sur ton front
+P|f|1|pn|Avoir la garde-robe de {B} // avoir les goûts musicaux de {B}
+P|f|1|pn|Un road trip avec {B} sans téléphone // un road trip seul avec ton téléphone
+P|f|1|pn|Que {B} soit ton coloc // que {B} soit ton patron
+P|a|2|pn|Que {B} organise ton prochain rencard // ton prochain anniversaire
+P|a|2|pn|Que {B} lise tes messages avec ton crush // que ton crush lise tes messages avec {B}
+P|x|3|pn|Prendre un bain avec {B} // dormir en cuillère avec {B}
+V|s|1||Quelle est la pire chose que tu aies dite à quelqu'un en soirée ?
+V|s|1||Quelle est la chose la plus chère que tu aies perdue ou cassée en soirée ?
+V|s|1||Quelle est ta technique pour avoir l'air sobre ?
+V|s|1||Quel est l'alcool que tu ne peux plus sentir, et pourquoi ?
+V|s|2||Quelle est la personne la plus improbable avec qui tu as fini une soirée ?
+V|s|2||As-tu déjà menti sur ce que tu avais fait une nuit ? Raconte.
+V|x|2||Quelle est la pire chose qu'on t'ait dite au lit ?
+V|x|2||Qu'est-ce qui te fait perdre tous tes moyens chez quelqu'un ?
+V|x|2||Quelle est ta plus longue période sans rien ?
+V|x|2||Quel est ton souvenir le plus gênant en voulant être sexy ?
+V|x|2||Ton dernier rêve coquin, c'était avec qui ? Pas de nom, mais un indice.
+V|x|2||Quel est le meilleur endroit où tu as fait l'amour ?
+V|x|3||Quelle est la chose la plus osée que tu aies faite en public ?
+V|x|3||Quel est ton fantasme le plus bizarre ?
+V|x|3||Quel est le meilleur coup de ta vie ? Explique pourquoi, sans donner de nom.
+V|x|3||As-tu déjà regretté de ne pas avoir couché avec quelqu'un ? Raconte.
+V|x|3||Plutôt long et tendre ou rapide et intense ?
+V|x|3||Qu'est-ce que tu aimerais qu'on te fasse plus souvent ?
+V|x|3|pn|S'il fallait faire un plan à trois avec deux personnes d'ici, ce serait qui ?
+V|x|3|pn|Qui ici a l'air d'être le meilleur coup ? Argumente.
+V|a|1||Quelle est la plus grosse erreur que tu aies faite en amour ?
+V|a|1||Qu'est-ce qui te fait fuir à un premier rencard ?
+V|a|1||Quel est le plus beau compliment qu'un ex t'ait fait ?
+V|a|1||As-tu déjà été amoureux de quelqu'un qui ne l'a jamais su ? Raconte.
+V|a|1||À quel moment as-tu su qu'une relation était finie ?
+V|a|1||Qu'est-ce que ton ex dirait de toi s'il était là ce soir ?
+V|a|2||As-tu déjà dit « je t'aime » sans le penser ?
+V|a|2||Quel ex regrettes-tu, honnêtement ?
+V|a|2||As-tu déjà eu une histoire que tu as cachée à tout le monde ?
+V|a|2||Avec qui as-tu eu une conversation un peu trop ambiguë cette semaine ?
+V|a|2|pn|Qui ici aurait le plus de chances avec toi ?
+V|a|2|pn|Si tu devais sortir un mois avec quelqu'un d'ici, ce serait qui ?
+V|d|1||Quel est le mensonge que tu racontes le plus souvent ?
+V|d|1||Qu'as-tu fait cette année dont tu n'es pas fier ?
+V|d|1||Que caches-tu à tes parents en ce moment ?
+V|d|1||Quelle rumeur sur toi est vraie ?
+V|d|2||Quel est le pire truc que tu aies fait pour de l'argent ?
+V|d|2|p|Qu'est-ce que tu n'as jamais osé dire à quelqu'un ici ?
+V|d|2|pn|Qu'est-ce que tu envies le plus chez {B} ?
+V|t|1||Lis le dernier message que tu as envoyé à ta mère.
+V|t|1|pn|Quelle photo de ta galerie ne montrerais-tu à personne ici ?
+V|t|1||Quel est le dernier truc que tu as acheté en ligne ?
+V|t|2||Montre la dernière personne que tu as cherchée sur Instagram.
+V|t|2||Fais écouter le dernier vocal que tu as envoyé.
+V|t|2||Montre ta dernière capture d'écran.
+V|f|1||Quelle est ta peur la plus irrationnelle ?
+V|f|1||Quelle est la chose la plus enfantine que tu fais encore ?
+V|f|1||Quel est ton plaisir coupable le plus honteux ?
+V|f|1||Si tu changeais de prénom demain, tu prendrais lequel ?
+V|f|1||Quel personnage de série te ressemble le plus, honnêtement ?
+A|s|1||Fais le tour de la table en serveur et prends la commande de chacun avec un accent italien.
+A|s|1||Raconte ta pire soirée en 30 secondes, comme un commentateur sportif.
+A|s|1||Trinque avec {B} en le regardant dans les yeux. Si tu ris, prends {s2}.
+A|s|1||Échange ta place avec {B} jusqu'à la fin de la partie.
+A|s|1||Laisse {B} choisir ce que tu bois au prochain verre.
+A|s|1||Fais un discours de remerciement comme aux César pour cette soirée.
+A|x|2||Choisis quelqu'un et dis-lui ce qui te plaît le plus physiquement chez lui, en le regardant dans les yeux.
+A|x|2||Fais un lap dance de 20 secondes à une chaise.
+A|x|2||Drague {B} comme dans un mauvais film romantique.
+A|x|2||Mime ton dernier rencard du début à la fin.
+A|x|2||Lis le dernier message envoyé à un crush, avec une voix sensuelle.
+A|x|2||Laisse {B} t'écrire un prénom sur le bras. Tu le gardes toute la soirée.
+A|x|3||Embrasse la joue de la personne de ton choix, très lentement.
+A|x|3||Fais un bisou à {B} où tu veux, sauf sur la bouche. Si {B} refuse, c'est {B} qui boit.
+A|x|3||Enlève ton haut pendant un tour, ou prends {s4}.
+A|x|3|pn|Murmure un compliment osé à l'oreille de chaque joueur.
+A|x|3||Laisse {B} choisir où tu poses ta main pendant deux tours.
+A|a|1||Envoie seulement « 👀 » à ton crush.
+A|a|1||Appelle quelqu'un et dis-lui « je voulais juste entendre ta voix ».
+A|a|1||Fais une demande en mariage à {B}, genou à terre, avec un vrai discours.
+A|a|1||Écris une bio d'appli de rencontre pour {B} en 30 secondes et lis-la.
+A|a|2||Envoie « on se voit quand ? » à la troisième personne de tes DM.
+A|a|2||Laisse {B} écrire un message à ton ex. Tu l'envoies ou tu prends {s5}.
+A|t|1||Fais deviner ta dernière recherche Google en la mimant.
+A|t|1||Mets dans ton pseudo un emoji choisi par {B} pendant 24 heures.
+A|t|1||Ouvre ta galerie, fais défiler les yeux fermés et montre la photo où tu t'arrêtes.
+A|t|2||Envoie un vocal chanté de 10 secondes à ton dernier contact.
+A|t|2||Poste en story une photo de toi prise par {B} maintenant, sans filtre.
+A|t|2||Laisse {B} lire tes trois derniers messages reçus.
+A|f|1||Parle comme un robot jusqu'à ton prochain tour.
+A|f|1||Mange quelque chose sans les mains.
+A|f|1||Fais le cri d'un animal choisi par {B}.
+A|f|1||Raconte ta journée comme la bande-annonce d'un film d'action.
+A|f|1||Imite un ancien prof avec toute la conviction possible.
+A|f|1||Fais un défilé de mannequin jusqu'à la porte, puis reviens.
+A|f|1||Fais une déclaration d'amour à ton plat préféré.
+A|f|1||Tiens la chaise contre le mur pendant 30 secondes.
+A|f|1||Fais une chorégraphie TikTok, même mal.
+A|f|1||Vends ta chaussure gauche à {B} comme dans un téléachat.
 `;
