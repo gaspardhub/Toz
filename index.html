@@ -4,7 +4,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bowlby+One&family=Outfit:wght@400;600;800&display=swap">
 <style>
-/* Layout: one-screen app. Short questionnaire (one question per screen) → full-bleed coloured card per round. Single dark "night out" look. */
+/* Layout: one-screen app. Questionnaire (one question per screen) → games menu → full-bleed coloured play screen. Single dark "night out" look. */
 :root {
   color-scheme: dark;
   --night: #170f1f;
@@ -18,7 +18,11 @@
   --rose: #ff5fa2;
   --sky: #5ab8ff;
   --lilac: #c49bff;
+  --lime: #b6f04a;
+  --peach: #ffa94d;
   --on-card: #170f1f;
+  --paper: #fffaf2;
+  --red-suit: #d62839;
   --display: "Bowlby One", "Arial Black", Impact, sans-serif;
   --body: "Outfit", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
@@ -33,9 +37,10 @@ body {
 }
 button, input { font: inherit; color: inherit; }
 button { cursor: pointer; }
+button:disabled { cursor: not-allowed; }
 :focus-visible { outline: 3px solid var(--sun); outline-offset: 2px; }
 
-/* ---------- Questionnaire ---------- */
+/* ---------- Questionnaire & menu ---------- */
 .screen {
   max-width: 560px;
   min-height: 100%;
@@ -43,13 +48,13 @@ button { cursor: pointer; }
   box-sizing: border-box;
   padding-left: max(16px, env(safe-area-inset-left, 0px));
   padding-right: max(16px, env(safe-area-inset-right, 0px));
-  padding-block: 24px 24px;
+  padding-block: 24px;
   display: flex;
   flex-direction: column;
   gap: 22px;
 }
-.topbar { display: flex; align-items: center; justify-content: space-between; min-height: 36px; }
-.back {
+.topbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 36px; }
+.pill {
   border: 2px solid var(--line);
   background: transparent;
   border-radius: 999px;
@@ -60,17 +65,9 @@ button { cursor: pointer; }
 .dots i { width: 22px; height: 6px; border-radius: 3px; background: var(--line); }
 .dots i.on { background: var(--sun); }
 .step-body { flex: 1; display: flex; flex-direction: column; gap: 16px; }
-.eyebrow {
-  font-size: .78rem; font-weight: 800; letter-spacing: .14em;
-  text-transform: uppercase; color: var(--muted); margin: 0;
-}
-.q {
-  font-family: var(--display); font-weight: 400;
-  font-size: clamp(2rem, 9vw, 2.8rem); line-height: 1; margin: 0;
-  text-wrap: balance;
-}
+.eyebrow { font-size: .78rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin: 0; }
+.q { font-family: var(--display); font-weight: 400; font-size: clamp(2rem, 9vw, 2.8rem); line-height: 1; margin: 0; text-wrap: balance; }
 .hint { margin: 0; color: var(--muted); line-height: 1.4; }
-
 .welcome .q { font-size: clamp(3.4rem, 17vw, 5rem); line-height: .88; }
 .welcome .q span { color: var(--coral); }
 .free-tag {
@@ -80,10 +77,7 @@ button { cursor: pointer; }
   padding: 4px 10px; border-radius: 999px;
 }
 .stat { display: flex; gap: 10px; flex-wrap: wrap; }
-.stat div {
-  flex: 1 1 120px;
-  border: 2px solid var(--line); border-radius: 16px; padding: 12px 14px;
-}
+.stat div { flex: 1 1 120px; border: 2px solid var(--line); border-radius: 16px; padding: 12px 14px; }
 .stat b { display: block; font-family: var(--display); font-weight: 400; font-size: 1.8rem; font-variant-numeric: tabular-nums; }
 .stat span { color: var(--muted); font-size: .9rem; }
 
@@ -114,10 +108,7 @@ button { cursor: pointer; }
   padding: 13px 14px;
 }
 .add-row input:focus, .pair input:focus { border-color: var(--sun); outline: none; }
-.add-row button {
-  background: var(--sun); color: var(--on-card);
-  border: 0; border-radius: 14px; padding: 0 18px; font-weight: 800;
-}
+.add-row button { background: var(--sun); color: var(--on-card); border: 0; border-radius: 14px; padding: 0 18px; font-weight: 800; }
 .pair { display: flex; flex-direction: column; gap: 10px; }
 .players { display: flex; flex-wrap: wrap; gap: 8px; }
 .player {
@@ -129,7 +120,6 @@ button { cursor: pointer; }
   font-weight: 600;
 }
 .player button { width: 26px; height: 26px; border-radius: 50%; border: 0; background: var(--line); line-height: 1; }
-
 .toggle {
   display: flex; align-items: center; justify-content: space-between; gap: 12px;
   background: var(--night-2);
@@ -139,7 +129,6 @@ button { cursor: pointer; }
 }
 .toggle small { display: block; color: var(--muted); font-size: .88rem; }
 .toggle input { width: 22px; height: 22px; accent-color: var(--mint); flex: none; }
-
 .cta-zone { display: flex; flex-direction: column; gap: 8px; }
 .error { color: var(--coral); margin: 0; font-weight: 600; min-height: 1.3em; }
 .cta {
@@ -148,9 +137,33 @@ button { cursor: pointer; }
   background: var(--coral); color: var(--on-card);
   font-family: var(--display); font-size: 1.25rem; letter-spacing: .02em;
 }
-.cta:disabled { background: var(--line); color: var(--muted); cursor: not-allowed; }
+.cta:disabled { background: var(--line); color: var(--muted); }
 .cta.ghost { background: transparent; color: var(--ink); border: 2px solid var(--line); font-family: var(--body); font-weight: 800; font-size: 1rem; padding: 14px; }
 .pool { margin: 0; color: var(--muted); font-size: .92rem; text-align: center; font-variant-numeric: tabular-nums; }
+
+/* Menu des jeux */
+.summary { margin: 0; color: var(--muted); line-height: 1.4; }
+.summary b { color: var(--ink); }
+.modes { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.mode {
+  text-align: left;
+  border: 0;
+  background: var(--c);
+  color: var(--on-card);
+  border-radius: 20px;
+  padding: 14px;
+  min-height: 116px;
+  display: flex; flex-direction: column; justify-content: space-between; gap: 8px;
+  min-width: 0;
+  transition: transform .15s;
+}
+.mode:active { transform: scale(.97); }
+.mode strong { font-family: var(--display); font-weight: 400; font-size: 1.15rem; line-height: 1.05; }
+.mode span { font-size: .85rem; line-height: 1.3; font-weight: 600; opacity: .78; }
+.mode.wide { grid-column: 1 / -1; min-height: 0; }
+.mode:disabled { background: var(--night-2); color: var(--muted); border: 2px dashed var(--line); }
+.mode:disabled span { opacity: 1; }
+.section-label { margin: 6px 0 -2px; }
 
 /* ---------- Age gate ---------- */
 #gate {
@@ -190,27 +203,47 @@ button { cursor: pointer; }
   border: 2px solid var(--on-card); background: transparent; color: var(--on-card);
   border-radius: 999px; padding: 6px 14px; font-weight: 800;
 }
-.counter { font-weight: 800; font-variant-numeric: tabular-nums; opacity: .7; }
+.counter { font-weight: 800; font-variant-numeric: tabular-nums; opacity: .7; text-align: right; }
 .card {
   flex: 1;
-  display: flex; flex-direction: column; justify-content: center; gap: 18px;
+  display: flex; flex-direction: column; justify-content: center; gap: 16px;
   max-width: 640px; width: 100%; margin: 0 auto; min-height: 0;
-  cursor: pointer;
+  overflow-y: auto;
+  padding-block: 12px;
 }
+.card.tap { cursor: pointer; }
 .card .label { font-size: .8rem; font-weight: 800; letter-spacing: .16em; text-transform: uppercase; }
 .card .target { font-family: var(--display); font-size: clamp(1.7rem, 7.5vw, 2.5rem); line-height: 1; margin: 0; overflow-wrap: anywhere; }
-.card .text {
-  font-size: clamp(1.45rem, 6.2vw, 2.15rem);
-  font-weight: 800; line-height: 1.2; margin: 0;
-  text-wrap: balance; overflow-wrap: anywhere;
-}
-.card .rule { margin: 0; font-weight: 600; opacity: .72; font-size: 1rem; }
+.card .text { font-size: clamp(1.4rem, 6.2vw, 2.1rem); font-weight: 800; line-height: 1.2; margin: 0; text-wrap: balance; overflow-wrap: anywhere; }
+.card .text.small { font-size: clamp(1.15rem, 5vw, 1.5rem); }
+.card .rule { margin: 0; font-weight: 600; opacity: .75; font-size: 1rem; line-height: 1.35; }
+.card .big { font-family: var(--display); font-size: clamp(5rem, 30vw, 9rem); line-height: 1; margin: 0; text-align: center; font-variant-numeric: tabular-nums; }
 .choices { display: flex; flex-direction: column; gap: 10px; }
-.choices div {
+.choices > div {
   border: 3px solid var(--on-card); border-radius: 18px; padding: 16px;
   font-weight: 800; font-size: clamp(1.1rem, 4.8vw, 1.35rem); line-height: 1.25;
 }
 .choices .or { border: 0; padding: 0; text-align: center; font-family: var(--display); font-weight: 400; font-size: 1rem; }
+.btns { display: flex; flex-wrap: wrap; gap: 10px; }
+.btns.col { flex-direction: column; }
+.btn {
+  flex: 1 1 0;
+  min-width: 0;
+  border: 3px solid var(--on-card);
+  background: transparent;
+  color: var(--on-card);
+  border-radius: 16px;
+  padding: 14px 12px;
+  font-weight: 800;
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+.btn.solid { background: var(--on-card); color: var(--c); }
+.btn.left { text-align: left; }
+.btn small { display: block; font-weight: 600; opacity: .7; font-size: .85rem; }
+.btn.good { background: var(--on-card); color: var(--c); }
+.btn.bad { opacity: .45; text-decoration: line-through; }
+.btn:disabled { cursor: default; }
 .next {
   border: 0; border-radius: 18px;
   background: var(--on-card); color: var(--c);
@@ -218,10 +251,66 @@ button { cursor: pointer; }
   font-family: var(--display); font-size: 1.2rem;
   max-width: 640px; width: 100%; margin: 0 auto;
 }
+.teams { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.teams > div { border: 3px solid var(--on-card); border-radius: 16px; padding: 12px; min-width: 0; }
+.teams b { display: block; font-family: var(--display); font-weight: 400; font-size: 1.2rem; margin-bottom: 4px; }
+.teams span { font-weight: 600; overflow-wrap: anywhere; }
+
+/* Cartes à jouer */
+.hand { display: flex; gap: 10px; flex-wrap: wrap; }
+.pc {
+  width: 64px; height: 90px;
+  border-radius: 10px;
+  background: var(--paper);
+  color: var(--on-card);
+  border: 2px solid var(--on-card);
+  display: flex; flex-direction: column; justify-content: space-between;
+  padding: 6px 8px;
+  box-sizing: border-box;
+  font-weight: 800;
+  box-shadow: 0 4px 0 rgba(23, 15, 31, .25);
+}
+.pc.red { color: var(--red-suit); }
+.pc .s { font-size: 1.9rem; line-height: 1; align-self: center; }
+.pc .r2 { align-self: flex-end; transform: rotate(180deg); }
+.pc.lg { width: 120px; height: 168px; border-radius: 14px; font-size: 1.4rem; padding: 10px 12px; }
+.pc.lg .s { font-size: 3.8rem; }
+.pc.back { background: repeating-linear-gradient(45deg, var(--on-card) 0 6px, var(--night-2) 6px 12px); }
+.suits { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.suits .btn { font-size: 1.8rem; padding: 10px 0; }
+.suits .btn.red { color: var(--red-suit); }
+
+/* Course de chevaux */
+.track { display: grid; grid-template-columns: 2.2em repeat(8, 1fr); gap: 4px; }
+.track > div {
+  aspect-ratio: 1; max-width: 100%;
+  border-radius: 8px;
+  display: grid; place-items: center;
+  font-weight: 800; font-size: clamp(.9rem, 4.5vw, 1.4rem);
+  background: rgba(23, 15, 31, .1);
+}
+.track .lane { background: transparent; font-size: 1.4rem; }
+.track .red { color: var(--red-suit); }
+.track .horse { background: var(--paper); border: 2px solid var(--on-card); }
+.track .goal { outline: 2px dashed var(--on-card); outline-offset: -3px; }
+.track .side { background: var(--on-card); color: var(--paper); font-size: .9rem; }
+.track .side.up { background: var(--paper); color: var(--on-card); border: 2px solid var(--on-card); }
+.track .side.up.red { color: var(--red-suit); }
+.bets { display: flex; flex-direction: column; gap: 8px; }
+.bet { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 8px; align-items: center; border: 3px solid var(--on-card); border-radius: 14px; padding: 8px 10px; }
+.bet b { overflow-wrap: anywhere; }
+.bet .suits { grid-column: 1 / -1; }
+.bet .suits .btn { font-size: 1.3rem; padding: 6px 0; border-width: 2px; }
+.bet .suits .btn[aria-pressed="true"] { background: var(--on-card); color: var(--paper); }
+.bet .suits .btn.red[aria-pressed="true"] { color: var(--rose); }
+.stepper { display: flex; align-items: center; gap: 6px; font-weight: 800; font-variant-numeric: tabular-nums; }
+.stepper button { width: 32px; height: 32px; border-radius: 50%; border: 2px solid var(--on-card); background: transparent; font-weight: 800; color: var(--on-card); }
+.results { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 6px; font-weight: 700; font-size: 1.05rem; }
+
 @keyframes pop { from { transform: translateY(14px) scale(.98); opacity: .2; } to { transform: none; opacity: 1; } }
-.card.enter { animation: pop .28s ease-out; }
+.card.enter > * { animation: pop .28s ease-out; }
 @media (prefers-reduced-motion: reduce) {
-  .card.enter { animation: none; }
+  .card.enter > * { animation: none; }
   #play { transition: none; }
 }
 @media (max-width: 380px) { .options.grid { grid-template-columns: 1fr; } }
@@ -229,7 +318,7 @@ button { cursor: pointer; }
 
 <main id="setup" class="screen">
   <div class="topbar">
-    <button type="button" class="back" id="back">← Retour</button>
+    <button type="button" class="pill" id="back">← Retour</button>
     <div class="dots" id="dots" aria-hidden="true"></div>
   </div>
   <div class="step-body" id="step"></div>
@@ -239,6 +328,15 @@ button { cursor: pointer; }
     <button type="button" class="cta" id="cta">Continuer</button>
     <button type="button" class="cta ghost" id="cta2" hidden></button>
   </div>
+</main>
+
+<main id="menu" class="screen" hidden>
+  <div class="topbar">
+    <h1 class="q" style="font-size:2.2rem">Les jeux</h1>
+    <button type="button" class="pill" id="edit">Réglages</button>
+  </div>
+  <p class="summary" id="summary"></p>
+  <div class="modes" id="modes"></div>
 </main>
 
 <div id="gate" hidden role="dialog" aria-modal="true" aria-labelledby="gate-title">
@@ -254,7 +352,7 @@ button { cursor: pointer; }
 
 <div id="play" hidden>
   <div class="play-top">
-    <button type="button" id="quit">← Menu</button>
+    <button type="button" id="quit">← Jeux</button>
     <span class="counter" id="counter"></span>
   </div>
   <div class="card" id="card" aria-live="polite"></div>
@@ -262,12 +360,13 @@ button { cursor: pointer; }
 </div>
 
 <script src="cards.js"></script>
+<script src="modes-data.js"></script>
 <script>
-// ---------- Base de cartes ----------
+// ---------- Données ----------
 const TYPES = {
   J: { name: "Je n'ai jamais", color: "var(--coral)", weight: 22, groups: "pnc",
        rule: "Ceux qui l'ont déjà fait prennent {s1}.", ruleC: "Si tu l'as déjà fait, prends {s1}. Pareil pour {B}." },
-  Q: { name: "Qui de nous", color: "var(--mint)", weight: 20, groups: "pnc",
+  Q: { name: "Qui pourrait", color: "var(--mint)", weight: 20, groups: "pnc",
        rule: "À 3, tout le monde pointe quelqu'un. Chaque doigt pointé sur toi = {s1}.",
        ruleC: "Pointez en même temps. Même personne désignée ? Elle prend {s2}. Sinon, {s1} chacun." },
   P: { name: "Tu préfères", color: "var(--sky)", weight: 13, groups: "pnc",
@@ -277,15 +376,21 @@ const TYPES = {
   A: { name: "Action", color: "var(--rose)", weight: 14, groups: "pnc", target: true, rule: "Fais-le ou prends {s3}." },
   D: { name: "Tout le monde", color: "var(--lilac)", weight: 8, groups: "pn" },
   R: { name: "Nouvelle règle", color: "var(--ink)", weight: 4, groups: "pn" },
-  T: { name: "Thème", color: "var(--sun)", weight: 4, groups: "pnc",
+  T: { name: "Thème", color: "var(--peach)", weight: 4, groups: "pnc",
        rule: "Chacun son tour, en commençant par {A}. Le premier qui sèche ou répète prend {s2}." },
 };
 const hash = s => { let h = 0; for (const c of s) h = (h * 31 + c.charCodeAt(0)) | 0; return (h >>> 0).toString(36); };
-const CARDS = window.TOURNEE_CARDS.trim().split("\n").filter(l => /^[A-Z]\|/.test(l)).map(l => {
+const lines = s => s.trim().split("\n").map(l => l.trim()).filter(Boolean);
+const CARDS = lines(window.TOURNEE_CARDS).filter(l => /^[A-Z]\|/.test(l)).map(l => {
   const [type, topics, lvl, groups, ...rest] = l.split("|");
-  const text = rest.join("|").trim();
-  return { id: hash(l), type, topics: topics.split(""), lvl: +lvl, groups: groups || TYPES[type].groups, text };
+  return { id: hash(l), type, topics: topics.split(""), lvl: +lvl, groups: groups || TYPES[type].groups, text: rest.join("|").trim() };
 });
+const simple = (key, s) => lines(s).map(l => { const [lvl, tags, text] = l.split("|"); return { id: key + hash(l), lvl: +lvl, x: tags.includes("x"), text }; });
+const SEPT = simple("7", window.TOURNEE_SEPT);
+const DIX = simple("10", window.TOURNEE_DIX);
+const TEAM = simple("tb", window.TOURNEE_TEAM);
+const MOTS = simple("im", window.TOURNEE_MOTS);
+const QUIZ = lines(window.TOURNEE_QUIZ).map(l => { const [q, ...a] = l.split("|"); return { id: "qz" + hash(l), q, a }; });
 
 const GROUPS = [
   { id: "p", name: "Entre potes", desc: "On se connaît par cœur, on peut tout se dire.", c: "var(--coral)" },
@@ -301,9 +406,9 @@ const TOPICS = [
   { id: "f", name: "Délires", desc: "Absurde, défis et fous rires", c: "var(--mint)" },
 ];
 const LEVELS = [
-  { id: 1, name: "Tranquille", desc: "Drôle mais sage. On peut jouer avec n'importe qui.", c: "var(--mint)" },
-  { id: 2, name: "Osé", desc: "Ça pique. Des questions qu'on n'ose pas poser à jeun.", c: "var(--sun)" },
-  { id: 3, name: "Sans filtre", desc: "Tout est permis. Âmes sensibles s'abstenir.", c: "var(--rose)" },
+  { id: 1, name: "Soft", desc: "Drôle mais sage. On peut jouer avec n'importe qui.", c: "var(--mint)" },
+  { id: 2, name: "Fun", desc: "Ça pique. Des questions qu'on n'ose pas poser à jeun.", c: "var(--sun)" },
+  { id: 3, name: "Hot", desc: "Tout est permis. Âmes sensibles s'abstenir.", c: "var(--rose)" },
 ];
 
 // ---------- État ----------
@@ -323,9 +428,12 @@ const state = {
 let seen = new Set(store.get("seen", []));
 const save = () => ["group", "players", "couple", "topics", "level", "sober"].forEach(k => store.set(k, state[k]));
 const roster = () => state.group === "c" ? state.couple.map(s => s.trim()).filter(Boolean) : state.players;
+const adult = () => state.topics.includes("x") || state.level === 3;
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const pen = n => state.sober ? `${n} point${n > 1 ? "s" : ""}` : `${n} gorgée${n > 1 ? "s" : ""}`;
+const fill = (text, A = "", B = "") => text.replace(/\{A\}/g, A).replace(/\{B\}/g, B).replace(/\{s(\d)\}/g, (_, n) => pen(+n));
 
 function pool() {
   return CARDS.filter(c =>
@@ -334,14 +442,13 @@ function pool() {
     c.topics.some(t => state.topics.includes(t)) &&
     (!c.topics.includes("x") || state.topics.includes("x")));
 }
+const okSimple = it => it.lvl <= state.level && (!it.x || state.topics.includes("x"));
 
 // ---------- Questionnaire ----------
 const STEPS = ["welcome", "group", "players", "topics", "level"];
 let step = 0;
-
-function opt(o, pressed, attr) {
-  return `<button type="button" class="opt" style="--c:${o.c}" ${attr}="${o.id}" aria-pressed="${pressed}"><strong>${o.name}</strong><span>${o.desc}</span></button>`;
-}
+const opt = (o, pressed, attr) =>
+  `<button type="button" class="opt" style="--c:${o.c}" ${attr}="${o.id}" aria-pressed="${pressed}"><strong>${o.name}</strong><span>${o.desc}</span></button>`;
 
 function render() {
   const name = STEPS[step];
@@ -353,27 +460,26 @@ function render() {
   const el = $("step");
 
   if (name === "welcome") {
+    const total = CARDS.length + SEPT.length + DIX.length + TEAM.length + QUIZ.length + MOTS.length;
     el.innerHTML = `
       <span class="free-tag">Gratuit · sans pub · sans compte</span>
       <h1 class="q">Tour<span>née</span></h1>
-      <p class="hint">Le jeu de soirée qui pose les vraies questions. Répondez à trois questions et on vous prépare une partie sur mesure.</p>
+      <p class="hint">Le jeu de soirée qui pose les vraies questions. Répondez à quelques questions et on vous prépare une partie sur mesure.</p>
       <div class="stat">
-        <div><b>${CARDS.length}</b><span>cartes différentes</span></div>
-        <div><b>8</b><span>types de jeux mélangés</span></div>
+        <div><b>${MODES_LIST.length}</b><span>jeux de soirée</span></div>
+        <div><b>${total}</b><span>cartes, questions et défis</span></div>
       </div>`;
     $("cta").textContent = "Commencer";
     if (store.get("played", false) && roster().length >= 2) {
       $("cta2").hidden = false;
-      $("cta2").textContent = "Rejouer avec les mêmes réglages";
+      $("cta2").textContent = "Reprendre avec les mêmes réglages";
     }
   }
-
   if (name === "group") {
     el.innerHTML = `<p class="eyebrow">Question 1</p><h2 class="q">Vous jouez avec qui ?</h2>
-      <div class="options" id="opts">${GROUPS.map(g => opt(g, state.group === g.id, "data-group")).join("")}</div>`;
+      <div class="options">${GROUPS.map(g => opt(g, state.group === g.id, "data-group")).join("")}</div>`;
     $("cta").textContent = "Continuer";
   }
-
   if (name === "players") {
     if (state.group === "c") {
       el.innerHTML = `<p class="eyebrow">Question 2</p><h2 class="q">Vos prénoms ?</h2>
@@ -389,39 +495,37 @@ function render() {
           <button type="submit">Ajouter</button>
         </form>
         <div class="players" id="players"></div>
-        <p class="hint">Les cartes vous appellent par vos prénoms. Minimum 2 joueurs.</p>`;
+        <p class="hint">Les cartes vous appellent par vos prénoms. Minimum 2 joueurs, 4 pour Team Battle.</p>`;
       $("add-form").addEventListener("submit", addPlayer);
       renderPlayers();
     }
     $("cta").textContent = "Continuer";
   }
-
   if (name === "topics") {
     el.innerHTML = `<p class="eyebrow">Question 3</p><h2 class="q">Vous voulez parler de quoi ?</h2>
       <p class="hint">Choisissez autant de sujets que vous voulez.</p>
-      <div class="options grid" id="opts">${TOPICS.map(t => opt(t, state.topics.includes(t.id), "data-topic")).join("")}</div>`;
+      <div class="options grid">${TOPICS.map(t => opt(t, state.topics.includes(t.id), "data-topic")).join("")}</div>`;
     $("cta").textContent = "Continuer";
   }
-
   if (name === "level") {
-    el.innerHTML = `<p class="eyebrow">Dernière question</p><h2 class="q">On va jusqu'où ?</h2>
-      <div class="options" id="opts">${LEVELS.map(l => opt(l, state.level === l.id, "data-level")).join("")}</div>
+    el.innerHTML = `<p class="eyebrow">Dernière question</p><h2 class="q">Quelle ambiance ?</h2>
+      <div class="options">${LEVELS.map(l => opt(l, state.level === l.id, "data-level")).join("")}</div>
       <label class="toggle" for="sober"><span>Sans alcool<small>Les gorgées deviennent des points de pénalité. Décidez avant ce que vaut un point : pompes, gage…</small></span><input type="checkbox" id="sober" ${state.sober ? "checked" : ""}></label>`;
     $("sober").addEventListener("change", e => { state.sober = e.target.checked; save(); });
-    $("cta").textContent = "Lancer la partie";
+    $("cta").textContent = "Voir les jeux";
   }
   validate();
 }
 
 $("step").addEventListener("click", e => {
   const b = e.target.closest(".opt");
-  if (b?.dataset.group) { state.group = b.dataset.group; }
+  if (b?.dataset.group) state.group = b.dataset.group;
   else if (b?.dataset.topic) {
     const t = b.dataset.topic;
     state.topics = state.topics.includes(t) ? state.topics.filter(x => x !== t) : [...state.topics, t];
     if (t === "x" && state.topics.includes("x") && state.level < 2) state.level = 2;
   }
-  else if (b?.dataset.level) { state.level = +b.dataset.level; }
+  else if (b?.dataset.level) state.level = +b.dataset.level;
   else {
     const rm = e.target.closest("button[data-i]");
     if (rm) { state.players.splice(+rm.dataset.i, 1); save(); renderPlayers(); }
@@ -429,7 +533,6 @@ $("step").addEventListener("click", e => {
   }
   save(); render();
 });
-
 function renderPlayers() {
   $("players").innerHTML = state.players.map((p, i) =>
     `<span class="player">${esc(p)}<button type="button" data-i="${i}" aria-label="Retirer ${esc(p)}">×</button></span>`).join("");
@@ -445,7 +548,6 @@ function addPlayer(e) {
   inp.value = ""; inp.focus();
   save(); renderPlayers();
 }
-
 function validate() {
   const name = STEPS[step];
   let msg = "";
@@ -456,113 +558,492 @@ function validate() {
     else if (new Set(r.map(p => p.toLowerCase())).size < r.length) msg = "Deux joueurs ont le même prénom.";
   }
   if (name === "topics" && !state.topics.length) msg = "Choisissez au moins un sujet.";
-  if (name === "topics" || name === "level") {
-    const n = pool().length;
-    if (state.topics.length) $("pool").textContent = `${n} cartes pour votre partie`;
-  }
+  if ((name === "topics" || name === "level") && state.topics.length) $("pool").textContent = `${pool().length} cartes de questions pour votre partie`;
   $("error").textContent = msg;
   $("cta").disabled = !!msg;
 }
-
 $("cta").addEventListener("click", () => {
   if (step < STEPS.length - 1) { step++; render(); window.scrollTo(0, 0); return; }
-  launch();
+  toMenu();
 });
-$("cta2").addEventListener("click", launch);
+$("cta2").addEventListener("click", toMenu);
 $("back").addEventListener("click", () => { if (step) { step--; render(); } });
 
-function launch() {
-  const adult = state.topics.includes("x") || state.level === 3;
-  if (adult && !state.adultOk) { $("gate").hidden = false; $("gate-yes").focus(); return; }
-  startGame();
+function toMenu() {
+  if (adult() && !state.adultOk) { $("gate").hidden = false; $("gate-yes").focus(); return; }
+  store.set("played", true);
+  $("setup").hidden = true; $("play").hidden = true; $("menu").hidden = false;
+  renderMenu();
+  window.scrollTo(0, 0);
 }
-$("gate-yes").addEventListener("click", () => { state.adultOk = true; $("gate").hidden = true; startGame(); });
+$("gate-yes").addEventListener("click", () => { state.adultOk = true; $("gate").hidden = true; toMenu(); });
 $("gate-no").addEventListener("click", () => { $("gate").hidden = true; });
+$("edit").addEventListener("click", () => { $("menu").hidden = true; $("setup").hidden = false; step = 1; render(); });
 
-// ---------- Partie ----------
+// ---------- Paquets sans répétition ----------
 const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
-let decks = {}, round = 0, turn = 0, lastType = null, wakeLock = null;
-
-// Les cartes jamais vues passent en premier, même d'une soirée à l'autre.
-function buildDecks() {
-  decks = {};
-  for (const c of pool()) (decks[c.type] ||= []).push(c);
-  for (const t in decks) {
-    const fresh = decks[t].filter(c => !seen.has(c.id)), old = decks[t].filter(c => seen.has(c.id));
+let decks = {};
+// Les éléments jamais vus sortent en premier, même d'une soirée à l'autre.
+function draw(key, items) {
+  if (!items.length) return null;
+  if (!decks[key]?.length) {
+    const fresh = items.filter(c => !seen.has(c.id)), old = items.filter(c => seen.has(c.id));
     if (!fresh.length) old.forEach(c => seen.delete(c.id));
-    decks[t] = [...shuffle(old), ...shuffle(fresh)]; // pop() prend la fin : les nouvelles d'abord
+    decks[key] = [...shuffle(old), ...shuffle(fresh)];
   }
-}
-function pickType() {
-  const types = Object.keys(decks).filter(t => decks[t].length && (t !== lastType || Object.keys(decks).length === 1));
-  if (!types.length) { buildDecks(); return pickType(); }
-  let r = Math.random() * types.reduce((s, t) => s + TYPES[t].weight, 0);
-  for (const t of types) { r -= TYPES[t].weight; if (r <= 0) return t; }
-  return types[0];
-}
-function fill(text, A, B) {
-  return text
-    .replace(/\{A\}/g, A).replace(/\{B\}/g, B)
-    .replace(/\{s(\d)\}/g, (_, n) => state.sober ? `${n} point${n > 1 ? "s" : ""}` : `${n} gorgée${n > 1 ? "s" : ""}`);
-}
-
-function nextCard() {
-  const players = roster();
-  const type = pickType();
-  lastType = type;
-  const card = decks[type].pop();
-  seen.add(card.id);
+  const c = decks[key].pop();
+  seen.add(c.id);
   store.set("seen", [...seen]);
-  round++;
+  return c;
+}
 
-  const A = players[turn % players.length];
-  const others = players.filter(p => p !== A);
-  const B = others[Math.floor(Math.random() * others.length)];
-  turn++;
+// ---------- Moteur de partie ----------
+let M = null, round = 0, turn = 0, wakeLock = null;
+const P = () => roster();
+function nextPlayer() { const ps = P(); return ps[turn++ % ps.length]; }
+function otherThan(A) { const o = P().filter(p => p !== A); return o[Math.floor(Math.random() * o.length)]; }
 
-  const T = TYPES[type];
-  const couple = state.group === "c";
+function show({ html, next = "Suivant", tap = false, counter }) {
+  const el = $("card");
+  el.innerHTML = html;
+  el.classList.toggle("tap", tap);
+  el.classList.remove("enter"); void el.offsetWidth; el.classList.add("enter");
+  $("next").hidden = !next;
+  if (next) $("next").textContent = next;
+  $("counter").textContent = counter ?? `Tour ${round}`;
+  show.tap = tap;
+}
+const setColor = c => $("play").style.setProperty("--c", c);
+
+function cardHTML(type, card, A, B) {
+  const T = TYPES[type], couple = state.group === "c";
   const f = s => fill(esc(s), esc(A), esc(B));
   let text = card.text;
   if (type === "Q" && couple) text = text.replace(/^Qui de nous/, "Qui de nous deux");
-
   let html = `<span class="label">${T.name}</span>`;
   if (T.target) html += `<p class="target">${esc(A)}</p>`;
   if (type === "P") {
     const [x, y] = text.split(" // ");
     html += `<p class="text">Tu préfères…</p><div class="choices"><div>${f(x)}</div><span class="or">ou</span><div>${f(y)}</div></div>`;
-  } else {
-    html += `<p class="text">${f(text)}</p>`;
-  }
+  } else html += `<p class="text">${f(text)}</p>`;
   const rule = (couple && T.ruleC) || T.rule;
   if (rule) html += `<p class="rule">${f(rule)}</p>`;
-
-  $("play").style.setProperty("--c", T.color);
-  $("counter").textContent = `Tour ${round}`;
-  const el = $("card");
-  el.innerHTML = html;
-  el.classList.remove("enter"); void el.offsetWidth; el.classList.add("enter");
+  return html;
 }
+function byType(types) {
+  const p = pool(), out = {};
+  for (const c of p) if (types.includes(c.type)) (out[c.type] ||= []).push(c);
+  return out;
+}
+function playCard(type, items) {
+  round++;
+  const A = nextPlayer(), B = otherThan(A);
+  const card = draw("c" + type, items);
+  setColor(TYPES[type].color);
+  show({ html: cardHTML(type, card, A, B), tap: true });
+}
+// Jeu à un seul type de carte (Je n'ai jamais, Qui pourrait, Tu préfères)
+const single = (type, extra) => ({
+  name: TYPES[type].name, color: TYPES[type].color, ...extra,
+  count: () => (byType([type])[type] || []).length,
+  step() { playCard(type, byType([type])[type]); },
+});
 
-async function startGame() {
-  store.set("played", true);
-  buildDecks();
-  round = 0; lastType = null;
-  turn = Math.floor(Math.random() * roster().length);
-  $("setup").hidden = true; $("play").hidden = false;
-  nextCard();
+const MODES = {
+  mix: {
+    name: "Mix Tournée", desc: "Tous les jeux de cartes mélangés : une surprise à chaque tour.", color: "var(--coral)", wide: true,
+    count: () => pool().length,
+    start() { this.last = null; },
+    step() {
+      const groups = byType(Object.keys(TYPES));
+      const types = Object.keys(groups).filter(t => t !== this.last || Object.keys(groups).length === 1);
+      let r = Math.random() * types.reduce((s, t) => s + TYPES[t].weight, 0), type = types[0];
+      for (const t of types) { r -= TYPES[t].weight; if (r <= 0) { type = t; break; } }
+      this.last = type;
+      playCard(type, groups[type]);
+    },
+  },
+  J: single("J", { desc: "Ceux qui l'ont fait boivent." }),
+  AV: {
+    name: "Action ou Vérité", desc: "Le classique, un joueur à la fois.", color: "var(--sun)",
+    count: () => { const g = byType(["V", "A"]); return (g.V || []).length + (g.A || []).length; },
+    step() {
+      round++;
+      this.A = nextPlayer(); this.B = otherThan(this.A);
+      const g = byType(["V", "A"]);
+      setColor("var(--sun)");
+      show({ html: `<span class="label">Action ou Vérité</span><p class="target">${esc(this.A)}</p><p class="text">Tu choisis quoi ?</p>
+        <div class="btns"><button type="button" class="btn solid" data-act="V" ${g.V ? "" : "disabled"}>Vérité</button><button type="button" class="btn" data-act="A" ${g.A ? "" : "disabled"}>Action</button></div>`, next: null });
+    },
+    act(k) {
+      const card = draw("c" + k, byType([k])[k]);
+      setColor(TYPES[k].color);
+      show({ html: cardHTML(k, card, this.A, this.B), tap: true });
+    },
+  },
+  Q: single("Q", { desc: "Tout le monde pointe le coupable en même temps." }),
+  P: single("P", { desc: "Deux choix, aucune bonne réponse." }),
+  sept: {
+    name: "7 secondes", desc: "Cite 3 trucs avant la fin du chrono.", color: "var(--lime)",
+    count: () => SEPT.filter(okSimple).length,
+    step() {
+      round++;
+      this.A = nextPlayer();
+      this.it = draw("sept", SEPT.filter(okSimple));
+      clearInterval(this.timer);
+      setColor("var(--lime)");
+      show({ html: `<span class="label">7 secondes</span><p class="target">${esc(this.A)}</p><p class="text">Cite 3 ${esc(this.it.text)}</p>
+        <p class="rule">Raté : prends ${pen(2)}. Réussi : distribue ${pen(2)}.</p>
+        <div class="btns"><button type="button" class="btn solid" data-act="go">Lancer le chrono</button></div>`, next: null });
+    },
+    act(k) {
+      if (k === "go") {
+        let t = 7;
+        const tick = () => {
+          show({ html: `<span class="label">${esc(this.A)} · cite 3 ${esc(this.it.text)}</span><p class="big">${t}</p>`, next: null });
+          if (t-- <= 0) {
+            clearInterval(this.timer);
+            show({ html: `<span class="label">Temps écoulé</span><p class="text">${esc(this.A)}, tu as cité 3 ${esc(this.it.text)} ?</p>
+              <div class="btns"><button type="button" class="btn solid" data-act="ok">Réussi</button><button type="button" class="btn" data-act="ko">Raté</button></div>`, next: null });
+          }
+        };
+        tick();
+        this.timer = setInterval(tick, 1000);
+      } else {
+        show({ html: `<span class="label">7 secondes</span><p class="text">${esc(this.A)} ${k === "ok" ? `distribue ${pen(2)}.` : `prend ${pen(2)}.`}</p>`, tap: true });
+      }
+    },
+    stop() { clearInterval(this.timer); },
+  },
+  dix: {
+    name: "10/10 mais…", desc: "Une personne parfaite, un gros défaut. Tu mets combien ?", color: "var(--peach)",
+    count: () => DIX.filter(okSimple).length,
+    step() {
+      round++;
+      const it = draw("dix", DIX.filter(okSimple));
+      setColor("var(--peach)");
+      show({ html: `<span class="label">10/10 mais…</span><p class="text">Il ou elle est 10/10, mais ${esc(it.text)}.</p>
+        <p class="rule">À 3, tout le monde montre sa nouvelle note avec ses doigts. La note la plus basse et la plus haute prennent ${pen(1)}.</p>`, tap: true });
+    },
+  },
+  roi: {
+    name: "Le Roi", desc: "Le King's Cup : chaque carte du paquet a sa règle.", color: "var(--sky)",
+    count: () => 52,
+    start() { this.deck = newDeck(); this.kings = 0; },
+    step() {
+      if (!this.deck.length) {
+        show({ html: `<span class="label">Le Roi</span><p class="text">Paquet terminé !</p><p class="rule">On remélange pour une nouvelle partie ?</p>`, next: "Nouveau paquet", counter: "" });
+        this.start(); round = 0; return;
+      }
+      round++;
+      const A = nextPlayer(), c = this.deck.pop();
+      let [title, rule] = KING_RULES[c.r];
+      if (c.r === "K") {
+        this.kings++;
+        if (this.kings === 4) { title = "Quatrième roi !"; rule = state.sober ? "{A} doit faire tous les gages accumulés dans la coupe." : "{A} boit toute la coupe du roi."; }
+        else rule = state.sober ? `{A} invente un gage et le met dans la coupe. Roi n° ${this.kings} sur 4.` : `{A} verse un peu de son verre dans la coupe au centre. Roi n° ${this.kings} sur 4.`;
+      }
+      if (c.r === "A" && state.sober) rule = "Tout le monde prend {s1}, sauf {A}.";
+      setColor("var(--sky)");
+      show({ html: `<span class="label">${esc(A)} tire une carte</span><div class="hand">${pcard(c, true)}</div>
+        <p class="text">${title}</p><p class="rule">${fill(rule, esc(A))}</p>`, tap: true, counter: `${this.deck.length} cartes restantes` });
+    },
+  },
+  quiz: {
+    name: "Quiz", desc: "Culture générale : bonne réponse, tu distribues. Mauvaise, tu bois.", color: "var(--lilac)",
+    count: () => QUIZ.length,
+    step() {
+      round++;
+      this.A = nextPlayer();
+      this.it = draw("quiz", QUIZ);
+      this.order = shuffle([0, 1, 2, 3]);
+      setColor("var(--lilac)");
+      this.render(null);
+    },
+    render(picked) {
+      const btns = this.order.map(i => {
+        let cls = "btn left", txt = esc(this.it.a[i]);
+        if (picked !== null) { if (i === 0) { cls += " good"; txt = "✓ " + txt; } else if (i === picked) cls += " bad"; }
+        return `<button type="button" class="${cls}" data-act="${i}" ${picked !== null ? "disabled" : ""}>${txt}</button>`;
+      }).join("");
+      let res = "";
+      if (picked !== null) res = `<p class="text small">${picked === 0 ? `Bonne réponse ! ${esc(this.A)} distribue ${pen(2)}.` : `Raté ! ${esc(this.A)} prend ${pen(2)}.`}</p>`;
+      show({ html: `<span class="label">Quiz · ${esc(this.A)}</span><p class="text small">${esc(this.it.q)}</p><div class="btns col">${btns}</div>${res}`, next: picked !== null ? "Suivant" : null });
+    },
+    act(i) { this.render(+i); },
+  },
+  team: {
+    name: "Team Battle", desc: "Deux équipes s'affrontent sur des épreuves.", color: "var(--coral)", min: 4,
+    count: () => TEAM.filter(okSimple).length,
+    start() { this.split(); this.score = [0, 0]; this.ready = false; },
+    split() { const s = shuffle(P()), h = Math.ceil(s.length / 2); this.teams = [s.slice(0, h), s.slice(h)]; },
+    names: ["Équipe Feu", "Équipe Glace"],
+    step() {
+      setColor("var(--coral)");
+      const counter = `${this.names[0].replace("Équipe ", "")} ${this.score[0]} – ${this.score[1]} ${this.names[1].replace("Équipe ", "")}`;
+      if (!this.ready) {
+        show({ html: `<span class="label">Team Battle</span><p class="text">Voici les équipes</p>
+          <div class="teams">${this.teams.map((t, i) => `<div><b>${this.names[i]}</b><span>${t.map(esc).join(", ")}</span></div>`).join("")}</div>
+          <div class="btns"><button type="button" class="btn" data-act="mix">Refaire les équipes</button></div>`, next: "C'est parti", counter });
+        this.ready = true; return;
+      }
+      round++;
+      const it = draw("team", TEAM.filter(okSimple));
+      const ref = P()[Math.floor(Math.random() * P().length)];
+      show({ html: `<span class="label">Épreuve ${round}</span><p class="text small">${fill(esc(it.text), esc(ref))}</p>
+        <p class="rule">L'équipe perdante prend ${pen(2)} par joueur.</p>
+        <div class="btns">${this.names.map((n, i) => `<button type="button" class="btn ${i ? "" : "solid"}" data-act="w${i}">${n} gagne</button>`).join("")}</div>`, next: null, counter });
+    },
+    act(k) {
+      if (k === "mix") { this.split(); this.ready = false; return this.step(); }
+      const w = +k[1], l = 1 - w;
+      this.score[w]++;
+      show({ html: `<span class="label">Résultat</span><p class="text">${this.names[w]} marque un point !</p>
+        <p class="rule">${this.teams[l].map(esc).join(", ")} : ${pen(2)} chacun.</p>`, tap: true,
+        counter: `Feu ${this.score[0]} – ${this.score[1]} Glace` });
+    },
+  },
+  imp: {
+    name: "Imposteur", desc: "Tout le monde a le même mot, sauf l'imposteur.", color: "var(--rose)", min: 3,
+    count: () => MOTS.filter(okSimple).length,
+    step() {
+      round++;
+      const ps = P();
+      this.word = draw("imp", MOTS.filter(okSimple)).text;
+      this.imps = shuffle(ps).slice(0, ps.length >= 7 ? 2 : 1);
+      this.order = ps.slice(); this.i = 0; this.revealed = false;
+      setColor("var(--rose)");
+      this.pass();
+    },
+    pass() {
+      if (this.i >= this.order.length) {
+        const first = this.order[Math.floor(Math.random() * this.order.length)];
+        show({ html: `<span class="label">Imposteur</span><p class="text">Tout le monde a vu son mot.</p>
+          <p class="rule">${esc(first)} commence. Chacun dit un seul mot en rapport avec le mot secret, sans être trop évident. Faites deux tours, puis votez à 3 pour désigner ${this.imps.length > 1 ? "les imposteurs" : "l'imposteur"}.</p>
+          <div class="btns"><button type="button" class="btn solid" data-act="end">Révéler</button></div>`, next: null });
+        return;
+      }
+      show({ html: `<span class="label">Joueur ${this.i + 1} sur ${this.order.length}</span><p class="text">Passe le téléphone à</p><p class="target">${esc(this.order[this.i])}</p>
+        <div class="btns"><button type="button" class="btn solid" data-act="see">Voir mon mot</button></div>`, next: null });
+    },
+    act(k) {
+      if (k === "see") {
+        const me = this.order[this.i], imp = this.imps.includes(me);
+        show({ html: `<span class="label">${esc(me)}, ne montre ton écran à personne</span>
+          ${imp ? `<p class="text">Tu es l'imposteur.</p><p class="rule">Tu ne connais pas le mot. Écoute les autres et fais semblant.</p>` : `<p class="rule">Le mot secret est</p><p class="target">${esc(this.word)}</p>`}
+          <div class="btns"><button type="button" class="btn solid" data-act="hide">Cacher et passer</button></div>`, next: null });
+      } else if (k === "hide") { this.i++; this.pass(); }
+      else if (k === "end") {
+        show({ html: `<span class="label">Révélation</span><p class="rule">Le mot était</p><p class="target">${esc(this.word)}</p>
+          <p class="text small">${this.imps.length > 1 ? "Les imposteurs étaient" : "L'imposteur était"} ${this.imps.map(esc).join(" et ")}.</p>
+          <p class="rule">Démasqué : l'imposteur prend ${pen(3)}, sauf s'il devine le mot. Pas démasqué : tous les autres prennent ${pen(2)}.</p>`, next: "Nouvelle manche" });
+      }
+    },
+  },
+  defi: {
+    name: "Choisis ton défi", desc: "Trois défis, du plus facile au plus hardcore. Plus c'est dur, plus tu distribues.", color: "var(--mint)",
+    count: () => (byType(["A"]).A || []).length,
+    step() {
+      round++;
+      this.A = nextPlayer(); this.B = otherThan(this.A);
+      const items = byType(["A"]).A;
+      const picks = [];
+      for (let n = 0; n < 6 && picks.length < 3; n++) { const c = draw("defi", items); if (!picks.includes(c)) picks.push(c); }
+      picks.sort((a, b) => a.lvl - b.lvl);
+      this.picks = picks;
+      setColor("var(--mint)");
+      const tiers = [["Facile", 1], ["Moyen", 3], ["Hardcore", 5]];
+      this.tiers = tiers.slice(3 - picks.length);
+      show({ html: `<span class="label">Choisis ton défi</span><p class="target">${esc(this.A)}</p>
+        <div class="btns col">${picks.map((c, i) => `<button type="button" class="btn left" data-act="${i}"><small>${this.tiers[i][0]} · distribue ${pen(this.tiers[i][1])}</small>${fill(esc(c.text), esc(this.A), esc(this.B))}</button>`).join("")}</div>`, next: null });
+    },
+    act(k) {
+      if (k === "done" || k === "no") {
+        const n = this.tiers[this.choice][1];
+        show({ html: `<span class="label">Choisis ton défi</span><p class="text">${esc(this.A)} ${k === "done" ? `distribue ${pen(n)}.` : `prend ${pen(n)}.`}</p>`, tap: true });
+        return;
+      }
+      this.choice = +k;
+      const [tier, n] = this.tiers[this.choice];
+      show({ html: `<span class="label">${tier} · ${esc(this.A)}</span><p class="text">${fill(esc(this.picks[this.choice].text), esc(this.A), esc(this.B))}</p>
+        <p class="rule">Fait : tu distribues ${pen(n)}. Refusé : tu les prends.</p>
+        <div class="btns"><button type="button" class="btn solid" data-act="done">Fait</button><button type="button" class="btn" data-act="no">Refusé</button></div>`, next: null });
+    },
+  },
+  rn: {
+    name: "Rouge ou Noir", desc: "Quatre questions, quatre cartes. Chaque erreur coûte plus cher.", color: "var(--coral)",
+    count: () => 52,
+    start() { this.deck = newDeck(); },
+    step() {
+      round++;
+      if (this.deck.length < 4) this.deck = newDeck();
+      this.A = nextPlayer(); this.hand = []; this.q = 0;
+      setColor("var(--coral)");
+      this.ask();
+    },
+    ask() {
+      const h = this.hand, Q = [
+        ["Rouge ou noir ?", [["rouge", "Rouge"], ["noir", "Noir"]]],
+        [`Plus haut ou plus bas que ${h[0] && label(h[0])} ?`, [["haut", "Plus haut"], ["bas", "Plus bas"]]],
+        [`Entre les deux ou à l'extérieur ?`, [["in", "Entre"], ["out", "À l'extérieur"]]],
+        ["Quelle famille ?", null],
+      ][this.q];
+      const btns = Q[1] ? `<div class="btns">${Q[1].map(([k, t], i) => `<button type="button" class="btn ${i ? "" : "solid"}" data-act="${k}">${t}</button>`).join("")}</div>`
+        : `<div class="suits">${SUITS.map(s => `<button type="button" class="btn ${RED.includes(s) ? "red" : ""}" data-act="${s}" aria-label="${SUIT_NAMES[s]}">${s}</button>`).join("")}</div>`;
+      show({ html: `<span class="label">Rouge ou Noir · question ${this.q + 1} sur 4</span><p class="target">${esc(this.A)}</p>
+        <div class="hand">${h.map(c => pcard(c)).join("")}<div class="pc back"></div></div>
+        <p class="text small">${Q[0]}</p>${btns}<p class="rule">Bonne réponse : distribue ${pen(this.q + 1)}. Mauvaise : prends-les. Égalité = perdu.</p>`, next: null });
+    },
+    act(k) {
+      const c = this.deck.pop(), h = this.hand, v = c.v;
+      let ok;
+      if (this.q === 0) ok = (k === "rouge") === RED.includes(c.s);
+      if (this.q === 1) ok = k === "haut" ? v > h[0].v : v < h[0].v;
+      if (this.q === 2) { const lo = Math.min(h[0].v, h[1].v), hi = Math.max(h[0].v, h[1].v); ok = k === "in" ? v > lo && v < hi : v < lo || v > hi; }
+      if (this.q === 3) ok = k === c.s;
+      h.push(c);
+      const n = this.q + 1;
+      this.q++;
+      show({ html: `<span class="label">Rouge ou Noir · question ${n} sur 4</span><p class="target">${esc(this.A)}</p>
+        <div class="hand">${h.map(x => pcard(x)).join("")}</div>
+        <p class="text">${ok ? `Bien vu ! Distribue ${pen(n)}.` : `Raté ! Prends ${pen(n)}.`}</p>`,
+        next: this.q < 4 ? "Question suivante" : "Joueur suivant" });
+      this.pending = this.q < 4;
+    },
+    onNext() { if (this.pending) { this.pending = false; this.ask(); return true; } },
+  },
+  course: {
+    name: "Course de chevaux", desc: "Pariez sur un as. Le premier arrivé fait boire les autres.", color: "var(--lime)", wide: true,
+    count: () => 52,
+    start() { this.phase = "bets"; this.bets = Object.fromEntries(P().map((p, i) => [p, { s: SUITS[i % 4], n: 2 }])); },
+    step() {
+      setColor("var(--lime)");
+      if (this.phase === "bets") return this.renderBets();
+      if (this.phase === "over") { this.start(); return this.renderBets(); }
+      if (this.phase === "ready") {
+        const rest = shuffle(newDeck().filter(c => c.r !== "A"));
+        this.side = rest.splice(0, 6).map(c => ({ ...c, up: false }));
+        this.deck = rest; this.pos = { "♥": 0, "♦": 0, "♣": 0, "♠": 0 }; this.last = null;
+        this.phase = "race"; round = 0;
+        return this.renderRace("Les chevaux sont sur la ligne de départ.");
+      }
+      round++;
+      if (!this.deck.length) this.deck = shuffle(newDeck().filter(c => c.r !== "A"));
+      const c = this.deck.pop(); this.last = c;
+      this.pos[c.s]++;
+      let msg = `${label(c)} : le ${SUIT_NAMES[c.s]} avance !`;
+      this.side.forEach((sc, k) => {
+        if (!sc.up && SUITS.every(s => this.pos[s] >= k + 1)) {
+          sc.up = true;
+          if (this.pos[sc.s] > 0) this.pos[sc.s]--;
+          msg += ` Carte retournée : le ${SUIT_NAMES[sc.s]} recule.`;
+        }
+      });
+      const win = SUITS.find(s => this.pos[s] >= 7);
+      if (win) { this.phase = "over"; return this.renderEnd(win); }
+      this.renderRace(msg);
+    },
+    renderBets() {
+      show({ html: `<span class="label">Course de chevaux · les paris</span><p class="text small">Chacun choisit son cheval et sa mise.</p>
+        <div class="bets">${P().map((p, i) => `<div class="bet"><b>${esc(p)}</b>
+          <span class="stepper"><button type="button" data-act="m${i}" aria-label="Moins">−</button>${this.bets[p].n}<button type="button" data-act="p${i}" aria-label="Plus">+</button></span>
+          <div class="suits">${SUITS.map(s => `<button type="button" class="btn ${RED.includes(s) ? "red" : ""}" data-act="s${i}${s}" aria-pressed="${this.bets[p].s === s}" aria-label="${SUIT_NAMES[s]}">${s}</button>`).join("")}</div></div>`).join("")}</div>
+        <p class="rule">Le cheval gagnant fait distribuer le double de leur mise à ses parieurs. Les autres boivent leur mise.</p>`, next: "Lancer la course", counter: "" });
+      this.phase = "ready";
+    },
+    renderRace(msg) {
+      const cells = [];
+      cells.push(`<div class="lane"></div>`);
+      for (let k = 0; k < 8; k++) {
+        const sc = k >= 1 && k <= 6 ? this.side[k - 1] : null;
+        cells.push(sc ? `<div class="side ${sc.up ? "up" : ""} ${sc.up && RED.includes(sc.s) ? "red" : ""}">${sc.up ? label(sc) : ""}</div>` : `<div class="lane"></div>`);
+      }
+      for (const s of SUITS) {
+        cells.push(`<div class="lane ${RED.includes(s) ? "red" : ""}">${s}</div>`);
+        for (let k = 0; k < 8; k++) cells.push(`<div class="${this.pos[s] === k ? "horse" : ""} ${k === 7 ? "goal" : ""} ${RED.includes(s) ? "red" : ""}">${this.pos[s] === k ? "A" + s : ""}</div>`);
+      }
+      show({ html: `<span class="label">Course de chevaux</span><div class="track">${cells.join("")}</div><p class="text small">${msg}</p>`, next: "Tirer une carte", counter: `Carte ${round}` });
+    },
+    renderEnd(win) {
+      const res = P().map(p => { const b = this.bets[p]; return b.s === win ? `${esc(p)} distribue ${pen(b.n * 2)}` : `${esc(p)} prend ${pen(b.n)}`; });
+      show({ html: `<span class="label">Arrivée</span><p class="text">L'as de ${SUIT_NAMES[win]} gagne la course !</p><ul class="results">${res.map(r => `<li>${r}</li>`).join("")}</ul>`, next: "Nouvelle course", counter: "" });
+    },
+    act(k) {
+      const b = this.bets[P()[+k.match(/\d+/)[0]]];
+      if (k[0] === "m") b.n = Math.max(1, b.n - 1);
+      if (k[0] === "p") b.n = Math.min(5, b.n + 1);
+      if (k[0] === "s") b.s = k.replace(/^s\d+/, "");
+      this.renderBets();
+    },
+  },
+};
+const MODES_LIST = Object.keys(MODES);
+
+// Cartes à jouer
+const SUITS = ["♥", "♦", "♣", "♠"], RED = ["♥", "♦"];
+const SUIT_NAMES = { "♥": "cœur", "♦": "carreau", "♣": "trèfle", "♠": "pique" };
+const RANKS = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "V", "D", "K"];
+const RANK_NAMES = { A: "As", V: "Valet", D: "Dame", K: "Roi" };
+const newDeck = () => shuffle(SUITS.flatMap(s => RANKS.map((r, i) => ({ s, r, v: i === 0 ? 14 : i + 1 }))));
+const label = c => `${RANK_NAMES[c.r] || c.r} de ${SUIT_NAMES[c.s]}`;
+const pcard = (c, lg) => `<div class="pc ${lg ? "lg" : ""} ${RED.includes(c.s) ? "red" : ""}" role="img" aria-label="${label(c)}"><span>${c.r === "K" ? "R" : c.r}</span><span class="s">${c.s}</span><span class="r2">${c.r === "K" ? "R" : c.r}</span></div>`;
+const KING_RULES = {
+  A: ["Cascade", "Tout le monde commence à boire en même temps que {A}. Tu ne peux t'arrêter que quand la personne à ta droite s'est arrêtée."],
+  2: ["Pour toi", "{A} choisit quelqu'un qui prend {s2}."],
+  3: ["Pour moi", "{A} prend {s3}."],
+  4: ["Le sol", "Le dernier à toucher le sol prend {s2}."],
+  5: ["Le pouce", "{A} devient maître du pouce. Quand {A} pose discrètement son pouce sur la table, le dernier à l'imiter prend {s2}. Valable jusqu'au prochain 5."],
+  6: ["Le ciel", "Le dernier à lever la main prend {s2}."],
+  7: ["Je n'ai jamais", "Tout le monde lève 3 doigts. Chacun son tour dit « Je n'ai jamais… ». Ceux qui l'ont fait baissent un doigt. Le premier à zéro prend {s3}."],
+  8: ["Partenaire", "{A} choisit un partenaire. Quand l'un boit, l'autre aussi, jusqu'au prochain 8."],
+  9: ["Rime", "{A} dit un mot. Chacun son tour trouve une rime. Le premier qui sèche prend {s2}."],
+  10: ["Thème", "{A} choisit un thème. Chacun son tour cite un élément. Le premier qui sèche prend {s2}."],
+  V: ["Nouvelle règle", "{A} invente une règle valable jusqu'à la fin du paquet. Chaque infraction : {s1}."],
+  D: ["Questions", "{A} pose une question à quelqu'un, qui doit répondre par une question à un autre joueur, et ainsi de suite. Le premier qui hésite ou répond normalement prend {s2}."],
+  K: ["Coupe du roi", ""],
+};
+
+// ---------- Menu ----------
+function renderMenu() {
+  const n = P().length;
+  const lv = LEVELS.find(l => l.id === state.level).name;
+  const tp = TOPICS.filter(t => state.topics.includes(t.id)).map(t => t.name).join(", ");
+  $("summary").innerHTML = `<b>${P().map(esc).join(", ")}</b><br>${GROUPS.find(g => g.id === state.group).name} · ${lv} · ${tp}${state.sober ? " · sans alcool" : ""}`;
+  $("modes").innerHTML = MODES_LIST.map(id => {
+    const m = MODES[id], min = m.min || 2, cnt = m.count();
+    const why = n < min ? `Il faut au moins ${min} joueurs.` : !cnt ? "Aucune carte avec vos sujets. Changez les réglages." : "";
+    return `<button type="button" class="mode ${m.wide ? "wide" : ""}" style="--c:${m.color}" data-mode="${id}" ${why ? "disabled" : ""}><strong>${m.name}</strong><span>${why || m.desc}</span></button>`;
+  }).join("");
+}
+$("modes").addEventListener("click", e => {
+  const b = e.target.closest("[data-mode]");
+  if (b && !b.disabled) startMode(b.dataset.mode);
+});
+
+async function startMode(id) {
+  M = MODES[id];
+  round = 0;
+  turn = Math.floor(Math.random() * P().length);
+  M.start?.();
+  $("menu").hidden = true; $("play").hidden = false;
+  M.step();
   $("next").focus();
   try { wakeLock = await navigator.wakeLock?.request("screen"); } catch {}
 }
-function quitGame() {
-  $("play").hidden = true; $("setup").hidden = false;
-  step = 0; render();
+function advance() { if (M.onNext?.()) return; M.step(); }
+$("next").addEventListener("click", advance);
+$("card").addEventListener("click", e => {
+  const b = e.target.closest("[data-act]");
+  if (b) { if (!b.disabled) M.act(b.dataset.act); return; }
+  if (show.tap) advance();
+});
+$("quit").addEventListener("click", () => {
+  M?.stop?.();
+  $("play").hidden = true;
+  toMenu();
   try { wakeLock?.release(); } catch {}
   wakeLock = null;
-}
-$("next").addEventListener("click", nextCard);
-$("card").addEventListener("click", nextCard);
-$("quit").addEventListener("click", quitGame);
+});
 
 render();
 </script>
