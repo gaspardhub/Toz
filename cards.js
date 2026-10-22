@@ -534,7 +534,6 @@ Q|s|1||Qui de nous dit toujours qu'il ne boira pas et finit par tout boire ?
 Q|s|2||Qui de nous a le plus de photos compromettantes sur le téléphone des autres ?
 Q|s|2||Qui de nous oublie toujours tout le lendemain ?
 Q|s|2||Qui de nous pourrait se marier bourré ?
-Q|x|2||Qui de nous a le meilleur jeu de drague ?
 Q|x|2||Qui de nous a le plus de contacts enregistrés avec des surnoms ?
 Q|x|2||Qui de nous a déjà eu un plan cul avec un ex ?
 Q|x|2||Qui de nous rêve secrètement d'une aventure avec un prof ou un patron ?
@@ -1163,7 +1162,6 @@ Q|x|2||Qui de nous enchaîne les plans d'un soir sans jamais rappeler ?
 Q|x|2||Qui de nous aura une anecdote coquine à raconter demain matin ?
 Q|x|3||Qui de nous a déjà couché avec deux personnes de la même bande de potes ?
 Q|x|3||Qui de nous a déjà payé une chambre d'hôtel pour une seule heure ?
-Q|x|3||Qui de nous a déjà fait l'amour sur son lieu de travail ?
 Q|x|3||Qui de nous a déjà fait l'amour dans les toilettes d'un avion ?
 Q|x|3||Qui de nous a déjà fait un plan à trois sans jamais le dire ?
 Q|x|3||Qui de nous a le moins de limites ?
@@ -1296,4 +1294,74 @@ A|x|3||Décris en 30 secondes ce que tu ferais à {B} si vous étiez seuls. Si {
 A|x|3|c|Enlève un vêtement à {B} avec les dents.
 A|x|3|c|Embrasse {B} pendant 30 secondes sans t'arrêter.
 A|x|3|c|Laisse {B} choisir ta tenue, ou ton absence de tenue, pour la fin de la soirée.
+Q|x|2||Qui de nous a déjà embrassé quelqu'un à l'arrière d'un taxi en rentrant de soirée ?
+Q|x|2||Qui de nous a déjà envoyé « tu dors ? » avec une idée derrière la tête ?
+Q|x|2||Qui de nous a la playlist la plus sexy prête quand quelqu'un passe chez lui ?
+Q|x|2||Qui de nous a déjà fait un suçon exprès pour que ça se voie ?
+Q|x|2||Qui de nous craque dès qu'il entend un accent ?
+Q|x|2||Qui de nous a la meilleure technique pour embrasser ?
+Q|x|2||Qui de nous passe en mode séduction après deux verres ?
+Q|x|2||Qui de nous a déjà dragué quelqu'un à la salle de sport ?
+Q|x|2||Qui de nous propose « un dernier verre chez moi » sans avoir une seule bouteille chez lui ?
+Q|x|2||Qui de nous a déjà piqué un t-shirt en partant de chez un date ?
+Q|x|2||Qui de nous a déjà eu un rencard si chaud que le repas n'a jamais été fini ?
+Q|x|2||Qui de nous garde une tenue spéciale « au cas où » dans son placard ?
+Q|x|2||Qui de nous enchaîne les « on se fait un verre » qui finissent au lit ?
+Q|x|2||Qui de nous se fait le plus draguer en soirée ?
+Q|x|2||Qui de nous est le plus long à comprendre qu'on le drague ?
+Q|x|2||Qui de nous a déjà fait un strip-tease à quelqu'un ?
+Q|x|2||Qui de nous a déjà réveillé ses voisins ?
+Q|x|2||Qui de nous écrirait le meilleur sexto ?
+Q|x|2||Qui de nous a déjà envoyé un sexto à son patron par erreur ?
+Q|x|2||Qui de nous a déjà menti sur son body count ?
+Q|x|2||Qui de nous a déjà eu un plan d'un soir dont il ne connaît toujours pas le prénom ?
+Q|x|2||Qui de nous a déjà été dragué par quelqu'un de beaucoup plus âgé ?
+Q|x|2||Qui de nous a déjà joué à action ou vérité jusqu'à finir en sous-vêtements ?
+Q|x|2||Qui de nous serait le plus à l'aise tout nu devant nous ?
+Q|x|2||Qui de nous a déjà été vu nu par un voisin ?
+Q|x|2||Qui de nous soigne le plus ses sous-vêtements ?
+Q|x|2||Qui de nous a déjà ramené un rencard chez lui moins d'une heure après l'avoir rencontré ?
+Q|x|2||Qui de nous devient le plus tactile après minuit ?
+Q|x|2||Qui de nous dort tout nu ?
+Q|x|2||Qui de nous se balade tout nu chez lui ?
+Q|x|2||Qui de nous enlève ses vêtements le plus vite ?
+Q|x|2||Qui de nous se fait toujours prier mais finit toujours par dire oui ?
+Q|x|3||Qui de nous a déjà fait l'amour plus de trois fois dans la même nuit ?
+Q|x|3||Qui de nous s'est déjà fait surprendre par ses parents en pleine action ?
+Q|x|3||Qui de nous a déjà couché avec le meilleur ami de son ex ?
+Q|x|3||Qui de nous a déjà regardé un porno avec quelqu'un ?
+Q|x|3||Qui de nous a déjà fait l'amour au téléphone ou en visio ?
+Q|x|3||Qui de nous a le plus gros fantasme d'uniforme ?
+Q|x|3||Qui de nous aime qu'on lui parle crûment au lit ?
+Q|x|3||Qui de nous a déjà testé les menottes ?
+Q|x|3||Qui de nous a déjà fait un jeu de rôle au lit ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une voiture en plein jour ?
+Q|x|3||Qui de nous a déjà fait l'amour sur une plage ?
+Q|x|3||Qui de nous est le plus doué avec sa bouche ?
+Q|x|3||Qui de nous part en vacances avec un sextoy dans sa valise ?
+Q|x|3||Qui de nous s'est déjà fait livrer un sextoy au bureau ?
+Q|x|3||Qui de nous a un faible pour les gens en couple ?
+Q|x|3||Qui de nous a déjà fait l'amour là où il risquait vraiment de se faire arrêter ?
+Q|x|3||Qui de nous choisirait un plan à trois plutôt qu'un dîner romantique ?
+Q|x|3||Qui de nous a déjà fini la nuit avec un inconnu rencontré en festival ?
+Q|x|3||Qui de nous a déjà été le troisième dans un couple ?
+Q|x|3||Qui de nous ferait carrière dans le porno ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un uniquement pour son physique ?
+Q|x|3||Qui de nous a déjà fait l'amour en public sans se faire prendre ?
+Q|x|3||Qui de nous a déjà regretté un plan en plein milieu ?
+Q|x|3||Qui de nous a déjà testé le sexe tantrique ?
+Q|x|3||Qui de nous a la plus longue liste de fantasmes ?
+Q|x|3||Qui de nous a déjà proposé un plan à trois à sa moitié ?
+Q|x|3||Qui de nous s'est déjà fait dominer par quelqu'un de plus timide que lui ?
+Q|x|3||Qui de nous a déjà eu une histoire avec quelqu'un de beaucoup plus jeune, mais majeur ?
+Q|x|3|p|Qui de nous a déjà simulé avec quelqu'un d'ici ?
+Q|x|3|pn|Qui de nous a déjà embrassé deux personnes autour de cette table ?
+Q|x|3|pn|Qui de nous tenterait un plan à trois avec deux personnes d'ici ?
+Q|x|2|pn|Qui de nous trouve {B} le plus sexy ?
+Q|x|2|pn|Qui de nous a déjà dragué {B} ?
+Q|x|2|pn|Qui de nous a déjà parlé de sexe avec {B} ?
+Q|x|2|p|Qui de nous en sait le plus sur la vie sexuelle de {B} ?
+Q|x|3|pn|Qui de nous formerait le couple le plus chaud avec {B} ?
+Q|x|3|pn|Qui de nous {B} a déjà imaginé sans vêtements ?
+Q|x|3|pn|Qui de nous ferait un plan à trois avec {B} ?
 `;
