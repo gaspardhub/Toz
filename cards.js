@@ -1364,4 +1364,44 @@ Q|x|2|p|Qui de nous en sait le plus sur la vie sexuelle de {B} ?
 Q|x|3|pn|Qui de nous formerait le couple le plus chaud avec {B} ?
 Q|x|3|pn|Qui de nous {B} a déjà imaginé sans vêtements ?
 Q|x|3|pn|Qui de nous ferait un plan à trois avec {B} ?
+Q|x|2||Qui de nous gérerait un sex friend pendant des mois sans jamais s'attacher ?
+Q|x|2||Qui de nous se bloquerait le dos en tentant une position beaucoup trop ambitieuse ?
+Q|x|2||Qui de nous tient une liste secrète de ses conquêtes ?
+Q|x|2||Qui de nous tombe amoureux après une seule nuit ?
+Q|x|2||Qui de nous enjolive toujours un peu ses nuits quand il les raconte ?
+Q|x|2||Qui de nous devient insupportable après un mois sans rien ?
+Q|x|2||Qui de nous a le type physique le plus inattendu ?
+Q|x|2||Qui de nous écrit des messages coquins en pleine réunion ?
+Q|x|2||Qui de nous cache un tatouage ou un piercing à un endroit que peu de gens ont vu ?
+Q|x|2||Qui de nous a déjà eu une histoire uniquement par messages ?
+Q|x|2||Qui de nous a un mot de sécurité, juste au cas où ?
+Q|x|2||Qui de nous a déjà lu des fanfictions érotiques ?
+Q|x|2||Qui de nous a le tiroir à lingerie le mieux rempli ?
+Q|x|2||Qui de nous craque toujours pour la même partie du corps ?
+Q|x|2||Qui de nous a un sex appeal naturel sans même essayer ?
+Q|x|2||Qui de nous a déjà dit non à quelqu'un de vraiment canon ?
+Q|x|2||Qui de nous est le plus câlin et romantique juste après ?
+Q|x|2||Qui de nous a déjà stalké un date de fond en comble avant de le rencontrer ?
+Q|x|2||Qui de nous a toujours un préservatif dans son portefeuille, au cas où ?
+Q|x|2||Qui de nous galère le plus à ouvrir un préservatif ?
+Q|x|2||Qui de nous a déjà eu un fou rire en plein milieu ?
+Q|x|2||Qui de nous pourrait embrasser plus de quatre personnes dans la même soirée ?
+Q|x|2||Qui de nous a déjà vécu un date d'appli catastrophique qui a fini au lit quand même ?
+Q|x|2||Qui de nous est abonné à un OnlyFans ?
+Q|x|3||Qui de nous préfère les préliminaires au reste ?
+Q|x|3||Qui de nous préfère rapide et intense plutôt que long et tendre ?
+Q|x|3||Qui de nous aime les morsures et les griffures ?
+Q|x|3||Qui de nous a déjà crié le mauvais prénom au pire moment ?
+Q|x|3||Qui de nous est le plus entreprenant au lit ?
+Q|x|3||Qui de nous a déjà sorti la chantilly ou le chocolat ailleurs qu'en cuisine ?
+Q|x|3||Qui de nous a un côté exhibitionniste ? Et un côté voyeur ?
+Q|x|3||Qui de nous a le plus gros appétit sexuel ?
+Q|x|3||Qui de nous a la tête la plus drôle au moment fatidique ?
+Q|x|3||Qui de nous a déjà eu une panne au pire moment ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un placard ?
+Q|x|3||Qui de nous a déjà fait semblant de s'intéresser à quelqu'un juste pour finir la nuit avec ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un pour se venger d'un ex ?
+Q|x|3||Qui de nous enchaîne les quickies dans des endroits improbables ?
+Q|x|3||Qui de nous garde les talons ou les bottes au lit ?
+Q|x|3|p|Qui de nous en sait le plus sur la vie sexuelle de tout le groupe ?
 `;
