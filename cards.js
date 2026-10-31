@@ -4276,4 +4276,193 @@ Q|x|3|pn|Qui de nous a déjà imaginé {B} dans une tenue sexy ?
 Q|x|3|pn|Qui de nous aimerait savoir comment est {B} au lit ?
 Q|x|3|p|Qui de nous connaît une anecdote coquine sur {B} que {B} ignore ?
 Q|x|3|p|Qui de nous a déjà couché avec quelqu'un qui avait aussi couché avec {B} ?
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un que j'avais rencontré moins d'une heure avant dans un bar.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un en sachant que ses colocs écoutaient à la porte.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un dont je n'aimais pas du tout le caractère, juste pour le physique.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un puis découvert qu'on avait un ex en commun.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un puis découvert qu'il connaissait mes parents.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un puis appris qu'il travaillait dans la même boîte que moi.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un que j'ai ensuite croisé à un entretien d'embauche.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui est devenu ensuite mon collègue.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui est devenu ensuite mon beau-frère ou ma belle-sœur.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui est sorti ensuite avec un de mes potes.
+J|x|3||Je n'ai jamais fait l'amour avec le crush de mon meilleur ami sans le lui dire.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un juste après avoir été largué.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un le soir même où j'ai largué quelqu'un d'autre.
+J|x|3||Je n'ai jamais fait l'amour avec deux personnes différentes le même week-end, dans deux villes différentes.
+J|x|3||Je n'ai jamais enchaîné deux plans d'un soir le même soir.
+J|x|3||Je n'ai jamais eu un plan d'un soir qui m'a envoyé un message d'amour le lendemain.
+J|x|3||Je n'ai jamais eu un plan d'un soir qui voulait me présenter à ses parents dès le lendemain.
+J|x|3||Je n'ai jamais eu un plan d'un soir qui m'a suivi sur tous mes réseaux dans l'heure.
+J|x|3||Je n'ai jamais bloqué un plan d'un soir avant même d'être rentré chez moi.
+J|x|3||Je n'ai jamais laissé un plan d'un soir dormir chez moi alors que je voulais qu'il parte.
+J|x|3||Je n'ai jamais fait semblant de devoir partir tôt au travail pour qu'un plan d'un soir s'en aille.
+J|x|3||Je n'ai jamais pris le petit-déjeuner avec un plan d'un soir sans savoir quoi lui dire.
+J|x|3||Je n'ai jamais eu un plan d'un soir avec quelqu'un dont j'ai découvert l'âge exact après, et été surpris.
+J|x|3||Je n'ai jamais eu une nuit tellement folle que je ne l'ai jamais racontée à personne.
+J|x|3||Je n'ai jamais eu une nuit dont je raconte une version censurée à mes potes.
+J|x|3||Je n'ai jamais eu une nuit où on a testé plus de cinq positions.
+J|x|3||Je n'ai jamais fait l'amour en essayant une position vue dans un livre ou sur Internet, et échoué lamentablement.
+J|x|3||Je n'ai jamais eu une nuit qui s'est terminée par un fou rire de vingt minutes.
+J|x|3||Je n'ai jamais eu une nuit qui a commencé par un fou rire et fini en passion.
+J|x|3||Je n'ai jamais fait l'amour en ayant le hoquet.
+J|x|3||Je n'ai jamais fait l'amour avec un chat qui nous fixait depuis l'armoire.
+J|x|3||Je n'ai jamais fait l'amour pendant qu'un voisin passait l'aspirateur.
+J|x|3||Je n'ai jamais fait l'amour pendant un orage avec les fenêtres ouvertes.
+J|x|3||Je n'ai jamais fait l'amour pendant une coupure de courant.
+J|x|3||Je n'ai jamais fait l'amour à la lumière d'une lampe frontale.
+J|x|3||Je n'ai jamais fait l'amour dans un sac de couchage pour deux.
+J|x|3||Je n'ai jamais fait l'amour sous une couette en plein air, à la montagne.
+J|x|3||Je n'ai jamais fait l'amour dans une chambre d'hôtel avec vue en laissant les rideaux grands ouverts.
+J|x|3||Je n'ai jamais fait l'amour dans un jacuzzi d'hôtel interdit après 22 h.
+J|x|3||Je n'ai jamais fait l'amour dans une piscine privée pendant que les propriétaires dormaient.
+J|x|3||Je n'ai jamais fait l'amour dans un bateau.
+J|x|3||Je n'ai jamais fait l'amour dans une voiture tellement petite que j'ai eu une crampe.
+J|x|3||Je n'ai jamais fait l'amour dans un fauteuil de bureau à roulettes.
+J|x|3||Je n'ai jamais fait l'amour sur un plan de travail de cuisine.
+J|x|3||Je n'ai jamais fait l'amour contre une porte qui s'est ouverte toute seule.
+J|x|3||Je n'ai jamais fait l'amour dans un escalier.
+J|x|3||Je n'ai jamais fait l'amour sur un tapis et eu des brûlures aux genoux.
+J|x|3||Je n'ai jamais eu les genoux ou les coudes en sang après une nuit trop énergique.
+J|x|3||Je n'ai jamais eu besoin d'une semaine pour m'en remettre physiquement.
+J|x|3||Je n'ai jamais pris un bain glacé après une nuit trop intense.
+J|x|3||Je n'ai jamais fait l'amour juste avant une compétition sportive ou un examen.
+J|x|3||Je n'ai jamais fait l'amour juste avant de passer un entretien d'embauche.
+J|x|3||Je n'ai jamais fait l'amour en arrivant en retard à un mariage à cause de ça.
+J|x|3||Je n'ai jamais raté un avion ou un train à cause d'une nuit qui ne finissait pas.
+J|x|3||Je n'ai jamais annulé un dîner de famille pour rester au lit avec quelqu'un.
+J|x|3||Je n'ai jamais menti à mon patron pour rester au lit avec quelqu'un.
+J|x|3||Je n'ai jamais passé un week-end entier sans sortir du lit.
+J|x|3||Je n'ai jamais commandé trois repas livrés dans la même journée pour ne pas sortir du lit.
+J|x|3||Je n'ai jamais fait l'amour plus de fois qu'il n'y a de jours dans une semaine, en une semaine.
+J|x|3||Je n'ai jamais tenu un compte de mes nuits dans un carnet ou une appli.
+J|x|3||Je n'ai jamais calculé mon body count sur mes doigts et manqué de doigts.
+J|x|3||Je n'ai jamais oublié quelqu'un dans le décompte de mon body count et m'en suis souvenu après.
+J|x|3||Je n'ai jamais eu une conversation sur mon body count qui a mal tourné.
+J|x|3||Je n'ai jamais quitté quelqu'un à cause de son body count.
+J|x|3||Je n'ai jamais été quitté à cause de mon body count.
+J|x|3||Je n'ai jamais menti à ma moitié sur le nombre de personnes avec qui j'avais couché.
+J|x|3||Je n'ai jamais découvert que ma moitié avait couché avec quelqu'un que je connaissais.
+J|x|3||Je n'ai jamais couché avec quelqu'un dont ma moitié actuelle était l'ex.
+J|x|3||Je n'ai jamais refusé un plan avec quelqu'un d'incroyable parce que j'étais en couple, et regretté.
+J|x|3||Je n'ai jamais dit oui à un plan en étant en couple, et regretté.
+J|x|3||Je n'ai jamais eu une aventure dont la moitié de l'autre ne sait toujours rien.
+J|x|3||Je n'ai jamais reçu un message de la moitié de quelqu'un avec qui j'avais couché.
+J|x|3||Je n'ai jamais été pris en flagrant délit d'infidélité.
+J|x|3||Je n'ai jamais pris quelqu'un en flagrant délit d'infidélité.
+J|x|3|pn|Je n'ai jamais pensé que quelqu'un ici avait l'air d'être très doué avec ses mains.
+J|x|3|pn|Je n'ai jamais rêvé d'un plan à trois avec deux personnes de cette pièce.
+J|x|3|pn|Je n'ai jamais pensé que {B} cachait un côté très coquin.
+J|x|3|p|Je n'ai jamais eu une aventure dont {B} est au courant et pas les autres.
+Q|x|3||Qui de nous a déjà couché avec quelqu'un rencontré moins d'une heure avant dans un bar ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un uniquement pour son physique, en détestant son caractère ?
+Q|x|3||Qui de nous a déjà découvert après coup qu'il avait un ex en commun avec son plan d'un soir ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un qui connaissait ses parents ?
+Q|x|3||Qui de nous a déjà croisé un plan d'un soir à un entretien d'embauche ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un devenu ensuite son collègue ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un devenu ensuite son beau-frère ou sa belle-sœur ?
+Q|x|3||Qui de nous a déjà couché avec le crush de son meilleur ami ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un le soir même d'une rupture ?
+Q|x|3||Qui de nous a déjà enchaîné deux plans d'un soir le même soir ?
+Q|x|3||Qui de nous a déjà reçu une déclaration d'amour d'un plan d'un soir le lendemain ?
+Q|x|3||Qui de nous a déjà bloqué un plan d'un soir avant même d'être rentré chez lui ?
+Q|x|3||Qui de nous a déjà inventé un travail tôt le matin pour faire partir quelqu'un ?
+Q|x|3||Qui de nous a une nuit qu'il n'a jamais racontée à personne ?
+Q|x|3||Qui de nous raconte toujours une version censurée de ses nuits ?
+Q|x|3||Qui de nous a déjà testé plus de cinq positions dans la même nuit ?
+Q|x|3||Qui de nous a déjà échoué lamentablement en tentant une position vue sur Internet ?
+Q|x|3||Qui de nous a déjà fait l'amour pendant une coupure de courant ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un sac de couchage pour deux ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un jacuzzi d'hôtel après l'heure de fermeture ?
+Q|x|3||Qui de nous a déjà fait l'amour dans la piscine de quelqu'un pendant qu'il dormait ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un bateau ?
+Q|x|3||Qui de nous a déjà fait l'amour sur un plan de travail de cuisine ?
+Q|x|3||Qui de nous a déjà fait l'amour contre une porte qui s'est ouverte toute seule ?
+Q|x|3||Qui de nous a déjà eu des brûlures de tapis aux genoux ?
+Q|x|3||Qui de nous a déjà eu besoin d'une semaine pour se remettre physiquement d'une nuit ?
+Q|x|3||Qui de nous a déjà fait l'amour juste avant un examen ou une compétition ?
+Q|x|3||Qui de nous a déjà raté un train ou un avion à cause d'une nuit qui ne finissait pas ?
+Q|x|3||Qui de nous a déjà menti à son patron pour rester au lit avec quelqu'un ?
+Q|x|3||Qui de nous a déjà passé un week-end entier sans sortir du lit ?
+Q|x|3||Qui de nous tient un compte de ses nuits dans une appli ?
+Q|x|3||Qui de nous a déjà manqué de doigts pour compter son body count ?
+Q|x|3||Qui de nous a déjà quitté quelqu'un à cause de son body count ?
+Q|x|3||Qui de nous a déjà été quitté à cause de son body count ?
+Q|x|3||Qui de nous a déjà menti à sa moitié sur son nombre de partenaires ?
+Q|x|3||Qui de nous a déjà découvert que sa moitié avait couché avec quelqu'un qu'il connaissait ?
+Q|x|3||Qui de nous a déjà refusé un plan incroyable parce qu'il était en couple ?
+Q|x|3||Qui de nous a déjà reçu un message de la moitié de quelqu'un avec qui il avait couché ?
+Q|x|3||Qui de nous a déjà été pris en flagrant délit d'infidélité ?
+Q|x|3||Qui de nous a déjà pris quelqu'un en flagrant délit d'infidélité ?
+Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un de beaucoup plus riche ?
+Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un qui avait des enfants ?
+Q|x|3||Qui de nous a déjà eu une aventure avec un ou une divorcée fraîchement séparée ?
+Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un de fiancé ?
+Q|x|3||Qui de nous a déjà eu une aventure pendant un enterrement de vie de jeune fille ou de garçon ?
+Q|x|3||Qui de nous a déjà eu une aventure pendant un festival ?
+Q|x|3||Qui de nous a déjà eu une aventure pendant un séjour au ski ?
+Q|x|3||Qui de nous a déjà eu une aventure pendant un Erasmus ?
+Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un dont il ne parlait pas la langue ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un rencontré dans un avion ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un rencontré en faisant ses courses ?
+Q|x|3||Qui de nous a déjà couché avec son coiffeur, son kiné ou son coach ?
+Q|x|3||Qui de nous a déjà couché avec un ou une prof de fac ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un qu'il avait juré de ne jamais toucher ?
+Q|x|3||Qui de nous a déjà couché avec un ex pendant qu'il était en couple avec quelqu'un d'autre ?
+Q|x|3||Qui de nous a déjà couché avec deux personnes qui sont ensuite sorties ensemble ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un et son meilleur ami, à des moments différents ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un de son équipe de sport ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un de sa promo dans tous les sens du terme ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un dans le dortoir d'une auberge de jeunesse ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un dans une colocation à six ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un van aménagé ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une cabine de bateau de croisière ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une chambre d'étudiant de 9 m² ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un lit superposé, en haut ?
+Q|x|3||Qui de nous a déjà fait l'amour dans la chambre de ses parents en leur absence ?
+Q|x|3||Qui de nous a déjà fait l'amour chez ses beaux-parents pendant un repas de famille ?
+Q|x|3||Qui de nous a déjà fait l'amour dans les vestiaires après un match ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une salle de réunion ?
+Q|x|3||Qui de nous a déjà fait l'amour sur un toit d'immeuble ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une forêt en plein jour ?
+Q|x|3||Qui de nous a déjà fait l'amour sur une plage nudiste ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une cabine de plage ?
+Q|x|3||Qui de nous a déjà fait l'amour au cinéma ?
+Q|x|3||Qui de nous a déjà fait l'amour en voiture devant chez ses parents ?
+Q|x|3||Qui de nous a déjà fait l'amour en sachant qu'il serait en retard au travail ?
+Q|x|3||Qui de nous a déjà fait l'amour en sachant très bien que les murs étaient trop fins ?
+Q|x|3||Qui de nous a déjà dû s'excuser auprès de ses voisins le lendemain ?
+Q|x|3||Qui de nous a déjà entendu ses voisins applaudir ?
+Q|x|3||Qui de nous a déjà reçu une plainte écrite du syndic pour le bruit ?
+Q|x|3||Qui de nous a déjà fait l'amour en essayant de ne pas réveiller un bébé ?
+Q|x|3||Qui de nous a déjà dû cacher quelqu'un dans la douche ?
+Q|x|3||Qui de nous a déjà fait passer un plan d'un soir pour un livreur ?
+Q|x|3||Qui de nous a déjà fait passer un plan d'un soir pour un collègue devant ses parents ?
+Q|x|3||Qui de nous a déjà dormi chez un plan d'un soir et rencontré ses enfants le lendemain ?
+Q|x|3||Qui de nous a déjà dormi chez un plan d'un soir et découvert qu'il vivait chez ses parents ?
+Q|x|3||Qui de nous a déjà dormi chez un plan d'un soir et découvert une photo de son ex partout ?
+Q|x|3||Qui de nous a déjà dormi chez quelqu'un et découvert une collection de sextoys impressionnante ?
+Q|x|3||Qui de nous a déjà découvert un fétiche bizarre chez quelqu'un en pleine nuit ?
+Q|x|3||Qui de nous a déjà accepté un truc au lit juste pour pouvoir le raconter ?
+Q|x|3||Qui de nous a déjà proposé un truc au lit en pensant que l'autre dirait non, et il a dit oui ?
+Q|x|3||Qui de nous a déjà réalisé un fantasme et été déçu ?
+Q|x|3||Qui de nous a déjà réalisé un fantasme et voulu recommencer le soir même ?
+Q|x|3||Qui de nous a déjà eu une nuit tellement bien qu'il en parle encore des années après ?
+Q|x|3||Qui de nous a déjà eu une nuit tellement nulle qu'il en rit encore ?
+Q|x|3||Qui de nous a déjà dû arrêter parce que quelqu'un s'était blessé ?
+Q|x|3||Qui de nous a déjà dû arrêter parce que quelqu'un était trop bourré ?
+Q|x|3||Qui de nous a déjà eu une nuit où il a perdu la notion du temps jusqu'au lever du soleil ?
+Q|x|3||Qui de nous a déjà eu un orgasme tellement fort qu'il a crié ?
+Q|x|3||Qui de nous a déjà eu un orgasme dans un lieu public ?
+Q|x|3||Qui de nous a déjà simulé un orgasme tellement bien que l'autre a applaudi ?
+Q|x|3||Qui de nous a la réputation la plus sulfureuse auprès de ses ex ?
+Q|x|3||Qui de nous a déjà été recommandé par un ex à un ami ?
+Q|x|3||Qui de nous a déjà recommandé un ex à un ami pour ses talents ?
+Q|x|3|pn|Qui de nous a déjà fait l'amour avec quelqu'un que tout le monde ici trouve moche ?
+Q|x|3|pn|Qui de nous a déjà eu un rêve coquin avec quelqu'un d'ici, et n'ose pas le dire ?
+Q|x|3|pn|Qui de nous ferait le plan à trois le plus équilibré avec deux personnes d'ici ?
+Q|x|3|pn|Qui de nous a déjà regardé quelqu'un d'ici d'une façon pas très innocente ce soir ?
+Q|x|3|pn|Qui de nous {B} trouverait le plus doué au lit ?
+Q|x|3|pn|Qui de nous a déjà pensé que {B} cachait un côté très coquin ?
+Q|x|3|p|Qui de nous sait avec qui {B} a couché en dernier ?
 `;
