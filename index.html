@@ -369,6 +369,14 @@ button:disabled { cursor: not-allowed; }
 .vibe[aria-checked="true"] { background: var(--c); border-color: var(--c); color: var(--on-card); }
 .vibe[aria-checked="true"] span { color: var(--on-card); opacity: .8; }
 .toggle.slim { padding: 10px 14px; border-radius: 14px; }
+.subjects { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  border: 2px solid var(--line); background: transparent; color: var(--ink);
+  border-radius: 999px; padding: 6px 12px; font-weight: 700; font-size: .9rem;
+}
+.chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--on-card); }
+.chip:disabled { opacity: .35; }
+.mixcount { margin: -4px 0 0; color: var(--muted); font-size: .9rem; font-variant-numeric: tabular-nums; }
 .results { margin: 0; padding: 0; text-align: left; list-style: none; display: flex; flex-direction: column; gap: 6px; font-weight: 700; font-size: 1.05rem; }
 
 @keyframes pop { from { transform: translateY(14px) scale(.98); opacity: .2; } to { transform: none; opacity: 1; } }
@@ -400,6 +408,8 @@ button:disabled { cursor: not-allowed; }
   </div>
   <p class="summary" id="summary"></p>
   <div class="vibes" id="vibes" role="radiogroup" aria-label="Ambiance"></div>
+  <div class="subjects" id="subjects" aria-label="Sujets"></div>
+  <p class="mixcount" id="mixcount"></p>
   <label class="toggle slim" for="sober"><span>Sans alcool<small>Les gorgées deviennent des points : pompes, gages…</small></span><input type="checkbox" id="sober"></label>
   <button type="button" class="pill" id="mods" hidden></button>
   <div class="modes" id="modes"></div>
@@ -476,25 +486,35 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem("tournee:" + k); return v ? JSON.parse(v) : d; } catch { return d; } },
   set(k, v) { try { localStorage.setItem("tournee:" + k, JSON.stringify(v)); } catch {} },
 };
-// Deux réglages seulement : couple ou pas, et l'ambiance. Le reste en découle.
+// Réglages : couple ou pas, l'ambiance, et les sujets (tous cochés par défaut).
 const VIBES = [
-  { id: "chill", name: "Chill", desc: "Tout sauf le sexe", c: "var(--mint)" },
-  { id: "ose", name: "Osé", desc: "Avec le sexe, version fun", c: "var(--sun)" },
-  { id: "hot", name: "Hot", desc: "Sans aucun filtre", c: "var(--rose)" },
+  { id: "chill", name: "Chill", desc: "Drôle, sans sexe", c: "var(--mint)" },
+  { id: "ose", name: "Osé", desc: "De tout, sexe compris", c: "var(--sun)" },
+  { id: "hot", name: "Hot", desc: "Que du trash, rien de basique", c: "var(--rose)" },
 ];
+const SUBJECTS = [
+  { id: "x", name: "Sexe" }, { id: "s", name: "Soirée" }, { id: "a", name: "Love & ex" },
+  { id: "d", name: "Dossiers" }, { id: "t", name: "Téléphone" }, { id: "f", name: "Délires" },
+];
+// Chill : Soft et Fun sans sexe. Osé : Soft et Fun avec sexe. Hot : Fun et Hot, plus rien de Soft.
+const VIBE_OK = {
+  chill: (lvl, x) => lvl <= 2 && !x,
+  ose: (lvl) => lvl <= 2,
+  hot: (lvl) => lvl >= 2,
+};
 const oldPlayers = store.get("group", "p") === "c" ? store.get("couple", []).map(x => x.trim()).filter(Boolean) : [];
 const state = {
   players: store.get("players", []).length ? store.get("players", []) : oldPlayers,
   isCouple: store.get("isCouple", store.get("group", "p") === "c"),
   vibe: store.get("vibe", store.get("level", 2) === 3 ? "hot" : store.get("topics", []).includes("x") ? "ose" : "chill"),
   sober: store.get("sober", false),
+  subjects: store.get("subjects", SUBJECTS.map(t => t.id)),
   adultOk: false,
   get group() { return this.isCouple && this.players.length === 2 ? "c" : "p"; },
-  get level() { return this.vibe === "hot" ? 3 : 2; },
-  get topics() { return this.vibe === "chill" ? ["s", "a", "d", "t", "f"] : ["s", "x", "a", "d", "t", "f"]; },
+  get topics() { return this.vibe === "chill" ? this.subjects.filter(t => t !== "x") : this.subjects; },
 };
 let seen = new Set(store.get("seen", []));
-const save = () => ["players", "isCouple", "vibe", "sober"].forEach(k => store.set(k, state[k]));
+const save = () => ["players", "isCouple", "vibe", "sober", "subjects"].forEach(k => store.set(k, state[k]));
 const roster = () => state.players;
 const adult = () => state.vibe !== "chill";
 
@@ -512,14 +532,19 @@ const live = c => !ov(c.id)?.del;
 const txt = c => ov(c.id)?.text ?? c.text;
 
 function pool() {
-  return CARDS.filter(c =>
-    live(c) &&
-    c.lvl <= state.level &&
-    c.groups.includes(state.group) &&
-    c.topics.some(t => state.topics.includes(t)) &&
-    (!c.topics.includes("x") || state.topics.includes("x")));
+  const ok = VIBE_OK[state.vibe], tp = state.topics;
+  return CARDS.filter(c => {
+    const x = c.topics.includes("x");
+    return live(c) && ok(c.lvl, x) && c.groups.includes(state.group) &&
+      c.topics.some(t => tp.includes(t)) && (!x || tp.includes("x"));
+  });
 }
-const okSimple = it => live(it) && it.lvl <= state.level && (!it.x || state.topics.includes("x")) && !(it.g && state.group === "c");
+// Jeux à contenu simple (Oui ou non, 7 secondes…) : en Hot on garde tout sauf le niveau Soft.
+function okSimple(it) {
+  const tp = state.topics, lvlOk = state.vibe === "hot" ? it.lvl >= 2 : it.lvl <= 2 && (state.vibe === "ose" || !it.x);
+  const subjOk = it.x ? tp.includes("x") : tp.some(t => t !== "x");
+  return live(it) && lvlOk && subjOk && !(it.g && state.group === "c");
+}
 
 // ---------- Accueil et joueurs ----------
 const STEPS = ["welcome", "players"];
@@ -1082,13 +1107,18 @@ function renderMenu() {
   const n = P().length;
   $("summary").innerHTML = `<b>${P().map(esc).join(", ")}</b>${state.group === "c" ? " · en couple" : ""}`;
   $("vibes").innerHTML = VIBES.map(v => `<button type="button" class="vibe" role="radio" style="--c:${v.c}" data-vibe="${v.id}" aria-checked="${state.vibe === v.id}"><strong>${v.name}</strong><span>${v.desc}</span></button>`).join("");
+  $("subjects").innerHTML = SUBJECTS.map(t => {
+    const off = t.id === "x" && state.vibe === "chill";
+    return `<button type="button" class="chip" data-subject="${t.id}" aria-pressed="${!off && state.subjects.includes(t.id)}" ${off ? 'disabled title="Disponible en Osé et Hot"' : ""}>${t.name}</button>`;
+  }).join("");
+  $("mixcount").textContent = `${MODES.mix.count().toLocaleString("fr-FR")} cartes dans le Mix avec ces réglages`;
   $("sober").checked = state.sober;
   const nmods = Object.keys({ ...shared, ...local }).length;
   $("mods").hidden = !nmods;
   $("mods").textContent = `Cartes retirées ou modifiées (${nmods})`;
   $("modes").innerHTML = MODES_LIST.map(id => {
     const m = MODES[id], min = m.min || 2, cnt = m.count();
-    const why = n < min ? `Il faut au moins ${min} joueurs.` : !cnt ? "Aucune carte pour cette ambiance." : "";
+    const why = n < min ? `Il faut au moins ${min} joueurs.` : !cnt ? "Aucune carte avec ces réglages." : "";
     return `<button type="button" class="mode ${m.wide ? "wide" : ""}" style="--c:${m.color}" data-mode="${id}" ${why ? "disabled" : ""}><i aria-hidden="true">${m.e || ""}</i><strong>${m.name}</strong><span>${why || m.desc}</span></button>`;
   }).join("");
 }
@@ -1097,6 +1127,15 @@ $("vibes").addEventListener("click", e => {
   if (!v || v === state.vibe) return;
   const apply = () => { state.vibe = v; save(); renderMenu(); };
   v === "chill" ? apply() : askAdult(apply);
+});
+$("subjects").addEventListener("click", e => {
+  const b = e.target.closest("[data-subject]");
+  if (!b || b.disabled) return;
+  const t = b.dataset.subject, on = state.subjects.includes(t);
+  const next = on ? state.subjects.filter(x => x !== t) : [...state.subjects, t];
+  const usable = state.vibe === "chill" ? next.filter(x => x !== "x") : next;
+  if (!usable.length) { toast("Garde au moins un sujet."); return; }
+  state.subjects = next; save(); renderMenu();
 });
 $("sober").addEventListener("change", e => { state.sober = e.target.checked; save(); });
 $("modes").addEventListener("click", e => {
