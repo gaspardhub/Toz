@@ -1404,4 +1404,1386 @@ Q|x|3||Qui de nous a déjà couché avec quelqu'un pour se venger d'un ex ?
 Q|x|3||Qui de nous enchaîne les quickies dans des endroits improbables ?
 Q|x|3||Qui de nous garde les talons ou les bottes au lit ?
 Q|x|3|p|Qui de nous en sait le plus sur la vie sexuelle de tout le groupe ?
+J|x|2||Je n'ai jamais embrassé quelqu'un dans un ascenseur.
+J|x|2||Je n'ai jamais embrassé quelqu'un sous la pluie comme dans un film.
+J|x|2||Je n'ai jamais embrassé quelqu'un dans un cinéma sans regarder le film.
+J|x|2||Je n'ai jamais roulé une pelle à quelqu'un dans une file d'attente.
+J|x|2||Je n'ai jamais embrassé quelqu'un juste pour faire taire une dispute.
+J|x|2||Je n'ai jamais embrassé quelqu'un à minuit pile au Nouvel An sans le connaître.
+J|x|2||Je n'ai jamais embrassé quelqu'un qui avait le goût de la cigarette et fait semblant d'aimer.
+J|x|2||Je n'ai jamais embrassé un inconnu pour un défi.
+J|x|2||Je n'ai jamais embrassé quelqu'un devant ses parents.
+J|x|2||Je n'ai jamais embrassé quelqu'un dans un club en me faisant marcher sur les pieds.
+J|x|2||Je n'ai jamais embrassé deux personnes différentes en moins d'une heure.
+J|x|2||Je n'ai jamais embrassé quelqu'un sans savoir s'il était célibataire.
+J|x|2||Je n'ai jamais fait un slow qui a très mal fini, ou très bien.
+J|x|2||Je n'ai jamais dansé collé-serré avec un inconnu en boîte.
+J|x|2||Je n'ai jamais fait un câlin un peu trop long à un ami en espérant plus.
+J|x|2||Je n'ai jamais dormi en cuillère avec un ami « sans arrière-pensée ».
+J|x|2||Je n'ai jamais passé une nuit entière à juste s'embrasser.
+J|x|2||Je n'ai jamais fait un massage qui a dérapé.
+J|x|2||Je n'ai jamais pris un bain à deux.
+J|x|2||Je n'ai jamais pris une douche à deux dans une douche beaucoup trop petite.
+J|x|2||Je n'ai jamais dormi nu chez quelqu'un dès la première nuit.
+J|x|2||Je n'ai jamais porté les vêtements de quelqu'un le lendemain matin.
+J|x|2||Je n'ai jamais fait la marche de la honte un dimanche matin.
+J|x|2||Je n'ai jamais pris un petit-déjeuner gênant avec les colocs de quelqu'un.
+J|x|2||Je n'ai jamais croisé les parents de quelqu'un en sortant de sa chambre.
+J|x|2||Je n'ai jamais dû demander le prénom de quelqu'un le lendemain matin.
+J|x|2||Je n'ai jamais fait semblant de dormir pour ne pas avoir à parler le matin.
+J|x|2||Je n'ai jamais laissé un mot sur l'oreiller en partant.
+J|x|2||Je n'ai jamais commandé un VTC à 5 h du matin depuis chez un inconnu.
+J|x|2||Je n'ai jamais perdu une boucle d'oreille, une montre ou un bijou chez quelqu'un.
+J|x|2||Je n'ai jamais dû récupérer des affaires chez un ex après une nuit de trop.
+J|x|2||Je n'ai jamais couché avec quelqu'un juste parce qu'il pleuvait et que je ne voulais pas rentrer.
+J|x|2||Je n'ai jamais couché avec quelqu'un parce que mon téléphone n'avait plus de batterie pour rentrer.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un rencontré dans une file d'attente.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un rencontré au supermarché.
+J|x|2||Je n'ai jamais fini la nuit avec un serveur ou une serveuse du bar où j'étais.
+J|x|2||Je n'ai jamais fini la nuit avec un DJ.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un rencontré à un mariage.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un rencontré à un enterrement de vie de garçon ou de jeune fille.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un rencontré pendant un Erasmus ou un séjour à l'étranger.
+J|x|2||Je n'ai jamais fini la nuit avec un moniteur ou une monitrice de colo, de ski ou de surf.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un rencontré à la salle de sport.
+J|x|2||Je n'ai jamais fini la nuit avec un voisin d'immeuble.
+J|x|2||Je n'ai jamais fini la nuit avec le frère ou la sœur d'un pote.
+J|x|2||Je n'ai jamais fini la nuit avec le coloc d'un pote.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un que je détestais la veille.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un que j'avais promis de ne plus jamais revoir.
+J|x|2||Je n'ai jamais fini la nuit avec un ex le jour de notre rupture.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un dont je ne parlais pas du tout la langue.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un de beaucoup plus petit ou beaucoup plus grand que moi.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un qui s'appelait comme mon ex.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un qui avait une voix insupportable.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un uniquement à cause de son accent.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un pour pouvoir le raconter à mes potes.
+J|x|2||Je n'ai jamais fini la nuit avec quelqu'un en lui donnant un faux prénom.
+J|x|2||Je n'ai jamais donné un faux numéro à quelqu'un après une nuit ensemble.
+J|x|2||Je n'ai jamais bloqué quelqu'un le lendemain d'une nuit ensemble.
+J|x|2||Je n'ai jamais revu quelqu'un au travail après une nuit ensemble en faisant comme si de rien n'était.
+J|x|2||Je n'ai jamais eu un plan cul que mes potes surnommaient d'un nom de code.
+J|x|2||Je n'ai jamais enregistré quelqu'un dans mon téléphone avec un surnom pour que personne ne sache.
+J|x|2||Je n'ai jamais eu un plan cul que je n'ai jamais vu en plein jour.
+J|x|2||Je n'ai jamais eu un plan cul qui m'envoyait juste « dispo ? ».
+J|x|2||Je n'ai jamais répondu « dispo » à 2 h du matin.
+J|x|2||Je n'ai jamais traversé toute la ville en pleine nuit pour un plan.
+J|x|2||Je n'ai jamais pris un train ou un avion juste pour une nuit avec quelqu'un.
+J|x|2||Je n'ai jamais annulé un plan avec des potes pour un plan d'un soir.
+J|x|2||Je n'ai jamais quitté une soirée en douce avec quelqu'un.
+J|x|2||Je n'ai jamais fait croire que je rentrais seul alors que non.
+J|x|2||Je n'ai jamais menti à mes potes sur l'endroit où j'avais dormi.
+J|x|2||Je n'ai jamais eu une relation secrète avec quelqu'un de mon entourage proche.
+J|x|2||Je n'ai jamais eu une histoire avec quelqu'un que mes potes trouvaient insupportable.
+J|x|2||Je n'ai jamais couché avec quelqu'un de mon travail que je croisais à la machine à café tous les jours.
+J|x|2||Je n'ai jamais eu une histoire avec mon ou ma manager.
+J|x|2||Je n'ai jamais flirté avec un prof ou un examinateur pour une meilleure note.
+J|x|2||Je n'ai jamais dragué un policier pour éviter une amende.
+J|x|2||Je n'ai jamais flirté pour passer devant tout le monde dans une file.
+J|x|2||Je n'ai jamais dragué quelqu'un au téléphone d'un service client.
+J|x|2||Je n'ai jamais flirté avec le médecin, le kiné ou le dentiste.
+J|x|2||Je n'ai jamais eu un crush sur mon prof de sport ou mon coach.
+J|x|2||Je n'ai jamais eu un crush sur le ou la partenaire d'un membre de ma famille.
+J|x|2||Je n'ai jamais eu un crush sur le père ou la mère d'un pote.
+J|x|2||Je n'ai jamais eu un crush sur un personnage de dessin animé.
+J|x|2||Je n'ai jamais rêvé d'une célébrité au point d'être gêné en la revoyant à la télé.
+J|x|2||Je n'ai jamais fait un rêve coquin sur un collègue et été gêné toute la journée.
+J|x|2||Je n'ai jamais fait un rêve coquin sur un ex alors que j'étais en couple.
+J|x|2||Je n'ai jamais rougi en recevant un message pendant un repas de famille.
+J|x|2||Je n'ai jamais montré par erreur une photo coquine en faisant défiler ma galerie devant quelqu'un.
+J|x|2||Je n'ai jamais eu un nude en photo de profil par erreur, même une seconde.
+J|x|2||Je n'ai jamais pris une photo sexy de moi que je n'ai jamais envoyée.
+J|x|2||Je n'ai jamais fait un shooting photo sexy de moi-même.
+J|x|2||Je n'ai jamais caché des photos dans un dossier secret de mon téléphone.
+J|x|2||Je n'ai jamais supprimé des photos en urgence avant de prêter mon téléphone.
+J|x|2||Je n'ai jamais reçu un nude d'une personne dont je n'attendais vraiment pas ça.
+J|x|2||Je n'ai jamais répondu à un nude par un emoji.
+J|x|2||Je n'ai jamais envoyé un sexto avec une faute d'orthographe qui a tout gâché.
+J|x|2||Je n'ai jamais envoyé un sexto et regretté dans la seconde.
+J|x|2||Je n'ai jamais envoyé un sexto au mauvais groupe de discussion.
+J|x|2||Je n'ai jamais fait de sexting avec deux personnes en même temps.
+J|x|2||Je n'ai jamais flirté par messages avec quelqu'un pendant que j'étais à côté de ma moitié.
+J|x|2||Je n'ai jamais utilisé une appli de rencontre en couple, juste pour regarder.
+J|x|2||Je n'ai jamais matché avec un ex sur une appli.
+J|x|2||Je n'ai jamais matché avec un collègue sur une appli.
+J|x|2||Je n'ai jamais matché avec le ou la partenaire d'un pote sur une appli.
+J|x|2||Je n'ai jamais mis une photo de moi d'il y a cinq ans sur une appli.
+J|x|2||Je n'ai jamais eu plus de cinq rencards la même semaine.
+J|x|2||Je n'ai jamais eu deux rencards le même soir.
+J|x|2||Je n'ai jamais fini un rencard au lit en me disant « mais pourquoi ? ».
+J|x|2||Je n'ai jamais eu envie de partir d'un rencard au bout de dix minutes et fini la nuit avec quand même.
+J|x|2||Je n'ai jamais séduit quelqu'un avec une chanson ou un instrument.
+J|x|2||Je n'ai jamais séduit quelqu'un en cuisinant.
+J|x|2||Je n'ai jamais utilisé un pari pour obtenir un bisou.
+J|x|2||Je n'ai jamais perdu exprès à un jeu pour obtenir un gage coquin.
+J|x|2||Je n'ai jamais joué à la bouteille.
+J|x|2||Je n'ai jamais joué au strip-poker en trichant pour perdre.
+J|x|2||Je n'ai jamais terminé un jeu de soirée en sous-vêtements.
+J|x|2||Je n'ai jamais fait un bain de minuit qui a mal tourné.
+J|x|2||Je n'ai jamais fait de naturisme.
+J|x|2||Je n'ai jamais bronzé seins nus ou totalement nu.
+J|x|2||Je n'ai jamais été vu nu par quelqu'un qui n'aurait pas dû.
+J|x|2||Je n'ai jamais ouvert la porte au livreur en serviette.
+J|x|2||Je n'ai jamais vu un voisin dans une situation qu'il aurait voulu cacher.
+J|x|2||Je n'ai jamais entendu mes parents.
+J|x|2||Je n'ai jamais entendu mes colocs et frappé au mur.
+J|x|2||Je n'ai jamais mis de la musique très fort pour couvrir le bruit.
+J|x|2||Je n'ai jamais cassé un lit.
+J|x|2||Je n'ai jamais cassé quelque chose dans une chambre d'hôtel.
+J|x|2||Je n'ai jamais fait tomber quelque chose d'un meuble en plein milieu.
+J|x|2||Je n'ai jamais reçu une plainte des voisins pour le bruit.
+J|x|2||Je n'ai jamais dû me rhabiller en quatrième vitesse.
+J|x|2||Je n'ai jamais sauté par une fenêtre pour ne pas me faire voir.
+J|x|2||Je n'ai jamais été coincé dans une salle de bain en attendant que quelqu'un parte.
+J|x|2||Je n'ai jamais dû faire passer quelqu'un pour un ami devant mes parents.
+J|x|2||Je n'ai jamais fait semblant de réviser à deux.
+J|x|2||Je n'ai jamais profité d'une maison vide pour inviter quelqu'un.
+J|x|2||Je n'ai jamais fait l'amour dans la chambre de mon enfance.
+J|x|2||Je n'ai jamais fait l'amour en camping avec des gens dans la tente d'à côté.
+J|x|2||Je n'ai jamais fait l'amour dans une voiture de location.
+J|x|2||Je n'ai jamais fait l'amour dans un van ou un camping-car.
+J|x|2||Je n'ai jamais fait l'amour dans un hamac.
+J|x|2||Je n'ai jamais fait l'amour dans une cabane.
+J|x|2||Je n'ai jamais fait l'amour dans un champ ou en forêt.
+J|x|2||Je n'ai jamais fait l'amour dans la mer.
+J|x|2||Je n'ai jamais fait l'amour dans un sauna.
+J|x|2||Je n'ai jamais fait l'amour sur un balcon.
+J|x|2||Je n'ai jamais fait l'amour sur un toit.
+J|x|2||Je n'ai jamais fait l'amour sur la table de la cuisine.
+J|x|2||Je n'ai jamais fait l'amour sur un canapé que d'autres utilisent tous les jours.
+J|x|2||Je n'ai jamais fait l'amour sur un lit d'hôtel avant même d'avoir posé les valises.
+J|x|2||Je n'ai jamais fait l'amour pendant une fête, dans une chambre où s'empilaient les manteaux.
+J|x|2||Je n'ai jamais fait l'amour en pleine journée en séchant le travail ou les cours.
+J|x|2||Je n'ai jamais fait l'amour pendant la pause déjeuner.
+J|x|2||Je n'ai jamais fait l'amour pendant un match important à la télé.
+J|x|2||Je n'ai jamais fait l'amour le jour de mon anniversaire avec quelqu'un que je venais de rencontrer.
+J|x|2||Je n'ai jamais fait l'amour à Noël chez mes parents.
+J|x|2||Je n'ai jamais fait l'amour en étant malade comme un chien.
+J|x|2||Je n'ai jamais fait l'amour en ayant une gueule de bois monstrueuse.
+J|x|2||Je n'ai jamais fait l'amour avec des chaussettes.
+J|x|2||Je n'ai jamais fait l'amour dans une tenue de déguisement.
+J|x|2||Je n'ai jamais acheté une tenue sexy que je n'ai jamais osé porter.
+J|x|2||Je n'ai jamais fait un strip-tease pour quelqu'un.
+J|x|2||Je n'ai jamais pris un cours de pole dance ou de danse sensuelle.
+J|x|2||Je n'ai jamais reçu un lap dance.
+J|x|2||Je n'ai jamais été dans un bar à strip-tease.
+J|x|2||Je n'ai jamais été dans un sex-shop.
+J|x|2||Je n'ai jamais croisé quelqu'un que je connaissais dans un sex-shop.
+J|x|2||Je n'ai jamais offert un sextoy en cadeau.
+J|x|2||Je n'ai jamais reçu un sextoy en cadeau.
+J|x|2||Je n'ai jamais lu un livre érotique en public.
+J|x|2||Je n'ai jamais écouté un podcast ou un audio érotique.
+J|x|2||Je n'ai jamais regardé un film érotique avec mes parents dans la pièce.
+J|x|2||Je n'ai jamais regardé un porno par erreur en public.
+J|x|2||Je n'ai jamais oublié de fermer un onglet coquin sur un ordinateur partagé.
+J|x|2||Je n'ai jamais eu un virus sur mon ordinateur à cause d'un site douteux.
+J|x|2||Je n'ai jamais simulé pour que ça se termine plus vite.
+J|x|2||Je n'ai jamais dit « c'était génial » alors que pas du tout.
+J|x|2||Je n'ai jamais noté un coup sur 10 avec mes potes.
+J|x|2||Je n'ai jamais raconté une nuit en détail à mes potes le lendemain.
+J|x|2||Je n'ai jamais menti à mes potes sur une nuit pour qu'elle paraisse plus folle.
+J|x|2||Je n'ai jamais fait croire que j'avais eu une aventure alors que non.
+J|x|2||Je n'ai jamais menti sur mon body count pour paraître plus expérimenté.
+J|x|2||Je n'ai jamais menti sur mon body count pour paraître plus sage.
+J|x|2||Je n'ai jamais eu peur d'être nul la première fois avec quelqu'un.
+J|x|2||Je n'ai jamais regardé un tuto pour m'améliorer au lit.
+J|x|2||Je n'ai jamais demandé des conseils de lit à un pote.
+J|x|2||Je n'ai jamais pris une décision importante juste après une nuit incroyable.
+J|x|2||Je n'ai jamais dit « je t'aime » pendant l'amour sans le penser.
+J|x|2||Je n'ai jamais pleuré après l'amour.
+J|x|2||Je n'ai jamais éclaté de rire pendant l'amour.
+J|x|2||Je n'ai jamais eu une crampe au pire moment.
+J|x|2||Je n'ai jamais reçu un coup de coude ou de genou en plein visage pendant.
+J|x|2||Je n'ai jamais glissé dans une douche en voulant être sexy.
+J|x|2||Je n'ai jamais fait tomber quelqu'un du lit.
+J|x|2||Je n'ai jamais fait l'amour avec quelqu'un qui ronflait juste après.
+J|x|2||Je n'ai jamais fait l'amour avec quelqu'un qui a regardé son téléphone pendant.
+J|x|2||Je n'ai jamais fait l'amour avec la télé allumée.
+J|x|2||Je n'ai jamais été interrompu par un animal de compagnie.
+J|x|2||Je n'ai jamais été interrompu par un appel de ma mère.
+J|x|2||Je n'ai jamais décroché le téléphone en plein milieu.
+J|x|3||Je n'ai jamais fait l'amour pendant que mon téléphone sonnait sans m'arrêter.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un dont je ne connaissais pas le nom de famille.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un rencontré le jour même dans une autre ville.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui partait le lendemain à l'autre bout du monde.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un pendant qu'on s'engueulait.
+J|x|3||Je n'ai jamais fait l'amour pour me réconcilier après une rupture de deux heures.
+J|x|3||Je n'ai jamais fait l'amour juste pour arrêter une dispute.
+J|x|3||Je n'ai jamais fait l'amour sans un mot du début à la fin.
+J|x|3||Je n'ai jamais fait l'amour dans le noir total sans savoir à quoi ressemblait l'autre.
+J|x|3||Je n'ai jamais fait l'amour devant un miroir.
+J|x|3||Je n'ai jamais fait l'amour avec une webcam ou un téléphone qui filmait.
+J|x|3||Je n'ai jamais supprimé une vidéo coquine après une rupture.
+J|x|3||Je n'ai jamais gardé une vidéo coquine après une rupture.
+J|x|3||Je n'ai jamais fait l'amour en visio avec quelqu'un à l'autre bout du monde.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un de plus de 15 ans de différence.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un de beaucoup plus expérimenté qui m'a tout appris.
+J|x|3||Je n'ai jamais été la première fois de quelqu'un.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui était en couple avec un de mes amis.
+J|x|3||Je n'ai jamais fait l'amour avec quelqu'un de marié.
+J|x|3||Je n'ai jamais été l'amant ou la maîtresse de quelqu'un pendant plus de six mois.
+J|x|3||Je n'ai jamais trompé quelqu'un avec un ex.
+J|x|3||Je n'ai jamais trompé quelqu'un pendant des vacances.
+J|x|3||Je n'ai jamais trompé quelqu'un avec quelqu'un qu'il connaissait.
+J|x|3||Je n'ai jamais eu un plan à trois avec un couple.
+J|x|3||Je n'ai jamais eu un plan à trois avec deux personnes qui se détestaient.
+J|x|3||Je n'ai jamais eu un plan à trois improvisé à la fin d'une soirée.
+J|x|3||Je n'ai jamais refusé un plan à trois et regretté ensuite.
+J|x|3||Je n'ai jamais proposé un plan à trois et essuyé un refus gênant.
+J|x|3||Je n'ai jamais embrassé deux personnes en même temps.
+J|x|3||Je n'ai jamais participé à une soirée où tout le monde a fini nu.
+J|x|3||Je n'ai jamais été dans un spa ou un sauna naturiste mixte.
+J|x|3||Je n'ai jamais regardé quelqu'un faire l'amour sans qu'il le sache.
+J|x|3||Je n'ai jamais été regardé pendant l'amour en le sachant.
+J|x|3||Je n'ai jamais fait l'amour en sachant très bien que les voisins d'en face voyaient.
+J|x|3||Je n'ai jamais fait l'amour dans une cabine de bateau ou de train de nuit.
+J|x|3||Je n'ai jamais fait l'amour dans un parking.
+J|x|3||Je n'ai jamais fait l'amour dans un ascenseur bloqué.
+J|x|3||Je n'ai jamais fait l'amour dans les vestiaires d'une salle de sport.
+J|x|3||Je n'ai jamais fait l'amour dans une église, un musée ou un endroit vraiment interdit.
+J|x|3||Je n'ai jamais fait l'amour dans les toilettes d'un train.
+J|x|3||Je n'ai jamais fait l'amour dans une salle de cours ou une bibliothèque.
+J|x|3||Je n'ai jamais fait l'amour dans une cabine de photomaton.
+J|x|3||Je n'ai jamais fait l'amour sous la couette pendant que d'autres dormaient dans la pièce.
+J|x|3||Je n'ai jamais fait l'amour en voiture pendant qu'elle roulait.
+J|x|3||Je n'ai jamais été arrêté ou contrôlé par la police en pleine action.
+J|x|3||Je n'ai jamais fait l'amour plus de quatre heures.
+J|x|3||Je n'ai jamais fait l'amour plus de dix fois en un week-end.
+J|x|3||Je n'ai jamais fait l'amour trois fois avant midi.
+J|x|3||Je n'ai jamais eu un orgasme en moins d'une minute.
+J|x|3||Je n'ai jamais eu plusieurs orgasmes à la suite.
+J|x|3||Je n'ai jamais eu un orgasme sans être touché.
+J|x|3||Je n'ai jamais eu un orgasme pendant un rêve.
+J|x|3||Je n'ai jamais simulé avec quelqu'un dont j'étais amoureux.
+J|x|3||Je n'ai jamais fait semblant d'avoir mal à la tête.
+J|x|3||Je n'ai jamais eu une panne.
+J|x|3||Je n'ai jamais eu une panne avec quelqu'un qui me plaisait vraiment.
+J|x|3||Je n'ai jamais pris un truc pour tenir plus longtemps.
+J|x|3||Je n'ai jamais utilisé de lubrifiant parfumé.
+J|x|3||Je n'ai jamais utilisé un objet du quotidien comme sextoy.
+J|x|3||Je n'ai jamais acheté un sextoy en ligne et eu honte en recevant le colis.
+J|x|3||Je n'ai jamais eu un sextoy qui s'est allumé tout seul dans un sac.
+J|x|3||Je n'ai jamais passé un sextoy aux rayons X à l'aéroport.
+J|x|3||Je n'ai jamais prêté un sextoy.
+J|x|3||Je n'ai jamais utilisé un sextoy contrôlé à distance par quelqu'un.
+J|x|3||Je n'ai jamais porté un sextoy en public.
+J|x|3||Je n'ai jamais fait l'amour avec un bandeau sur les yeux.
+J|x|3||Je n'ai jamais attaché quelqu'un avec une cravate ou un foulard.
+J|x|3||Je n'ai jamais eu des marques de griffures ou de morsures le lendemain.
+J|x|3||Je n'ai jamais eu des marques sur la peau que j'ai dû cacher au travail.
+J|x|3||Je n'ai jamais donné une fessée qui a laissé une trace.
+J|x|3||Je n'ai jamais fait l'amour avec de la cire de bougie.
+J|x|3||Je n'ai jamais fait l'amour avec des glaçons.
+J|x|3||Je n'ai jamais fait l'amour avec de la chantilly ou du chocolat.
+J|x|3||Je n'ai jamais fait l'amour avec de l'huile de massage partout sur les draps.
+J|x|3||Je n'ai jamais porté de la lingerie en latex ou en cuir.
+J|x|3||Je n'ai jamais joué au docteur à l'âge adulte.
+J|x|3||Je n'ai jamais fait un jeu de rôle prof et élève.
+J|x|3||Je n'ai jamais fait un jeu de rôle avec des inconnus qui se rencontrent dans un bar.
+J|x|3||Je n'ai jamais utilisé un costume pour un jeu de rôle.
+J|x|3||Je n'ai jamais dit des mots cochons qui m'ont fait rire moi-même.
+J|x|3||Je n'ai jamais dit quelque chose de cochon qui a complètement cassé l'ambiance.
+J|x|3||Je n'ai jamais appelé quelqu'un « papa » ou « maman » au lit.
+J|x|3||Je n'ai jamais eu un fétiche que je n'ai jamais avoué.
+J|x|3||Je n'ai jamais eu un fétiche des pieds.
+J|x|3||Je n'ai jamais été excité par un uniforme.
+J|x|3||Je n'ai jamais fantasmé sur un ou une collègue en pleine réunion.
+J|x|3||Je n'ai jamais fantasmé sur quelqu'un pendant un mariage.
+J|x|3|pn|Je n'ai jamais fantasmé sur le ou la partenaire de quelqu'un ici.
+J|x|3||Je n'ai jamais eu un plaisir solo dans un lieu public.
+J|x|3||Je n'ai jamais eu un plaisir solo dans un avion ou un train.
+J|x|3||Je n'ai jamais eu un plaisir solo chez quelqu'un d'autre.
+J|x|3||Je n'ai jamais eu un plaisir solo en pensant à un ex.
+J|x|3||Je n'ai jamais eu un plaisir solo en pensant à une célébrité.
+J|x|3||Je n'ai jamais eu un plaisir solo plus de trois fois dans la même journée.
+J|x|3||Je n'ai jamais été surpris pendant un plaisir solo.
+J|x|3||Je n'ai jamais regardé un porno avec quelqu'un qui ne voulait pas que je le sache.
+J|x|3||Je n'ai jamais regardé un porno qui m'a fait rire au lieu de m'exciter.
+J|x|3||Je n'ai jamais tapé une recherche porno vraiment honteuse.
+J|x|3||Je n'ai jamais reconnu quelqu'un que je connaissais dans un porno.
+J|x|3||Je n'ai jamais lu des histoires érotiques en ligne.
+J|x|3||Je n'ai jamais écrit une histoire érotique.
+J|x|3||Je n'ai jamais envoyé un message vocal coquin.
+J|x|3||Je n'ai jamais envoyé une vidéo coquine.
+J|x|3||Je n'ai jamais reçu une vidéo coquine de quelqu'un que je connaissais à peine.
+J|x|3||Je n'ai jamais vendu ou acheté des photos coquines.
+J|x|3||Je n'ai jamais pensé à ouvrir un OnlyFans.
+J|x|3||Je n'ai jamais été dans un club échangiste.
+J|x|3||Je n'ai jamais eu une relation libre.
+J|x|3||Je n'ai jamais eu une relation où on avait le droit de voir d'autres personnes.
+J|x|3||Je n'ai jamais couché avec deux meilleurs amis.
+J|x|3||Je n'ai jamais couché avec deux colocataires.
+J|x|3||Je n'ai jamais couché avec deux collègues du même bureau.
+J|x|3||Je n'ai jamais couché avec quelqu'un et son ex à quelques semaines d'écart.
+J|x|3||Je n'ai jamais couché avec quelqu'un de la même famille qu'un de mes ex.
+J|x|3||Je n'ai jamais couché avec plus de cinq personnes en un mois.
+J|x|3||Je n'ai jamais couché avec plus de trente personnes.
+J|x|3||Je n'ai jamais couché avec quelqu'un rencontré il y a moins de trente minutes.
+J|x|3||Je n'ai jamais couché avec quelqu'un sans jamais l'avoir embrassé.
+J|x|3|pn|Je n'ai jamais fantasmé sur deux personnes de cette pièce en même temps.
+J|x|3|pn|Je n'ai jamais pensé à quelqu'un d'ici en faisant l'amour avec quelqu'un d'autre.
+J|x|3|p|Je n'ai jamais eu un plan avec quelqu'un que {B} connaît.
+J|x|3|p|Je n'ai jamais couché avec quelqu'un dont {B} était amoureux.
+J|x|3|pn|Je n'ai jamais imaginé ce que {B} portait sous ses vêtements.
+J|x|3|pn|Je n'ai jamais trouvé que {B} avait l'air d'être un bon coup.
+J|x|2|pn|Je n'ai jamais rêvé de {B} cette année.
+J|x|2|pn|Je n'ai jamais regardé les fesses de {B} ce soir.
+J|x|2|pn|Je n'ai jamais envié l'expérience de {B}.
+J|x|2|p|Je n'ai jamais entendu {B} à travers un mur.
+J|x|2|p|Je n'ai jamais dormi dans le même lit que {B}.
+J|x|2|p|Je n'ai jamais vu {B} en sous-vêtements.
+J|x|2|p|Je n'ai jamais embrassé {B}.
+J|x|2|p|Je n'ai jamais dragué quelqu'un que {B} voulait.
+J|x|3|p|Je n'ai jamais couché avec un ex de quelqu'un ici.
+J|x|2|c|Je n'ai jamais pensé à quelqu'un d'autre en embrassant {B}.
+J|x|3|c|Je n'ai jamais fait semblant d'avoir sommeil pour éviter un câlin avec {B}.
+J|x|3|c|Je n'ai jamais eu envie de {B} au point de quitter une soirée plus tôt.
+J|x|3|c|Je n'ai jamais simulé avec {B}.
+J|x|2|c|Je n'ai jamais fouillé dans les photos de {B} pour voir ses ex.
+J|x|2|c|Je n'ai jamais imaginé {B} avec quelqu'un d'autre.
+J|s|1||Je n'ai jamais bu un shot de quelque chose que je ne connaissais pas du tout.
+J|s|1||Je n'ai jamais fini une bouteille de vin seul en une soirée.
+J|s|1||Je n'ai jamais bu de l'alcool au petit-déjeuner.
+J|s|1||Je n'ai jamais bu dans une chaussure.
+J|s|1||Je n'ai jamais fait un concours de shots.
+J|s|1||Je n'ai jamais perdu un concours de shots.
+J|s|1||Je n'ai jamais fait un beer-pong qui a fini en dispute.
+J|s|1||Je n'ai jamais triché au beer-pong.
+J|s|1||Je n'ai jamais fait une soirée déguisée sans être déguisé.
+J|s|1||Je n'ai jamais été le seul déguisé à une soirée qui n'était pas costumée.
+J|s|1||Je n'ai jamais débarqué à une soirée où je n'étais pas invité.
+J|s|1||Je n'ai jamais fait semblant de connaître l'hôte d'une soirée.
+J|s|1||Je n'ai jamais organisé une soirée où personne n'est venu.
+J|s|1||Je n'ai jamais fait une soirée qui s'est terminée avec la police.
+J|s|1||Je n'ai jamais fait une soirée où les voisins ont débarqué pour se plaindre.
+J|s|1||Je n'ai jamais rejoint les voisins qui étaient venus se plaindre dans la soirée.
+J|s|1||Je n'ai jamais fait la fête trois soirs de suite.
+J|s|1||Je n'ai jamais fait une soirée qui a duré plus de 24 heures.
+J|s|1||Je n'ai jamais vu le soleil se lever en sortant de boîte.
+J|s|1||Je n'ai jamais pris le premier métro du matin en tenue de soirée.
+J|s|1||Je n'ai jamais dormi dans une gare ou un aéroport.
+J|s|1||Je n'ai jamais dormi dans une voiture après une soirée.
+J|s|1||Je n'ai jamais dormi par terre chez quelqu'un alors qu'il y avait un lit libre.
+J|s|1||Je n'ai jamais dormi dans les toilettes.
+J|s|1||Je n'ai jamais dormi debout.
+J|s|1||Je n'ai jamais dormi pendant une soirée et été maquillé par les autres.
+J|s|1||Je n'ai jamais dessiné sur le visage de quelqu'un qui dormait.
+J|s|1||Je n'ai jamais pris des photos de quelqu'un endormi en soirée.
+J|s|1||Je n'ai jamais perdu mes clés et dormi chez un voisin.
+J|s|1||Je n'ai jamais perdu mon portefeuille en soirée.
+J|s|1||Je n'ai jamais perdu une veste en soirée et je ne l'ai jamais retrouvée.
+J|s|1||Je n'ai jamais repris le manteau de quelqu'un d'autre en partant.
+J|s|1||Je n'ai jamais fait un selfie avec un inconnu en soirée.
+J|s|1||Je n'ai jamais fait la bise à un inconnu en pensant le connaître.
+J|s|1||Je n'ai jamais tutoyé un videur comme si c'était un vieil ami.
+J|s|1||Je n'ai jamais négocié avec un videur pendant plus de dix minutes.
+J|s|1||Je n'ai jamais payé une entrée en boîte pour repartir au bout de cinq minutes.
+J|s|1||Je n'ai jamais commandé un verre hors de prix pour impressionner quelqu'un.
+J|s|1||Je n'ai jamais payé une tournée générale que je regrette encore.
+J|s|1||Je n'ai jamais dépensé plus de 200 euros en une soirée.
+J|s|1||Je n'ai jamais regardé mon compte en banque le lendemain d'une soirée avec horreur.
+J|s|1||Je n'ai jamais fait une soirée sans dépenser un centime.
+J|s|1||Je n'ai jamais volé de l'alcool dans un bar ou une soirée.
+J|s|1||Je n'ai jamais apporté une bouteille et repris ce qui restait en partant.
+J|s|1||Je n'ai jamais bu la bouteille que j'avais offerte à l'hôte.
+J|s|1||Je n'ai jamais mélangé tous les alcools d'une soirée dans un même verre.
+J|s|1||Je n'ai jamais inventé un cocktail infâme et forcé les autres à le goûter.
+J|s|1||Je n'ai jamais fait l'animateur d'une soirée sans qu'on me le demande.
+J|s|1||Je n'ai jamais fait un discours bourré à un anniversaire.
+J|s|1||Je n'ai jamais pleuré en écoutant une chanson à 3 h du matin.
+J|s|1||Je n'ai jamais chanté à tue-tête dans la rue en rentrant de soirée.
+J|s|1||Je n'ai jamais escaladé une grille pour rentrer chez moi.
+J|s|1||Je n'ai jamais sonné chez le mauvais voisin en rentrant de soirée.
+J|s|1||Je n'ai jamais essayé d'ouvrir la mauvaise porte avec mes clés.
+J|s|1||Je n'ai jamais fait cuire des pâtes à 5 h du matin et oublié le feu allumé.
+J|s|1||Je n'ai jamais commandé deux fois la même livraison parce que j'avais oublié la première.
+J|s|1||Je n'ai jamais mangé un kebab entier dans le taxi.
+J|s|1||Je n'ai jamais mangé froid le reste de mon repas de la veille au réveil.
+J|s|1||Je n'ai jamais bu de l'eau au robinet de la salle de bain d'un inconnu.
+J|s|1||Je n'ai jamais pris une douche tout habillé en rentrant de soirée.
+J|s|1||Je n'ai jamais dormi avec mes lentilles ou mon maquillage après une soirée.
+J|s|1||Je n'ai jamais eu une gueule de bois qui a duré deux jours.
+J|s|1||Je n'ai jamais séché une journée de travail pour cause de gueule de bois.
+J|s|1||Je n'ai jamais fait un examen avec la gueule de bois.
+J|s|1||Je n'ai jamais passé un entretien d'embauche avec la gueule de bois.
+J|s|1||Je n'ai jamais vomi le lendemain en voyant une photo de la soirée.
+J|s|1||Je n'ai jamais découvert le lendemain que j'avais appelé quelqu'un pendant 40 minutes.
+J|s|1||Je n'ai jamais découvert le lendemain des photos de moi que je ne me rappelle pas avoir prises.
+J|s|1||Je n'ai jamais découvert le lendemain que j'avais commandé un truc en ligne.
+J|s|1||Je n'ai jamais découvert le lendemain que j'avais posté une story.
+J|s|1||Je n'ai jamais demandé à mes potes « j'ai fait quoi hier ? ».
+J|s|1||Je n'ai jamais présenté des excuses à tout un groupe le lendemain d'une soirée.
+J|s|1||Je n'ai jamais été interdit d'entrée dans un bar.
+J|s|1||Je n'ai jamais fait la fête dans un pays dont je ne parlais pas la langue.
+J|s|1||Je n'ai jamais suivi un groupe d'inconnus dans une autre soirée.
+J|s|1||Je n'ai jamais fini dans un karaoké avec des gens rencontrés dans la rue.
+J|s|2||Je n'ai jamais vomi sur quelqu'un.
+J|s|2||Je n'ai jamais vomi dans la voiture de quelqu'un.
+J|s|2||Je n'ai jamais vomi sur mes propres chaussures.
+J|s|2||Je n'ai jamais vomi par la fenêtre d'une voiture.
+J|s|2||Je n'ai jamais vomi pendant un rencard.
+J|s|2||Je n'ai jamais vomi devant les parents de quelqu'un.
+J|s|2||Je n'ai jamais vomi dans un endroit public très fréquenté.
+J|s|2||Je n'ai jamais été tellement bourré que j'ai pleuré en parlant de mon enfance.
+J|s|2||Je n'ai jamais été tellement bourré que j'ai fait une déclaration à un inconnu.
+J|s|2||Je n'ai jamais été tellement bourré que j'ai insulté quelqu'un que j'aime bien.
+J|s|2||Je n'ai jamais été tellement bourré que j'ai cherché une bagarre.
+J|s|2||Je n'ai jamais été tellement bourré que j'ai oublié mon propre code de téléphone.
+J|s|2||Je n'ai jamais été tellement bourré que je me suis endormi en plein milieu d'une conversation.
+J|s|2||Je n'ai jamais été porté jusqu'à chez moi par mes potes.
+J|s|2||Je n'ai jamais dû être couché par mes potes comme un enfant.
+J|s|2||Je n'ai jamais fini une soirée aux urgences pour une blessure ridicule.
+J|s|2||Je n'ai jamais passé une nuit en cellule de dégrisement.
+J|s|2||Je n'ai jamais pris une amende en rentrant de soirée.
+J|s|2||Je n'ai jamais pissé sur un monument.
+J|s|2||Je n'ai jamais fait pipi dans une bouteille.
+J|s|2||Je n'ai jamais fait pipi derrière une voiture et vu le propriétaire arriver.
+J|s|2||Je n'ai jamais montré mes fesses par une fenêtre de voiture.
+J|s|2||Je n'ai jamais couru tout nu dans la rue.
+J|s|2||Je n'ai jamais fait un tatouage en soirée.
+J|s|2||Je n'ai jamais coupé les cheveux de quelqu'un en soirée.
+J|s|2||Je n'ai jamais teint mes cheveux sur un coup de tête après une soirée.
+J|s|2||Je n'ai jamais acheté un billet d'avion bourré.
+J|s|2||Je n'ai jamais adopté un animal sur un coup de tête bourré.
+J|s|2||Je n'ai jamais fait une demande en mariage bourré, même pour rire.
+J|s|2||Je n'ai jamais appelé mon patron bourré.
+J|s|2||Je n'ai jamais envoyé un mail professionnel bourré.
+J|s|2||Je n'ai jamais commenté le post d'un ex en étant bourré.
+J|s|2||Je n'ai jamais révélé un secret de quelqu'un parce que j'avais trop bu.
+J|s|2||Je n'ai jamais eu un trou noir pendant un mariage.
+J|s|2||Je n'ai jamais été le plus bourré au pot de départ d'un collègue.
+J|s|2||Je n'ai jamais été bourré devant mes beaux-parents.
+J|s|2||Je n'ai jamais été bourré devant mes propres enfants, neveux ou nièces.
+J|s|2||Je n'ai jamais fini une soirée d'entreprise en me ridiculisant.
+J|a|1||Je n'ai jamais dragué quelqu'un dans les transports.
+J|a|1||Je n'ai jamais laissé mon numéro sur un ticket de caisse ou une serviette.
+J|a|1||Je n'ai jamais demandé le numéro de quelqu'un dans la rue.
+J|a|1||Je n'ai jamais eu un coup de foudre.
+J|a|1||Je n'ai jamais eu un coup de foudre pour quelqu'un que je n'ai jamais revu.
+J|a|1||Je n'ai jamais écrit une annonce « crush » sur un réseau social pour retrouver quelqu'un.
+J|a|1||Je n'ai jamais fait un rencard à l'aveugle.
+J|a|1||Je n'ai jamais été arrangé avec quelqu'un par mes parents.
+J|a|1||Je n'ai jamais été arrangé avec quelqu'un par mes potes, et ça a été un désastre.
+J|a|1||Je n'ai jamais eu un rencard où l'autre est arrivé avec un ami.
+J|a|1||Je n'ai jamais eu un rencard qui a duré plus de douze heures.
+J|a|1||Je n'ai jamais eu un rencard où j'ai payé pour les deux et jamais eu de nouvelles.
+J|a|1||Je n'ai jamais pleuré pendant un premier rencard.
+J|a|1||Je n'ai jamais parlé de mon ex pendant tout un premier rencard.
+J|a|1||Je n'ai jamais découvert pendant un rencard que l'autre était en couple.
+J|a|1||Je n'ai jamais découvert que mon rencard connaissait mon ex.
+J|a|1||Je n'ai jamais croisé un ex pendant un rencard.
+J|a|1||Je n'ai jamais fui un rencard par la porte de derrière.
+J|a|1||Je n'ai jamais fait semblant d'être malade pour écourter un rencard.
+J|a|1||Je n'ai jamais fait semblant d'avoir un rendez-vous pour fuir quelqu'un.
+J|a|1||Je n'ai jamais dit à quelqu'un que j'étais en couple pour me débarrasser de lui.
+J|a|1||Je n'ai jamais inventé un faux copain ou une fausse copine.
+J|a|1||Je n'ai jamais dit « on reste amis » en sachant que je ne le reverrai jamais.
+J|a|1||Je n'ai jamais été largué par un message vocal.
+J|a|1||Je n'ai jamais été largué par un ami de mon ex.
+J|a|1||Je n'ai jamais été largué en vacances.
+J|a|1||Je n'ai jamais été largué la veille d'un examen ou d'un grand jour.
+J|a|1||Je n'ai jamais été largué sans aucune explication.
+J|a|1||Je n'ai jamais appris une rupture par les réseaux sociaux.
+J|a|1||Je n'ai jamais appris que j'étais en couple en lisant le statut de l'autre.
+J|a|1||Je n'ai jamais rompu par lettre.
+J|a|1||Je n'ai jamais rompu en public.
+J|a|1||Je n'ai jamais rompu avec quelqu'un puis regretté dès le lendemain.
+J|a|1||Je n'ai jamais rompu et changé d'avis au milieu de la conversation.
+J|a|1||Je n'ai jamais pleuré plus d'un an pour une rupture.
+J|a|1||Je n'ai jamais brûlé ou jeté toutes les affaires d'un ex.
+J|a|1||Je n'ai jamais gardé un vêtement d'un ex pour son odeur.
+J|a|1||Je n'ai jamais écouté en boucle « notre chanson » après une rupture.
+J|a|1||Je n'ai jamais changé de coupe de cheveux après une rupture.
+J|a|1||Je n'ai jamais fait un tatouage pour quelqu'un dont je ne suis plus amoureux.
+J|a|1||Je n'ai jamais appelé un ex juste pour entendre sa voix et raccroché.
+J|a|1||Je n'ai jamais rédigé un long message à un ex et demandé l'avis de mes potes avant de l'envoyer.
+J|a|1||Je n'ai jamais souhaité l'anniversaire d'un ex pour relancer le contact.
+J|a|1||Je n'ai jamais revu un ex des années après et ressenti exactement la même chose.
+J|a|1||Je n'ai jamais été invité au mariage d'un ex.
+J|a|1||Je n'ai jamais été jaloux du nouveau partenaire d'un ex que je n'aimais plus.
+J|a|1||Je n'ai jamais comparé ma moitié à un ex à voix haute.
+J|a|1||Je n'ai jamais dit « je t'aime » après moins d'un mois.
+J|a|1||Je n'ai jamais dit « je t'aime » par message pour la première fois.
+J|a|1||Je n'ai jamais dit « je t'aime » à deux personnes la même année.
+J|a|1||Je n'ai jamais emménagé avec quelqu'un après moins de trois mois.
+J|a|1||Je n'ai jamais rencontré les parents de quelqu'un dès la première semaine.
+J|a|1||Je n'ai jamais menti à la famille de ma moitié pour faire bonne impression.
+J|a|1||Je n'ai jamais fait semblant d'aimer le plat de ma belle-mère.
+J|a|1||Je n'ai jamais fêté la Saint-Valentin seul en mangeant des chocolats.
+J|a|1||Je n'ai jamais offert le même cadeau à deux partenaires différents.
+J|a|1||Je n'ai jamais oublié la date d'anniversaire de mon couple.
+J|a|1||Je n'ai jamais fait une crise de jalousie dont j'ai honte.
+J|a|1||Je n'ai jamais vérifié l'heure de dernière connexion de ma moitié.
+J|a|1||Je n'ai jamais lu les messages de ma moitié pendant qu'elle dormait.
+J|a|1||Je n'ai jamais deviné le code de téléphone de ma moitié.
+J|a|1||Je n'ai jamais donné mon code de téléphone à ma moitié.
+J|a|1||Je n'ai jamais fait une pause dans mon couple.
+J|a|1||Je n'ai jamais eu une relation à distance.
+J|a|1||Je n'ai jamais eu une histoire de vacances qui a continué au retour.
+J|a|1||Je n'ai jamais pleuré à l'aéroport en quittant quelqu'un.
+J|a|1||Je n'ai jamais été en couple plus de cinq ans.
+J|a|1||Je n'ai jamais été célibataire plus de deux ans.
+J|a|1||Je n'ai jamais été en couple avec quelqu'un de plus de dix ans mon aîné.
+J|a|1||Je n'ai jamais été en couple avec quelqu'un d'une autre nationalité.
+J|a|1||Je n'ai jamais été en couple avec un ou une collègue.
+J|a|1||Je n'ai jamais été en couple avec quelqu'un rencontré sur une appli plus d'un an.
+J|a|2||Je n'ai jamais eu des sentiments pour deux personnes de la même bande.
+J|a|2||Je n'ai jamais embrassé le crush d'un pote.
+J|a|2||Je n'ai jamais volé le crush de quelqu'un.
+J|a|2||Je n'ai jamais quitté quelqu'un pour son meilleur ami.
+J|a|2||Je n'ai jamais été quitté pour mon meilleur ami.
+J|a|2||Je n'ai jamais eu une relation que mes parents n'ont jamais connue.
+J|a|2||Je n'ai jamais eu une histoire avec quelqu'un en couple qui m'a promis de quitter l'autre.
+J|a|2||Je n'ai jamais attendu que quelqu'un se sépare pour tenter ma chance.
+J|a|2||Je n'ai jamais été le plan B de quelqu'un.
+J|a|2||Je n'ai jamais gardé quelqu'un comme plan B.
+J|a|2||Je n'ai jamais dit à quelqu'un que j'étais célibataire en vacances alors que non.
+J|a|2||Je n'ai jamais retiré mon alliance ou ma bague pour sortir.
+J|a|2||Je n'ai jamais flirté avec quelqu'un juste pour rendre ma moitié jalouse.
+J|a|2||Je n'ai jamais eu un « crush de bureau » qui occupait toutes mes journées.
+J|a|2||Je n'ai jamais changé de travail ou de salle à cause d'une histoire qui a mal fini.
+J|a|2||Je n'ai jamais déménagé pour fuir un ex.
+J|a|2||Je n'ai jamais supprimé tous mes réseaux après une rupture.
+J|d|1||Je n'ai jamais fait semblant d'avoir lu un livre dont tout le monde parlait.
+J|d|1||Je n'ai jamais prétendu connaître un groupe de musique pour avoir l'air cool.
+J|d|1||Je n'ai jamais menti sur l'endroit où j'étais pendant le confinement.
+J|d|1||Je n'ai jamais menti à mon médecin sur ma consommation d'alcool.
+J|d|1||Je n'ai jamais menti sur mon poids.
+J|d|1||Je n'ai jamais menti sur mon salaire à mes potes.
+J|d|1||Je n'ai jamais menti à un contrôleur.
+J|d|1||Je n'ai jamais fraudé dans le métro devant un contrôleur.
+J|d|1||Je n'ai jamais pris des couverts ou un verre en souvenir dans un restaurant.
+J|d|1||Je n'ai jamais volé une serviette d'hôtel.
+J|d|1||Je n'ai jamais pris un deuxième petit-déjeuner à l'hôtel dans mon sac.
+J|d|1||Je n'ai jamais goûté des fruits au supermarché sans les payer.
+J|d|1||Je n'ai jamais rendu un vêtement porté au magasin.
+J|d|1||Je n'ai jamais utilisé un code étudiant alors que je ne l'étais plus.
+J|d|1||Je n'ai jamais partagé l'abonnement de quelqu'un sans le lui dire.
+J|d|1||Je n'ai jamais lu les mails de quelqu'un resté connecté.
+J|d|1||Je n'ai jamais écouté une conversation à travers une porte.
+J|d|1||Je n'ai jamais lu le journal intime de quelqu'un de ma famille.
+J|d|1||Je n'ai jamais fouillé dans les affaires de mes parents.
+J|d|1||Je n'ai jamais découvert un secret de famille par hasard.
+J|d|1||Je n'ai jamais caché un mauvais bulletin à mes parents.
+J|d|1||Je n'ai jamais imité la signature de mes parents.
+J|d|1||Je n'ai jamais séché les cours pendant plus d'une semaine.
+J|d|1||Je n'ai jamais été renvoyé de cours.
+J|d|1||Je n'ai jamais été convoqué chez le directeur ou le proviseur.
+J|d|1||Je n'ai jamais triché au bac ou à un examen important.
+J|d|1||Je n'ai jamais acheté un devoir ou un mémoire.
+J|d|1||Je n'ai jamais fait faire mes devoirs par quelqu'un d'autre.
+J|d|1||Je n'ai jamais menti sur mes diplômes dans un entretien.
+J|d|1||Je n'ai jamais fait semblant de travailler en télétravail toute une journée.
+J|d|1||Je n'ai jamais laissé ma webcam éteinte en réunion parce que j'étais encore au lit.
+J|d|1||Je n'ai jamais dit du mal de mon patron dans une conversation où il était.
+J|d|1||Je n'ai jamais envoyé un message sur un collègue à ce collègue.
+J|d|1||Je n'ai jamais volé des fournitures au bureau.
+J|d|1||Je n'ai jamais mangé le gâteau d'anniversaire d'un collègue que je ne connaissais pas.
+J|d|1||Je n'ai jamais participé à une cagnotte de départ sans savoir pour qui.
+J|d|1||Je n'ai jamais fait semblant de pleurer pour obtenir quelque chose.
+J|d|1||Je n'ai jamais rejeté la faute sur un enfant ou un animal.
+J|d|1||Je n'ai jamais gardé le trop-perçu d'un rendu de monnaie.
+J|d|1||Je n'ai jamais trouvé de l'argent par terre et l'ai gardé.
+J|d|1||Je n'ai jamais rayé une voiture sans laisser de mot.
+J|d|1||Je n'ai jamais grillé un feu rouge devant la police.
+J|d|1||Je n'ai jamais perdu des points de permis pour une raison idiote.
+J|d|1||Je n'ai jamais conduit sans permis.
+J|d|2||Je n'ai jamais été arrêté par la police.
+J|d|2||Je n'ai jamais passé une nuit au poste.
+J|d|2||Je n'ai jamais eu un casier judiciaire.
+J|d|2||Je n'ai jamais été dans une bagarre générale.
+J|d|2||Je n'ai jamais menti sous serment ou à la police.
+J|d|2||Je n'ai jamais fait une fausse déclaration d'assurance.
+J|d|2||Je n'ai jamais revendu quelque chose qui ne m'appartenait pas.
+J|d|2||Je n'ai jamais gardé un portefeuille trouvé.
+J|d|2||Je n'ai jamais lu les messages de ma moitié et trouvé quelque chose.
+J|d|2||Je n'ai jamais caché une dette à ma famille.
+J|d|2||Je n'ai jamais emprunté de l'argent à mes parents en mentant sur la raison.
+J|d|2||Je n'ai jamais fait un mensonge qui dure depuis plus d'un an.
+J|d|2||Je n'ai jamais gardé un secret qui pourrait briser une amitié.
+J|d|2||Je n'ai jamais su que le partenaire d'un pote le trompait sans rien dire.
+J|d|2||Je n'ai jamais couvert un pote qui trompait sa moitié.
+J|d|2|p|Je n'ai jamais répété à quelqu'un ici ce qu'un autre m'avait dit en secret.
+J|d|2|p|Je n'ai jamais lu par-dessus l'épaule de quelqu'un ici.
+J|d|2|p|Je n'ai jamais menti à quelqu'un ici pour ne pas venir à une soirée.
+J|d|1|pn|Je n'ai jamais mal jugé quelqu'un ici au premier regard.
+J|t|1||Je n'ai jamais laissé un message en « vu » pendant plus d'une semaine.
+J|t|1||Je n'ai jamais fait semblant de ne pas avoir reçu un message.
+J|t|1||Je n'ai jamais coupé mes confirmations de lecture pour pouvoir lire en douce.
+J|t|1||Je n'ai jamais relu une conversation entière juste avant de dormir.
+J|t|1||Je n'ai jamais fait une capture d'écran d'une story pour la montrer à quelqu'un.
+J|t|1||Je n'ai jamais regardé qui avait vu ma story en premier.
+J|t|1||Je n'ai jamais posté une story uniquement pour qu'une seule personne la voie.
+J|t|1||Je n'ai jamais créé une liste « amis proches » pour une seule personne.
+J|t|1||Je n'ai jamais retiré quelqu'un de mes amis proches pour le punir.
+J|t|1||Je n'ai jamais bloqué quelqu'un puis débloqué le lendemain.
+J|t|1||Je n'ai jamais bloqué un membre de ma famille.
+J|t|1||Je n'ai jamais quitté un groupe de discussion en douce.
+J|t|1||Je n'ai jamais été retiré d'un groupe de discussion.
+J|t|1||Je n'ai jamais mis un groupe de famille en sourdine pour toujours.
+J|t|1||Je n'ai jamais répondu à un message un an après.
+J|t|1||Je n'ai jamais envoyé « joyeux anniversaire » à quelqu'un dont ce n'était pas l'anniversaire.
+J|t|1||Je n'ai jamais liké mon propre post.
+J|t|1||Je n'ai jamais commenté mon propre post avec un autre compte.
+J|t|1||Je n'ai jamais eu plus de 100 000 vues sur une vidéo.
+J|t|1||Je n'ai jamais fait une vidéo TikTok que j'ai supprimée de honte.
+J|t|1||Je n'ai jamais fait une danse TikTok en public.
+J|t|1||Je n'ai jamais passé une nuit entière à regarder des vidéos de chats.
+J|t|1||Je n'ai jamais fini une série en une nuit.
+J|t|1||Je n'ai jamais regardé l'épisode suivant d'une série sans attendre ma moitié.
+J|t|1||Je n'ai jamais spoilé une série exprès.
+J|t|1||Je n'ai jamais donné mon avis sur un film que je n'avais pas vu.
+J|t|1||Je n'ai jamais utilisé le téléphone de quelqu'un pour poster un truc gênant.
+J|t|1||Je n'ai jamais laissé mon téléphone déverrouillé et regretté.
+J|t|1||Je n'ai jamais fait tomber mon téléphone dans les toilettes.
+J|t|1||Je n'ai jamais cassé deux téléphones la même année.
+J|t|1||Je n'ai jamais téléphoné à quelqu'un sans faire exprès depuis ma poche.
+J|t|1||Je n'ai jamais lancé un appel vidéo par erreur au pire moment.
+J|t|1||Je n'ai jamais eu une conversation par messages avec quelqu'un dans la même pièce.
+J|t|1||Je n'ai jamais rompu une amitié à cause d'un message mal compris.
+J|t|1||Je n'ai jamais envoyé un message vocal de plus de cinq minutes.
+J|t|1||Je n'ai jamais écouté un vocal en accéléré.
+J|t|1||Je n'ai jamais ignoré un vocal de plus de trois minutes.
+J|t|1||Je n'ai jamais écrit mes messages en majuscules sans faire exprès.
+J|t|1||Je n'ai jamais eu une autocorrection qui a créé un énorme malentendu.
+J|t|1||Je n'ai jamais envoyé un emoji aubergine ou pêche à ma mère.
+J|t|1||Je n'ai jamais utilisé un emoji sans connaître son vrai sens.
+J|t|2||Je n'ai jamais recherché le nom d'un ex sur Google.
+J|t|2||Je n'ai jamais créé un compte pour suivre quelqu'un qui m'avait bloqué.
+J|t|2||Je n'ai jamais regardé les stories de quelqu'un depuis le compte d'un pote.
+J|t|2||Je n'ai jamais mis un message en épinglé pour quelqu'un qui ne le méritait pas.
+J|t|2||Je n'ai jamais eu une conversation archivée que je relis en cachette.
+J|t|2||Je n'ai jamais montré une conversation privée entière à mes potes.
+J|t|2||Je n'ai jamais envoyé une capture d'écran à la personne dont on parlait.
+J|f|1||Je n'ai jamais parlé à un appareil ménager.
+J|f|1||Je n'ai jamais donné un prénom à ma voiture.
+J|f|1||Je n'ai jamais eu un ami imaginaire.
+J|f|1||Je n'ai jamais dormi avec une peluche à l'âge adulte.
+J|f|1||Je n'ai jamais pleuré devant une pub.
+J|f|1||Je n'ai jamais chanté une chanson entière avec les mauvaises paroles.
+J|f|1||Je n'ai jamais crié en voyant une souris.
+J|f|1||Je n'ai jamais eu peur d'un oiseau.
+J|f|1||Je n'ai jamais été attaqué par une mouette ou un pigeon.
+J|f|1||Je n'ai jamais couru après un bus qui ne s'est pas arrêté.
+J|f|1||Je n'ai jamais pris le train dans le mauvais sens.
+J|f|1||Je n'ai jamais raté ma station parce que je dormais.
+J|f|1||Je n'ai jamais porté un vêtement à l'envers toute une journée.
+J|f|1||Je n'ai jamais mis deux chaussures différentes sans m'en rendre compte.
+J|f|1||Je n'ai jamais oublié de mettre une culotte ou un caleçon.
+J|f|1||Je n'ai jamais eu la braguette ouverte pendant une présentation.
+J|f|1||Je n'ai jamais eu quelque chose entre les dents toute une soirée sans que personne ne me le dise.
+J|f|1||Je n'ai jamais éternué en mangeant devant quelqu'un.
+J|f|1||Je n'ai jamais avalé un insecte.
+J|f|1||Je n'ai jamais mangé de la nourriture pour chien ou pour chat.
+J|f|1||Je n'ai jamais mangé un plat entier au micro-ondes encore congelé au milieu.
+J|f|1||Je n'ai jamais mangé un pot de glace entier en une fois.
+J|f|1||Je n'ai jamais commandé un menu enfant à l'âge adulte.
+J|f|1||Je n'ai jamais fait semblant d'être un touriste pour éviter une conversation.
+J|f|1||Je n'ai jamais pris un faux accent pendant toute une soirée.
+J|f|1||Je n'ai jamais menti sur mon métier à des inconnus.
+J|f|1||Je n'ai jamais inventé une vie entière à quelqu'un dans un train.
+J|f|1||Je n'ai jamais fait semblant de parler une langue que je ne parle pas.
+J|f|1||Je n'ai jamais répondu au téléphone avec une voix de répondeur.
+J|f|1||Je n'ai jamais raccroché au nez de quelqu'un par accident.
+J|f|1||Je n'ai jamais salué quelqu'un d'un signe de main qui ne m'était pas destiné.
+J|f|1||Je n'ai jamais tenu la porte à quelqu'un qui était beaucoup trop loin.
+J|f|1||Je n'ai jamais dit « bonne journée » à quelqu'un le soir.
+J|f|1||Je n'ai jamais dit « je t'aime » au livreur par réflexe.
+J|f|1||Je n'ai jamais appelé mon prof « maman ».
+J|f|1||Je n'ai jamais fait semblant de faire du sport pour une photo.
+J|f|1||Je n'ai jamais payé un abonnement de salle de sport sans jamais y aller.
+J|f|1||Je n'ai jamais commencé un régime le lundi et arrêté le mardi.
+J|f|1||Je n'ai jamais pleuré en faisant mes impôts.
+J|f|1||Je n'ai jamais monté un meuble à l'envers.
+J|f|1||Je n'ai jamais appelé un dépanneur pour un problème que j'avais réglé seul.
+J|f|1||Je n'ai jamais perdu ma voiture dans un parking.
+J|f|1||Je n'ai jamais oublié où j'habitais en rentrant dans un nouvel appart.
+J|f|1||Je n'ai jamais dormi plus de 14 heures d'affilée.
+J|f|1||Je n'ai jamais fait une crise de somnambulisme.
+J|f|1||Je n'ai jamais parlé dans mon sommeil et appris ce que j'avais dit.
+J|f|1||Je n'ai jamais cru que j'étais vendredi alors qu'on était jeudi.
+J|f|1||Je n'ai jamais eu peur d'un film pour enfants.
+J|f|1||Je n'ai jamais pleuré de rire au point de ne plus respirer.
+J|f|1||Je n'ai jamais fait pipi dans ma culotte de rire à l'âge adulte.
+J|f|1||Je n'ai jamais ri pendant un enterrement.
+J|f|1||Je n'ai jamais fait une blague que personne n'a comprise et expliqué la blague.
+J|f|1|pn|Je n'ai jamais oublié le prénom de quelqu'un ici.
+J|f|1|pn|Je n'ai jamais imité quelqu'un ici devant d'autres personnes.
+J|f|1|p|Je n'ai jamais emprunté un truc à quelqu'un ici et jamais rendu.
+J|f|1|p|Je n'ai jamais cassé un objet chez quelqu'un ici sans le dire.
+J|f|1|pn|Je n'ai jamais trouvé que {B} ressemblait à une célébrité.
+J|f|1|pn|Je n'ai jamais eu envie de piquer un vêtement à {B}.
+J|s|1|p|Je n'ai jamais ramené {B} chez lui ou chez elle complètement bourré.
+J|s|1|p|Je n'ai jamais tenu les cheveux de {B} pendant qu'il ou elle vomissait.
+J|d|1|p|Je n'ai jamais menti à {B} pour ne pas le ou la vexer.
+J|a|1|pn|Je n'ai jamais pensé que {B} serait un bon partenaire.
+J|a|2|p|Je n'ai jamais été jaloux de la moitié de {B}.
+J|t|1|pn|Je n'ai jamais regardé toutes les photos de {B} sur les réseaux.
+Q|x|2||Qui de nous a déjà embrassé quelqu'un en moins de cinq minutes de conversation ?
+Q|x|2||Qui de nous a déjà embrassé quelqu'un sous le gui ou à minuit pour avoir une excuse ?
+Q|x|2||Qui de nous embrasse avec beaucoup trop de langue ?
+Q|x|2||Qui de nous a le baiser le plus timide ?
+Q|x|2||Qui de nous a déjà mordu la lèvre de quelqu'un un peu trop fort ?
+Q|x|2||Qui de nous a déjà eu un fou rire en plein baiser ?
+Q|x|2||Qui de nous a déjà roulé une pelle à quelqu'un qu'il venait de traiter de relou ?
+Q|x|2||Qui de nous a déjà embrassé quelqu'un juste pour rendre un ex jaloux ?
+Q|x|2||Qui de nous a déjà embrassé quelqu'un dans une file d'attente de boîte ?
+Q|x|2||Qui de nous a déjà embrassé un inconnu dans un pays étranger ?
+Q|x|2||Qui de nous a déjà embrassé quelqu'un dans un taxi devant le chauffeur ?
+Q|x|2||Qui de nous a déjà embrassé quelqu'un pendant un concert ?
+Q|x|2||Qui de nous a déjà embrassé deux personnes de la même famille ?
+Q|x|2||Qui de nous a déjà fait un slow qui s'est terminé dans une chambre ?
+Q|x|2||Qui de nous danse de la façon la plus suggestive en soirée ?
+Q|x|2||Qui de nous a déjà dansé sur quelqu'un sans lui demander son prénom ?
+Q|x|2||Qui de nous fait le meilleur regard de séduction ?
+Q|x|2||Qui de nous a le sourire le plus craquant quand il veut quelque chose ?
+Q|x|2||Qui de nous fait exprès de toucher le bras de quelqu'un quand il drague ?
+Q|x|2||Qui de nous rougit le plus vite quand on lui fait un compliment ?
+Q|x|2||Qui de nous perd tous ses moyens devant quelqu'un qui lui plaît ?
+Q|x|2||Qui de nous a déjà bégayé devant son crush ?
+Q|x|2||Qui de nous a déjà dragué quelqu'un sans s'en rendre compte ?
+Q|x|2||Qui de nous a déjà été dragué sans s'en rendre compte pendant une heure ?
+Q|x|2||Qui de nous a la phrase de drague la plus nulle, mais qui marche ?
+Q|x|2||Qui de nous a déjà dragué en utilisant un horoscope ?
+Q|x|2||Qui de nous drague en envoyant des mèmes ?
+Q|x|2||Qui de nous a déjà dragué quelqu'un en lui proposant de l'aider à déménager ?
+Q|x|2||Qui de nous a déjà demandé « tu veux monter boire un verre ? » sans aucune subtilité ?
+Q|x|2||Qui de nous a déjà dit « je ne fais jamais ça d'habitude » et c'était faux ?
+Q|x|2||Qui de nous a déjà fait croire qu'il habitait plus près pour ramener quelqu'un ?
+Q|x|2||Qui de nous a déjà raté le dernier métro exprès ?
+Q|x|2||Qui de nous a déjà proposé de « regarder un film » sans jamais lancer le film ?
+Q|x|2||Qui de nous a toujours des bougies prêtes chez lui, au cas où ?
+Q|x|2||Qui de nous change ses draps uniquement quand il espère avoir de la visite ?
+Q|x|2||Qui de nous range tout son appart en urgence avant un rencard ?
+Q|x|2||Qui de nous a déjà caché quelque chose de gênant sous le lit avant qu'un date arrive ?
+Q|x|2||Qui de nous met le plus de parfum avant un rencard ?
+Q|x|2||Qui de nous met trois heures à se préparer pour un rencard qui finit en dix minutes ?
+Q|x|2||Qui de nous a déjà mis ses plus beaux sous-vêtements pour rien ?
+Q|x|2||Qui de nous a déjà oublié qu'il portait de vieux sous-vêtements au pire moment ?
+Q|x|2||Qui de nous porte les sous-vêtements les plus improbables ?
+Q|x|2||Qui de nous a un sous-vêtement porte-bonheur pour les rencards ?
+Q|x|2||Qui de nous dort avec un t-shirt de son ex ?
+Q|x|2||Qui de nous a déjà dormi chez quelqu'un juste pour le câlin ?
+Q|x|2||Qui de nous est le meilleur pour les câlins en cuillère ?
+Q|x|2||Qui de nous pique toute la couette ?
+Q|x|2||Qui de nous a les pieds les plus gelés au lit ?
+Q|x|2||Qui de nous parle dans son sommeil de choses qu'il ne devrait pas dire ?
+Q|x|2||Qui de nous a déjà dit un mauvais prénom en dormant ?
+Q|x|2||Qui de nous fait le petit-déjeuner au lit le plus romantique ?
+Q|x|2||Qui de nous part toujours avant le petit-déjeuner ?
+Q|x|2||Qui de nous a la marche de la honte la plus légendaire ?
+Q|x|2||Qui de nous a déjà croisé quelqu'un de sa famille pendant sa marche de la honte ?
+Q|x|2||Qui de nous a déjà oublié le prénom de quelqu'un pendant la nuit même ?
+Q|x|2||Qui de nous enregistre ses dates dans son téléphone avec des descriptions plutôt que des prénoms ?
+Q|x|2||Qui de nous a le plus de contacts nommés « ne pas répondre » ?
+Q|x|2||Qui de nous a déjà eu deux dates prévus le même soir ?
+Q|x|2||Qui de nous a déjà oublié qu'il avait un rencard ?
+Q|x|2||Qui de nous fait le plus de rencards par mois ?
+Q|x|2||Qui de nous a le plus de matchs sans jamais rencontrer personne ?
+Q|x|2||Qui de nous swipe à droite sur tout le monde ?
+Q|x|2||Qui de nous est le plus difficile sur les applis ?
+Q|x|2||Qui de nous a la bio d'appli la plus gênante ?
+Q|x|2||Qui de nous a déjà payé un abonnement premium sur une appli de rencontre ?
+Q|x|2||Qui de nous a déjà matché avec quelqu'un de sa famille éloignée ?
+Q|x|2||Qui de nous a déjà rencontré quelqu'un d'une appli dans les cinq minutes après le match ?
+Q|x|2||Qui de nous a le plus de conversations coquines en cours en ce moment ?
+Q|x|2||Qui de nous envoie les messages les plus suggestifs avec juste des emojis ?
+Q|x|2||Qui de nous a déjà envoyé un sexto à sa mère par erreur ?
+Q|x|2||Qui de nous a déjà reçu un nude en pleine réunion ?
+Q|x|2||Qui de nous a déjà ouvert un nude devant quelqu'un sans faire exprès ?
+Q|x|2||Qui de nous a un dossier caché dans son téléphone ?
+Q|x|2||Qui de nous a déjà pris une photo sexy dans les toilettes du bureau ?
+Q|x|2||Qui de nous a le meilleur angle pour un selfie sexy ?
+Q|x|2||Qui de nous poste les photos les plus sexy sur les réseaux ?
+Q|x|2||Qui de nous reçoit le plus de messages privés de dragueurs ?
+Q|x|2||Qui de nous répond aux messages de dragueurs inconnus ?
+Q|x|2||Qui de nous a déjà dragué quelqu'un en commentant ses photos ?
+Q|x|2||Qui de nous a déjà liké une photo en maillot à 3 h du matin ?
+Q|x|2||Qui de nous stalke les ex de ses dates ?
+Q|x|2||Qui de nous a un crush sur une célébrité complètement improbable ?
+Q|x|2||Qui de nous a un crush sur un personnage de série ?
+Q|x|2||Qui de nous a un crush sur un collègue en ce moment ?
+Q|x|2||Qui de nous a un crush sur quelqu'un de beaucoup trop jeune pour son goût... mais majeur ?
+Q|x|2||Qui de nous craque toujours pour les gens qui ne sont pas libres ?
+Q|x|2||Qui de nous craque toujours pour les mauvais garçons ou les mauvaises filles ?
+Q|x|2||Qui de nous craque pour les gens en uniforme ?
+Q|x|2||Qui de nous craque pour les lunettes ?
+Q|x|2||Qui de nous craque pour les tatouages ?
+Q|x|2||Qui de nous craque pour les barbes ?
+Q|x|2||Qui de nous craque pour les gens beaucoup plus grands que lui ?
+Q|x|2||Qui de nous craque pour les voix graves ?
+Q|x|2||Qui de nous craque pour les gens qui cuisinent ?
+Q|x|2||Qui de nous craque pour les gens qui le font rire, même pas très beaux ?
+Q|x|2||Qui de nous tombe amoureux de son coach sportif ?
+Q|x|2||Qui de nous a déjà eu un crush sur son médecin ?
+Q|x|2||Qui de nous a déjà eu un crush sur le serveur de son café habituel ?
+Q|x|2||Qui de nous a déjà flirté avec un policier ?
+Q|x|2||Qui de nous a déjà dragué un videur pour entrer ?
+Q|x|2||Qui de nous a déjà dragué un prof pendant un oral ?
+Q|x|2||Qui de nous a déjà dragué quelqu'un pendant un enterrement ?
+Q|x|2||Qui de nous a déjà dragué quelqu'un pendant un mariage où il était témoin ?
+Q|x|2||Qui de nous a déjà dragué le marié ou la mariée ?
+Q|x|2||Qui de nous finirait avec quelqu'un rencontré dans les toilettes d'une boîte ?
+Q|x|2||Qui de nous a déjà dormi sur le canapé de quelqu'un en espérant le lit ?
+Q|x|2||Qui de nous a déjà fait l'amour en restant silencieux pour ne pas réveiller les colocs ?
+Q|x|2||Qui de nous a les colocs ou les voisins les plus traumatisés ?
+Q|x|2||Qui de nous a déjà dû expliquer un bruit bizarre à ses voisins ?
+Q|x|2||Qui de nous a déjà reçu un mot des voisins à cause du bruit ?
+Q|x|2||Qui de nous a un lit qui grince à réveiller tout l'immeuble ?
+Q|x|2||Qui de nous a déjà cassé un lit ?
+Q|x|2||Qui de nous a déjà fait tomber une étagère en plein moment chaud ?
+Q|x|2||Qui de nous a déjà dû s'arrêter à cause d'un animal qui regardait ?
+Q|x|2||Qui de nous a déjà été interrompu par un livreur ?
+Q|x|2||Qui de nous a déjà répondu au téléphone en plein milieu ?
+Q|x|2||Qui de nous a déjà décroché à sa mère en plein milieu ?
+Q|x|2||Qui de nous fait l'amour avec une playlist minutieusement préparée ?
+Q|x|2||Qui de nous a la playlist la plus gênante pendant ?
+Q|x|2||Qui de nous s'est déjà retrouvé avec une chanson pour enfants qui passait au mauvais moment ?
+Q|x|2||Qui de nous a déjà eu une crampe en plein milieu ?
+Q|x|2||Qui de nous s'est déjà blessé pendant l'amour ?
+Q|x|2||Qui de nous a déjà fini aux urgences pour une raison qu'il n'ose pas dire ?
+Q|x|2||Qui de nous a déjà glissé dans la douche en voulant être sexy ?
+Q|x|2||Qui de nous a déjà raté un strip-tease en se coinçant dans son pull ?
+Q|x|2||Qui de nous ferait le strip-tease le plus drôle ?
+Q|x|2||Qui de nous a déjà pris un cours de pole dance ?
+Q|x|2||Qui de nous a déjà fait un lap dance pour un anniversaire ?
+Q|x|2||Qui de nous a déjà été dans un bar à strip-tease ?
+Q|x|2||Qui de nous connaît le mieux les sex-shops de sa ville ?
+Q|x|2||Qui de nous rougit en passant devant un sex-shop ?
+Q|x|2||Qui de nous a déjà offert un sextoy pour un enterrement de vie de jeune fille ou de garçon ?
+Q|x|2||Qui de nous a déjà reçu un cadeau coquin devant toute sa famille ?
+Q|x|2||Qui de nous lit des romans érotiques dans le métro ?
+Q|x|2||Qui de nous a déjà regardé un film érotique en pensant que c'était un drame ?
+Q|x|2||Qui de nous rougit pendant les scènes de sexe à la télé avec ses parents ?
+Q|x|2||Qui de nous fait des commentaires coquins pendant les films ?
+Q|x|2||Qui de nous fait les blagues les plus salaces en soirée ?
+Q|x|2||Qui de nous transforme toutes les phrases en sous-entendu ?
+Q|x|2||Qui de nous ne comprend jamais les sous-entendus ?
+Q|x|2||Qui de nous parle de sexe le plus librement avec ses parents ?
+Q|x|2||Qui de nous parle de sexe dès le premier rencard ?
+Q|x|2||Qui de nous pose les questions les plus gênantes en soirée ?
+Q|x|2||Qui de nous raconte tout de sa vie sexuelle à ses potes ?
+Q|x|2||Qui de nous ne raconte jamais rien de sa vie sexuelle ?
+Q|x|2||Qui de nous a la vie sexuelle la plus mystérieuse ?
+Q|x|2||Qui de nous exagère le plus ses aventures ?
+Q|x|2||Qui de nous a l'air le plus sage mais cache bien son jeu ?
+Q|x|2||Qui de nous a l'air le plus expérimenté mais ne l'est pas du tout ?
+Q|x|2||Qui de nous serait le plus mal à l'aise dans un club libertin ?
+Q|x|2||Qui de nous serait le plus à l'aise dans un sauna naturiste ?
+Q|x|2||Qui de nous a déjà fait du naturisme ?
+Q|x|2||Qui de nous a déjà bronzé totalement nu ?
+Q|x|2||Qui de nous a déjà fait un bain de minuit tout nu ?
+Q|x|2||Qui de nous a déjà couru tout nu pour un pari ?
+Q|x|2||Qui de nous a déjà perdu un pari et fini en sous-vêtements ?
+Q|x|2||Qui de nous a déjà ouvert la porte en serviette à quelqu'un qu'il ne connaissait pas ?
+Q|x|2||Qui de nous a déjà été vu nu par ses beaux-parents ?
+Q|x|2||Qui de nous a déjà été vu nu par un collègue ?
+Q|x|2||Qui de nous oublie toujours de fermer la porte de la salle de bain ?
+Q|x|2||Qui de nous se change devant tout le monde sans gêne ?
+Q|x|2||Qui de nous dort toujours en sous-vêtements chez les autres ?
+Q|x|2||Qui de nous est le plus pudique ?
+Q|x|2||Qui de nous a le plus de complexes alors qu'il n'a aucune raison ?
+Q|x|2||Qui de nous a le corps le plus sous-estimé ?
+Q|x|2||Qui de nous a la plus belle peau ?
+Q|x|2||Qui de nous a les plus belles fesses, d'après vous ?
+Q|x|2||Qui de nous a le plus beau sourire ?
+Q|x|2||Qui de nous a les yeux qui font le plus craquer ?
+Q|x|2||Qui de nous a les plus belles mains ?
+Q|x|2||Qui de nous sent toujours bon ?
+Q|x|2||Qui de nous a le parfum le plus envoûtant ?
+Q|x|2||Qui de nous a la voix la plus sexy ?
+Q|x|2||Qui de nous a l'accent le plus sexy quand il parle anglais ?
+Q|x|2||Qui de nous a le meilleur style pour séduire ?
+Q|x|2||Qui de nous s'habille le plus sexy en soirée ?
+Q|x|2||Qui de nous a la tenue de soirée la plus osée ce soir ?
+Q|x|2||Qui de nous serait le meilleur en lingerie ?
+Q|x|2||Qui de nous a la plus grosse collection de lingerie ou de caleçons sexy ?
+Q|x|2||Qui de nous a déjà acheté une tenue sexy pour une seule nuit ?
+Q|x|2||Qui de nous a déjà porté un déguisement sexy à Halloween ?
+Q|x|2||Qui de nous a le déguisement le plus osé de l'histoire de nos soirées ?
+Q|x|3||Qui de nous a déjà fait l'amour plus de cinq fois dans la même journée ?
+Q|x|3||Qui de nous a déjà fait l'amour pendant plus de trois heures ?
+Q|x|3||Qui de nous a déjà fait l'amour avec quelqu'un dont il ne connaissait pas le prénom ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une voiture garée dans la rue ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un ascenseur ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une cabine d'essayage ?
+Q|x|3||Qui de nous a déjà fait l'amour dans les toilettes d'un bar ?
+Q|x|3||Qui de nous a déjà fait l'amour dans la mer ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une piscine publique ?
+Q|x|3||Qui de nous a déjà fait l'amour sur un balcon ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un parc ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un train de nuit ?
+Q|x|3||Qui de nous a déjà fait l'amour dans un bureau ?
+Q|x|3||Qui de nous a déjà fait l'amour dans le lit de quelqu'un d'autre ?
+Q|x|3||Qui de nous a déjà fait l'amour pendant une soirée, pendant que tout le monde dansait à côté ?
+Q|x|3||Qui de nous a déjà fait l'amour sous une tente avec des gens à côté ?
+Q|x|3||Qui de nous a déjà fait l'amour dans une voiture de police... ou presque ?
+Q|x|3||Qui de nous a déjà été pris en flagrant délit par des inconnus ?
+Q|x|3||Qui de nous a déjà été pris en flagrant délit par la police ?
+Q|x|3||Qui de nous a déjà été pris en flagrant délit par un membre de sa famille ?
+Q|x|3||Qui de nous a déjà été pris en flagrant délit par un enfant ?
+Q|x|3||Qui de nous a déjà fait l'amour en se faisant filmer ?
+Q|x|3||Qui de nous a déjà fait l'amour devant une webcam ?
+Q|x|3||Qui de nous a déjà fait l'amour devant un miroir ?
+Q|x|3||Qui de nous a déjà fait l'amour en regardant un porno en même temps ?
+Q|x|3||Qui de nous a déjà testé une position trouvée sur Internet ?
+Q|x|3||Qui de nous connaît le plus de positions ?
+Q|x|3||Qui de nous a une position préférée qu'il ne change jamais ?
+Q|x|3||Qui de nous préfère être au-dessus ?
+Q|x|3||Qui de nous préfère le matin ?
+Q|x|3||Qui de nous fait l'amour en chaussettes ?
+Q|x|3||Qui de nous parle le plus pendant l'amour ?
+Q|x|3||Qui de nous dit les mots les plus cochons ?
+Q|x|3||Qui de nous rit pendant l'amour ?
+Q|x|3||Qui de nous est le plus silencieux pendant l'amour ?
+Q|x|3||Qui de nous fait des bruits d'animaux pendant l'amour ?
+Q|x|3||Qui de nous a l'endurance d'un marathonien ?
+Q|x|3||Qui de nous est un sprinteur au lit ?
+Q|x|3||Qui de nous s'endort juste après ?
+Q|x|3||Qui de nous fume une cigarette juste après comme dans les films ?
+Q|x|3||Qui de nous a toujours faim juste après ?
+Q|x|3||Qui de nous regarde son téléphone juste après ?
+Q|x|3||Qui de nous demande « alors, c'était bien ? » à chaque fois ?
+Q|x|3||Qui de nous a déjà noté sa nuit sur 10 devant l'autre ?
+Q|x|3||Qui de nous a déjà simulé pour faire plaisir ?
+Q|x|3||Qui de nous a déjà simulé tellement mal qu'il s'est fait griller ?
+Q|x|3||Qui de nous a déjà eu un orgasme surprise ?
+Q|x|3||Qui de nous est multi-orgasmique ?
+Q|x|3||Qui de nous connaît le mieux le corps humain ?
+Q|x|3||Qui de nous fait les meilleurs massages ?
+Q|x|3||Qui de nous a les mains les plus douées ?
+Q|x|3||Qui de nous embrasse le mieux dans le cou ?
+Q|x|3||Qui de nous est le plus sensible des oreilles ?
+Q|x|3||Qui de nous a le plus de zones sensibles ?
+Q|x|3||Qui de nous craque pour les préliminaires interminables ?
+Q|x|3||Qui de nous saute toujours les préliminaires ?
+Q|x|3||Qui de nous aime qu'on prenne les commandes ?
+Q|x|3||Qui de nous aime donner les ordres au lit ?
+Q|x|3||Qui de nous aime se faire attacher ?
+Q|x|3||Qui de nous aime les fessées, données ou reçues ?
+Q|x|3||Qui de nous aime qu'on lui tire les cheveux ?
+Q|x|3||Qui de nous aime les bandeaux sur les yeux ?
+Q|x|3||Qui de nous aime qu'on lui chuchote des choses cochonnes ?
+Q|x|3||Qui de nous aime les jeux de pouvoir ?
+Q|x|3||Qui de nous a déjà testé le BDSM ?
+Q|x|3||Qui de nous a une tenue en cuir ou en latex dans son placard ?
+Q|x|3||Qui de nous a déjà joué au prof et à l'élève ?
+Q|x|3||Qui de nous a déjà joué au docteur à l'âge adulte ?
+Q|x|3||Qui de nous a déjà fait un jeu de rôle avec un faux prénom ?
+Q|x|3||Qui de nous a déjà fait semblant d'être un inconnu dans un bar avec sa moitié ?
+Q|x|3||Qui de nous a déjà utilisé de la crème fouettée au lit ?
+Q|x|3||Qui de nous a déjà utilisé des glaçons au lit ?
+Q|x|3||Qui de nous a déjà utilisé de la cire de bougie au lit ?
+Q|x|3||Qui de nous a déjà utilisé de l'huile de massage au point de ruiner les draps ?
+Q|x|3||Qui de nous a déjà utilisé un objet de cuisine au lit ?
+Q|x|3||Qui de nous a le sextoy le plus bizarre ?
+Q|x|3||Qui de nous a le plus de sextoys connectés ?
+Q|x|3||Qui de nous a déjà utilisé un sextoy contrôlé à distance en public ?
+Q|x|3||Qui de nous a déjà eu un sextoy qui vibrait dans sa valise à l'aéroport ?
+Q|x|3||Qui de nous a déjà oublié un sextoy chez quelqu'un ?
+Q|x|3||Qui de nous a déjà fait découvrir un sextoy à quelqu'un ?
+Q|x|3||Qui de nous a déjà fait l'amour au téléphone pendant que quelqu'un dormait à côté ?
+Q|x|3||Qui de nous se fait plaisir tous les jours ?
+Q|x|3||Qui de nous s'est déjà fait plaisir au travail ?
+Q|x|3||Qui de nous s'est déjà fait surprendre en plein plaisir solo ?
+Q|x|3|pn|Qui de nous a déjà pensé à quelqu'un d'ici en se faisant plaisir ?
+Q|x|3||Qui de nous a l'historique porno le plus varié ?
+Q|x|3||Qui de nous a déjà reconnu quelqu'un dans un porno ?
+Q|x|3||Qui de nous regarderait un porno avec sa moitié sans gêne ?
+Q|x|3||Qui de nous a déjà payé pour un site porno ?
+Q|x|3||Qui de nous a déjà vendu des photos coquines ?
+Q|x|3||Qui de nous ouvrirait un OnlyFans si on lui garantissait 5 000 euros par mois ?
+Q|x|3||Qui de nous a déjà eu un sugar daddy ou une sugar mommy ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un pour un repas gratuit ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un pour une promotion ?
+Q|x|3||Qui de nous a déjà couché avec son boss ?
+Q|x|3||Qui de nous a déjà couché avec un prof ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un de marié ?
+Q|x|3||Qui de nous a déjà été l'amant ou la maîtresse pendant des mois ?
+Q|x|3||Qui de nous a déjà trompé et ne l'a jamais avoué ?
+Q|x|3||Qui de nous pardonnerait une tromperie d'un soir ?
+Q|x|3||Qui de nous accepterait une relation libre ?
+Q|x|3||Qui de nous a déjà eu une relation libre ?
+Q|x|3||Qui de nous a déjà échangé de partenaire le temps d'un soir ?
+Q|x|3||Qui de nous a déjà embrassé deux personnes en même temps ?
+Q|x|3||Qui de nous a déjà participé à une soirée qui a fini en partouze ?
+Q|x|3||Qui de nous a déjà dit non à une partouze et le regrette ?
+Q|x|3||Qui de nous a déjà fait un plan à trois avec un couple ?
+Q|x|3||Qui de nous a déjà fait un plan à trois improvisé ?
+Q|x|3||Qui de nous serait le plus jaloux dans un plan à trois ?
+Q|x|3||Qui de nous a déjà couché avec deux personnes de la même famille ?
+Q|x|3||Qui de nous a déjà couché avec deux collègues ?
+Q|x|3||Qui de nous a déjà couché avec deux colocs ?
+Q|x|3||Qui de nous a couché avec le plus de nationalités différentes ?
+Q|x|3||Qui de nous a couché avec quelqu'un de célèbre ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un de vingt ans de plus ?
+Q|x|3||Qui de nous a déjà été la première fois de quelqu'un ?
+Q|x|3||Qui de nous a eu la première fois la plus catastrophique ?
+Q|x|3||Qui de nous a eu sa première fois le plus tard ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un uniquement pour le défi ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un qu'il trouvait moche ?
+Q|x|3||Qui de nous a déjà couché avec un ex le jour du mariage de quelqu'un ?
+Q|x|3||Qui de nous a déjà couché avec quelqu'un pendant un enterrement de vie de jeune fille ou de garçon ?
+Q|x|3||Qui de nous a déjà couché avec un ou une ex d'un pote sans le dire ?
+Q|x|3||Qui de nous a le body count le plus élevé du groupe, sans contestation ?
+Q|x|3||Qui de nous a le body count le plus bas ?
+Q|x|3||Qui de nous a déjà oublié combien de partenaires il avait eus ?
+Q|x|3||Qui de nous tient un tableur de ses partenaires ?
+Q|x|3|pn|Qui de nous a l'air d'aimer les fessées ?
+Q|x|3|pn|Qui de nous a déjà fantasmé sur quelqu'un d'ici ce soir ?
+Q|x|3|pn|Qui de nous formerait le meilleur duo au lit avec quelqu'un d'ici ?
+Q|x|3|pn|Qui de nous pourrait coucher avec deux personnes d'ici sans que ça fasse de drame ?
+Q|x|3|pn|Qui de nous a le plus de chances de finir la nuit avec {B} ?
+Q|x|3|pn|Qui de nous connaît le mieux les goûts de {B} au lit ?
+Q|x|3|pn|Qui de nous a déjà eu un rêve coquin avec {B} ?
+Q|x|3|pn|Qui de nous accepterait de faire un strip-tease pour {B} ?
+Q|x|2|pn|Qui de nous embrasserait {B} pour 100 euros ?
+Q|x|2|pn|Qui de nous trouve que {B} a l'air d'embrasser très bien ?
+Q|x|2|pn|Qui de nous a déjà regardé {B} avec des yeux un peu trop insistants ?
+Q|x|2|pn|Qui de nous serait le plus gêné de partager un lit avec {B} ?
+Q|x|2|pn|Qui de nous {B} a déjà dragué sans le dire ?
+Q|x|2|pn|Qui de nous {B} emmènerait en week-end coquin ?
+Q|x|3|pn|Qui de nous {B} choisirait pour un plan à trois ?
+Q|x|2|p|Qui de nous a entendu les nuits de {B} à travers un mur ?
+Q|x|2|p|Qui de nous connaît le body count de {B} ?
+Q|x|3|p|Qui de nous a déjà vu {B} dans une situation coquine ?
+Q|s|1||Qui de nous connaît les videurs de toutes les boîtes de la ville ?
+Q|s|1||Qui de nous a la pire tolérance à l'alcool ?
+Q|s|1||Qui de nous a la meilleure tolérance à l'alcool sans jamais l'avoir cherché ?
+Q|s|1||Qui de nous devient le plus bavard après deux verres ?
+Q|s|1||Qui de nous devient philosophe après minuit ?
+Q|s|1||Qui de nous devient le plus câlin bourré ?
+Q|s|1||Qui de nous devient agressif quand il a trop bu ?
+Q|s|1||Qui de nous pleure toujours à la fin des soirées ?
+Q|s|1||Qui de nous parle anglais dès qu'il a bu ?
+Q|s|1||Qui de nous se met à danser sur les tables ?
+Q|s|1||Qui de nous fait les pires mélanges d'alcool ?
+Q|s|1||Qui de nous boit les fonds de verres des autres ?
+Q|s|1||Qui de nous boit toujours plus vite que tout le monde ?
+Q|s|1||Qui de nous fait durer le même verre toute la soirée ?
+Q|s|1||Qui de nous a déjà bu de l'alcool à 10 h du matin ?
+Q|s|1||Qui de nous fait toujours un discours non sollicité en fin de soirée ?
+Q|s|1||Qui de nous s'occupe toujours des gens bourrés ?
+Q|s|1||Qui de nous finit toujours par dormir sur le canapé d'un autre ?
+Q|s|1||Qui de nous ne rentre jamais chez lui le samedi soir ?
+Q|s|1||Qui de nous a déjà fait une soirée de 24 heures ?
+Q|s|1||Qui de nous est toujours le dernier à partir ?
+Q|s|1||Qui de nous part toujours sans dire au revoir ?
+Q|s|1||Qui de nous dit « on fait une petite soirée tranquille » et finit en boîte ?
+Q|s|1||Qui de nous annule toujours au dernier moment ?
+Q|s|1||Qui de nous arrive toujours en retard aux soirées ?
+Q|s|1||Qui de nous arrive toujours les mains vides ?
+Q|s|1||Qui de nous ramène toujours trop à manger ?
+Q|s|1||Qui de nous mange toujours tout le fromage avant les autres ?
+Q|s|1||Qui de nous est le meilleur pour organiser un after ?
+Q|s|1||Qui de nous a la meilleure playlist de soirée ?
+Q|s|1||Qui de nous met toujours les mêmes chansons ?
+Q|s|1||Qui de nous chante le plus faux au karaoké ?
+Q|s|1||Qui de nous monopolise le micro au karaoké ?
+Q|s|1||Qui de nous connaît toutes les paroles de chansons des années 2000 ?
+Q|s|1||Qui de nous danse le plus mal ?
+Q|s|1||Qui de nous a le pas de danse le plus ridicule ?
+Q|s|1||Qui de nous prend toujours les photos de groupe ?
+Q|s|1||Qui de nous est toujours flou sur les photos de soirée ?
+Q|s|1||Qui de nous poste trop de stories pendant les soirées ?
+Q|s|1||Qui de nous a perdu le plus d'objets en soirée ?
+Q|s|1||Qui de nous a déjà perdu une chaussure en rentrant de soirée ?
+Q|s|1||Qui de nous a déjà dormi dans une baignoire ?
+Q|s|1||Qui de nous commande toujours un kebab en fin de soirée ?
+Q|s|1||Qui de nous a la meilleure recette anti-gueule de bois ?
+Q|s|1||Qui de nous a les pires gueules de bois ?
+Q|s|1||Qui de nous jure toujours qu'il ne boira plus jamais ?
+Q|s|1||Qui de nous tient le moins bien le vin ?
+Q|s|1||Qui de nous est le pire au beer-pong ?
+Q|s|1||Qui de nous triche à tous les jeux à boire ?
+Q|s|1||Qui de nous invente toujours de nouvelles règles aux jeux à boire ?
+Q|s|1||Qui de nous déteste perdre à un jeu de soirée ?
+Q|s|1||Qui de nous a déjà été viré d'un bar ?
+Q|s|1||Qui de nous a déjà été refoulé de toutes les boîtes d'une même rue ?
+Q|s|1||Qui de nous se fait toujours offrir des verres ?
+Q|s|1||Qui de nous paie toujours la tournée sans compter ?
+Q|s|1||Qui de nous oublie toujours de rembourser ses verres ?
+Q|s|1||Qui de nous a déjà été le plus bourré à un repas de famille ?
+Q|s|1||Qui de nous serait le plus bourré à son propre mariage ?
+Q|s|1||Qui de nous a fait la soirée la plus légendaire dont on parle encore ?
+Q|s|1||Qui de nous a déjà été recadré par ses voisins pour le bruit ?
+Q|s|1||Qui de nous a déjà vu une soirée finir avec la police ?
+Q|s|1||Qui de nous a déjà fait une soirée chez ses parents en leur absence ?
+Q|s|1||Qui de nous a déjà cassé quelque chose de précieux en soirée ?
+Q|s|1||Qui de nous oublie toujours où il a garé sa voiture après une soirée ?
+Q|s|1||Qui de nous rentre toujours à pied même à 5 km ?
+Q|s|2||Qui de nous a déjà fini une soirée en pleurant dans un VTC ?
+Q|s|2||Qui de nous a déjà eu un trou noir pendant toute une soirée ?
+Q|s|2||Qui de nous a déjà appelé son ex bourré en pleine nuit ?
+Q|s|2||Qui de nous a déjà vomi dans un endroit inoubliable ?
+Q|s|2||Qui de nous a déjà dû être ramené par la police ?
+Q|s|2||Qui de nous a déjà passé une nuit au poste ?
+Q|s|2||Qui de nous a déjà fait un truc illégal en soirée ?
+Q|s|2||Qui de nous a déjà fait un tatouage bourré ?
+Q|s|2||Qui de nous a déjà acheté un truc absurde en ligne bourré ?
+Q|s|2||Qui de nous a déjà envoyé un mail au boulot bourré ?
+Q|s|2||Qui de nous a déjà dû s'excuser auprès de tout le monde le lendemain ?
+Q|s|2||Qui de nous a déjà fini une soirée d'entreprise en légende ?
+Q|a|1||Qui de nous est le plus fleur bleue ?
+Q|a|1||Qui de nous est le plus cash en amour ?
+Q|a|1||Qui de nous pleure devant toutes les comédies romantiques ?
+Q|a|1||Qui de nous croit encore au coup de foudre ?
+Q|a|1||Qui de nous croit à l'âme sœur ?
+Q|a|1||Qui de nous a déjà eu un coup de foudre dans le métro ?
+Q|a|1||Qui de nous a le plus de crushs en même temps ?
+Q|a|1||Qui de nous change de crush toutes les semaines ?
+Q|a|1||Qui de nous a un crush secret depuis des années ?
+Q|a|1||Qui de nous écrit encore des lettres d'amour ?
+Q|a|1||Qui de nous fait les déclarations les plus gênantes ?
+Q|a|1||Qui de nous offre les meilleurs cadeaux à sa moitié ?
+Q|a|1||Qui de nous oublie tous les anniversaires de couple ?
+Q|a|1||Qui de nous organise les rencards les plus originaux ?
+Q|a|1||Qui de nous emmène tous ses rencards au même endroit ?
+Q|a|1||Qui de nous a fait le pire premier rencard ?
+Q|a|1||Qui de nous s'est déjà fait planter en plein rencard ?
+Q|a|1||Qui de nous s'est déjà fait poser un lapin ?
+Q|a|1||Qui de nous a déjà posé un lapin à quelqu'un ?
+Q|a|1||Qui de nous a déjà fui un rencard par la fenêtre des toilettes ?
+Q|a|1||Qui de nous a déjà fait un rencard qui a duré trois jours ?
+Q|a|1||Qui de nous parle trop de son ex pendant un rencard ?
+Q|a|1||Qui de nous stalke ses dates avant de les rencontrer ?
+Q|a|1||Qui de nous a déjà été reconnu par un date grâce à ses stories ?
+Q|a|1||Qui de nous met le plus de temps à répondre à un crush exprès ?
+Q|a|1||Qui de nous répond toujours dans la seconde ?
+Q|a|1||Qui de nous analyse chaque message de son crush avec ses potes ?
+Q|a|1||Qui de nous fait relire ses messages par ses potes avant de les envoyer ?
+Q|a|1||Qui de nous a déjà demandé à un pote de draguer à sa place ?
+Q|a|1||Qui de nous joue toujours les entremetteurs ?
+Q|a|1||Qui de nous a déjà formé un couple qui dure encore ?
+Q|a|1|pn|Qui de nous se mettra en couple avec quelqu'un d'ici ?
+Q|a|1||Qui de nous finira avec son ou sa meilleure amie ?
+Q|a|1||Qui de nous se mariera le plus tard ?
+Q|a|1||Qui de nous ne se mariera jamais ?
+Q|a|1||Qui de nous fera le plus gros mariage ?
+Q|a|1||Qui de nous divorcera le plus vite ?
+Q|a|1||Qui de nous aura des jumeaux ?
+Q|a|1||Qui de nous sera le parent le plus cool ?
+Q|a|1||Qui de nous sera le parent le plus strict ?
+Q|a|1||Qui de nous adoptera dix chats plutôt que d'avoir des enfants ?
+Q|a|1||Qui de nous déménagera à l'autre bout du monde par amour ?
+Q|a|1||Qui de nous restera ami avec tous ses ex ?
+Q|a|1||Qui de nous n'adresse plus la parole à aucun de ses ex ?
+Q|a|1||Qui de nous a l'ex le plus fou ?
+Q|a|1||Qui de nous a l'ex que tout le monde regrette ?
+Q|a|1||Qui de nous a l'ex que tout le monde détestait ?
+Q|a|1||Qui de nous parle encore de son ex à chaque soirée ?
+Q|a|1||Qui de nous a gardé le plus de souvenirs d'un ex ?
+Q|a|1||Qui de nous relit ses vieilles conversations avec son ex ?
+Q|a|1||Qui de nous a déjà fait une rupture par message ?
+Q|a|1||Qui de nous a fait la rupture la plus dramatique ?
+Q|a|1||Qui de nous met le plus de temps à se remettre d'une rupture ?
+Q|a|1||Qui de nous se remet d'une rupture en une soirée ?
+Q|a|1||Qui de nous change de look après chaque rupture ?
+Q|a|1||Qui de nous enchaîne les relations sans pause ?
+Q|a|1||Qui de nous est célibataire depuis le plus longtemps ?
+Q|a|1||Qui de nous est le plus exigeant en amour ?
+Q|a|1||Qui de nous a la liste de critères la plus longue ?
+Q|a|1||Qui de nous tombe toujours sur les mêmes profils ?
+Q|a|1||Qui de nous est le plus collant en couple ?
+Q|a|1||Qui de nous est le plus indépendant en couple ?
+Q|a|1||Qui de nous dit « je t'aime » le plus vite ?
+Q|a|1||Qui de nous a le plus de mal à dire « je t'aime » ?
+Q|a|1||Qui de nous fait des crises de jalousie pour un like ?
+Q|a|1||Qui de nous regarde le téléphone de sa moitié en douce ?
+Q|a|1||Qui de nous connaît le code de téléphone de sa moitié ?
+Q|a|1||Qui de nous partage sa localisation en permanence avec sa moitié ?
+Q|a|1||Qui de nous fait tout le temps des surprises ?
+Q|a|1||Qui de nous déteste les surprises ?
+Q|a|1||Qui de nous a le couple le plus envié ?
+Q|a|1||Qui de nous fait le plus de déclarations publiques sur les réseaux ?
+Q|a|1||Qui de nous poste des photos de couple toutes les semaines ?
+Q|a|1||Qui de nous cache sa vie de couple sur les réseaux ?
+Q|a|2||Qui de nous a déjà eu une relation secrète ?
+Q|a|2||Qui de nous a déjà été en couple avec deux personnes en même temps ?
+Q|a|2||Qui de nous a déjà quitté quelqu'un pour une autre personne ?
+Q|a|2||Qui de nous a déjà été le plan B de quelqu'un sans le savoir ?
+Q|a|2||Qui de nous garde toujours quelqu'un sous le coude ?
+Q|a|2||Qui de nous a déjà dragué la moitié d'un pote ?
+Q|a|2||Qui de nous a déjà eu des sentiments pour la moitié d'un pote ?
+Q|a|2||Qui de nous a déjà embrassé quelqu'un en étant en couple ?
+Q|a|2||Qui de nous a déjà menti à sa moitié sur l'endroit où il était ?
+Q|a|2||Qui de nous a déjà retiré son alliance ou sa bague en soirée ?
+Q|a|2|p|Qui de nous a déjà eu un crush sur l'ex de quelqu'un ici ?
+Q|a|2|p|Qui de nous a déjà embrassé quelqu'un ici ?
+Q|d|1||Qui de nous ment le plus mal ?
+Q|d|1||Qui de nous rougit dès qu'il ment ?
+Q|d|1||Qui de nous invente les meilleures excuses ?
+Q|d|1||Qui de nous a la meilleure excuse pour ne pas aller au travail ?
+Q|d|1||Qui de nous a déjà inventé un décès pour sécher quelque chose ?
+Q|d|1||Qui de nous a déjà fait semblant d'être malade pour éviter un repas de famille ?
+Q|d|1||Qui de nous connaît tous les secrets du groupe ?
+Q|d|1||Qui de nous est incapable de garder un secret plus de deux heures ?
+Q|d|1||Qui de nous est le coffre-fort du groupe ?
+Q|d|1||Qui de nous ferait le meilleur espion ?
+Q|d|1||Qui de nous lit les messages des autres par-dessus leur épaule ?
+Q|d|1||Qui de nous écoute aux portes ?
+Q|d|1||Qui de nous a déjà fouillé dans les affaires de ses parents ?
+Q|d|1||Qui de nous a déjà trouvé un secret de famille ?
+Q|d|1||Qui de nous a le secret de famille le plus fou ?
+Q|d|1||Qui de nous a déjà triché à un examen sans se faire prendre ?
+Q|d|1||Qui de nous a déjà été pris en train de tricher ?
+Q|d|1||Qui de nous a déjà menti sur son CV ?
+Q|d|1||Qui de nous a déjà menti sur son âge pour entrer quelque part ?
+Q|d|1||Qui de nous a déjà utilisé une fausse carte d'identité ?
+Q|d|1||Qui de nous a déjà volé quelque chose dans un hôtel ?
+Q|d|1||Qui de nous a déjà volé dans un magasin ?
+Q|d|1||Qui de nous a déjà fraudé dans les transports pendant des années ?
+Q|d|1||Qui de nous a le plus de dettes envers les autres ?
+Q|d|1||Qui de nous oublie toujours de rembourser ?
+Q|d|1||Qui de nous a déjà emprunté un truc sans jamais le rendre ?
+Q|d|1||Qui de nous a déjà offert un cadeau recyclé ?
+Q|d|1||Qui de nous a déjà revendu un cadeau d'anniversaire ?
+Q|d|1||Qui de nous a déjà fait semblant d'aimer un cadeau ?
+Q|d|1||Qui de nous a déjà mangé le repas de quelqu'un au bureau ?
+Q|d|1||Qui de nous dit du mal de son boss dès qu'il a le dos tourné ?
+Q|d|1||Qui de nous a déjà été viré ?
+Q|d|1||Qui de nous a déjà démissionné sur un coup de tête ?
+Q|d|1||Qui de nous fait semblant de travailler toute la journée ?
+Q|d|1||Qui de nous a déjà dormi au travail ?
+Q|d|1||Qui de nous regarde des séries pendant le télétravail ?
+Q|d|1||Qui de nous a déjà eu un fou rire en réunion ?
+Q|d|1||Qui de nous a déjà oublié de couper son micro en réunion ?
+Q|d|1||Qui de nous a déjà dit un truc gênant en pensant que son micro était coupé ?
+Q|d|2||Qui de nous a déjà eu affaire à la justice ?
+Q|d|2||Qui de nous cache un passé que personne ne soupçonne ?
+Q|d|2||Qui de nous a déjà mené une double vie ?
+Q|d|2||Qui de nous a déjà menti sur quelque chose de grave pendant des années ?
+Q|d|2||Qui de nous a déjà couvert un pote qui trompait ?
+Q|d|2||Qui de nous a déjà balancé un pote qui trompait ?
+Q|d|2|p|Qui de nous a déjà raconté un secret de quelqu'un ici à quelqu'un d'autre ici ?
+Q|d|2|p|Qui de nous a déjà menti à tout le groupe ?
+Q|d|2|p|Qui de nous a déjà parlé de quelqu'un ici dans un autre groupe de discussion ?
+Q|d|1|pn|Qui de nous a le plus de dossiers sur {B} ?
+Q|d|1|pn|Qui de nous garderait le mieux un secret de {B} ?
+Q|f|1||Qui de nous survivrait le moins longtemps sans téléphone ?
+Q|f|1||Qui de nous se perdrait dans un supermarché ?
+Q|f|1||Qui de nous partirait vivre dans une secte en moins d'une semaine ?
+Q|f|1||Qui de nous croit aux extraterrestres ?
+Q|f|1||Qui de nous a déjà vu un fantôme, d'après lui ?
+Q|f|1||Qui de nous a peur de choses complètement absurdes ?
+Q|f|1||Qui de nous parle à ses plantes en les appelant par leur prénom ?
+Q|f|1||Qui de nous a un animal de compagnie qui commande sa vie ?
+Q|f|1||Qui de nous parle à son animal comme à un bébé ?
+Q|f|1||Qui de nous habille son animal ?
+Q|f|1||Qui de nous a le plus de plantes chez lui ?
+Q|f|1||Qui de nous tue toutes les plantes qu'on lui offre ?
+Q|f|1||Qui de nous cuisine le mieux ?
+Q|f|1||Qui de nous cuisine le plus mal ?
+Q|f|1||Qui de nous mange la même chose tous les jours ?
+Q|f|1||Qui de nous a les goûts alimentaires les plus bizarres ?
+Q|f|1||Qui de nous met du ketchup partout ?
+Q|f|1||Qui de nous mange le plus de fast-food ?
+Q|f|1||Qui de nous fait toujours un régime qui dure deux jours ?
+Q|f|1||Qui de nous va le plus souvent à la salle de sport ?
+Q|f|1||Qui de nous paie une salle de sport sans jamais y aller ?
+Q|f|1||Qui de nous serait le premier éliminé dans un jeu de survie ?
+Q|f|1||Qui de nous gagnerait un jeu télé ?
+Q|f|1||Qui de nous perdrait tout son argent au casino ?
+Q|f|1||Qui de nous gagnerait au loto et le perdrait en un an ?
+Q|f|1||Qui de nous deviendrait millionnaire avec une idée absurde ?
+Q|f|1||Qui de nous finira président ?
+Q|f|1||Qui de nous finira dans un reportage de télé ?
+Q|f|1||Qui de nous a déjà été filmé par une chaîne de télé ?
+Q|f|1||Qui de nous serait le pire astronaute ?
+Q|f|1||Qui de nous serait le meilleur prof ?
+Q|f|1||Qui de nous serait le pire chauffeur de bus ?
+Q|f|1||Qui de nous serait le meilleur avocat ?
+Q|f|1||Qui de nous serait le pire serveur ?
+Q|f|1||Qui de nous ouvrirait le meilleur restaurant ?
+Q|f|1||Qui de nous serait le plus nul en camping ?
+Q|f|1||Qui de nous oublie toujours quelque chose en vacances ?
+Q|f|1||Qui de nous fait toujours trop de valises ?
+Q|f|1||Qui de nous rate toujours son train ou son avion ?
+Q|f|1||Qui de nous arrive trois heures en avance à l'aéroport ?
+Q|f|1||Qui de nous a le plus voyagé ?
+Q|f|1||Qui de nous a le sens de l'orientation le plus catastrophique ?
+Q|f|1||Qui de nous conduit le plus mal ?
+Q|f|1||Qui de nous a raté son permis le plus de fois ?
+Q|f|1||Qui de nous chante en conduisant ?
+Q|f|1||Qui de nous parle tout seul ?
+Q|f|1||Qui de nous rit le plus fort ?
+Q|f|1||Qui de nous a le rire le plus contagieux ?
+Q|f|1||Qui de nous fait les pires blagues ?
+Q|f|1||Qui de nous rit de ses propres blagues ?
+Q|f|1||Qui de nous ne comprend jamais les blagues ?
+Q|f|1||Qui de nous est le plus mauvais perdant ?
+Q|f|1||Qui de nous triche au Monopoly ?
+Q|f|1||Qui de nous est le plus râleur ?
+Q|f|1||Qui de nous est le plus optimiste ?
+Q|f|1||Qui de nous est le plus dramatique ?
+Q|f|1||Qui de nous exagère toutes ses histoires ?
+Q|f|1||Qui de nous a le plus de phobies ?
+Q|f|1||Qui de nous a le plus de manies bizarres ?
+Q|f|1||Qui de nous dort le plus ?
+Q|f|1||Qui de nous dort le moins ?
+Q|f|1||Qui de nous ronfle le plus fort ?
+Q|f|1||Qui de nous parle dans son sommeil ?
+Q|f|1||Qui de nous est somnambule ?
+Q|f|1||Qui de nous est toujours fatigué ?
+Q|f|1||Qui de nous est le plus maniaque du ménage ?
+Q|f|1||Qui de nous a l'appart le plus en bazar ?
+Q|f|1||Qui de nous a le plus de vêtements qu'il ne porte jamais ?
+Q|f|1||Qui de nous porte toujours la même tenue ?
+Q|f|1||Qui de nous a le pire style vestimentaire ?
+Q|f|1||Qui de nous a la pire coupe de cheveux de l'histoire du groupe ?
+Q|f|1||Qui de nous a le plus changé depuis le collège ?
+Q|f|1||Qui de nous avait la pire période ado ?
+Q|f|1||Qui de nous était le plus populaire au lycée ?
+Q|f|1||Qui de nous était le chouchou des profs ?
+Q|f|1||Qui de nous était le cancre de la classe ?
+Q|f|1||Qui de nous a le plus de souvenirs honteux d'enfance ?
+Q|f|1||Qui de nous a été le bébé le plus moche ?
+Q|f|1||Qui de nous est le plus proche de sa mère ?
+Q|f|1||Qui de nous appelle ses parents tous les jours ?
+Q|f|1||Qui de nous ressemble le plus à son père ou sa mère ?
+Q|f|1||Qui de nous sera le plus vite grand-parent ?
+Q|f|1||Qui de nous sera le vieux le plus cool ?
+Q|f|1||Qui de nous finira dans une maison au bord de la mer ?
+Q|f|1||Qui de nous finira dans un appart à Paris hors de prix ?
+Q|f|1|pn|Qui de nous connaît le moins bien les autres ici ?
+Q|f|1|pn|Qui de nous ressemble le plus à {B} ?
+Q|f|1|pn|Qui de nous partirait le plus volontiers en vacances avec {B} ?
+Q|f|1|pn|Qui de nous survivrait le moins longtemps sur une île déserte avec {B} ?
+Q|f|1|pn|Qui de nous ferait le meilleur coloc pour {B} ?
+Q|f|1|pn|Qui de nous {B} appellerait en cas de problème à 4 h du matin ?
+Q|t|1||Qui de nous a le plus d'onglets ouverts sur son téléphone ?
+Q|t|1||Qui de nous a le plus d'applications inutiles ?
+Q|t|1||Qui de nous a toujours moins de 10 % de batterie ?
+Q|t|1||Qui de nous a l'écran le plus fissuré ?
+Q|t|1||Qui de nous a la sonnerie la plus gênante ?
+Q|t|1||Qui de nous laisse son téléphone en mode sonore partout ?
+Q|t|1||Qui de nous ne répond jamais au téléphone ?
+Q|t|1||Qui de nous appelle au lieu d'envoyer un message ?
+Q|t|1||Qui de nous écrit des pavés au lieu de messages courts ?
+Q|t|1||Qui de nous envoie dix messages à la suite au lieu d'un seul ?
+Q|t|1||Qui de nous met des emojis partout ?
+Q|t|1||Qui de nous répond par « mdr » à tout ?
+Q|t|1||Qui de nous utilise des emojis de façon inquiétante ?
+Q|t|1||Qui de nous a le plus de messages non lus ?
+Q|t|1||Qui de nous a le plus de photos dans son téléphone ?
+Q|t|1||Qui de nous a le plus de captures d'écran de conversations ?
+Q|t|1||Qui de nous fait des captures d'écran de tout ?
+Q|t|1||Qui de nous a la galerie la plus compromettante ?
+Q|t|1||Qui de nous a le plus d'abonnés ?
+Q|t|1||Qui de nous rêve de devenir influenceur ?
+Q|t|1||Qui de nous a le compte Instagram le plus soigné ?
+Q|t|1||Qui de nous supprime ses photos qui n'ont pas assez de likes ?
+Q|t|1||Qui de nous regarde les stories de tout le monde sans jamais rien poster ?
+Q|t|1||Qui de nous poste des stories toutes les heures ?
+Q|t|1||Qui de nous a déjà fait une vidéo virale ?
+Q|t|1||Qui de nous passe le plus de temps sur TikTok ?
+Q|t|1||Qui de nous regarde des vidéos jusqu'à 4 h du matin ?
+Q|t|1||Qui de nous a déjà dépensé une fortune dans un jeu sur téléphone ?
+Q|t|1||Qui de nous lit les commentaires sous tous les posts ?
+Q|t|1||Qui de nous se dispute avec des inconnus dans les commentaires ?
+Q|t|2||Qui de nous a déjà créé un faux compte ?
+Q|t|2||Qui de nous a déjà stalké quelqu'un depuis le compte d'un autre ?
+Q|t|2||Qui de nous a déjà bloqué toute une famille ?
+Q|t|2||Qui de nous a déjà été bloqué par un ex ?
+Q|t|2||Qui de nous a déjà envoyé une capture d'écran à la mauvaise personne ?
 `;
