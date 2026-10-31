@@ -2786,4 +2786,988 @@ Q|t|2||Qui de nous a déjà stalké quelqu'un depuis le compte d'un autre ?
 Q|t|2||Qui de nous a déjà bloqué toute une famille ?
 Q|t|2||Qui de nous a déjà été bloqué par un ex ?
 Q|t|2||Qui de nous a déjà envoyé une capture d'écran à la mauvaise personne ?
+V|x|2||Raconte ton premier baiser : où, avec qui, et la note sur 10.
+V|x|2||Quel est le baiser le plus raté de ta vie ?
+V|x|2||Quel est le meilleur baiser de ta vie, et qu'est-ce qui le rendait si bien ?
+V|x|2||Combien de personnes as-tu embrassées cette année ?
+V|x|2||Quelle est la personne la plus inattendue que tu aies embrassée ?
+V|x|2||As-tu déjà embrassé quelqu'un dont tu ignorais le prénom ? Raconte.
+V|x|2||Quel est l'endroit le plus improbable où tu as embrassé quelqu'un ?
+V|x|2||Qu'est-ce qui te donne immédiatement envie d'embrasser quelqu'un ?
+V|x|2||Quel est le premier truc que tu remarques chez quelqu'un qui te plaît ?
+V|x|2||Quelle partie du corps te fait le plus craquer chez quelqu'un ?
+V|x|2||Quel est ton type, physiquement, en trois mots ?
+V|x|2||Quel est le compliment qui te fait le plus d'effet ?
+V|x|2||Quelle est la phrase de drague la plus efficace que tu aies entendue ?
+V|x|2||Quelle est la pire phrase de drague qu'on t'ait sortie ?
+V|x|2||Quelle est ta technique de drague, en vrai ?
+V|x|2||As-tu déjà dragué quelqu'un uniquement par messages pendant des semaines sans jamais le voir ?
+V|x|2||Qui est la dernière personne qui t'a dragué ?
+V|x|2||Qui est la dernière personne que tu as draguée ?
+V|x|2||Quelle célébrité te fait complètement craquer ?
+V|x|2||Quel personnage de film ou de série te fait de l'effet ?
+V|x|2||As-tu déjà eu un crush sur quelqu'un de ta famille éloignée ?
+V|x|2||As-tu déjà eu un crush sur un prof ? Lequel ?
+V|x|2||As-tu déjà eu un crush sur ton boss ou un collègue ?
+V|x|2||As-tu déjà eu un crush sur le ou la partenaire d'un pote ?
+V|x|2||Quel est ton plus gros crush impossible du moment ?
+V|x|2||Quelle tenue te fait craquer chez quelqu'un ?
+V|x|2||Quel parfum ou quelle odeur te fait de l'effet ?
+V|x|2||Quel est ton tue-l'amour absolu à un rencard ?
+V|x|2||Combien de rencards attends-tu avant de passer à la suite, en général ?
+V|x|2||Quel est ton record de rapidité entre un match et une nuit ensemble ?
+V|x|2||As-tu déjà couché le premier soir et regretté ? Raconte.
+V|x|2||As-tu déjà couché le premier soir et commencé une vraie histoire ?
+V|x|2||Raconte ton plan d'un soir le plus drôle.
+V|x|2||Raconte ton plan d'un soir le plus gênant.
+V|x|2||Raconte ta pire marche de la honte.
+V|x|2||Raconte la fois où tu as dû partir de chez quelqu'un en cachette.
+V|x|2||Raconte la fois où tu as croisé quelqu'un de ta famille au pire moment.
+V|x|2||Raconte la fois où tu as dû cacher quelqu'un à tes parents.
+V|x|2||Raconte la fois où tu as été surpris par tes colocs.
+V|x|2||Raconte la nuit la plus bruyante que tes voisins aient subie à cause de toi.
+V|x|2||Raconte le pire réveil après une nuit avec quelqu'un.
+V|x|2||Raconte la fois où tu ne te souvenais plus du prénom au réveil.
+V|x|2||Raconte le moment le plus romantique que tu aies vécu avec quelqu'un.
+V|x|2||Raconte ton rencard le plus chaud.
+V|x|2||Raconte la fois où un rencard catastrophique a fini au lit.
+V|x|2||Raconte la fois où tu as craqué pour quelqu'un que tu détestais.
+V|x|2||Raconte ton aventure de vacances la plus mémorable.
+V|x|2||Raconte la fois où tu as dragué quelqu'un à un mariage.
+V|x|2||Raconte ton histoire avec quelqu'un que tu n'aurais jamais dû approcher.
+V|x|2||Raconte la fois où tu as reçu un nude que tu n'attendais pas du tout.
+V|x|2||Raconte le sexto le plus gênant que tu aies envoyé.
+V|x|2||Raconte la fois où tu as envoyé un message coquin à la mauvaise personne.
+V|x|2||Raconte la conversation la plus chaude que tu aies eue par messages.
+V|x|2||As-tu déjà eu une relation uniquement par messages ? Jusqu'où c'est allé ?
+V|x|2||As-tu déjà envoyé un nude ? Il y a combien de temps ?
+V|x|2||Combien de nudes as-tu dans ton téléphone en ce moment ?
+V|x|2|pn|As-tu déjà reçu un nude d'une personne présente ici ?
+V|x|2||As-tu déjà fait un shooting photo sexy ?
+V|x|2||Quel est ton meilleur angle pour une photo sexy ?
+V|x|2||As-tu déjà été vu nu par quelqu'un qui n'aurait pas dû ? Raconte.
+V|x|2||Dors-tu nu ?
+V|x|2||Quelle est ta tenue de nuit, honnêtement ?
+V|x|2||Quels sous-vêtements portes-tu en ce moment ?
+V|x|2||Quel est le sous-vêtement le plus sexy que tu possèdes ?
+V|x|2||Quel est le sous-vêtement le plus moche que tu portes encore ?
+V|x|2||As-tu déjà acheté une tenue sexy ? Tu l'as portée ?
+V|x|2||As-tu déjà fait un strip-tease ? Pour qui ?
+V|x|2||As-tu déjà reçu un lap dance ? Raconte.
+V|x|2||As-tu déjà été dans un sex-shop ? Qu'est-ce que tu as acheté ?
+V|x|2||As-tu déjà offert un cadeau coquin ? À qui ?
+V|x|2||As-tu déjà fait du naturisme ou un bain de minuit tout nu ?
+V|x|2||Quel est ton plus gros complexe physique ?
+V|x|2||Quelle est la partie de ton corps dont tu es le plus fier ?
+V|x|2||Quelle est la chose la plus sexy chez toi, selon toi ?
+V|x|2||Qu'est-ce qu'on t'a dit de plus flatteur sur ton physique ?
+V|x|2||Qu'est-ce qui te fait rougir à coup sûr ?
+V|x|2||Tu préfères séduire ou être séduit ?
+V|x|2||Tu fais le premier pas, ou tu attends ?
+V|x|2||Quelle est la chose la plus folle que tu aies faite pour séduire quelqu'un ?
+V|x|2||As-tu déjà menti pour coucher avec quelqu'un ?
+V|x|2||As-tu déjà menti sur ton expérience au lit ?
+V|x|2||As-tu déjà menti sur ton body count ? Dans quel sens ?
+V|x|2||Ton body count, c'est plus ou moins que 10 ?
+V|x|2||Combien de personnes as-tu eues dans ta vie dont tu ne te rappelles pas le prénom ?
+V|x|2||Avec combien de personnes as-tu couché cette année ?
+V|x|2||Quel a été ton plus long moment sans rien ? Tu as tenu comment ?
+V|x|2||À quand remonte ta dernière fois ?
+V|x|2||À quand remonte ton dernier plaisir solo ?
+V|x|2||Quelle est la chose la plus coquine que tu aies faite cette semaine ?
+V|x|2||As-tu déjà fait l'amour avec la télé ou un film en fond ? Qu'est-ce qui passait ?
+V|x|2||Quelle est ta playlist idéale pour une nuit à deux ?
+V|x|2||As-tu déjà eu une crampe ou une blessure pendant ? Raconte.
+V|x|2||As-tu déjà été interrompu en plein milieu ? Par qui ?
+V|x|2||As-tu déjà eu un fou rire en plein milieu ? Pourquoi ?
+V|x|2||As-tu déjà cassé quelque chose pendant ? Quoi ?
+V|x|2||Quel est le truc le plus gênant qui te soit arrivé au lit ?
+V|x|2||Quelle est la chose la plus romantique qu'on ait faite pour toi après une nuit ?
+V|x|2||Quel est le meilleur petit-déjeuner qu'on t'ait apporté au lit ?
+V|x|2||Préfères-tu faire l'amour le matin ou le soir ?
+V|x|2||Préfères-tu les nuits tendres ou sauvages ?
+V|x|2||Préfères-tu la lumière allumée ou éteinte ?
+V|x|2||Préfères-tu la douche ou le lit ?
+V|x|2||Ton endroit rêvé pour faire l'amour, c'est où ?
+V|x|2||Quel est le lieu le plus risqué où tu aimerais le faire ?
+V|x|2||As-tu déjà fait l'amour dehors ? Où ?
+V|x|2||As-tu déjà fait l'amour en voiture ? C'était confortable ?
+V|x|2||As-tu déjà fait l'amour dans un lieu public ? Où ?
+V|x|2||As-tu déjà fait l'amour dans le lit de tes parents ?
+V|x|2||As-tu déjà fait l'amour pendant une soirée chez quelqu'un ? Raconte.
+V|x|2||As-tu déjà eu une aventure au travail ? Ça s'est fini comment ?
+V|x|2||As-tu déjà eu une histoire avec un voisin ?
+V|x|2||As-tu déjà eu une histoire avec quelqu'un de beaucoup plus âgé ?
+V|x|2||As-tu déjà eu une histoire avec quelqu'un de beaucoup plus jeune ?
+V|x|2||As-tu déjà eu un plan cul régulier ? Combien de temps ?
+V|x|2||As-tu un plan cul en ce moment ?
+V|x|2||As-tu déjà eu des sentiments pour un plan cul ?
+V|x|2||As-tu déjà recouché avec un ex ? Combien de fois ?
+V|x|2||Quel ex était le meilleur au lit ?
+V|x|2||Quel ex était le pire au lit ?
+V|x|2||Quel ex t'a appris le plus de choses ?
+V|x|3||Raconte ta première fois en détail, sans rien épargner.
+V|x|3||Note ta première fois sur 10, et justifie.
+V|x|3||Raconte ta meilleure nuit de tous les temps.
+V|x|3||Raconte ta pire nuit de tous les temps.
+V|x|3||Raconte la fois où tu as fait l'amour dans l'endroit le plus fou.
+V|x|3||Raconte ton plan à trois, ou ce qui s'en est le plus approché.
+V|x|3||Raconte la fois où tu as été le plus près de te faire prendre en public.
+V|x|3||Raconte ta nuit la plus longue, du début à la fin.
+V|x|3||Raconte ta pire panne ou celle de l'autre.
+V|x|3||Raconte ton meilleur orgasme.
+V|x|3||Raconte la fois où tu as dû simuler.
+V|x|3||Raconte la fois où quelqu'un t'a fait découvrir quelque chose au lit.
+V|x|3||Raconte la fois où tu as fait découvrir quelque chose à quelqu'un au lit.
+V|x|3||Raconte la fois où tu as utilisé un objet improbable au lit.
+V|x|3||Raconte ton expérience la plus kinky.
+V|x|3||Raconte ton jeu de rôle le plus mémorable.
+V|x|3||Raconte la fois où un sextoy t'a mis dans l'embarras.
+V|x|3||Raconte la fois où tu as été surpris pendant un plaisir solo.
+V|x|3||Raconte la fois où tu as couché avec quelqu'un en couple.
+V|x|3||Raconte la fois où tu as couché avec quelqu'un par vengeance.
+V|x|3||Raconte la fois où tu as couché avec un ex alors que tu ne devais pas.
+V|x|3||Raconte ton aventure la plus interdite.
+V|x|3||Quelle est ta position préférée ? Mime-la habillé.
+V|x|3||Combien de positions différentes as-tu testées dans ta vie ?
+V|x|3||Quelle position as-tu tentée et totalement ratée ?
+V|x|3||Quelle est la chose que tu fais le mieux au lit, honnêtement ?
+V|x|3||Quelle est la chose que tu fais le moins bien au lit ?
+V|x|3||Qu'est-ce qu'on t'a déjà reproché au lit ?
+V|x|3||Quel est le plus beau compliment qu'on t'ait fait au lit ?
+V|x|3||Combien de temps dure ta nuit idéale ?
+V|x|3||Combien de fois par semaine voudrais-tu faire l'amour, idéalement ?
+V|x|3||Combien de fois l'as-tu fait le mois dernier ?
+V|x|3||Préfères-tu donner ou recevoir, en général ?
+V|x|3||Fellation ou cunnilingus : c'est quoi ta spécialité ?
+V|x|3||As-tu déjà été en désaccord sur les préliminaires avec quelqu'un ?
+V|x|3||Quelle est la zone de ton corps qui te rend fou quand on la touche ?
+V|x|3||Quelle est la chose que tu aimerais qu'on te fasse et qu'on ne t'a jamais faite ?
+V|x|3||Quelle est la chose que tu as faite au lit et que tu ne referas jamais ?
+V|x|3||Quel est ton fantasme numéro un ?
+V|x|3||Quel est ton fantasme numéro deux, celui que tu caches derrière le premier ?
+V|x|3||As-tu déjà réalisé un fantasme ? Lequel ?
+V|x|3||As-tu un fétiche ? Lequel ?
+V|x|3||As-tu déjà été attaché ? Tu as aimé ?
+V|x|3||As-tu déjà attaché quelqu'un ?
+V|x|3||As-tu déjà donné une fessée au lit ? Et reçu ?
+V|x|3||Aimes-tu qu'on te parle crûment au lit ?
+V|x|3||Quels mots cochons dis-tu au lit ?
+V|x|3||Es-tu bruyant au lit ? Sur une échelle de 1 à 10 ?
+V|x|3||As-tu déjà eu des marques le lendemain ? Où ?
+V|x|3||As-tu déjà testé le BDSM ? Jusqu'où ?
+V|x|3||As-tu déjà utilisé un bandeau ou des menottes ?
+V|x|3||As-tu déjà joué avec de la nourriture au lit ? Laquelle ?
+V|x|3||As-tu déjà utilisé des glaçons ou de la cire ?
+V|x|3||As-tu déjà fait l'amour devant un miroir ? Tu as regardé ?
+V|x|3||As-tu déjà été filmé ? Tu as revu la vidéo ?
+V|x|3||As-tu déjà regardé un porno à deux ? C'était comment ?
+V|x|3||Quel genre de porno regardes-tu ?
+V|x|3||Combien de fois par semaine regardes-tu du porno ?
+V|x|3||As-tu déjà regardé un porno qui t'a choqué ?
+V|x|3||Ton plaisir solo : où, quand, et à quelle fréquence ?
+V|x|3||Quel est l'endroit le plus improbable où tu t'es fait plaisir ?
+V|x|3|pn|As-tu déjà pensé à quelqu'un d'ici en te faisant plaisir ? Sans nom, juste oui ou non.
+V|x|3||As-tu un sextoy préféré ? Décris-le sans le nommer.
+V|x|3||Combien de sextoys possèdes-tu ?
+V|x|3||As-tu déjà emmené un sextoy en voyage ?
+V|x|3||As-tu déjà utilisé un sextoy à deux ?
+V|x|3||As-tu déjà payé pour du contenu sexy ? Combien ?
+V|x|3||As-tu déjà envisagé d'ouvrir un OnlyFans ?
+V|x|3||As-tu déjà été dans un club libertin ? Tu y retournerais ?
+V|x|3||As-tu déjà échangé de partenaire ?
+V|x|3||As-tu déjà fait une partouze ? Raconte.
+V|x|3||Avec combien de personnes au maximum as-tu été en même temps ?
+V|x|3||Accepterais-tu un plan à trois ce soir ? Avec qui, dans l'idéal ?
+V|x|3||As-tu déjà été le troisième dans un couple ?
+V|x|3||As-tu déjà eu une relation libre ?
+V|x|3||Accepterais-tu que ta moitié ait une aventure si tu étais au courant ?
+V|x|3||As-tu déjà trompé quelqu'un ? Il l'a su ?
+V|x|3||As-tu déjà été l'amant ou la maîtresse de quelqu'un ?
+V|x|3||As-tu déjà couché avec quelqu'un de marié ?
+V|x|3||As-tu déjà couché avec quelqu'un pour obtenir quelque chose ?
+V|x|3||As-tu déjà couché avec quelqu'un de célèbre, même un peu ?
+V|x|3||As-tu déjà couché avec quelqu'un du même sexe ? Tu as aimé ?
+V|x|3||As-tu déjà été la première fois de quelqu'un ?
+V|x|3||As-tu déjà couché avec deux personnes le même jour ?
+V|x|3||Quel est ton record de fois en une nuit ?
+V|x|3||As-tu déjà fait l'amour plus de trois heures ?
+V|x|3||As-tu déjà eu plusieurs orgasmes à la suite ?
+V|x|3||As-tu déjà simulé ? Combien de fois au total ?
+V|x|3||As-tu déjà eu une panne ? Comment tu as géré ?
+V|x|3||Préfères-tu les rapides et intenses, ou les longs et lents ?
+V|x|3||Qu'est-ce que tu fais juste après l'amour ?
+V|x|3||Quel est le pire truc que quelqu'un ait dit juste après ?
+V|x|3||As-tu déjà pleuré après l'amour ? Pourquoi ?
+V|x|3|pn|Si tu devais passer une nuit avec quelqu'un ici, qui serait ton premier choix et ton deuxième ?
+V|x|3|pn|Qui ici a l'air le plus kinky ?
+V|x|3|pn|Qui ici a l'air le plus sage au lit ?
+V|x|3|pn|Qui ici a l'air d'être le plus bruyant ?
+V|x|3|pn|Qui ici a le plus de chances d'avoir des sextoys ?
+V|x|3|pn|Avec qui ici ferais-tu un plan à trois, si tu y étais obligé ?
+V|x|3|pn|Qui ici embrasserais-tu en premier si tout le monde était d'accord ?
+V|x|3|pn|Décris ce que tu ferais à {B} pendant une nuit, en une phrase.
+V|x|3|pn|Selon toi, quelle est la position préférée de {B} ?
+V|x|3|pn|Selon toi, quel est le body count de {B} ?
+V|x|3|pn|Selon toi, quel fantasme {B} cache-t-il ?
+V|x|2|pn|Sur 10, à quel point {B} embrasse bien, d'après toi ?
+V|x|2|pn|Qu'est-ce que tu trouves le plus sexy chez {B} ?
+V|x|2|pn|Si {B} te faisait du rentre-dedans ce soir, tu réagirais comment ?
+V|x|2|pn|As-tu déjà trouvé {B} attirant ? Quand ?
+V|x|2|pn|Qui ici a le plus beau corps, à ton avis ?
+V|x|2|pn|Qui ici t'a fait le plus d'effet ce soir ?
+V|x|2|pn|Qui ici a le style le plus sexy ce soir ?
+V|x|3|c|Raconte votre première nuit ensemble, avec ton point de vue.
+V|x|3|c|Qu'est-ce que {B} fait que personne d'autre n'a jamais fait ?
+V|x|3|c|Quel est le moment le plus chaud que vous ayez vécu ensemble ?
+V|x|3|c|Où aimerais-tu emmener {B} pour une nuit inoubliable ?
+V|x|3|c|Quelle tenue veux-tu que {B} porte la prochaine fois ?
+V|x|3|c|Quel fantasme n'as-tu jamais osé proposer à {B} ?
+V|x|3|c|Qu'est-ce que tu aimerais que {B} fasse plus souvent ?
+V|x|2|c|Quand as-tu eu le plus envie de {B} au mauvais moment ?
+V|x|2|c|Quelle est la partie du corps de {B} que tu préfères ?
+V|x|2|c|Quel est le message le plus chaud que {B} t'ait envoyé ?
+V|s|1||Quelle est ta pire soirée de tous les temps ?
+V|s|1||Quelle est ta meilleure soirée de tous les temps ?
+V|s|1||Quel est le truc le plus fou que tu aies fait en soirée cette année ?
+V|s|1||Quelle est la dernière fois où tu as eu un trou noir ?
+V|s|1||Quel est ton record de verres en une soirée ?
+V|s|1||Quel est le pire mélange d'alcools que tu aies fait ?
+V|s|1||Quelle est la boisson qui t'a mis le plus minable ?
+V|s|1||Quel est ton cocktail préféré, et quel est celui que tu détestes ?
+V|s|1||As-tu déjà menti sur ton âge pour acheter de l'alcool ou entrer en boîte ?
+V|s|1||Quelle est la pire chose que tu aies faite à quelqu'un qui dormait en soirée ?
+V|s|1||Quelle est la chose la plus bizarre que tu aies ramenée chez toi après une soirée ?
+V|s|1||Quel est le pire endroit où tu aies dormi ?
+V|s|1||Quelle est la plus grosse somme dépensée en une seule soirée ?
+V|s|1||Quel est le pire karaoké que tu aies fait ?
+V|s|1||Quelle chanson te fait monter sur une table ?
+V|s|1||Quelle est la soirée dont tu as le plus honte ?
+V|s|1||Quelle est ta pire gueule de bois ? Raconte la journée.
+V|s|1||Quelle est ton excuse préférée pour partir d'une soirée ?
+V|s|1||Quelle est la soirée où tu aurais dû rester chez toi ?
+V|s|1||Raconte une soirée qui a dégénéré à cause de toi.
+V|s|1||Quel est le pire message que tu aies envoyé à 4 h du matin ?
+V|s|1||Qui appelles-tu en premier quand tu es bourré ?
+V|s|1||As-tu déjà été viré d'un bar ou d'une boîte ? Pourquoi ?
+V|s|1||As-tu déjà eu affaire à la police après une soirée ?
+V|s|1||Quel est le truc le plus illégal que tu aies fait bourré ?
+V|s|1||Quel est le pire endroit où tu aies vomi ?
+V|s|1||Quel est le souvenir de soirée que tu aimerais effacer ?
+V|s|1||Quel est le souvenir de soirée que tu raconteras à tes petits-enfants ?
+V|s|1||As-tu déjà fait une soirée chez tes parents sans leur accord ? Ils l'ont su ?
+V|s|1||Quelle est la chose la plus chère que tu aies cassée chez quelqu'un ?
+V|s|1|pn|Qui ici est le plus drôle bourré ?
+V|s|1|pn|Qui ici est le plus pénible en fin de soirée ?
+V|s|1|pn|Qui ici a déjà dû te ramener chez toi ?
+V|s|1|pn|Avec qui ici as-tu vécu ta meilleure soirée ?
+V|s|2||Raconte une soirée dont tu n'as jamais raconté la fin à personne.
+V|s|2||As-tu déjà fait quelque chose en soirée que tu as caché à ta moitié ?
+V|s|2||Qu'est-ce que tu as fait de pire en étant bourré à un événement familial ?
+V|a|1||Raconte ton premier amour.
+V|a|1||Qui était ton premier crush à l'école ?
+V|a|1||Quel âge avais-tu à ton premier baiser ?
+V|a|1||Quelle est la chose la plus romantique que tu aies faite pour quelqu'un ?
+V|a|1||Quelle est la chose la plus romantique qu'on ait faite pour toi ?
+V|a|1||Quel est le pire cadeau qu'un ex t'ait offert ?
+V|a|1||Quel est le meilleur cadeau que tu aies reçu en couple ?
+V|a|1||Quel est ton rencard idéal ?
+V|a|1||Quelle est la pire excuse qu'on t'ait donnée pour annuler un rencard ?
+V|a|1||Quelle est la pire excuse que tu aies donnée pour annuler un rencard ?
+V|a|1||Combien de temps a duré ta plus longue relation ?
+V|a|1||Pourquoi tes relations se terminent-elles, en général ?
+V|a|1||Quel est ton plus gros défaut en couple ?
+V|a|1||Quelle est ta plus grande qualité en couple ?
+V|a|1||Qu'est-ce qui te fait fuir chez quelqu'un ?
+V|a|1||Quelle est la chose que tu ne pardonnerais jamais en couple ?
+V|a|1||Es-tu jaloux en couple ? Sur une échelle de 1 à 10 ?
+V|a|1||Quelle est la crise de jalousie la plus ridicule que tu aies faite ?
+V|a|1||As-tu déjà regardé le téléphone de ta moitié ? Qu'est-ce que tu as trouvé ?
+V|a|1||Quelle est la rupture qui t'a fait le plus de mal ?
+V|a|1||Qui a été le plus dur à oublier ?
+V|a|1||As-tu encore des contacts avec tes ex ? Lesquels ?
+V|a|1||Quel ex aimerais-tu revoir ?
+V|a|1||Quel ex ne veux-tu plus jamais croiser ?
+V|a|1||Qu'est-ce que ton ex dit de toi à ses potes, d'après toi ?
+V|a|1||As-tu déjà pleuré pour quelqu'un qui n'en valait pas la peine ?
+V|a|1||As-tu déjà été amoureux sans retour ? Raconte.
+V|a|1||As-tu déjà eu un coup de foudre ?
+V|a|1||Crois-tu à l'âme sœur ?
+V|a|1||Combien d'enfants veux-tu ?
+V|a|1||À quel âge veux-tu te marier, ou pas du tout ?
+V|a|1||Comment imagines-tu ta demande en mariage ?
+V|a|1||Quel est ton plus gros red flag chez quelqu'un ?
+V|a|1||Quel est ton propre red flag ?
+V|a|1||Quel est ton green flag préféré chez quelqu'un ?
+V|a|1||Quelle est la chose la plus bizarre qui te plaît chez quelqu'un ?
+V|a|1||As-tu un profil sur une appli de rencontre en ce moment ?
+V|a|1||Quel est le pire profil d'appli que tu aies vu ?
+V|a|1||Quel est le pire rencard d'appli que tu aies fait ?
+V|a|1||As-tu déjà menti dans ta bio d'appli ? Sur quoi ?
+V|a|1||Quelle est la photo la plus trompeuse que tu aies mise sur une appli ?
+V|a|1||Avec combien de personnes parles-tu sur les applis en ce moment ?
+V|a|1||Quelle est la conversation d'appli la plus absurde que tu aies eue ?
+V|a|1||As-tu déjà ghosté quelqu'un ? Pourquoi ?
+V|a|1||Quelle est la façon la plus lâche dont tu as quitté quelqu'un ?
+V|a|1||As-tu déjà été largué de façon humiliante ? Raconte.
+V|a|1||Qu'est-ce que tu as fait de plus fou pour récupérer quelqu'un ?
+V|a|1||As-tu déjà écrit une lettre d'amour ? À qui ?
+V|a|1||Quelle chanson te fait penser à un ex ?
+V|a|1||Quel est le surnom le plus gênant qu'on t'ait donné en couple ?
+V|a|2||As-tu déjà eu des sentiments pour deux personnes en même temps ? Raconte.
+V|a|2||As-tu déjà été le plan B de quelqu'un ?
+V|a|2||Qui est ton plan B en ce moment ?
+V|a|2||As-tu déjà dragué quelqu'un en étant en couple ?
+V|a|2||As-tu déjà embrassé quelqu'un en étant en couple ?
+V|a|2||As-tu déjà eu des sentiments pour la moitié d'un pote ?
+V|a|2||As-tu déjà été amoureux d'un ou d'une amie qui ne l'a jamais su ?
+V|a|2||Quel est le secret que tu n'as jamais dit à un ex ?
+V|a|2||Qu'est-ce que tu regrettes le plus dans ta dernière relation ?
+V|a|2||As-tu déjà menti à ta moitié sur l'endroit où tu étais ?
+V|a|2|pn|Qui ici serait le meilleur partenaire pour toi ?
+V|a|2|pn|Avec qui ici pourrais-tu te marier si tu y étais obligé ?
+V|a|2|pn|Qui ici a le meilleur goût en amour ?
+V|a|2|pn|Qui ici a le pire goût en amour ?
+V|a|2|p|Quel ex de quelqu'un ici trouvais-tu canon ?
+V|a|2|p|Quelle relation de quelqu'un ici n'as-tu jamais approuvée ?
+V|a|1|c|Quel a été ton premier ressenti en rencontrant {B} ?
+V|a|1|c|Quelle est la chose que {B} fait qui t'énerve le plus ?
+V|a|1|c|Quelle est la chose que tu préfères dans votre couple ?
+V|a|1|c|Quel est votre meilleur souvenir de voyage ensemble ?
+V|a|2|c|Quelle dispute avec {B} regrettes-tu le plus ?
+V|a|2|c|As-tu déjà été jaloux à cause de {B} ? Quand ?
+V|d|1||Quel est le plus gros mensonge que tu aies dit cette année ?
+V|d|1||Quel est le mensonge que tu dis le plus souvent à tes parents ?
+V|d|1||Quel est le mensonge que tu dis le plus souvent au travail ?
+V|d|1||Quel est le pire truc que tu aies fait au travail sans te faire prendre ?
+V|d|1||As-tu déjà triché à un examen ? Comment ?
+V|d|1||As-tu déjà volé quelque chose ? Quoi ?
+V|d|1||As-tu déjà eu des problèmes avec la police ?
+V|d|1||Quelle est la chose dont tu as le plus honte ?
+V|d|1||Quel est le pire truc que tu aies dit à quelqu'un ?
+V|d|1||Quel est le pire truc que tu aies fait à un ami ?
+V|d|1||As-tu déjà trahi la confiance de quelqu'un ?
+V|d|1||As-tu déjà répété un secret qu'on t'avait confié ?
+V|d|1||Quel est le secret le plus lourd que tu gardes pour quelqu'un ?
+V|d|1||Quelle est la chose que tu caches à ta famille ?
+V|d|1||Quelle est la chose que tes parents ne savent pas sur toi ?
+V|d|1||Quel est ton plus grand regret ?
+V|d|1||Quelle est ta plus grande peur ?
+V|d|1||Quelle est la chose la plus égoïste que tu aies faite ?
+V|d|1||Quelle est la chose la plus méchante que tu aies pensée de quelqu'un ?
+V|d|1||As-tu déjà été jaloux d'un ami ? De quoi ?
+V|d|1||As-tu déjà souhaité qu'il arrive malheur à quelqu'un ?
+V|d|1||Quelle est la chose la plus chère que tu aies achetée en secret ?
+V|d|1||As-tu des dettes que personne ne connaît ?
+V|d|1||Combien gagnes-tu, à peu près ?
+V|d|1||As-tu déjà menti sur ton salaire ?
+V|d|1||As-tu déjà fait semblant d'être malade ? Pour quoi ?
+V|d|1||As-tu déjà été viré ? Pourquoi ?
+V|d|1||Quel est le pire boss que tu aies eu ?
+V|d|1||Quel est le collègue que tu ne supportes pas ?
+V|d|1||As-tu déjà pleuré au travail ?
+V|d|1||As-tu déjà fait une sieste au travail ? Où ?
+V|d|1||Qu'est-ce que tu fais vraiment quand tu es en télétravail ?
+V|d|1||Quelle est la pire chose que tu aies faite à ton frère ou ta sœur ?
+V|d|1||Quel est le plus gros mensonge que tu aies dit à ton meilleur ami ?
+V|d|1||Quelle est la rumeur que tu as lancée ?
+V|d|1||Quel est le ragot le plus juteux que tu connaisses ?
+V|d|2||Quel est le secret que tu n'as jamais dit à personne ?
+V|d|2||Qu'est-ce que tu ferais si tu étais sûr de ne jamais te faire prendre ?
+V|d|2||Quelle est la chose la plus grave que tu aies cachée à ta moitié ?
+V|d|2||As-tu déjà fait quelque chose dont tu as encore peur que ça se sache ?
+V|d|2|p|Qu'est-ce que tu penses vraiment de chaque personne ici, en un mot ?
+V|d|2|p|Qui ici t'a déjà déçu ? Pourquoi ?
+V|d|2|p|Qui ici te connaît le mieux ?
+V|d|2|p|Qui ici est ton plus proche ami, honnêtement ?
+V|d|2|p|Quel secret de quelqu'un ici connais-tu ?
+V|d|2|pn|Quelle est ta première impression de chaque personne ici ?
+V|d|2|pn|Quel est le plus gros défaut de {B} ?
+V|d|2|pn|Si tu pouvais changer une chose chez {B}, ce serait quoi ?
+V|d|1|pn|Qu'est-ce que tu admires chez {B} ?
+V|t|1||Montre ta photo la plus ancienne sur ton téléphone.
+V|t|1||Montre ta dernière photo de toi.
+V|t|1||Montre le dernier mème que tu as envoyé.
+V|t|1||Montre ta dernière recherche YouTube.
+V|t|1||Montre ta playlist la plus honteuse.
+V|t|1||Quelle chanson as-tu le plus écoutée cette année ?
+V|t|1||Quelle est l'appli que tu utilises le plus ?
+V|t|1||Quelle est la personne avec qui tu parles le plus en ce moment ?
+V|t|1||Qui t'a écrit en dernier ?
+V|t|1||Qui est en tête de ta liste d'appels récents ?
+V|t|1||Combien de messages non lus as-tu ?
+V|t|1||Combien de photos as-tu dans ton téléphone ?
+V|t|1||Combien de selfies as-tu pris cette semaine ?
+V|t|1||Combien d'heures par jour passes-tu sur ton téléphone ?
+V|t|1||Quel est ton compte Instagram préféré, honnêtement ?
+V|t|1||Qui stalkes-tu le plus sur les réseaux ?
+V|t|1||Quelle est la dernière personne que tu as bloquée ? Pourquoi ?
+V|t|1||As-tu déjà eu un faux compte ? Pour quoi faire ?
+V|t|1||Quelle est la dernière chose que tu as recherchée sur Google à propos de quelqu'un ?
+V|t|1||Quel est le pire message que tu aies envoyé à la mauvaise personne ?
+V|t|1||Quelle est la conversation que tu archives et relis en cachette ?
+V|t|1||Quel est ton dernier achat en ligne inutile ?
+V|t|2||Montre la dernière conversation que tu as supprimée... si tu t'en souviens.
+V|t|2||Montre ta dernière conversation avec un ex.
+V|t|2||Montre les cinq dernières personnes à qui tu as écrit.
+V|t|2||Lis à voix haute ton dernier message envoyé à un crush.
+V|t|2||Montre la dernière photo que tu as envoyée à quelqu'un.
+V|t|2||Montre le dernier vocal que tu as reçu.
+V|t|2||Quelle est la personne que tu stalkes le plus en ce moment ? Montre son profil.
+V|f|1||Quelle est la chose la plus bizarre que tu fasses seul chez toi ?
+V|f|1||Quelle est ta manie la plus étrange ?
+V|f|1||Quel dessin animé regardes-tu encore en cachette ?
+V|f|1||Quelle chanson connais-tu par cœur sans l'avouer ?
+V|f|1||Quel est ton talent caché ?
+V|f|1||Quelle est la chose la plus ridicule qui te fasse peur ?
+V|f|1||Quel est le pire surnom qu'on t'ait donné à l'école ?
+V|f|1||Quel est le moment le plus gênant de ta vie ?
+V|f|1||Quelle est la pire chute que tu aies faite en public ?
+V|f|1||Quel est le pire look que tu aies eu ?
+V|f|1||Quelle est la pire coupe de cheveux que tu aies eue ?
+V|f|1||Quelle est la chose la plus bizarre que tu aies mangée ?
+V|f|1||Quel est le plat que tu détestes et que tout le monde adore ?
+V|f|1||Si tu pouvais être invisible une journée, que ferais-tu ?
+V|f|1||Si tu gagnais un million demain, quelle serait la première chose que tu achèterais ?
+V|f|1||Si tu étais un animal, lequel serais-tu, honnêtement ?
+V|f|1|pn|Si tu pouvais échanger ta vie avec quelqu'un ici pendant une semaine, ce serait qui ?
+V|f|1||Quel métier ferais-tu si l'argent n'existait pas ?
+V|f|1||Quelle est la dernière chose qui t'a fait pleurer ?
+V|f|1||Quelle est la dernière chose qui t'a fait rire aux larmes ?
+V|f|1||Quel est ton plaisir coupable musical ?
+V|f|1||Quelle est la série que tu as honte d'avoir regardée en entier ?
+V|f|1||Quelle est la superstition à laquelle tu crois vraiment ?
+V|f|1||Quel est le pire cadeau que tu aies offert ?
+V|f|1||Quelle est la pire idée que tu aies eue cette année ?
+V|f|1||Quelle est ta plus grosse bêtise d'enfance ?
+V|f|1||Quelle est la punition la plus injuste que tes parents t'aient donnée ?
+V|f|1||Quel est ton souvenir de vacances le plus honteux ?
+V|f|1||Quel est le truc que tu fais pour te calmer quand tu stresses ?
+V|f|1|pn|Quelle est la chose la plus drôle qu'ait faite quelqu'un ici ?
+V|f|1|pn|Qui ici a le rire le plus bizarre ?
+V|f|1|pn|Qui ici a le pire style vestimentaire ?
+V|f|1|pn|Qui ici ferait le meilleur président ?
+V|f|1|pn|Qui ici mourrait en premier dans un film d'horreur ?
+V|f|1|pn|Imite {B} en une phrase.
+A|x|2||Regarde {B} dans les yeux et dis-lui une phrase de drague, le plus sérieusement possible.
+A|x|2|pn|Fais un compliment sur le physique de chaque joueur, sans répéter le même.
+A|x|2||Décris ton rencard parfait à {B} comme si tu l'invitais.
+A|x|2||Mime ton premier baiser avec ta main.
+A|x|2||Mime ta technique de drague en boîte.
+A|x|2||Fais ta meilleure démarche sexy jusqu'à la porte et reviens.
+A|x|2||Fais ton regard le plus séducteur à {B} pendant 10 secondes.
+A|x|2|pn|Fais un clin d'œil à chaque joueur, chacun d'une façon différente.
+A|x|2||Lis la dernière recherche de ton navigateur avec une voix sensuelle.
+A|x|2||Lis la composition d'une bouteille avec une voix érotique.
+A|x|2||Fais une déclaration enflammée à ton verre.
+A|x|2||Fais un massage des mains à {B} pendant 30 secondes. Si {B} refuse, c'est {B} qui boit.
+A|x|2||Fais un massage des épaules à la personne de ton choix pendant 30 secondes.
+A|x|2||Danse un slow avec {B} pendant 20 secondes. Si {B} refuse, c'est {B} qui boit.
+A|x|2||Danse de la façon la plus sexy possible pendant 15 secondes.
+A|x|2||Fais une danse sensuelle avec une chaise comme partenaire.
+A|x|2||Chante une chanson d'amour à {B} en le regardant dans les yeux.
+A|x|2||Assieds-toi à côté de {B} et colle-toi jusqu'au prochain tour. Si {B} refuse, c'est {B} qui boit.
+A|x|2||Laisse {B} choisir un mot que tu devras placer dans toutes tes phrases jusqu'au prochain tour.
+A|x|2||Raconte ton dernier rêve coquin en mimant les moments clés.
+A|x|2||Mime une scène de film romantique célèbre avec {B}. Les autres doivent deviner.
+A|x|2||Enlève tes chaussettes avec les dents.
+A|x|2||Enlève un accessoire de la façon la plus sexy possible.
+A|x|2||Enlève un vêtement au choix des autres joueurs, ou prends {s3}.
+A|x|2||Échange un vêtement avec {B} jusqu'à la fin de la partie.
+A|x|2||Porte un vêtement de {B} jusqu'à la fin de la partie.
+A|x|2||Mets ton haut à l'envers jusqu'à la fin de la partie.
+A|x|2||Montre ton tatouage le plus caché, ou dis où il est.
+A|x|2||Montre la photo la plus sexy de ta galerie à une seule personne de ton choix.
+A|x|2||Envoie « je pense à toi » à la dernière personne que tu as embrassée.
+A|x|2||Envoie un emoji 🔥 à la sixième personne de tes conversations.
+A|x|2||Envoie « tu fais quoi ce soir ? » à ton dernier match.
+A|x|2||Laisse {B} choisir une personne de tes contacts à qui tu envoies un compliment osé.
+A|x|2||Écris un sexto parfait pour {B} et lis-le à voix haute.
+A|x|2||Décris ton type idéal en regardant {B}.
+A|x|2||Imite la tête que tu fais quand quelqu'un te plaît.
+A|x|2||Fais deviner aux autres ta position préférée en ne disant que des mots qui riment.
+A|x|2||Fais ta meilleure imitation d'un acteur de film érotique.
+A|x|2||Fais une pub de 30 secondes pour vendre ton corps comme un produit de luxe.
+A|x|2||Décris ton corps comme une annonce immobilière.
+A|x|2||Dis à voix haute ton surnom coquin préféré.
+A|x|2||Raconte en 20 secondes ta dernière nuit, sans donner de nom.
+A|x|2||Fais un bisou sur le front de la personne de ton choix.
+A|x|2|pn|Fais un bisou dans la main de chaque joueur.
+A|x|2||Fais un câlin de dix secondes à {B}. Si {B} refuse, c'est {B} qui boit.
+A|x|2||Laisse {B} te faire un suçon sur le bras. Tu peux refuser et prendre {s3}.
+A|x|2||Laisse {B} te dessiner un cœur sur la joue avec du rouge à lèvres ou un feutre.
+A|x|2||Laisse {B} décider de ta prochaine photo de profil.
+A|x|2||Laisse les autres écrire ta bio d'appli de rencontre. Tu dois la garder 24 heures.
+A|x|3||Enlève ton haut jusqu'à ton prochain tour, ou prends {s4}.
+A|x|3||Enlève ton pantalon ou ta jupe jusqu'à ton prochain tour, ou prends {s5}.
+A|x|3||Fais un strip-tease de 30 secondes en enlevant au moins un vêtement.
+A|x|3||Fais un lap dance de 30 secondes à la personne de ton choix. Si elle refuse, elle boit.
+A|x|3||Embrasse {B} sur la joue, très près de la bouche. Si {B} refuse, c'est {B} qui boit.
+A|x|3||Embrasse {B} dans le cou pendant trois secondes. Celui qui refuse prend {s3}.
+A|x|3||Embrasse le joueur de ton choix sur la bouche. S'il refuse, il prend {s4}.
+A|x|3||Fais un bisou à trois endroits différents du corps de {B}, choisis par {B}.
+A|x|3||Mordille l'oreille de la personne de ton choix. Si elle refuse, elle boit.
+A|x|3||Murmure à l'oreille de {B} ta position préférée.
+A|x|3||Murmure à l'oreille de {B} ce que tu lui ferais pendant une nuit.
+A|x|3||Murmure ton fantasme à l'oreille de la personne à ta droite.
+A|x|3||Laisse {B} t'enlever un vêtement avec les dents. Tu peux refuser et prendre {s4}.
+A|x|3||Enlève un vêtement à {B} avec les dents. Si {B} refuse, c'est {B} qui boit.
+A|x|3||Fais glisser un glaçon le long du bras de {B}. Si {B} refuse, c'est {B} qui boit.
+A|x|3||Mange un bonbon ou un fruit dans la main de {B} sans les mains.
+A|x|3||Fais passer un glaçon de ta bouche à la bouche de {B}. Si l'un refuse, il prend {s4}.
+A|x|3||Fais un body shot sur la personne de ton choix, ou avec un bonbon en mode sans alcool.
+A|x|3||Laisse quelqu'un faire un body shot sur toi. Tu peux refuser et prendre {s4}.
+A|x|3||Assieds-toi sur les genoux de la personne de ton choix pendant deux tours.
+A|x|3||Laisse {B} s'asseoir sur tes genoux pendant deux tours. Tu peux refuser et prendre {s3}.
+A|x|3||Garde la main de {B} sur ta cuisse pendant trois tours. Tu peux refuser et prendre {s3}.
+A|x|3||Mime ta position préférée avec {B}, habillés, sans contact. Si {B} refuse, c'est {B} qui boit.
+A|x|3||Simule un orgasme de dix secondes, le plus réaliste possible.
+A|x|3||Fais ta meilleure imitation de toi en plein acte, juste avec la voix.
+A|x|3||Fais un gémissement à chaque fois que tu bois, jusqu'à ton prochain tour.
+A|x|3||Mime ta technique préférée avec un objet de la table.
+A|x|3||Raconte ta dernière nuit en mimant tout, sans un mot.
+A|x|3||Décris ce que tu portes sous tes vêtements, avec le plus de détails possible.
+A|x|3||Montre tes sous-vêtements pendant trois secondes, ou prends {s4}.
+A|x|3||Retire ton soutien-gorge sans enlever ton haut, ou enlève ta ceinture en musique.
+A|x|3||Mets-toi en sous-vêtements pendant un tour, ou prends {s5}.
+A|x|3||Garde un vêtement en moins jusqu'à la fin de la partie.
+A|x|3||Laisse {B} choisir quel vêtement tu enlèves. Tu peux refuser et prendre {s4}.
+A|x|3||Lis le dernier sexto que tu as envoyé, ou prends {s5}.
+A|x|3||Montre ton dernier nude envoyé à la personne de ton choix uniquement, ou prends {s5}.
+A|x|3||Raconte ton fantasme le plus inavouable en 30 secondes.
+A|x|3|pn|Fais un classement à voix haute des trois personnes d'ici avec qui tu passerais une nuit.
+A|x|3|pn|Désigne la personne ici avec qui tu ferais un plan à trois, et la troisième.
+A|x|3||Dis à {B} ce que tu trouves le plus sexy chez lui ou chez elle, en détail.
+A|x|3||Fais un massage d'une minute à {B}, où {B} le souhaite. Si {B} refuse, c'est {B} qui boit.
+A|x|3||Laisse {B} te bander les yeux et te faire goûter quelque chose.
+A|x|3||Bande les yeux de {B} et fais-lui deviner trois objets en les passant sur son bras.
+A|x|3|c|Enlève un vêtement à {B} sans utiliser tes mains.
+A|x|3|c|Fais un massage sensuel d'une minute à {B}.
+A|x|3|c|Embrasse {B} comme si c'était votre dernière nuit.
+A|x|3|c|Murmure à {B} trois choses que tu veux faire cette nuit.
+A|x|3|c|Choisis un vêtement que {B} doit enlever.
+A|x|3|c|Assieds-toi sur {B} pendant deux tours.
+A|x|3|c|Laisse {B} choisir où tu l'embrasses, pendant dix secondes.
+A|x|3|c|Fais un strip-tease d'une minute pour {B}, en musique.
+A|x|2|c|Écris un mot coquin sur la main de {B}.
+A|x|2|c|Décris à {B} votre nuit idéale.
+A|s|1||Bois une gorgée en faisant un discours sur ta boisson.
+A|s|1||Prépare le pire cocktail possible avec ce qu'il y a sur la table et goûte-le.
+A|s|1||Fais le serveur pour tout le monde jusqu'à ton prochain tour.
+A|s|1|pn|Trinque avec chaque joueur en lui disant pourquoi tu l'aimes bien.
+A|s|1||Porte un toast à la personne la plus drôle de la soirée.
+A|s|1||Bois ton prochain verre en tenant ton verre avec deux doigts.
+A|s|1||Danse sur la prochaine chanson, quelle qu'elle soit.
+A|s|1||Choisis la prochaine chanson, et tout le monde doit danser.
+A|s|1||Mets une chanson et chante le refrain en entier.
+A|s|1||Fais un karaoké a cappella de 20 secondes.
+A|s|1||Imite un DJ pendant 30 secondes.
+A|s|1||Imite la personne la plus bourrée que tu aies jamais vue.
+A|s|1||Imite toi-même en fin de soirée.
+A|s|1||Raconte une anecdote de soirée en moins de 30 secondes. Si personne ne rit, prends {s2}.
+A|s|1||Fais un discours d'anniversaire pour {B}, même si ce n'est pas son anniversaire.
+A|s|1||Fais une ola toute seule.
+A|s|1||Appelle un pote absent et invite-le à la soirée en chantant.
+A|s|1||Fais un tour de magie, même raté.
+A|s|1||Fais la météo de la soirée comme à la télé.
+A|s|1|pn|Joue au videur : chaque joueur doit te convaincre de le laisser entrer.
+A|s|1||Change de place avec la personne la plus éloignée de toi.
+A|s|1||Choisis un partenaire de boisson jusqu'à la fin de la partie.
+A|s|1||Bois sans quitter {B} des yeux.
+A|f|1||Parle en verlan jusqu'à ton prochain tour.
+A|f|1||Parle uniquement en posant des questions jusqu'à ton prochain tour.
+A|f|1||Réponds à tout par « c'est exact » jusqu'à ton prochain tour.
+A|f|1||Fais un compliment à chaque phrase jusqu'à ton prochain tour.
+A|f|1||Parle comme un pirate jusqu'à ton prochain tour.
+A|f|1||Parle comme un présentateur de télé-achat jusqu'à ton prochain tour.
+A|f|1||Fais le commentaire sportif de ce que fait {B} pendant 30 secondes.
+A|f|1||Raconte ta vie en trois phrases, comme la bande-annonce d'un film.
+A|f|1||Invente une chanson sur {B} et chante-la.
+A|f|1||Fais un rap sur la soirée.
+A|f|1||Fais une impro théâtrale sur un thème choisi par {B}.
+A|f|1||Mime un métier, les autres ont 30 secondes pour deviner.
+A|f|1||Mime un film, les autres ont 30 secondes pour deviner.
+A|f|1||Mime une célébrité, les autres ont 30 secondes pour deviner.
+A|f|1||Fais ta meilleure imitation d'un animal choisi par les autres.
+A|f|1||Fais ta meilleure imitation d'un bébé.
+A|f|1||Fais ta meilleure imitation d'un vieux monsieur ou d'une vieille dame.
+A|f|1||Fais ta meilleure imitation d'un prof.
+A|f|1||Fais ta meilleure imitation de ta mère.
+A|f|1|pn|Fais ta meilleure imitation de quelqu'un ici, les autres doivent deviner.
+A|f|1||Fais 20 secondes de stand-up.
+A|f|1||Raconte la pire blague que tu connaisses.
+A|f|1|pn|Fais rire chaque joueur, un par un. Ceux qui ne rient pas distribuent {s1}.
+A|f|1||Garde un sérieux absolu pendant que les autres essaient de te faire rire 30 secondes.
+A|f|1||Tiens en équilibre sur un pied jusqu'à ton prochain tour.
+A|f|1||Fais 10 pompes.
+A|f|1||Fais 20 squats en chantant.
+A|f|1||Fais la roue, ou essaie.
+A|f|1||Marche comme un mannequin jusqu'à la cuisine et reviens.
+A|f|1||Rampe jusqu'à la porte et reviens.
+A|f|1||Fais le tour de la pièce à cloche-pied.
+A|f|1||Mets tes chaussettes sur tes mains jusqu'à ton prochain tour.
+A|f|1||Mets une cuillère sur ton nez et tiens-la 10 secondes.
+A|f|1||Mange une cuillère de moutarde, de sauce piquante ou de citron.
+A|f|1||Mange quelque chose choisi par {B} les yeux fermés.
+A|f|1||Bois un verre d'eau la tête à l'envers, ou essaie.
+A|f|1||Fais un nœud de cravate à {B}, ou une tresse.
+A|f|1||Laisse {B} te coiffer comme il ou elle veut.
+A|f|1||Laisse {B} te maquiller en 30 secondes.
+A|f|1||Laisse {B} te dessiner quelque chose sur le bras.
+A|f|1||Porte un objet sur la tête jusqu'à ton prochain tour.
+A|f|1||Parle avec un accent du Sud jusqu'à ton prochain tour.
+A|f|1||Parle avec un accent belge, suisse ou québécois jusqu'à ton prochain tour.
+A|f|1||Fais une vidéo de toi en train de danser et envoie-la à un membre de ta famille.
+A|t|1||Envoie un vocal à ta mère pour lui dire que tu viens de gagner au loto.
+A|t|1||Envoie un mème au hasard à ton patron ou à un prof.
+A|t|1||Appelle quelqu'un en visio et dis-lui juste « je voulais voir ta tête ».
+A|t|1||Change ta photo de profil pour une photo choisie par {B} pendant 24 heures.
+A|t|1||Poste une story de la soirée avec une légende choisie par les autres.
+A|t|1||Poste en story ta photo la plus moche, pendant une heure.
+A|t|1||Like une photo d'il y a plus de deux ans de la personne choisie par {B}.
+A|t|1||Envoie « tu me manques » à quelqu'un que tu n'as pas vu depuis plus d'un an.
+A|t|1||Envoie le dernier emoji que tu as utilisé à dix contacts au hasard.
+A|t|1||Laisse {B} écrire un statut ou une story sur ton compte.
+A|t|1||Laisse {B} lire tes trois dernières recherches Google.
+A|t|1||Montre ton temps d'écran et lis à voix haute l'appli que tu utilises le plus.
+A|t|1||Écris un commentaire élogieux sous le dernier post d'un ex.
+A|t|1||Écris « joyeux anniversaire » à quelqu'un dont ce n'est pas l'anniversaire.
+A|t|2||Envoie un vocal de 10 secondes à ton crush en chantant.
+A|t|2||Laisse {B} envoyer un message de son choix à la personne de ton choix depuis ton téléphone.
+A|t|2||Donne ton téléphone déverrouillé à {B} pendant une minute.
+A|t|2||Laisse les autres lire ta dernière conversation de groupe.
+A|a|1||Envoie un message à ton premier crush.
+A|a|1||Appelle ton ex et demande-lui une recette de cuisine.
+A|a|1||Écris un poème d'amour pour le joueur de ton choix.
+A|a|1||Fais une demande en mariage à une plante ou un objet.
+A|a|1||Joue la scène d'une rupture dramatique avec {B}.
+A|a|1||Joue la scène d'un premier rencard gênant avec {B}.
+A|a|1||Fais le profil d'appli de rencontre de {B} à voix haute.
+A|a|2||Envoie « on devrait se revoir » à un ex.
+A|a|2||Like la photo la plus récente de ton ex.
+A|a|2||Montre la dernière conversation avec ton crush.
+P|x|2||Embrasser quelqu'un qui embrasse mal mais qui est canon // quelqu'un qui embrasse divinement mais pas ton genre
+P|x|2||Un premier baiser sous la pluie // un premier baiser au sommet d'une grande roue
+P|x|2||Ne plus jamais pouvoir embrasser // ne plus jamais pouvoir faire de câlin
+P|x|2||Embrasser ton ex devant ta moitié // embrasser ta moitié devant ton ex
+P|x|2||Être dragué par ton boss // être dragué par le partenaire de ton meilleur ami
+P|x|2||Draguer en ne parlant qu'en rimes // draguer en ne parlant qu'en questions
+P|x|2||Un rencard qui commence mal et finit au lit // un rencard parfait qui finit par une bise
+P|x|2||Que ton crush voie ton historique de recherche // qu'il voie ta galerie photo
+P|x|2||Recevoir un nude de ton crush par erreur // envoyer le tien à ton crush par erreur
+P|x|2||Envoyer un sexto à ta mère par erreur // à ton patron par erreur
+P|x|2||Que ton dernier sexto soit lu à la radio // affiché sur un panneau publicitaire
+P|x|2||Ne plus jamais pouvoir envoyer de sextos // ne plus jamais recevoir de nudes
+P|x|2||Un partenaire qui envoie des sextos toute la journée // un partenaire qui n'en envoie jamais
+P|x|2||Être réveillé par des bisous // être réveillé par l'odeur du café
+P|x|2||Une nuit à la belle étoile // une nuit dans un hôtel de luxe
+P|x|2||Un week-end au lit sans sortir // un week-end de voyage sans aucune intimité
+P|x|2||Dormir nu toute ta vie // ne plus jamais pouvoir dormir nu
+P|x|2||Que tout le monde te voie nu une fois // que personne ne te voie jamais nu
+P|x|2||Faire un strip-tease devant tes collègues // devant ta belle-famille
+P|x|2||Faire un bain de minuit nu en plein hiver // faire du naturisme sur une plage bondée
+P|x|2||Te faire surprendre nu par tes voisins // par le livreur
+P|x|2||Porter de la lingerie sexy sous un costume tous les jours // ne plus jamais porter de sous-vêtements
+P|x|2||Que ta moitié soit très tactile en public // qu'elle soit très froide en public
+P|x|2||Une moitié qui parle de sexe tout le temps // une moitié qui n'en parle jamais
+P|x|2||Une moitié qui a eu 50 partenaires // une moitié qui n'en a eu aucun
+P|x|2||Avoir eu beaucoup de partenaires // en avoir eu très peu
+P|x|2|pn|Connaître le body count de tout le monde ici // que tout le monde connaisse le tien
+P|x|2||Que tes parents connaissent ton body count // qu'ils connaissent ton fantasme
+P|x|2||Coucher le premier soir avec l'amour de ta vie // attendre trois mois avec un plan d'un soir
+P|x|2||Un plan d'un soir avec un inconnu // une nuit avec un ex
+P|x|2||Une histoire de vacances intense // une histoire de bureau secrète
+P|x|2||Coucher avec ton voisin // avec ton collègue
+P|x|2||Un plan cul régulier // une histoire d'amour à distance
+P|x|2||Te réveiller avec un suçon énorme le jour d'un entretien // le jour d'un mariage
+P|x|2||Que tes colocs t'entendent toutes les nuits // que tu les entendes toutes les nuits
+P|x|2||Un lit qui grince // des murs en papier
+P|x|2||Une nuit sans dormir avec quelqu'un d'incroyable // une nuit de sommeil parfaite seul
+P|x|2||Ne plus jamais pouvoir faire l'amour en été // ne plus jamais pouvoir le faire en hiver
+P|x|2||Faire l'amour uniquement dans ton lit // ne jamais pouvoir le faire dans ton lit
+P|x|2||Faire l'amour sous la douche // dans une baignoire
+P|x|2||Faire l'amour sur une plage déserte // dans un jacuzzi sur un toit
+P|x|2||Faire l'amour dans un train de nuit // sur un bateau
+P|x|2||Faire l'amour dans une cabane en forêt // dans une suite d'hôtel
+P|x|2||Faire l'amour avec de la musique // dans un silence total
+P|x|2||Faire l'amour avec une playlist romantique // avec une playlist de rap
+P|x|2||Faire l'amour devant la télé allumée // avec ton téléphone qui sonne sans arrêt
+P|x|2||Te faire interrompre par ta mère au téléphone // par ton chien qui saute sur le lit
+P|x|2||Avoir un fou rire en plein milieu // une crampe en plein milieu
+P|x|2||Une moitié qui rit pendant // une moitié qui pleure pendant
+P|x|2||Un partenaire qui commente tout // un partenaire qui ne fait aucun bruit
+P|x|2||Un partenaire très doux // un partenaire très sauvage
+P|x|2||Un partenaire qui veut tout essayer // un partenaire qui ne veut rien changer
+P|x|2||Que ton partenaire ait un fantasme bizarre // qu'il te demande de réaliser le tien
+P|x|2||Avoir une moitié trop jalouse // une moitié trop libre
+P|x|2||Savoir que ta moitié fantasme sur ton meilleur ami // sur ta sœur ou ton frère
+P|x|2||Que ta moitié fantasme sur une célébrité // sur un collègue
+P|x|2||Découvrir que ta moitié regarde beaucoup de porno // qu'elle n'en regarde jamais
+P|x|2||Trouver les sextoys de tes parents // que tes parents trouvent les tiens
+P|x|2||Acheter un sextoy en magasin devant ton ex // le recevoir au bureau devant tes collègues
+P|x|2||Un sextoy qui vibre dans ton sac en réunion // dans ta valise à l'aéroport
+P|x|2||Avoir la meilleure technique pour embrasser // la meilleure technique pour masser
+P|x|2||Être le meilleur coup de la ville sans le savoir // être nul et persuadé d'être génial
+P|x|2||Être réputé pour embrasser comme un dieu // pour faire les meilleurs massages
+P|x|2||Avoir un physique de rêve // un charme irrésistible
+P|x|2||Une voix sexy // un regard sexy
+P|x|2||Sentir toujours bon // avoir toujours une peau parfaite
+P|x|2||Que ton crush te trouve sexy // qu'il te trouve drôle
+P|x|2||Séduire avec ton corps // séduire avec ton humour
+P|x|2||Faire le premier pas à chaque fois // ne jamais faire le premier pas
+P|x|2||Être dragué tout le temps // ne jamais être dragué mais toujours réussir à draguer
+P|x|2||Te faire draguer par une célébrité que tu trouves moche // ne jamais rencontrer ta célébrité préférée
+P|x|2||Sortir avec un acteur de films pour adultes // avec un prêtre ou une religieuse défroqué
+P|x|2||Sortir avec quelqu'un de très expérimenté // avec quelqu'un de vierge
+P|x|2||Être la première fois de quelqu'un // avoir ta première fois avec quelqu'un de très expérimenté
+P|x|2||Revivre ta première fois // revivre ta meilleure nuit
+P|x|2||Effacer ta première fois de ta mémoire // effacer ta pire nuit
+P|x|2|pn|Embrasser {B} devant tout le monde // raconter ton dernier rêve coquin devant tout le monde
+P|x|2|pn|Un slow avec {B} // un slow avec la personne à ta gauche
+P|x|2|pn|Que {B} lise ta dernière conversation avec ton crush // qu'il lise tes recherches Google
+P|x|2|pn|Passer une nuit en cuillère avec {B} // une nuit en cuillère avec la personne de ton choix ici
+P|x|2|pn|Que {B} te fasse un massage // faire un massage à {B}
+P|x|2|pn|Partager une douche en maillot avec {B} // un bain moussant avec {B}
+P|x|2|pn|Que {B} choisisse ta tenue pour un rencard // que {B} écrive ta bio d'appli
+P|x|3||Faire l'amour devant une caméra // devant un miroir géant
+P|x|3||Être attaché toute une nuit // attacher quelqu'un toute une nuit
+P|x|3||Une fessée // un suçon
+P|x|3||Un bandeau sur les yeux // des menottes aux poignets
+P|x|3||Te faire parler crûment // parler crûment
+P|x|3||Faire l'amour dans un lieu public sans être vu // chez toi en étant entendu par tous les voisins
+P|x|3||Te faire surprendre par la police // par tes beaux-parents
+P|x|3||Un plan à trois avec deux personnes que tu connais // avec deux inconnus
+P|x|3||Un plan à trois avec un couple // avec deux célibataires
+P|x|3||Une partouze une fois dans ta vie // un plan à trois une fois par an
+P|x|3||Tester un club libertin // tester un sauna naturiste
+P|x|3||Une relation libre // une relation fusionnelle sans aucune liberté
+P|x|3||Que ta moitié couche avec quelqu'un d'autre une fois devant toi // sans que tu le saches jamais
+P|x|3||Tromper sans jamais être découvert // être trompé sans jamais le savoir
+P|x|3||Être l'amant d'une personne mariée // être marié et avoir un amant
+P|x|3||Coucher avec ton ex une dernière fois // ne plus jamais le revoir
+P|x|3||Coucher avec le meilleur ami de ton ex // avec le frère ou la sœur de ton ex
+P|x|3||Coucher avec ton boss pour une promotion // rester à ton poste à vie
+P|x|3||Coucher avec ton prof pour avoir ton diplôme // repasser l'année
+P|x|3||Coucher avec quelqu'un pour 10 000 euros // refuser et ne jamais savoir
+P|x|3||Ouvrir un OnlyFans à 10 000 euros par mois // garder ton travail actuel
+P|x|3||Faire un film pour adultes payé un million // ne jamais être riche
+P|x|3||Que ta sextape fuite // que tes sextos fuitent
+P|x|3||Que ta mère tombe sur ton historique porno // sur tes sextos
+P|x|3||Regarder un porno avec tes parents dans la pièce // avec ton ex
+P|x|3||Ne plus jamais regarder de porno // ne plus jamais avoir de plaisir solo
+P|x|3||Un plaisir solo par jour obligatoire // aucun plaisir solo pendant un an
+P|x|3||Faire l'amour une heure par jour // une nuit entière par semaine
+P|x|3||Faire l'amour dix fois en une journée puis rien pendant un mois // une fois par jour tous les jours
+P|x|3||Avoir un orgasme à chaque éternuement // ne plus jamais avoir d'orgasme
+P|x|3||Avoir des orgasmes interminables // en avoir trois fois plus souvent
+P|x|3||Être multi-orgasmique // tenir trois heures
+P|x|3||Finir toujours trop vite // ne jamais réussir à finir
+P|x|3||Ne faire que des préliminaires // ne jamais faire de préliminaires
+P|x|3||Donner sans recevoir pendant un an // recevoir sans donner pendant un an
+P|x|3||Une seule position pour toujours // changer de position toutes les 30 secondes
+P|x|3||Toujours être au-dessus // toujours être en dessous
+P|x|3||Faire l'amour uniquement le matin // uniquement le soir
+P|x|3||Que ta moitié porte un uniforme de pompier // un uniforme d'infirmière
+P|x|3||Un jeu de rôle prof et élève // médecin et patient
+P|x|3||Réaliser ton fantasme numéro un une fois // réaliser ton fantasme numéro deux tous les mois
+P|x|3||Que ta moitié réalise tous tes fantasmes // que tu réalises tous les siens
+P|x|3||Révéler ton fantasme à ta moitié // révéler ton fantasme à tes potes
+P|x|3||Avoir un fétiche bizarre // ne jamais avoir de désir pour rien
+P|x|3||Faire l'amour avec de la chantilly // avec de l'huile de massage
+P|x|3||Des glaçons // de la cire de bougie
+P|x|3||Un sextoy contrôlé à distance par ta moitié pendant un dîner // pendant une réunion
+P|x|3||Un sextoy qui parle // un sextoy qui chante
+P|x|3||Faire l'amour en silence chez tes parents // bruyamment à l'hôtel
+P|x|3||Faire l'amour dans les toilettes d'un avion // dans une cabine d'essayage
+P|x|3||Faire l'amour dans un ascenseur // dans un parking
+P|x|3||Faire l'amour dans un champ // dans une voiture
+P|x|3||Une nuit avec ta célébrité préférée filmée // une nuit avec ton crush jamais racontée
+P|x|3||Ton meilleur coup avec quelqu'un d'insupportable // une nuit moyenne avec ton âme sœur
+P|x|3||Que ton ex note ta performance en public // que ta moitié actuelle le fasse
+P|x|3||Que tous tes ex se réunissent pour parler de toi au lit // que tous tes ex rencontrent ta mère
+P|x|3||Savoir ce que tous tes ex pensaient de toi au lit // ne jamais le savoir
+P|x|3||Être le meilleur coup de ton ex // être son pire coup mais son grand amour
+P|x|3|pn|Embrasser {B} sur la bouche // embrasser la personne de ton choix sur la joue
+P|x|3|pn|Une nuit avec {B} sans rien dire à personne // un baiser avec {B} devant tout le monde
+P|x|3|pn|Que {B} sache ton fantasme // que {B} sache ton body count
+P|x|3|pn|Faire un strip-tease pour {B} // regarder {B} faire un strip-tease
+P|x|3|pn|Un plan à trois avec {B} et un inconnu // avec deux personnes d'ici
+P|x|3|pn|Que {B} te voie nu // voir {B} nu
+P|x|3|pn|Passer une nuit avec la personne à ta gauche // avec la personne à ta droite
+P|x|3|pn|Que tout le monde ici lise tes sextos // que tout le monde ici regarde ta galerie cachée
+P|x|3|c|Que {B} réalise ton fantasme ce soir // que tu réalises le sien
+P|x|3|c|Un week-end coquin avec {B} à l'hôtel // une nuit sauvage à la maison
+P|x|3|c|Que {B} te fasse un strip-tease // un massage d'une heure
+P|x|2|c|Un câlin d'une heure avec {B} // un bain à deux
+P|f|1||Pouvoir voler mais seulement à 2 km/h // courir à 100 km/h mais sans pouvoir t'arrêter
+P|f|1||Pouvoir lire dans les pensées des animaux // dans celles des bébés
+P|f|1||Pouvoir te téléporter mais arriver toujours tout nu // voyager normalement pour toujours
+P|f|1||Pouvoir remonter le temps de dix secondes // voir dix secondes dans le futur
+P|f|1||Être invisible quand tu fermes les yeux // devenir géant quand tu éternues
+P|f|1||Parler toutes les langues // jouer de tous les instruments
+P|f|1||Ne plus jamais avoir froid // ne plus jamais avoir chaud
+P|f|1||Ne plus jamais avoir faim // ne plus jamais avoir besoin de dormir
+P|f|1||Dormir 20 heures par jour et être riche // dormir 4 heures et être pauvre
+P|f|1||Vivre 200 ans // vivre 80 ans en étant riche
+P|f|1||Être immortel // pouvoir revivre ta vie depuis le début une seule fois
+P|f|1||Connaître toutes les réponses // poser toutes les bonnes questions
+P|f|1||Avoir une mémoire parfaite // pouvoir oublier ce que tu veux
+P|f|1||Être le plus drôle de chaque soirée // le plus intelligent de chaque réunion
+P|f|1||Être célèbre pour une danse ridicule // être inconnu mais respecté
+P|f|1||Que ta vie soit une comédie musicale // un film muet
+P|f|1||Avoir une chanson thème qui joue quand tu entres dans une pièce // des rires enregistrés après chacune de tes blagues
+P|f|1||Que tout le monde entende ta playlist en permanence // que tu entendes la leur
+P|f|1||Avoir un doigt en plus // un doigt en moins
+P|f|1||Avoir une queue de chat // des oreilles de chat
+P|f|1||Avoir des cheveux qui changent de couleur selon ton humeur // une peau qui brille quand tu mens
+P|f|1||Rougir à chaque fois que tu mens // hoqueter à chaque fois que tu es amoureux
+P|f|1||Toujours dire la vérité // toujours deviner quand quelqu'un ment
+P|f|1||Ne plus pouvoir dire « non » // ne plus pouvoir dire « oui »
+P|f|1||Chanter au lieu de parler // danser au lieu de marcher
+P|f|1||Éternuer des paillettes // pleurer du sirop d'érable
+P|f|1||Te battre contre un kangourou // contre un cygne
+P|f|1||Avoir un dragon de compagnie // un dinosaure de compagnie
+P|f|1||Avoir un chat qui parle // un chien qui écrit
+P|f|1||Vivre dans un château hanté // dans un sous-marin
+P|f|1||Vivre sur une île déserte avec tes potes // dans une grande ville seul
+P|f|1||Vivre sans réfrigérateur // vivre sans machine à laver
+P|f|1||Vivre sans musique // vivre sans films
+P|f|1||Vivre sans café // vivre sans chocolat
+P|f|1||Manger des pâtes à chaque repas // ne plus jamais manger de pâtes
+P|f|1||Manger uniquement sucré // uniquement salé
+P|f|1||Manger toujours trop épicé // toujours trop fade
+P|f|1||Ne plus manger que des pizzas // que des burgers
+P|f|1||Que toute ta nourriture ait le goût du brocoli // que toutes tes boissons aient le goût de l'eau de mer
+P|f|1||Manger un insecte vivant // un plat entièrement fait de foie
+P|f|1||Être toujours en retard de dix minutes // toujours en avance d'une heure
+P|f|1||Rater tous tes trains // rater tous tes réveils
+P|f|1||Avoir toujours le hoquet // toujours envie d'éternuer sans y arriver
+P|f|1||Avoir toujours un caillou dans la chaussure // toujours une étiquette qui gratte
+P|f|1||Que ton téléphone soit toujours à 1 % // que ton wifi soit toujours lent
+P|f|1||Prendre une douche froide tous les matins // ne jamais pouvoir te laver les cheveux plus d'une fois par semaine
+P|f|1||Travailler quatre jours payé autant // travailler cinq jours payé le double
+P|f|1||Avoir le travail de tes rêves mal payé // un travail ennuyeux très bien payé
+P|f|1||Travailler avec ton meilleur ami // avec ton ex
+P|f|1||Avoir un patron génial et des collègues horribles // l'inverse
+P|f|1||Faire une présentation en sous-vêtements // avec la voix d'un dessin animé
+P|f|1||Être prof dans une école maternelle // dans un lycée difficile
+P|f|1||Être le meilleur dans un métier inutile // moyen dans un métier important
+P|f|1||Gagner au loto et ne le dire à personne // gagner la moitié et le dire à tout le monde
+P|f|1||Recevoir 1 000 euros par mois à vie // 500 000 euros tout de suite
+P|f|1||Trouver un trésor // trouver l'amour
+P|f|1||Être riche et seul // pauvre et entouré
+P|f|1||Visiter l'espace // le fond de l'océan
+P|f|1||Faire le tour du monde en un an // avoir une maison de rêve
+P|f|1||Voyager dans le passé pour rencontrer tes ancêtres // dans le futur pour rencontrer tes descendants
+P|f|1||Revivre ton enfance // vivre directement à la retraite
+P|f|1||Avoir 10 ans pour toujours // 70 ans pour toujours
+P|f|1||Que tes parents lisent ton journal intime d'ado // que tes enfants le lisent
+P|f|1||Être coincé dans un ascenseur avec ta belle-mère // avec ton premier crush
+P|f|1||Être coincé sur une île avec ton pire ennemi // avec ton ex
+P|f|1||Que tout le monde connaisse tes pensées pendant une heure // que tu connaisses les leurs pendant un an
+P|f|1||Assister à ton propre enterrement // à ton propre mariage depuis l'extérieur
+P|f|1||Voir ta vie en accéléré // en ralenti
+P|f|1|pn|Échanger ta vie avec {B} pendant une semaine // garder ta vie mais avec la garde-robe de {B}
+P|f|1|pn|Partir en voyage un mois avec {B} // une semaine avec tout le monde ici
+P|f|1|pn|Que {B} soit ton coloc pendant un an // ton collègue de bureau pendant un an
+P|f|1|pn|Être coincé dans un ascenseur avec {B} // avec la personne à ta gauche
+P|f|1|pn|Que {B} choisisse ton prochain tatouage // ta prochaine coupe de cheveux
+P|f|1|pn|Que {B} organise tes prochaines vacances // ton prochain anniversaire
+P|s|1||Une soirée en boîte // une soirée jeux de société
+P|s|1||Un festival de musique // un week-end dans un spa
+P|s|1||Faire la fête tous les week-ends // une énorme fête une fois par an
+P|s|1||Une soirée où tu ne te souviens de rien // une soirée où tu n'as rien bu et tout le monde est bourré
+P|s|1||Être le pote toujours sobre qui ramène tout le monde // le pote toujours bourré qui fait rire tout le monde
+P|s|1||Ne boire que de la bière // que du vin
+P|s|1||Ne boire que des cocktails sucrés // que des alcools forts sans rien
+P|s|1||Une gueule de bois énorme après une soirée géniale // aucune gueule de bois après une soirée nulle
+P|s|1||Que ta soirée de mariage soit une rave // un dîner chic
+P|s|1||Organiser une fête qui finit avec la police // une fête où personne ne vient
+P|s|1||Aller à une soirée où tu ne connais personne // une soirée où tu connais tout le monde, y compris tous tes ex
+P|s|1||Danser toute la nuit sur des tubes des années 80 // sur de la techno
+P|s|1||Faire un karaoké devant 1 000 personnes // danser seul sur une piste vide
+P|s|1||Être refoulé de toutes les boîtes // être obligé d'y aller tous les soirs
+P|s|1||Perdre ton téléphone en soirée // perdre tes clés
+P|s|1||Rentrer à pied trois heures // dormir sur un banc
+P|s|1||Que ton boss te voie danser sur une table // que tes parents te voient vomir
+P|s|1||Te réveiller dans une autre ville // te réveiller avec une nouvelle coupe de cheveux
+P|s|1||Pleurer à chaque soirée // te battre à chaque soirée
+P|s|1||Raconter tout ce que tu as fait hier soir à ta mère // à ton patron
+P|s|2||Embrasser un inconnu à chaque soirée // ne plus jamais embrasser personne en soirée
+P|s|2||Finir chaque soirée chez quelqu'un de différent // finir chaque soirée seul chez toi
+P|s|2||Que la dernière soirée soit filmée et publiée // que tes messages de la nuit soient publiés
+P|s|1|pn|Une soirée en tête-à-tête avec {B} // une soirée avec tout le monde sauf {B}
+P|a|1||Un amour passionné de deux ans // une relation tranquille de quarante ans
+P|a|1||Tomber amoureux tous les mois // une seule fois dans ta vie
+P|a|1||Te marier avec ton premier amour // avec ton dernier amour
+P|a|1||Te marier à 20 ans // à 50 ans
+P|a|1||Un mariage énorme // un mariage secret à deux
+P|a|1||Une demande en mariage au restaurant // une demande au sommet d'une montagne
+P|a|1||Une moitié qui te fait rire // une moitié qui te fait rêver
+P|a|1||Une moitié très intelligente // une moitié très attentionnée
+P|a|1||Une moitié qui cuisine // une moitié qui fait le ménage
+P|a|1||Une moitié qui adore tes potes // une moitié que ta famille adore
+P|a|1||Une moitié qui veut tout faire ensemble // une moitié très indépendante
+P|a|1||Une moitié qui t'écrit cent messages par jour // un message par semaine
+P|a|1||Une moitié qui oublie ton anniversaire // une moitié qui organise une fête surprise que tu détestes
+P|a|1||Une moitié qui ronfle // une moitié qui prend toute la couette
+P|a|1||Une moitié qui a un chat allergique à toi // une moitié qui déteste les animaux
+P|a|1||Une moitié qui parle de son ex tout le temps // une moitié qui ne t'a jamais rien dit de son passé
+P|a|1||Être avec quelqu'un de beaucoup plus riche // de beaucoup plus beau
+P|a|1||Être avec quelqu'un de célèbre // quelqu'un que personne ne connaît
+P|a|1||Être en couple à distance avec l'amour de ta vie // en couple tous les jours avec quelqu'un de bien
+P|a|1||Rencontrer l'amour de ta vie demain // dans dix ans
+P|a|1||Savoir quand tu vas rencontrer l'amour de ta vie // savoir qui c'est
+P|a|1||Que ton ex soit heureux // que ton ex regrette
+P|a|1||Rester amis avec tous tes ex // ne plus jamais les revoir
+P|a|1||Que ton ex sorte avec ton meilleur ami // avec ton pire ennemi
+P|a|1||Te faire larguer par message // te faire larguer par un pote de ton ex
+P|a|1||Larguer quelqu'un en face // par lettre
+P|a|1||Un premier rencard au cinéma // un premier rencard dans un parc d'attractions
+P|a|1||Un premier rencard qui dure 15 minutes // un premier rencard qui dure 15 heures
+P|a|1||Payer tous les rencards // ne jamais payer mais tout organiser
+P|a|1||Rencontrer quelqu'un sur une appli // à un mariage
+P|a|1||Être demandé en mariage devant 50 000 personnes dans un stade // devant toute ta famille à Noël
+P|a|1||Que ta moitié lise ton journal intime // que tu lises le sien
+P|a|1||Savoir tout ce que ta moitié pense de toi // ne jamais rien savoir
+P|a|1||Avoir des jumeaux // des triplés
+P|a|1||Avoir dix enfants // ne jamais en avoir
+P|a|1||Que ton enfant ait ton caractère // celui de ta moitié
+P|a|2||Pardonner une tromperie // pardonner un mensonge énorme sur ton argent
+P|a|2||Découvrir que ta moitié te trompe // découvrir qu'elle a une deuxième famille
+P|a|2||Que ta moitié ait un meilleur ami très attirant // une ex qui vit dans votre immeuble
+P|a|2||Rester avec quelqu'un qui t'a trompé // quitter quelqu'un que tu aimes encore
+P|a|2||Avoir une relation secrète // une relation publique mais ennuyeuse
+P|a|2||Être le plan B de quelqu'un // ne jamais être choisi par personne
+P|a|2|pn|Un rencard avec {B} // un rencard avec la célébrité de ton choix
+P|a|2|pn|Que {B} soit ton témoin de mariage // qu'il soit le parrain de ton enfant
+P|a|1|c|Partir un an en tour du monde avec {B} // acheter une maison avec {B}
+P|a|1|c|Revivre votre premier rencard // revivre votre meilleur voyage
+P|d|1||Avouer ton plus gros mensonge à tes parents // le garder à vie avec la peur qu'ils le découvrent
+P|d|1||Que ton journal intime soit publié // que ta galerie photo soit exposée dans un musée
+P|d|1||Que tes potes connaissent tous tes secrets // que tes parents les connaissent
+P|d|1||Connaître le plus gros secret de chacun de tes amis // que personne ne connaisse jamais les tiens
+P|d|1||Être accusé à tort de tricherie // tricher sans jamais être découvert
+P|d|1||Que ton patron lise tes messages sur lui // que tes collègues les lisent
+P|d|1||Que tout le monde sache ton salaire // ton nombre d'ex
+P|d|1||Être payé pour mentir // ne plus jamais pouvoir mentir
+P|d|1||Garder le secret d'un pote qui trompe // le balancer
+P|d|1||Lire les messages de ta moitié une fois // qu'elle lise les tiens une fois
+P|d|2|pn|Avouer à quelqu'un ici ce que tu penses vraiment de lui // ne jamais lui dire
+P|d|2||Que ta mère découvre ton compte secret // que ton ex le découvre
+P|d|1|pn|Que {B} connaisse ton secret le plus lourd // que {B} lise ton journal intime d'ado
+P|t|1||Ne plus jamais pouvoir prendre de selfie // ne plus jamais pouvoir poster de photo
+P|t|1||Avoir un million d'abonnés détestés // dix abonnés qui t'adorent
+P|t|1||Être un influenceur célèbre // un inconnu qui vit tranquille
+P|t|1||Que tes vidéos ridicules deviennent virales // ne jamais rien publier
+P|t|1||Lire tous les messages de tes potes // que tes potes lisent tous les tiens
+P|t|1||Que ton historique de recherche soit public // que ta galerie photo soit publique
+P|t|1||Ne plus avoir de réseaux sociaux // ne plus avoir de séries
+P|t|1||Ne plus avoir d'Internet chez toi // ne plus avoir de données mobiles
+P|t|1||Ne plus jamais pouvoir écrire de messages // ne plus jamais pouvoir appeler
+P|t|1||Avoir un téléphone qui annonce à voix haute chaque message reçu // qui lit tes messages envoyés
+P|t|1||Que tous tes vocaux soient diffusés en public // que toutes tes captures d'écran le soient
+P|t|1||Recevoir un appel vidéo de ta mère à 3 h du matin // de ton boss à 3 h du matin
+P|t|2|pn|Que ta dernière conversation avec un ex soit lue ici // ta dernière conversation avec ta mère
+P|t|2||Que ton crush voie toutes tes stories des cinq dernières années // qu'il lise toutes tes conversations de groupe
 `;
