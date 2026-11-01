@@ -4036,159 +4036,65 @@ P|s|1||Un apéro qui dure jusqu'à 6 h // une soirée qui commence à minuit
 P|a|1||Un amour fou qui finit mal // un amour tiède qui dure toute la vie
 P|f|1||Pouvoir parler à ton toi de 15 ans // à ton toi de 60 ans
 P|f|1||Avoir un majordome // un chef cuisinier à la maison
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un dont je venais de rencontrer les parents le jour même.
 J|x|3||Je n'ai jamais fait l'amour dans la salle de bain pendant une soirée, avec des gens qui attendaient derrière la porte.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui portait encore son alliance.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un sans savoir qu'il était en couple, et découvert la vérité après.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un en sachant que je ne le reverrais jamais, et c'était exactement ce que je voulais.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un dans un pays où je ne connaissais personne.
-J|x|3||Je n'ai jamais fait l'amour dans un Airbnb avec des hôtes qui dormaient dans la chambre d'à côté.
 J|x|3||Je n'ai jamais fait l'amour dans un gîte avec toute une bande de potes dans la maison.
 J|x|3||Je n'ai jamais fait l'amour pendant des vacances en famille, en douce.
-J|x|3||Je n'ai jamais fait l'amour dans la chambre d'hôtel de quelqu'un pendant un séminaire.
-J|x|3||Je n'ai jamais fait l'amour pendant un mariage, entre le dîner et la pièce montée.
-J|x|3||Je n'ai jamais fait l'amour avec un témoin ou une demoiselle d'honneur au mariage de quelqu'un.
-J|x|3||Je n'ai jamais fait l'amour dans les loges ou les coulisses d'un concert ou d'un spectacle.
-J|x|3||Je n'ai jamais fait l'amour dans un camping-car garé sur une aire d'autoroute.
 J|x|3||Je n'ai jamais fait l'amour sur un capot de voiture.
-J|x|3||Je n'ai jamais fait l'amour dans une cage d'escalier d'immeuble en pleine nuit.
-J|x|3||Je n'ai jamais fait l'amour sur une machine à laver en marche.
-J|x|3||Je n'ai jamais fait l'amour dans une baignoire tellement pleine qu'on a inondé la salle de bain.
-J|x|3||Je n'ai jamais fait l'amour sur la plage en pleine nuit et retrouvé du sable partout pendant une semaine.
-J|x|3||Je n'ai jamais fait l'amour dans un champ et découvert après qu'il y avait des orties.
-J|x|3||Je n'ai jamais fait l'amour dans une tente qui s'est effondrée.
-J|x|3||Je n'ai jamais fait l'amour dans un lit qui s'est écroulé.
 J|x|3||Je n'ai jamais fait l'amour devant une fenêtre ouverte en espérant que quelqu'un regarde.
-J|x|3||Je n'ai jamais fait l'amour avec la porte entrouverte pendant une soirée.
-J|x|3||Je n'ai jamais fait l'amour dans un endroit où j'ai dû payer une amende ensuite.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un dont je n'ai jamais su le vrai prénom.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui m'a donné un faux prénom, et je l'ai découvert après.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui m'appelait par un surnom ridicule pendant.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui commentait tout ce qu'il faisait.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui me demandait la permission toutes les trente secondes.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui pleurait de joie à la fin.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui s'est endormi pendant.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui a répondu à un message en plein milieu.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui a voulu changer de position toutes les minutes.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui a mis une alarme pour savoir combien de temps ça durait.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui m'a demandé une note à la fin.
-J|x|3||Je n'ai jamais donné une note sur 10 juste après et regretté immédiatement.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui a crié le prénom de son ex.
-J|x|3||Je n'ai jamais crié un prénom qui n'était pas le bon.
 J|x|3||Je n'ai jamais fait l'amour en pensant à ma liste de courses.
 J|x|3||Je n'ai jamais fait l'amour en m'ennuyant au point de compter les secondes.
 J|x|3||Je n'ai jamais fait semblant d'avoir fini pour qu'on puisse dormir.
 J|x|3||Je n'ai jamais simulé avec quelqu'un qui pensait être le meilleur coup de ma vie.
-J|x|3||Je n'ai jamais été le meilleur coup de quelqu'un qui l'a dit à tous ses potes.
 J|x|3||Je n'ai jamais su que quelqu'un parlait de mes performances dans un groupe de discussion.
-J|x|3||Je n'ai jamais lu un message où quelqu'un racontait notre nuit à un ami.
 J|x|3||Je n'ai jamais raconté une nuit à mes potes en donnant une note détaillée.
 J|x|3||Je n'ai jamais montré à un pote une photo de quelqu'un avec qui j'avais couché la veille.
 J|x|3||Je n'ai jamais couché avec quelqu'un parce que mes potes m'avaient lancé le défi.
 J|x|3||Je n'ai jamais couché avec quelqu'un juste pour pouvoir dire que je l'avais fait.
 J|x|3||Je n'ai jamais couché avec quelqu'un pour savoir si sa réputation était méritée.
-J|x|3||Je n'ai jamais couché avec quelqu'un dont tout le monde disait qu'il était nul au lit, et confirmé.
 J|x|3||Je n'ai jamais couché avec un ex de mon ex.
-J|x|3||Je n'ai jamais couché avec quelqu'un qui était sorti avec un membre de ma famille.
 J|x|3||Je n'ai jamais couché avec le meilleur ami de mon frère ou de ma sœur.
 J|x|3||Je n'ai jamais couché avec un ou une amie d'enfance.
-J|x|3||Je n'ai jamais couché avec quelqu'un que je connaissais depuis la maternelle.
 J|x|3||Je n'ai jamais couché avec mon ou ma meilleure amie et fait comme si ça n'avait jamais existé.
 J|x|3||Je n'ai jamais couché avec quelqu'un pendant une pause dans mon couple.
-J|x|3||Je n'ai jamais couché avec quelqu'un la veille de me mettre en couple avec quelqu'un d'autre.
 J|x|3||Je n'ai jamais couché avec deux personnes du même groupe de potes la même semaine.
 J|x|3||Je n'ai jamais couché avec trois personnes différentes en trois jours.
-J|x|3||Je n'ai jamais couché avec quelqu'un rencontré dans la queue des toilettes.
-J|x|3||Je n'ai jamais couché avec quelqu'un rencontré dans un ascenseur.
-J|x|3||Je n'ai jamais couché avec quelqu'un rencontré sur un forum ou un jeu vidéo en ligne.
-J|x|3||Je n'ai jamais couché avec quelqu'un qui me suivait sur Instagram sans que je le connaisse.
-J|x|3||Je n'ai jamais couché avec quelqu'un qui m'avait écrit en DM après une story.
-J|x|3||Je n'ai jamais couché avec quelqu'un rencontré pendant un voyage d'affaires.
-J|x|3||Je n'ai jamais couché avec un client ou une cliente.
-J|x|3||Je n'ai jamais couché avec un professeur particulier ou mon élève adulte.
-J|x|3||Je n'ai jamais couché avec un personal trainer.
-J|x|3||Je n'ai jamais couché avec un ou une barman à la fermeture du bar.
-J|x|3||Je n'ai jamais couché avec un videur après une soirée.
-J|x|3||Je n'ai jamais couché avec quelqu'un en uniforme qui l'a gardé.
 J|x|3||Je n'ai jamais couché avec quelqu'un sans jamais l'avoir vu en plein jour.
-J|x|3||Je n'ai jamais couché avec quelqu'un dont je ne connaissais que la voix au téléphone.
-J|x|3||Je n'ai jamais couché avec quelqu'un qui ressemblait trait pour trait à une célébrité.
-J|x|3||Je n'ai jamais fait un plan à trois avec deux personnes du même prénom.
 J|x|3||Je n'ai jamais fait un plan à trois où j'étais clairement de trop.
-J|x|3||Je n'ai jamais fait un plan à trois qui a fini en dispute.
-J|x|3||Je n'ai jamais fait un plan à trois avec mon ex et sa nouvelle moitié.
-J|x|3||Je n'ai jamais revu les deux personnes d'un plan à trois en même temps dans une soirée.
 J|x|3||Je n'ai jamais été invité à un plan à trois par message, sans préambule.
 J|x|3||Je n'ai jamais été dans une soirée qui a viré à la partouze sans que je m'y attende.
 J|x|3||Je n'ai jamais quitté une soirée parce que ça devenait beaucoup trop chaud.
 J|x|3||Je n'ai jamais été dans une soirée où un couple a fait l'amour devant tout le monde.
 J|x|3||Je n'ai jamais surpris deux potes en pleine action pendant une soirée.
-J|x|3||Je n'ai jamais refermé une porte sur deux personnes en pleine action en disant « pardon ».
-J|x|3||Je n'ai jamais été surpris en pleine action par quelqu'un qui est resté regarder.
-J|x|3||Je n'ai jamais été surpris par une femme de ménage dans une chambre d'hôtel.
-J|x|3||Je n'ai jamais été surpris par un vigile dans un parking ou un parc.
-J|x|3||Je n'ai jamais fait l'amour avec un sextoy oublié par quelqu'un d'autre.
-J|x|3||Je n'ai jamais commandé un sextoy et me suis trompé d'adresse de livraison.
-J|x|3||Je n'ai jamais utilisé un sextoy qui s'est mis à faire un bruit monstrueux.
 J|x|3||Je n'ai jamais eu un sextoy dont la batterie a lâché au pire moment.
-J|x|3||Je n'ai jamais caché un sextoy dans une chaussette ou une boîte à chaussures.
-J|x|3||Je n'ai jamais eu un plaisir solo dans les toilettes du travail.
-J|x|3||Je n'ai jamais eu un plaisir solo pendant une réunion en visio, caméra coupée.
-J|x|3||Je n'ai jamais eu un plaisir solo en pensant à quelqu'un que j'avais vu le jour même dans la rue.
-J|x|3||Je n'ai jamais eu un plaisir solo devant une scène qui n'était même pas censée être sexy.
-J|x|3||Je n'ai jamais eu un plaisir solo en écoutant mes voisins.
-J|x|3||Je n'ai jamais regardé un porno dont l'histoire était tellement nulle que j'ai ri.
 J|x|3||Je n'ai jamais regardé un porno en accéléré pour voir la fin.
-J|x|3||Je n'ai jamais laissé un porno tourner sur la télé connectée en oubliant de l'éteindre.
-J|x|3||Je n'ai jamais eu un porno qui s'est lancé en public sur mon téléphone.
 J|x|3||Je n'ai jamais envoyé un nude qui a été transféré à quelqu'un d'autre.
-J|x|3||Je n'ai jamais reçu un nude et répondu avec un compliment beaucoup trop sérieux.
 J|x|3||Je n'ai jamais pris un nude dans un endroit totalement inapproprié.
 J|x|3||Je n'ai jamais envoyé un nude à quelqu'un que je n'avais jamais vu en vrai.
-J|x|3||Je n'ai jamais fait un appel vidéo coquin qui a été interrompu par quelqu'un qui entrait.
-J|x|3||Je n'ai jamais fait du sexting pendant un repas de famille, sous la table.
 J|x|3||Je n'ai jamais fait du sexting avec quelqu'un assis à la même table que moi.
-J|x|3||Je n'ai jamais porté de sous-vêtements coquins sous des vêtements très sages pour un repas de famille.
 J|x|3||Je n'ai jamais passé une soirée entière sans sous-vêtements.
 J|x|3||Je n'ai jamais perdu un sous-vêtement dans un lieu public.
-J|x|3||Je n'ai jamais retrouvé un de mes sous-vêtements chez quelqu'un des mois après.
 J|x|3||Je n'ai jamais gardé un sous-vêtement de quelqu'un en souvenir.
-J|x|3||Je n'ai jamais eu une marque de morsure visible pendant un repas de famille.
 J|x|3||Je n'ai jamais dû inventer une histoire pour expliquer un suçon.
-J|x|3||Je n'ai jamais été attaché et laissé seul quelques minutes, pour le jeu.
-J|x|3||Je n'ai jamais perdu la clé de menottes.
-J|x|3||Je n'ai jamais donné une fessée tellement fort que ça a résonné dans tout l'appart.
-J|x|3||Je n'ai jamais joué un jeu de rôle et oublié mon rôle en plein milieu.
 J|x|3||Je n'ai jamais éclaté de rire pendant un jeu de rôle.
-J|x|3||Je n'ai jamais parlé avec un faux accent pendant l'amour.
-J|x|3||Je n'ai jamais dit un mot cochon dans une autre langue sans savoir ce qu'il voulait dire.
-J|x|3||Je n'ai jamais fait l'amour en écoutant une playlist qui est passée sur une chanson pour enfants.
-J|x|3||Je n'ai jamais fait l'amour avec un film d'horreur en fond.
 J|x|3|pn|Je n'ai jamais imaginé deux personnes d'ici ensemble au lit.
 J|x|3|pn|Je n'ai jamais pensé que quelqu'un d'ici serait le meilleur coup de la table.
 J|x|3|pn|Je n'ai jamais eu une conversation coquine avec quelqu'un d'ici.
 J|x|3|pn|Je n'ai jamais été à deux doigts de coucher avec quelqu'un d'ici.
 J|x|3|pn|Je n'ai jamais imaginé {B} dans une tenue sexy.
 J|x|3|pn|Je n'ai jamais eu envie de savoir à quoi ressemble {B} au lit.
-J|x|3|p|Je n'ai jamais entendu une anecdote coquine sur {B} que {B} ne sait pas que je connais.
 J|x|3|p|Je n'ai jamais couché avec quelqu'un qui avait aussi couché avec {B}.
-Q|x|3||Qui de nous a déjà fait l'amour dans une salle de bain pendant une soirée avec une file d'attente devant la porte ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un qui portait encore son alliance ?
-Q|x|3||Qui de nous a déjà fait l'amour pendant un mariage, entre deux plats ?
-Q|x|3||Qui de nous a déjà couché avec un témoin au mariage de quelqu'un ?
 Q|x|3||Qui de nous a déjà fait l'amour pendant des vacances en famille, en cachette ?
 Q|x|3||Qui de nous a déjà fait l'amour sur un capot de voiture ?
-Q|x|3||Qui de nous a déjà inondé une salle de bain en voulant faire l'amour dans la baignoire ?
-Q|x|3||Qui de nous a déjà fait s'effondrer une tente ou un lit ?
 Q|x|3||Qui de nous a déjà fait l'amour en espérant secrètement que quelqu'un regarde ?
-Q|x|3||Qui de nous a déjà pris une amende pour une histoire coquine ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un qui lui avait donné un faux prénom ?
 Q|x|3||Qui de nous a déjà donné un faux prénom pour une nuit ?
 Q|x|3||Qui de nous a déjà demandé une note juste après ?
 Q|x|3||Qui de nous a déjà compté les secondes pendant l'amour en s'ennuyant ?
 Q|x|3||Qui de nous a déjà fait semblant d'avoir fini pour pouvoir dormir ?
-Q|x|3||Qui de nous a déjà été décrit comme le meilleur coup de quelqu'un dans un groupe de discussion ?
-Q|x|3||Qui de nous a déjà lu un message où quelqu'un racontait leur nuit ensemble ?
 Q|x|3||Qui de nous note ses plans d'un soir à ses potes, avec les détails ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un pour un défi lancé par ses potes ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un juste pour vérifier sa réputation ?
@@ -4198,75 +4104,38 @@ Q|x|3||Qui de nous a déjà couché avec un ami d'enfance ?
 Q|x|3||Qui de nous a déjà couché avec son meilleur ami et fait comme si de rien n'était ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un pendant une pause dans son couple ?
 Q|x|3||Qui de nous a déjà couché avec trois personnes différentes en trois jours ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un rencontré sur un jeu vidéo en ligne ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un qui lui avait écrit en réponse à une story ?
-Q|x|3||Qui de nous a déjà couché avec un client ou une cliente ?
-Q|x|3||Qui de nous a déjà couché avec un barman à la fermeture ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un sans jamais l'avoir vu en plein jour ?
-Q|x|3||Qui de nous a déjà couché avec le sosie d'une célébrité ?
 Q|x|3||Qui de nous a déjà été de trop dans un plan à trois ?
-Q|x|3||Qui de nous a déjà vécu un plan à trois qui a fini en dispute ?
 Q|x|3||Qui de nous a déjà été invité à un plan à trois par un simple message ?
 Q|x|3||Qui de nous a déjà vu une soirée virer à la partouze ?
 Q|x|3||Qui de nous a déjà quitté une soirée parce que ça devenait trop chaud ?
 Q|x|3||Qui de nous a déjà surpris deux potes en pleine action ?
-Q|x|3||Qui de nous a déjà été surpris par quelqu'un qui est resté regarder ?
-Q|x|3||Qui de nous a déjà été surpris par une femme de ménage à l'hôtel ?
-Q|x|3||Qui de nous a déjà été surpris par un vigile ?
 Q|x|3||Qui de nous a déjà eu un sextoy qui a lâché au pire moment ?
-Q|x|3||Qui de nous cache ses sextoys dans une boîte à chaussures ?
-Q|x|3||Qui de nous s'est déjà fait plaisir pendant une réunion en visio ?
-Q|x|3||Qui de nous s'est déjà fait plaisir en écoutant ses voisins ?
-Q|x|3||Qui de nous a déjà laissé un porno tourner sur une télé partagée ?
-Q|x|3||Qui de nous a déjà eu un porno qui s'est lancé tout seul en public ?
 Q|x|3||Qui de nous a déjà vu un de ses nudes transféré à quelqu'un d'autre ?
 Q|x|3||Qui de nous a déjà pris un nude dans un endroit complètement inapproprié ?
 Q|x|3||Qui de nous a déjà envoyé un nude à quelqu'un qu'il n'avait jamais rencontré ?
-Q|x|3||Qui de nous a déjà été interrompu pendant un appel vidéo coquin ?
 Q|x|3||Qui de nous a déjà fait du sexting avec quelqu'un assis à la même table ?
 Q|x|3||Qui de nous a déjà passé une soirée entière sans sous-vêtements ?
 Q|x|3||Qui de nous a déjà perdu un sous-vêtement dans un lieu public ?
 Q|x|3||Qui de nous a gardé un sous-vêtement de quelqu'un en souvenir ?
 Q|x|3||Qui de nous a déjà dû inventer une histoire pour cacher un suçon ?
-Q|x|3||Qui de nous a déjà perdu la clé des menottes ?
 Q|x|3||Qui de nous a déjà éclaté de rire en plein jeu de rôle ?
-Q|x|3||Qui de nous a déjà dit un mot cochon dans une langue qu'il ne parle pas ?
-Q|x|3||Qui de nous a déjà fait l'amour devant un film d'horreur ?
 Q|x|3||Qui de nous a déjà eu une nuit tellement intense qu'il a eu des courbatures le lendemain ?
 Q|x|3||Qui de nous a déjà fait l'amour au point d'en perdre la voix ?
 Q|x|3||Qui de nous a déjà battu son propre record en une nuit ?
 Q|x|3||Qui de nous a déjà fait l'amour dans chaque pièce de son appart ?
 Q|x|3||Qui de nous a déjà fait l'amour dans la voiture d'un autre ?
 Q|x|3||Qui de nous a déjà fait l'amour dans le lit de ses colocs ?
-Q|x|3||Qui de nous a déjà fait l'amour dans une chambre d'enfant devenue chambre d'amis ?
-Q|x|3||Qui de nous a déjà fait l'amour pendant que sa playlist passait une chanson pour enfants ?
 Q|x|3||Qui de nous a déjà eu un fou rire tellement fort qu'il a fallu tout arrêter ?
-Q|x|3||Qui de nous a déjà demandé à quelqu'un d'arrêter de parler pendant ?
-Q|x|3||Qui de nous a déjà regretté d'avoir proposé une position ?
-Q|x|3||Qui de nous a déjà dû appeler quelqu'un pour l'aider à se détacher ?
-Q|x|3||Qui de nous a déjà fait l'amour avec quelqu'un qui pleurait de joie à la fin ?
 Q|x|3||Qui de nous a déjà vu son partenaire s'endormir en plein milieu ?
-Q|x|3||Qui de nous fait toujours une pause goûter au milieu de la nuit ?
-Q|x|3||Qui de nous a déjà testé un truc vu dans un film et fini aux urgences, ou presque ?
 Q|x|3||Qui de nous connaît le plus de techniques qu'il n'a jamais osé tester ?
-Q|x|3||Qui de nous a déjà proposé un truc tellement bizarre que l'autre est parti ?
-Q|x|3||Qui de nous a déjà eu un rendez-vous coquin dans une chambre d'hôtel réservée à l'heure ?
-Q|x|3||Qui de nous a déjà eu une aventure dans un train de nuit ?
-Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un qui partait le lendemain à l'autre bout du monde ?
-Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un rencontré en voyage d'affaires ?
 Q|x|3||Qui de nous a déjà eu un plan cul qui a duré plus longtemps que toutes ses relations ?
 Q|x|3||Qui de nous a déjà eu un plan cul dont personne ne connaissait l'existence ?
 Q|x|3||Qui de nous a déjà eu deux plans cul qui se connaissaient ?
-Q|x|3||Qui de nous a déjà dû gérer deux rencards coquins le même soir ?
-Q|x|3||Qui de nous a déjà dû sortir par la fenêtre ou par la porte de service ?
-Q|x|3||Qui de nous a déjà dû se cacher dans un placard pour ne pas être vu ?
 Q|x|3||Qui de nous a déjà fait l'amour en chuchotant parce que les parents étaient à côté ?
-Q|x|3||Qui de nous a déjà fait l'amour dans le noir sans savoir à quoi ressemblait l'autre ?
 Q|x|3||Qui de nous a déjà regretté d'avoir allumé la lumière ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un uniquement à cause de son parfum ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un uniquement à cause de sa voix ?
 Q|x|3||Qui de nous a déjà craqué pour quelqu'un en le voyant danser, et fini la nuit avec ?
-Q|x|3||Qui de nous a le plus de chances d'avoir une anecdote de lit avec une célébrité ?
 Q|x|3||Qui de nous pourrait écrire un livre entier sur ses nuits ?
 Q|x|3||Qui de nous a la nuit la plus folle de l'année à raconter ?
 Q|x|3|pn|Qui de nous a déjà imaginé deux personnes d'ici ensemble ?
@@ -4274,93 +4143,39 @@ Q|x|3|pn|Qui de nous a déjà eu une conversation coquine avec quelqu'un d'ici ?
 Q|x|3|pn|Qui de nous a été le plus près de coucher avec quelqu'un d'ici ?
 Q|x|3|pn|Qui de nous a déjà imaginé {B} dans une tenue sexy ?
 Q|x|3|pn|Qui de nous aimerait savoir comment est {B} au lit ?
-Q|x|3|p|Qui de nous connaît une anecdote coquine sur {B} que {B} ignore ?
 Q|x|3|p|Qui de nous a déjà couché avec quelqu'un qui avait aussi couché avec {B} ?
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un que j'avais rencontré moins d'une heure avant dans un bar.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un en sachant que ses colocs écoutaient à la porte.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un dont je n'aimais pas du tout le caractère, juste pour le physique.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un puis découvert qu'on avait un ex en commun.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un puis découvert qu'il connaissait mes parents.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un puis appris qu'il travaillait dans la même boîte que moi.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un que j'ai ensuite croisé à un entretien d'embauche.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui est devenu ensuite mon collègue.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui est devenu ensuite mon beau-frère ou ma belle-sœur.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un qui est sorti ensuite avec un de mes potes.
 J|x|3||Je n'ai jamais fait l'amour avec le crush de mon meilleur ami sans le lui dire.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un juste après avoir été largué.
-J|x|3||Je n'ai jamais fait l'amour avec quelqu'un le soir même où j'ai largué quelqu'un d'autre.
-J|x|3||Je n'ai jamais fait l'amour avec deux personnes différentes le même week-end, dans deux villes différentes.
 J|x|3||Je n'ai jamais enchaîné deux plans d'un soir le même soir.
 J|x|3||Je n'ai jamais eu un plan d'un soir qui m'a envoyé un message d'amour le lendemain.
-J|x|3||Je n'ai jamais eu un plan d'un soir qui voulait me présenter à ses parents dès le lendemain.
-J|x|3||Je n'ai jamais eu un plan d'un soir qui m'a suivi sur tous mes réseaux dans l'heure.
 J|x|3||Je n'ai jamais bloqué un plan d'un soir avant même d'être rentré chez moi.
 J|x|3||Je n'ai jamais laissé un plan d'un soir dormir chez moi alors que je voulais qu'il parte.
 J|x|3||Je n'ai jamais fait semblant de devoir partir tôt au travail pour qu'un plan d'un soir s'en aille.
 J|x|3||Je n'ai jamais pris le petit-déjeuner avec un plan d'un soir sans savoir quoi lui dire.
-J|x|3||Je n'ai jamais eu un plan d'un soir avec quelqu'un dont j'ai découvert l'âge exact après, et été surpris.
 J|x|3||Je n'ai jamais eu une nuit tellement folle que je ne l'ai jamais racontée à personne.
 J|x|3||Je n'ai jamais eu une nuit dont je raconte une version censurée à mes potes.
 J|x|3||Je n'ai jamais eu une nuit où on a testé plus de cinq positions.
-J|x|3||Je n'ai jamais fait l'amour en essayant une position vue dans un livre ou sur Internet, et échoué lamentablement.
-J|x|3||Je n'ai jamais eu une nuit qui s'est terminée par un fou rire de vingt minutes.
-J|x|3||Je n'ai jamais eu une nuit qui a commencé par un fou rire et fini en passion.
-J|x|3||Je n'ai jamais fait l'amour en ayant le hoquet.
-J|x|3||Je n'ai jamais fait l'amour avec un chat qui nous fixait depuis l'armoire.
-J|x|3||Je n'ai jamais fait l'amour pendant qu'un voisin passait l'aspirateur.
-J|x|3||Je n'ai jamais fait l'amour pendant un orage avec les fenêtres ouvertes.
-J|x|3||Je n'ai jamais fait l'amour pendant une coupure de courant.
-J|x|3||Je n'ai jamais fait l'amour à la lumière d'une lampe frontale.
-J|x|3||Je n'ai jamais fait l'amour dans un sac de couchage pour deux.
-J|x|3||Je n'ai jamais fait l'amour sous une couette en plein air, à la montagne.
-J|x|3||Je n'ai jamais fait l'amour dans une chambre d'hôtel avec vue en laissant les rideaux grands ouverts.
-J|x|3||Je n'ai jamais fait l'amour dans un jacuzzi d'hôtel interdit après 22 h.
-J|x|3||Je n'ai jamais fait l'amour dans une piscine privée pendant que les propriétaires dormaient.
-J|x|3||Je n'ai jamais fait l'amour dans un bateau.
-J|x|3||Je n'ai jamais fait l'amour dans une voiture tellement petite que j'ai eu une crampe.
-J|x|3||Je n'ai jamais fait l'amour dans un fauteuil de bureau à roulettes.
 J|x|3||Je n'ai jamais fait l'amour sur un plan de travail de cuisine.
-J|x|3||Je n'ai jamais fait l'amour contre une porte qui s'est ouverte toute seule.
-J|x|3||Je n'ai jamais fait l'amour dans un escalier.
 J|x|3||Je n'ai jamais fait l'amour sur un tapis et eu des brûlures aux genoux.
-J|x|3||Je n'ai jamais eu les genoux ou les coudes en sang après une nuit trop énergique.
-J|x|3||Je n'ai jamais eu besoin d'une semaine pour m'en remettre physiquement.
-J|x|3||Je n'ai jamais pris un bain glacé après une nuit trop intense.
-J|x|3||Je n'ai jamais fait l'amour juste avant une compétition sportive ou un examen.
-J|x|3||Je n'ai jamais fait l'amour juste avant de passer un entretien d'embauche.
-J|x|3||Je n'ai jamais fait l'amour en arrivant en retard à un mariage à cause de ça.
 J|x|3||Je n'ai jamais raté un avion ou un train à cause d'une nuit qui ne finissait pas.
 J|x|3||Je n'ai jamais annulé un dîner de famille pour rester au lit avec quelqu'un.
-J|x|3||Je n'ai jamais menti à mon patron pour rester au lit avec quelqu'un.
 J|x|3||Je n'ai jamais passé un week-end entier sans sortir du lit.
-J|x|3||Je n'ai jamais commandé trois repas livrés dans la même journée pour ne pas sortir du lit.
-J|x|3||Je n'ai jamais fait l'amour plus de fois qu'il n'y a de jours dans une semaine, en une semaine.
-J|x|3||Je n'ai jamais tenu un compte de mes nuits dans un carnet ou une appli.
-J|x|3||Je n'ai jamais calculé mon body count sur mes doigts et manqué de doigts.
 J|x|3||Je n'ai jamais oublié quelqu'un dans le décompte de mon body count et m'en suis souvenu après.
 J|x|3||Je n'ai jamais eu une conversation sur mon body count qui a mal tourné.
-J|x|3||Je n'ai jamais quitté quelqu'un à cause de son body count.
-J|x|3||Je n'ai jamais été quitté à cause de mon body count.
-J|x|3||Je n'ai jamais menti à ma moitié sur le nombre de personnes avec qui j'avais couché.
 J|x|3||Je n'ai jamais découvert que ma moitié avait couché avec quelqu'un que je connaissais.
-J|x|3||Je n'ai jamais couché avec quelqu'un dont ma moitié actuelle était l'ex.
 J|x|3||Je n'ai jamais refusé un plan avec quelqu'un d'incroyable parce que j'étais en couple, et regretté.
-J|x|3||Je n'ai jamais dit oui à un plan en étant en couple, et regretté.
-J|x|3||Je n'ai jamais eu une aventure dont la moitié de l'autre ne sait toujours rien.
 J|x|3||Je n'ai jamais reçu un message de la moitié de quelqu'un avec qui j'avais couché.
 J|x|3||Je n'ai jamais été pris en flagrant délit d'infidélité.
 J|x|3||Je n'ai jamais pris quelqu'un en flagrant délit d'infidélité.
 J|x|3|pn|Je n'ai jamais pensé que quelqu'un ici avait l'air d'être très doué avec ses mains.
-J|x|3|pn|Je n'ai jamais rêvé d'un plan à trois avec deux personnes de cette pièce.
 J|x|3|pn|Je n'ai jamais pensé que {B} cachait un côté très coquin.
-J|x|3|p|Je n'ai jamais eu une aventure dont {B} est au courant et pas les autres.
 Q|x|3||Qui de nous a déjà couché avec quelqu'un rencontré moins d'une heure avant dans un bar ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un uniquement pour son physique, en détestant son caractère ?
 Q|x|3||Qui de nous a déjà découvert après coup qu'il avait un ex en commun avec son plan d'un soir ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un qui connaissait ses parents ?
-Q|x|3||Qui de nous a déjà croisé un plan d'un soir à un entretien d'embauche ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un devenu ensuite son collègue ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un devenu ensuite son beau-frère ou sa belle-sœur ?
 Q|x|3||Qui de nous a déjà couché avec le crush de son meilleur ami ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un le soir même d'une rupture ?
 Q|x|3||Qui de nous a déjà enchaîné deux plans d'un soir le même soir ?
@@ -4370,77 +4185,26 @@ Q|x|3||Qui de nous a déjà inventé un travail tôt le matin pour faire partir 
 Q|x|3||Qui de nous a une nuit qu'il n'a jamais racontée à personne ?
 Q|x|3||Qui de nous raconte toujours une version censurée de ses nuits ?
 Q|x|3||Qui de nous a déjà testé plus de cinq positions dans la même nuit ?
-Q|x|3||Qui de nous a déjà échoué lamentablement en tentant une position vue sur Internet ?
-Q|x|3||Qui de nous a déjà fait l'amour pendant une coupure de courant ?
-Q|x|3||Qui de nous a déjà fait l'amour dans un sac de couchage pour deux ?
-Q|x|3||Qui de nous a déjà fait l'amour dans un jacuzzi d'hôtel après l'heure de fermeture ?
-Q|x|3||Qui de nous a déjà fait l'amour dans la piscine de quelqu'un pendant qu'il dormait ?
-Q|x|3||Qui de nous a déjà fait l'amour dans un bateau ?
 Q|x|3||Qui de nous a déjà fait l'amour sur un plan de travail de cuisine ?
-Q|x|3||Qui de nous a déjà fait l'amour contre une porte qui s'est ouverte toute seule ?
 Q|x|3||Qui de nous a déjà eu des brûlures de tapis aux genoux ?
-Q|x|3||Qui de nous a déjà eu besoin d'une semaine pour se remettre physiquement d'une nuit ?
-Q|x|3||Qui de nous a déjà fait l'amour juste avant un examen ou une compétition ?
 Q|x|3||Qui de nous a déjà raté un train ou un avion à cause d'une nuit qui ne finissait pas ?
-Q|x|3||Qui de nous a déjà menti à son patron pour rester au lit avec quelqu'un ?
 Q|x|3||Qui de nous a déjà passé un week-end entier sans sortir du lit ?
-Q|x|3||Qui de nous tient un compte de ses nuits dans une appli ?
-Q|x|3||Qui de nous a déjà manqué de doigts pour compter son body count ?
-Q|x|3||Qui de nous a déjà quitté quelqu'un à cause de son body count ?
-Q|x|3||Qui de nous a déjà été quitté à cause de son body count ?
 Q|x|3||Qui de nous a déjà menti à sa moitié sur son nombre de partenaires ?
 Q|x|3||Qui de nous a déjà découvert que sa moitié avait couché avec quelqu'un qu'il connaissait ?
 Q|x|3||Qui de nous a déjà refusé un plan incroyable parce qu'il était en couple ?
 Q|x|3||Qui de nous a déjà reçu un message de la moitié de quelqu'un avec qui il avait couché ?
 Q|x|3||Qui de nous a déjà été pris en flagrant délit d'infidélité ?
 Q|x|3||Qui de nous a déjà pris quelqu'un en flagrant délit d'infidélité ?
-Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un de beaucoup plus riche ?
-Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un qui avait des enfants ?
-Q|x|3||Qui de nous a déjà eu une aventure avec un ou une divorcée fraîchement séparée ?
-Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un de fiancé ?
 Q|x|3||Qui de nous a déjà eu une aventure pendant un enterrement de vie de jeune fille ou de garçon ?
-Q|x|3||Qui de nous a déjà eu une aventure pendant un festival ?
-Q|x|3||Qui de nous a déjà eu une aventure pendant un séjour au ski ?
 Q|x|3||Qui de nous a déjà eu une aventure pendant un Erasmus ?
-Q|x|3||Qui de nous a déjà eu une aventure avec quelqu'un dont il ne parlait pas la langue ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un rencontré dans un avion ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un rencontré en faisant ses courses ?
-Q|x|3||Qui de nous a déjà couché avec son coiffeur, son kiné ou son coach ?
-Q|x|3||Qui de nous a déjà couché avec un ou une prof de fac ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un qu'il avait juré de ne jamais toucher ?
-Q|x|3||Qui de nous a déjà couché avec un ex pendant qu'il était en couple avec quelqu'un d'autre ?
-Q|x|3||Qui de nous a déjà couché avec deux personnes qui sont ensuite sorties ensemble ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un et son meilleur ami, à des moments différents ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un de son équipe de sport ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un de sa promo dans tous les sens du terme ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un dans le dortoir d'une auberge de jeunesse ?
-Q|x|3||Qui de nous a déjà couché avec quelqu'un dans une colocation à six ?
-Q|x|3||Qui de nous a déjà fait l'amour dans un van aménagé ?
-Q|x|3||Qui de nous a déjà fait l'amour dans une cabine de bateau de croisière ?
-Q|x|3||Qui de nous a déjà fait l'amour dans une chambre d'étudiant de 9 m² ?
-Q|x|3||Qui de nous a déjà fait l'amour dans un lit superposé, en haut ?
 Q|x|3||Qui de nous a déjà fait l'amour dans la chambre de ses parents en leur absence ?
-Q|x|3||Qui de nous a déjà fait l'amour chez ses beaux-parents pendant un repas de famille ?
-Q|x|3||Qui de nous a déjà fait l'amour dans les vestiaires après un match ?
-Q|x|3||Qui de nous a déjà fait l'amour dans une salle de réunion ?
-Q|x|3||Qui de nous a déjà fait l'amour sur un toit d'immeuble ?
-Q|x|3||Qui de nous a déjà fait l'amour dans une forêt en plein jour ?
-Q|x|3||Qui de nous a déjà fait l'amour sur une plage nudiste ?
-Q|x|3||Qui de nous a déjà fait l'amour dans une cabine de plage ?
 Q|x|3||Qui de nous a déjà fait l'amour au cinéma ?
 Q|x|3||Qui de nous a déjà fait l'amour en voiture devant chez ses parents ?
 Q|x|3||Qui de nous a déjà fait l'amour en sachant qu'il serait en retard au travail ?
 Q|x|3||Qui de nous a déjà fait l'amour en sachant très bien que les murs étaient trop fins ?
 Q|x|3||Qui de nous a déjà dû s'excuser auprès de ses voisins le lendemain ?
-Q|x|3||Qui de nous a déjà entendu ses voisins applaudir ?
-Q|x|3||Qui de nous a déjà reçu une plainte écrite du syndic pour le bruit ?
-Q|x|3||Qui de nous a déjà fait l'amour en essayant de ne pas réveiller un bébé ?
-Q|x|3||Qui de nous a déjà dû cacher quelqu'un dans la douche ?
-Q|x|3||Qui de nous a déjà fait passer un plan d'un soir pour un livreur ?
-Q|x|3||Qui de nous a déjà fait passer un plan d'un soir pour un collègue devant ses parents ?
-Q|x|3||Qui de nous a déjà dormi chez un plan d'un soir et rencontré ses enfants le lendemain ?
-Q|x|3||Qui de nous a déjà dormi chez un plan d'un soir et découvert qu'il vivait chez ses parents ?
-Q|x|3||Qui de nous a déjà dormi chez un plan d'un soir et découvert une photo de son ex partout ?
 Q|x|3||Qui de nous a déjà dormi chez quelqu'un et découvert une collection de sextoys impressionnante ?
 Q|x|3||Qui de nous a déjà découvert un fétiche bizarre chez quelqu'un en pleine nuit ?
 Q|x|3||Qui de nous a déjà accepté un truc au lit juste pour pouvoir le raconter ?
@@ -4449,20 +4213,13 @@ Q|x|3||Qui de nous a déjà réalisé un fantasme et été déçu ?
 Q|x|3||Qui de nous a déjà réalisé un fantasme et voulu recommencer le soir même ?
 Q|x|3||Qui de nous a déjà eu une nuit tellement bien qu'il en parle encore des années après ?
 Q|x|3||Qui de nous a déjà eu une nuit tellement nulle qu'il en rit encore ?
-Q|x|3||Qui de nous a déjà dû arrêter parce que quelqu'un s'était blessé ?
 Q|x|3||Qui de nous a déjà dû arrêter parce que quelqu'un était trop bourré ?
 Q|x|3||Qui de nous a déjà eu une nuit où il a perdu la notion du temps jusqu'au lever du soleil ?
 Q|x|3||Qui de nous a déjà eu un orgasme tellement fort qu'il a crié ?
 Q|x|3||Qui de nous a déjà eu un orgasme dans un lieu public ?
-Q|x|3||Qui de nous a déjà simulé un orgasme tellement bien que l'autre a applaudi ?
-Q|x|3||Qui de nous a la réputation la plus sulfureuse auprès de ses ex ?
-Q|x|3||Qui de nous a déjà été recommandé par un ex à un ami ?
-Q|x|3||Qui de nous a déjà recommandé un ex à un ami pour ses talents ?
-Q|x|3|pn|Qui de nous a déjà fait l'amour avec quelqu'un que tout le monde ici trouve moche ?
 Q|x|3|pn|Qui de nous a déjà eu un rêve coquin avec quelqu'un d'ici, et n'ose pas le dire ?
 Q|x|3|pn|Qui de nous ferait le plan à trois le plus équilibré avec deux personnes d'ici ?
 Q|x|3|pn|Qui de nous a déjà regardé quelqu'un d'ici d'une façon pas très innocente ce soir ?
 Q|x|3|pn|Qui de nous {B} trouverait le plus doué au lit ?
 Q|x|3|pn|Qui de nous a déjà pensé que {B} cachait un côté très coquin ?
-Q|x|3|p|Qui de nous sait avec qui {B} a couché en dernier ?
 `;
