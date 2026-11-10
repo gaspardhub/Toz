@@ -376,6 +376,23 @@ button:disabled { cursor: not-allowed; }
 }
 .chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--on-card); }
 .chip:disabled { opacity: .35; }
+.adbox {
+  position: fixed; inset: 0; z-index: 35;
+  background: rgba(10, 6, 14, .94);
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px;
+  padding: 16px;
+}
+.adbox .slot {
+  width: 100%; max-width: 360px; aspect-ratio: 4 / 5; max-height: 60vh;
+  border: 2px dashed var(--line); border-radius: 18px;
+  display: grid; place-items: center; text-align: center;
+  color: var(--muted); font-weight: 600; padding: 16px; box-sizing: border-box;
+}
+.adbox .row { display: flex; gap: 8px; width: 100%; max-width: 360px; }
+.adbox button { flex: 1; border-radius: 14px; padding: 12px; font-weight: 800; border: 2px solid var(--line); background: transparent; color: var(--ink); }
+.adbox button.primary { background: var(--sun); border-color: var(--sun); color: var(--on-card); }
+.adbox button:disabled { opacity: .5; }
+.adlabel { font-size: .75rem; font-weight: 800; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
 .mixcount { margin: -4px 0 0; color: var(--muted); font-size: .9rem; font-variant-numeric: tabular-nums; }
 .results { margin: 0; padding: 0; text-align: left; list-style: none; display: flex; flex-direction: column; gap: 6px; font-weight: 700; font-size: 1.05rem; }
 
@@ -412,8 +429,18 @@ button:disabled { cursor: not-allowed; }
   <p class="mixcount" id="mixcount"></p>
   <label class="toggle slim" for="sober"><span>Sans alcool<small>Les gorgées deviennent des points : pompes, gages…</small></span><input type="checkbox" id="sober"></label>
   <button type="button" class="pill" id="mods" hidden></button>
+  <button type="button" class="pill" id="premium-btn" hidden></button>
   <div class="modes" id="modes"></div>
 </main>
+
+<div id="adbox" class="adbox" hidden role="dialog" aria-modal="true" aria-label="Publicité">
+  <span class="adlabel">Publicité</span>
+  <div class="slot" id="ad-slot"></div>
+  <div class="row">
+    <button type="button" id="ad-remove">Retirer les pubs</button>
+    <button type="button" class="primary" id="ad-close" disabled>Continuer</button>
+  </div>
+</div>
 
 <div id="gate" hidden role="dialog" aria-modal="true" aria-labelledby="gate-title">
   <div class="box">
@@ -450,6 +477,24 @@ button:disabled { cursor: not-allowed; }
 <script src="cards.js"></script>
 <script src="modes-data.js"></script>
 <script>
+// ---------- Pubs et version sans pub ----------
+// Tout ce qui se règle au lancement est ici. Les ID AdMob ci-dessous sont les ID de test publics de Google.
+const CONFIG = {
+  adsEnabled: true,
+  adEveryCards: 12,          // une pub plein écran toutes les N cartes
+  adsInAdultModes: false,    // les régies limitent souvent les pubs sur du contenu sexuel : à vérifier avant d'activer
+  adMinSeconds: 5,           // délai avant de pouvoir fermer la pub web
+  premiumPrice: "2,99 €",
+  premiumProductId: "tournee_sans_pub",  // ID du produit dans l'App Store et le Play Store
+  stripeLink: "",            // lien de paiement Stripe pour la version web, ex. https://buy.stripe.com/...
+  adsenseClient: "",         // ex. ca-pub-1234567890 pour la version web
+  adsenseSlot: "",
+  admob: {
+    android: "ca-app-pub-3940256099942544/1033173712",
+    ios: "ca-app-pub-3940256099942544/4411468910",
+  },
+};
+
 // ---------- Données ----------
 const TYPES = {
   J: { t: ["Je n'ai", "jamais"], e: "🤞", name: "Je n'ai jamais", color: "var(--coral)", weight: 22, groups: "pnc",
@@ -639,6 +684,7 @@ function toMenu() {
   $("setup").hidden = true; $("play").hidden = true; $("menu").hidden = false;
   renderMenu();
   window.scrollTo(0, 0);
+  showIntro();
 }
 $("gate-yes").addEventListener("click", () => { state.adultOk = true; $("gate").hidden = true; const n = gateNext; gateNext = null; n?.(); });
 $("gate-no").addEventListener("click", () => {
@@ -1115,6 +1161,8 @@ function renderMenu() {
   $("sober").checked = state.sober;
   const nmods = Object.keys({ ...shared, ...local }).length;
   $("mods").hidden = !nmods;
+  $("premium-btn").hidden = isPremium() || !CONFIG.adsEnabled;
+  $("premium-btn").textContent = `Retirer les pubs à vie · ${CONFIG.premiumPrice}`;
   $("mods").textContent = `Cartes retirées ou modifiées (${nmods})`;
   $("modes").innerHTML = MODES_LIST.map(id => {
     const m = MODES[id], min = m.min || 2, cnt = m.count();
@@ -1153,7 +1201,101 @@ async function startMode(id) {
   $("next").focus();
   try { wakeLock = await navigator.wakeLock?.request("screen"); } catch {}
 }
-function advance() { if (M.onNext?.()) return; M.step(); }
+function advance() {
+  if (M.onNext?.()) return;
+  if (adDue()) return showAd(() => M.step());
+  M.step();
+}
+
+// Une pub plein écran toutes les CONFIG.adEveryCards cartes, jamais pour les joueurs sans pub.
+let cardsSinceAd = 0;
+const isPremium = () => store.get("premium", false);
+const native = () => window.Capacitor?.isNativePlatform?.() ? window.Capacitor : null;
+function adDue() {
+  if (!CONFIG.adsEnabled || isPremium()) return false;
+  if (adult() && !CONFIG.adsInAdultModes) return false;
+  return ++cardsSinceAd >= CONFIG.adEveryCards;
+}
+async function showAd(then) {
+  cardsSinceAd = 0;
+  const AdMob = native()?.Plugins?.AdMob;
+  if (AdMob) {
+    try {
+      const adId = native().getPlatform() === "ios" ? CONFIG.admob.ios : CONFIG.admob.android;
+      await AdMob.prepareInterstitial({ adId });
+      await AdMob.showInterstitial();
+    } catch { /* pas de pub disponible : on continue sans */ }
+    return then();
+  }
+  const slot = $("ad-slot");
+  if (CONFIG.adsenseClient && CONFIG.adsenseSlot) {
+    slot.innerHTML = `<ins class="adsbygoogle" style="display:block;width:100%;height:100%" data-ad-client="${esc(CONFIG.adsenseClient)}" data-ad-slot="${esc(CONFIG.adsenseSlot)}"></ins>`;
+    try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch {}
+  } else {
+    slot.textContent = "Ici s'affichera une pub. Aperçu : aucune régie n'est encore branchée.";
+  }
+  const close = $("ad-close");
+  let left = CONFIG.adMinSeconds;
+  close.disabled = true; close.textContent = `Continuer (${left})`;
+  $("adbox").hidden = false;
+  clearInterval(showAd.timer);
+  showAd.timer = setInterval(() => {
+    left--;
+    if (left > 0) { close.textContent = `Continuer (${left})`; return; }
+    clearInterval(showAd.timer); close.disabled = false; close.textContent = "Continuer";
+  }, 1000);
+  showAd.then = then;
+}
+$("ad-close").addEventListener("click", () => { $("adbox").hidden = true; showAd.then?.(); });
+$("ad-remove").addEventListener("click", () => { $("adbox").hidden = true; openPremium(() => showAd.then?.()); });
+
+function unlockPremium() {
+  store.set("premium", true);
+  closeSheet(); renderMenu();
+  toast("Merci ! Les pubs sont retirées pour toujours.");
+}
+// Retour du paiement Stripe : le lien de succès doit pointer vers la page avec ?merci=1
+try {
+  if (new URLSearchParams(location.search).get("merci") === "1") { store.set("premium", true); history.replaceState(null, "", location.pathname); }
+} catch {}
+
+function openPremium(after) {
+  const shop = window.TourneeStore; // branché par l'appli iPhone et Android (achat intégré)
+  const web = CONFIG.stripeLink;
+  const buy = shop
+    ? `<button type="button" class="primary" data-sheet="buy">Payer ${CONFIG.premiumPrice}</button>`
+    : web ? `<a class="primary" href="${esc(web)}" target="_blank" rel="noopener" style="flex:1;text-align:center;border-radius:14px;padding:12px;font-weight:800;background:var(--mint);color:var(--on-card);text-decoration:none">Payer ${CONFIG.premiumPrice}</a>` : "";
+  openSheet("Tournée sans pub, à vie",
+    `<p class="hint">Un seul paiement de <b>${CONFIG.premiumPrice}</b>, et plus jamais de pub sur cet appareil. Toutes les cartes restent les mêmes : rien n'est réservé aux joueurs qui paient.</p>`,
+    `<button type="button" data-sheet="close">Plus tard</button>${shop ? `<button type="button" data-sheet="restore">Restaurer</button>` : ""}${buy}`,
+    buy ? "" : "Le paiement sera branché au lancement de l'appli.");
+  openPremium.after = after;
+}
+$("premium-btn").addEventListener("click", () => openPremium());
+
+// Message d'accueil, une seule fois.
+function showIntro() {
+  if (store.get("introSeen", false) || isPremium()) return;
+  store.set("introSeen", true);
+  openSheet("Tournée reste gratuite",
+    `<p class="hint">Toutes les cartes et tous les jeux sont gratuits, et ça ne changera pas. Pour payer l'hébergement et continuer à écrire de nouvelles cartes, il y a une petite pub de temps en temps, environ toutes les ${CONFIG.adEveryCards} cartes.</p>
+     <p class="hint">Si tu préfères, tu peux retirer les pubs à vie pour ${CONFIG.premiumPrice}, en une seule fois.</p>`,
+    `<button type="button" data-sheet="close">Ok, on joue</button><button type="button" class="primary" data-sheet="premium">Retirer les pubs</button>`);
+}
+// Boutons des fenêtres pub et paiement, traités avant ceux de l'édition de cartes.
+$("sheet").addEventListener("click", async e => {
+  const act = e.target.closest("[data-sheet]")?.dataset.sheet;
+  if (!["buy", "restore", "premium", "close"].includes(act)) return;
+  if (act === "close") { const after = openPremium.after; openPremium.after = null; after?.(); return; }
+  e.stopImmediatePropagation();
+  if (act === "premium") return openPremium();
+  try {
+    const ok = act === "buy" ? await window.TourneeStore.buy(CONFIG.premiumProductId) : await window.TourneeStore.restore(CONFIG.premiumProductId);
+    if (ok) { unlockPremium(); const after = openPremium.after; openPremium.after = null; after?.(); }
+    else toast(act === "buy" ? "Paiement annulé." : "Aucun achat à restaurer sur ce compte.");
+  } catch { toast("Le paiement n'a pas abouti. Réessaie plus tard."); }
+}, true);
+
 $("next").addEventListener("click", advance);
 $("card").addEventListener("click", e => {
   const b = e.target.closest("[data-act]");

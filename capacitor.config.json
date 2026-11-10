@@ -1,0 +1,11 @@
+{
+  "appId": "fr.tournee.app",
+  "appName": "Tournée",
+  "webDir": "dist",
+  "backgroundColor": "#170f1f",
+  "plugins": {
+    "AdMob": {
+      "initializeForTesting": true
+    }
+  }
+}
