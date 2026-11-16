@@ -620,7 +620,10 @@ function render() {
       <div class="stat">
         <div><b>${MODES_LIST.length}</b><span>jeux de soirée</span></div>
         <div><b>${total.toLocaleString("fr-FR")}</b><span>cartes, questions et défis</span></div>
-      </div>`;
+      </div>
+      <button type="button" class="cta ghost" id="install-home" hidden></button>`;
+    $("install-home").addEventListener("click", askInstall);
+    refreshInstall();
     $("cta").textContent = "Commencer";
     if (store.get("played", false) && roster().length >= 2) {
       $("cta2").hidden = false;
@@ -1426,20 +1429,45 @@ let installEvent = null;
 const standalone = () => matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
 const isIOS = () => /iphone|ipad|ipod/i.test(navigator.userAgent);
 const hosted = () => !!document.querySelector('link[rel="manifest"]');
+const mobile = () => isIOS() || /android/i.test(navigator.userAgent);
 function refreshInstall() {
-  $("install-btn").hidden = !hosted() || standalone() || !(installEvent || isIOS());
+  const can = hosted() && !standalone() && (installEvent || isIOS());
+  $("install-btn").hidden = !can;
+  const home = $("install-home");
+  if (!home) return;
+  // Sur ordinateur sans installation possible, on invite à ouvrir le jeu sur le téléphone.
+  home.hidden = !hosted() || standalone() || (!can && mobile());
+  home.textContent = can ? "Installer l'appli sur ce téléphone" : "Le jeu se joue sur téléphone : ouvre ce lien dessus";
+  home.disabled = !can;
 }
-addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvent = e; refreshInstall(); });
-addEventListener("appinstalled", () => { installEvent = null; refreshInstall(); toast("Tournée est installée sur ton écran d'accueil."); });
-$("install-btn").addEventListener("click", async () => {
-  if (installEvent) { installEvent.prompt(); await installEvent.userChoice; installEvent = null; refreshInstall(); return; }
-  openSheet("Installer Tournée",
-    `<p class="hint">Sur iPhone, ça se fait depuis Safari :</p>
-     <p class="hint">1. Appuie sur le bouton <b>Partager</b> (le carré avec une flèche vers le haut).<br>2. Choisis <b>« Sur l'écran d'accueil »</b>.<br>3. Appuie sur <b>Ajouter</b>.</p>
-     <p class="hint">L'icône Tournée apparaît avec tes autres applis, et le jeu s'ouvre en plein écran, même sans réseau.</p>`,
-    `<button type="button" class="primary" data-sheet="close">Compris</button>`);
+function installSheet() {
+  const ios = isIOS(), safari = ios && !/crios|fxios|edgios/i.test(navigator.userAgent);
+  const how = !ios ? `<p class="hint">Un clic et Tournée s'ajoute à ton écran d'accueil.</p>`
+    : safari ? `<p class="hint">1. Appuie sur le bouton <b>Partager</b> en bas de Safari (le carré avec une flèche vers le haut).<br>2. Choisis <b>« Sur l'écran d'accueil »</b>.<br>3. Appuie sur <b>Ajouter</b>.</p>`
+    : `<p class="hint">Sur iPhone, l'installation se fait depuis <b>Safari</b> : ouvre ce lien dans Safari, puis Partager → « Sur l'écran d'accueil ».</p>`;
+  openSheet("Installe Tournée comme une appli",
+    `<p class="hint">Une icône sur ton écran d'accueil, le jeu en plein écran, et ça marche même sans réseau. C'est gratuit et ça prend dix secondes.</p>${how}`,
+    `<button type="button" data-sheet="close">Plus tard</button>${ios ? "" : `<button type="button" class="primary" data-sheet="install">Installer</button>`}`);
+}
+async function askInstall() {
+  if (installEvent && !isIOS()) { installEvent.prompt(); await installEvent.userChoice; installEvent = null; refreshInstall(); return; }
+  installSheet();
+}
+// À la première visite sur téléphone, on propose l'installation tout de suite.
+function nudgeInstall() {
+  if (!hosted() || standalone() || store.get("installNudged", false) || !(installEvent || isIOS())) return;
+  if ($("setup").hidden || !$("sheet").hidden) return;
+  store.set("installNudged", true);
+  installSheet();
+}
+addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvent = e; refreshInstall(); nudgeInstall(); });
+addEventListener("appinstalled", () => { installEvent = null; refreshInstall(); closeSheet(); toast("Tournée est installée sur ton écran d'accueil."); });
+$("install-btn").addEventListener("click", askInstall);
+$("sheet").addEventListener("click", e => {
+  if (e.target.closest("[data-sheet]")?.dataset.sheet !== "install") return;
+  closeSheet();
+  if (installEvent) { installEvent.prompt(); installEvent.userChoice.then(() => { installEvent = null; refreshInstall(); }); }
 });
-refreshInstall();
-
 render();
+nudgeInstall();
 </script>
