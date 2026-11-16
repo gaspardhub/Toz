@@ -54,7 +54,6 @@ J|x|2||Je n'ai jamais fait l'amour sous la douche.
 J|x|2||Je n'ai jamais dormi chez quelqu'un juste pour ne pas rentrer seul.
 J|x|2||Je n'ai jamais eu d'aventure d'un soir en vacances.
 J|x|2||Je n'ai jamais embrassé quelqu'un du même sexe.
-J|x|2||Je n'ai jamais fait l'amour en étant tellement bourré que je ne m'en souviens pas.
 J|x|2||Je n'ai jamais dû partir discrètement de chez quelqu'un au petit matin.
 J|x|2||Je n'ai jamais eu de colocs qui ont tout entendu.
 J|x|3||Je n'ai jamais fait de plan à trois.
@@ -243,12 +242,10 @@ P|x|2||Faire l'amour uniquement dans le noir // uniquement avec toutes les lumi�
 P|x|2||Un partenaire qui parle beaucoup trop au lit // un partenaire qui ne dit pas un mot
 P|x|2||Le meilleur sexe de ta vie avec quelqu'un d'insupportable // du sexe moyen avec l'amour de ta vie
 P|x|2||Plus jamais de préliminaires // plus jamais de câlins après
-P|x|2||Te faire surprendre par tes parents // surprendre tes parents
 P|x|2||Coucher avec ton sosie // avec le sosie de ton ex
 P|x|2||Faire l'amour dans un avion // sur une plage
 P|x|2|pn|Embrasser {B} // prendre {s3}
 P|x|2||Un plan cul parfait sans sentiments // une relation amoureuse sans aucun sexe
-P|x|2||Coucher avec quelqu'un de 20 ans de plus // de 20 ans de moins (et majeur, évidemment)
 P|x|3||Que tes parents voient ton historique porno // que ton ex le publie
 P|x|3|pn|Un plan à trois avec deux inconnus // avec deux personnes d'ici
 P|x|3||Que ton dernier partenaire note ta performance sur 10 devant tout le monde // devoir la noter toi-même à voix haute
@@ -333,7 +330,6 @@ V|d|1||Quelle est la dernière chose que tu as volée ?
 V|d|1||Quelle est la chose la plus illégale que tu aies faite ?
 V|d|1||Quelle est ta plus grosse honte d'enfance ?
 V|d|1||Quelle est la pire chose que tu aies faite à un pote ?
-V|d|1||Quelle est ta plus grande insécurité ?
 V|d|2|pn|Quel secret n'as-tu jamais raconté à personne ici ?
 V|d|2|p|Qui ici te tape le plus sur les nerfs ?
 V|d|2|p|Qu'as-tu déjà dit sur quelqu'un ici dans son dos ?
@@ -383,8 +379,6 @@ A|x|3|c|Masse {B} pendant une minute, là où {B} le demande.
 A|x|3|c|Bande les yeux de {B}, puis embrasse {B} à trois endroits différents. {B} doit deviner lesquels.
 A|a|1||Envoie « tu me manques » à la troisième personne de tes conversations. Interdit d'expliquer avant demain.
 A|a|1||Fais une déclaration d'amour enflammée à {B}, à genoux.
-A|a|1||Demande en mariage un objet de la pièce, bague improvisée comprise.
-A|a|1||Raconte ton premier baiser en le mimant avec ta main.
 A|a|2||Montre le dernier message que tu as envoyé à ton ex.
 A|a|2||Like la dernière photo de ton ex.
 A|a|2||Appelle ton ex en haut-parleur et demande-lui comment il va.
@@ -399,7 +393,6 @@ A|t|2||Envoie « je pense à toi » à ton dernier match.
 A|f|1||Parle uniquement en chantant jusqu'à ton prochain tour.
 A|f|1||Fais 15 pompes, ou prends {s3}.
 A|f|1||Mange une cuillère du condiment choisi par {B}.
-A|f|1||Fais le tour de la pièce en marchant comme un canard.
 A|f|1||Fais une pub de 30 secondes pour vendre {B}.
 A|f|1||Laisse {B} te dessiner une moustache.
 A|f|1||Raconte une blague. Si personne ne rit, prends {s2}.
@@ -484,7 +477,6 @@ J|s|2||Je n'ai jamais fait une déclaration d'amour bourré à un pote.
 J|s|2||Je n'ai jamais pleuré dans un VTC en racontant ma vie au chauffeur.
 J|x|2||Je n'ai jamais embrassé quelqu'un dans une boîte sans lui avoir dit un seul mot avant.
 J|x|2||Je n'ai jamais eu un plan d'un soir avec quelqu'un rencontré sur une appli.
-J|x|2||Je n'ai jamais couché avec quelqu'un juste parce que j'avais pas envie de dire non.
 J|x|2||Je n'ai jamais fait l'amour pendant que quelqu'un dormait dans la même pièce.
 J|x|2||Je n'ai jamais fait l'amour dans un ascenseur ou une cage d'escalier.
 J|x|2||Je n'ai jamais dû cacher quelqu'un dans un placard ou sous un lit.
@@ -497,7 +489,7 @@ J|x|3||Je n'ai jamais fait l'amour plus de trois fois dans la même nuit.
 J|x|3||Je n'ai jamais fait de jeu de rôle au lit.
 J|x|3||Je n'ai jamais fait l'amour dans une cabine d'essayage.
 J|x|3||Je n'ai jamais couché avec quelqu'un qui avait plus de dix ans de plus que moi.
-J|x|3||Je n'ai jamais fait de visio coquine.
+J|x|3||Je n'ai jamais fait de visio chaude.
 J|a|1||Je n'ai jamais pleuré à cause d'une rupture que j'avais moi-même provoquée.
 J|a|1||Je n'ai jamais fait semblant d'être occupé pour avoir l'air moins accro.
 J|a|1||Je n'ai jamais compté les minutes avant de répondre à un crush.
@@ -619,13 +611,11 @@ V|t|2||Quelle est la photo la plus gênante de ta galerie ? Tu dois la montrer o
 V|f|1||Quel est le surnom le plus gênant qu'on t'ait donné ?
 V|f|1||Quelle est ta pire habitude quand tu es seul chez toi ?
 V|f|1||Quelle célébrité as-tu déjà défendue alors qu'elle était indéfendable ?
-A|s|1|pn|Fais le tour de la table et trinque avec chaque joueur en lui faisant un compliment.
 A|s|1||Bois ton prochain verre avec une paille imaginaire en faisant du bruit.
 A|s|1||Joue un serveur insupportable pour {B} pendant 30 secondes.
 A|s|1||Fais une imitation de toi bourré, sans l'être (ou un peu).
-A|x|2||Embrasse la main de {B} comme dans un film d'époque.
-A|x|2|pn|Fais un compliment coquin à chaque joueur.
-A|x|2||Envoie un emoji coquin à la dernière personne qui t'a écrit, sans explication.
+A|x|2|pn|Fais un compliment chaud à chaque joueur.
+A|x|2||Envoie un emoji chaud à la dernière personne qui t'a écrit, sans explication.
 A|x|2||Regarde {B} dans les yeux pendant 20 secondes sans rire. Si tu ris, prends {s2}.
 A|x|2||Lis à voix haute et de façon sensuelle la composition d'un produit dans la pièce.
 A|x|3||Fais un bisou à {B} à l'endroit que {B} choisit. Si {B} refuse, {B} prend {s3}.
@@ -633,7 +623,6 @@ A|x|3||Fais un lap dance de 30 secondes à {B}. Si {B} refuse, {B} prend {s3}.
 A|x|3||Mordille l'oreille de {B}. Si {B} refuse, {B} prend {s2}.
 A|x|3|c|Choisis une partie du corps de {B} et embrasse-la pendant 10 secondes.
 A|x|3|c|Décris à {B} ce que tu vas lui faire ce soir, en détail.
-A|a|1||Écris un poème d'amour de quatre lignes pour {B} et lis-le.
 A|a|1|pn|Mime ta technique de drague. Les autres notent sur 10.
 A|a|2||Envoie un message à ton crush avec seulement un emoji choisi par {B}.
 A|t|1||Montre ta photo la plus ancienne sur Instagram.
@@ -642,7 +631,6 @@ A|t|2||Envoie la dernière photo de ta galerie dans la conversation de ton choix
 A|f|1||Fais un défilé de mode avec la veste de quelqu'un d'autre.
 A|f|1||Fais 10 squats en chantant l'hymne national.
 A|f|1||Parle comme un présentateur de JT jusqu'à ton prochain tour.
-A|f|1||Fais ton meilleur cri de guerre.
 A|f|1||Fais rire {B} en moins de 30 secondes, ou prends {s2}.
 D|s|1||Le dernier à se lever prend {s2}.
 D|s|1||Ceux qui ont déjà dit « c'est mon dernier verre » ce soir prennent {s1}.
@@ -748,7 +736,7 @@ J|x|3||Je n'ai jamais fait l'amour dans les toilettes d'un bar ou d'une boîte.
 J|x|3||Je n'ai jamais fait l'amour à un endroit où on aurait pu me voir depuis la rue.
 J|x|3||Je n'ai jamais eu deux plans en même temps avec des gens qui se connaissaient.
 J|x|3||Je n'ai jamais fait l'amour plus de trois heures d'affilée.
-J|x|3||Je n'ai jamais envoyé de vocal coquin.
+J|x|3||Je n'ai jamais envoyé de vocal chaud.
 J|x|3||Je n'ai jamais fait l'amour au téléphone.
 J|x|3||Je n'ai jamais couché avec l'ex de quelqu'un avec qui j'avais déjà couché.
 J|x|3||Je n'ai jamais fait une pause en plein milieu pour manger quelque chose.
@@ -971,7 +959,7 @@ V|x|2||Quelle est la pire chose qu'on t'ait dite au lit ?
 V|x|2||Qu'est-ce qui te fait perdre tous tes moyens chez quelqu'un ?
 V|x|2||Quelle est ta plus longue période sans rien ?
 V|x|2||Quel est ton souvenir le plus gênant en voulant être sexy ?
-V|x|2||Ton dernier rêve coquin, c'était avec qui ? Pas de nom, mais un indice.
+V|x|2||Ton dernier rêve chaud, c'était avec qui ? Pas de nom, mais un indice.
 V|x|2||Quel est le meilleur endroit où tu as fait l'amour ?
 V|x|3||Quelle est la chose la plus osée que tu aies faite en public ?
 V|x|3||Quel est ton fantasme le plus bizarre ?
@@ -1016,11 +1004,8 @@ A|s|1||Raconte ta pire soirée en 30 secondes, comme un commentateur sportif.
 A|s|1||Trinque avec {B} en le regardant dans les yeux. Si tu ris, prends {s2}.
 A|s|1||Échange ta place avec {B} jusqu'à la fin de la partie.
 A|s|1||Laisse {B} choisir ce que tu bois au prochain verre.
-A|s|1||Fais un discours de remerciement comme aux César pour cette soirée.
 A|x|2||Choisis quelqu'un et dis-lui ce qui te plaît le plus physiquement chez lui, en le regardant dans les yeux.
-A|x|2||Fais un lap dance de 20 secondes à une chaise.
 A|x|2||Drague {B} comme dans un mauvais film romantique.
-A|x|2||Mime ton dernier rencard du début à la fin.
 A|x|2||Lis le dernier message envoyé à un crush, avec une voix sensuelle.
 A|x|2||Laisse {B} t'écrire un prénom sur le bras. Tu le gardes toute la soirée.
 A|x|3||Embrasse la joue de la personne de ton choix, très lentement.
@@ -1030,7 +1015,6 @@ A|x|3|pn|Murmure un compliment osé à l'oreille de chaque joueur.
 A|x|3||Laisse {B} choisir où tu poses ta main pendant deux tours.
 A|a|1||Envoie seulement « 👀 » à ton crush.
 A|a|1||Appelle quelqu'un et dis-lui « je voulais juste entendre ta voix ».
-A|a|1||Fais une demande en mariage à {B}, genou à terre, avec un vrai discours.
 A|a|1||Écris une bio d'appli de rencontre pour {B} en 30 secondes et lis-la.
 A|a|2||Envoie « on se voit quand ? » à la troisième personne de tes DM.
 A|a|2||Laisse {B} écrire un message à ton ex. Tu l'envoies ou tu prends {s5}.
@@ -1040,15 +1024,11 @@ A|t|1||Ouvre ta galerie, fais défiler les yeux fermés et montre la photo où t
 A|t|2||Envoie un vocal chanté de 10 secondes à ton dernier contact.
 A|t|2||Poste en story une photo de toi prise par {B} maintenant, sans filtre.
 A|t|2||Laisse {B} lire tes trois derniers messages reçus.
-A|f|1||Parle comme un robot jusqu'à ton prochain tour.
 A|f|1||Mange quelque chose sans les mains.
 A|f|1||Fais le cri d'un animal choisi par {B}.
 A|f|1||Raconte ta journée comme la bande-annonce d'un film d'action.
 A|f|1||Imite un ancien prof avec toute la conviction possible.
-A|f|1||Fais un défilé de mannequin jusqu'à la porte, puis reviens.
-A|f|1||Fais une déclaration d'amour à ton plat préféré.
 A|f|1||Tiens la chaise contre le mur pendant 30 secondes.
-A|f|1||Fais une chorégraphie TikTok, même mal.
 A|f|1||Vends ta chaussure gauche à {B} comme dans un téléachat.
 V|x|2||Raconte ta première fois : où, quand, et le détail qui te fait encore rire.
 V|x|2||Raconte la fois où tu t'es fait surprendre.
@@ -1058,7 +1038,7 @@ V|x|2||Raconte la fois où tu as dû partir discrètement au petit matin.
 V|x|2||Raconte ton pire réveil à côté de quelqu'un.
 V|x|2||Raconte la fois où ça a failli se faire, et pourquoi ça ne s'est pas fait.
 V|x|2||Raconte ton pire fou rire au mauvais moment.
-V|x|2||Raconte le message coquin le plus raté que tu aies envoyé.
+V|x|2||Raconte le message chaud le plus raté que tu aies envoyé.
 V|x|2||Raconte la fois où tu as entendu des voisins ou des colocs, et ce que tu as fait.
 V|x|2||Raconte ton plus gros malentendu au lit.
 V|x|2||Raconte la fois où tu as menti sur ton expérience.
@@ -1079,7 +1059,6 @@ V|x|2||Quelle est la phrase qui t'a fait craquer le plus vite ?
 V|x|2||Quel est le plus grand écart d'âge que tu aies eu avec quelqu'un ?
 V|x|2||Ton record : combien de temps entre la rencontre et la première nuit ?
 V|x|2||Combien de personnes as-tu embrassées en une seule soirée, au maximum ?
-V|x|2||Quelle est ta plus grosse insécurité au lit ?
 V|x|2||As-tu déjà eu un faible pour quelqu'un d'interdit : prof, boss, beau-frère, belle-sœur ?
 V|x|3||Raconte l'endroit le plus risqué où tu as fait l'amour, et comment ça s'est fini.
 V|x|3||Raconte la fois où tu as couché avec quelqu'un avec qui tu n'aurais vraiment pas dû.
@@ -1093,10 +1072,9 @@ V|x|3||Quelle est la chose que tu as faite une seule fois et que tu ne referas j
 V|x|3||Quelle est la chose que tu as faite une fois et que tu referais tous les jours ?
 V|x|3||As-tu déjà couché avec quelqu'un uniquement par vengeance ?
 V|x|3||As-tu déjà été le plan secret de quelqu'un qui était en couple ?
-V|x|3||As-tu déjà dit oui à quelque chose au lit uniquement pour faire plaisir ?
 V|x|3||Quel est ton record de partenaires différents en une semaine ?
 V|x|3||Ton meilleur coup était-il aussi la personne que tu aimais le plus ?
-V|x|3||Quelle est la recherche la plus coquine de ton historique ?
+V|x|3||Quelle est la recherche la plus chaude de ton historique ?
 V|x|3||Quelle est la chose que tu n'oserais jamais demander à ta moitié ?
 V|x|3||As-tu déjà fait l'amour en sachant que quelqu'un entendait tout ?
 V|x|3|pn|Qui ici a le plus d'expérience, d'après toi ? Et le moins ?
@@ -1143,7 +1121,7 @@ J|x|3||Je n'ai jamais fait l'amour dans le bureau de quelqu'un.
 J|x|3||Je n'ai jamais fini la nuit avec quelqu'un après un enterrement de vie de garçon ou de jeune fille.
 J|x|3||Je n'ai jamais réveillé quelqu'un en pleine nuit pour remettre ça.
 J|x|3||Je n'ai jamais payé une chambre d'hôtel juste pour quelques heures.
-J|x|3|p|Je n'ai jamais fait un truc coquin chez quelqu'un ici.
+J|x|3|p|Je n'ai jamais fait un truc chaud chez quelqu'un ici.
 J|x|3|p|Je n'ai jamais eu d'aventure avec quelqu'un que tout le monde ici connaît.
 J|x|3|pn|Je n'ai jamais imaginé {B} au lit.
 Q|x|2||Qui de nous a l'anecdote de lit la plus folle ?
@@ -1155,7 +1133,7 @@ Q|x|2||Qui de nous est le plus sage en public et le plus fou en privé ?
 Q|x|2||Qui de nous a déjà oublié un sous-vêtement chez quelqu'un ?
 Q|x|2||Qui de nous a déjà dragué quelqu'un à un mariage et fini la nuit avec ?
 Q|x|2||Qui de nous enchaîne les plans d'un soir sans jamais rappeler ?
-Q|x|2||Qui de nous aura une anecdote coquine à raconter demain matin ?
+Q|x|2||Qui de nous aura une anecdote chaude à raconter demain matin ?
 Q|x|3||Qui de nous a déjà couché avec deux personnes de la même bande de potes ?
 Q|x|3||Qui de nous a déjà payé une chambre d'hôtel pour une seule heure ?
 Q|x|3||Qui de nous a déjà fait l'amour dans les toilettes d'un avion ?
@@ -1196,7 +1174,7 @@ V|x|3||As-tu déjà été dominé ou dominant ? Raconte.
 V|x|3||Menottes, bandeau, fessées : qu'est-ce que tu as déjà testé ?
 V|x|3||As-tu déjà payé pour du contenu sexy ?
 V|x|3||As-tu déjà envoyé des photos sexy en échange d'argent ou d'un cadeau ?
-V|x|3||Quel est le mot le plus cochon que tu aies dit au lit ?
+V|x|3||Quel est le mot le plus sale que tu aies dit au lit ?
 V|x|3||Qu'est-ce qui te fait jouir le plus vite ?
 V|x|3||Ton body count exact, et combien tu en regrettes ?
 V|x|3||Combien de plans à trois as-tu faits, et dans quelle configuration ?
@@ -1211,7 +1189,6 @@ V|x|3||Qu'est-ce que tu préfères dans les préliminaires, précisément ?
 V|x|3||Qu'est-ce que ton dernier partenaire faisait vraiment mal ?
 V|x|3||Note tes trois derniers partenaires sur 10.
 V|x|3||Raconte ton meilleur orgasme, sans donner de nom.
-V|x|3|pn|Tu t'es déjà fait plaisir en pensant à quelqu'un ici ? Qui ?
 V|x|3|pn|Selon toi, {B} est plutôt dominant ou soumis ?
 V|x|3|pn|Qui ici a l'air d'aimer les fessées ?
 V|x|3|pn|Plan à trois : avec qui ici, et qui comme troisième ?
@@ -1220,8 +1197,7 @@ V|x|3|c|Qu'est-ce que {B} fait mieux que tous tes ex ?
 V|x|3|c|Qu'est-ce que tu veux que {B} te fasse ce soir, précisément ?
 V|x|3|c|Quel fantasme veux-tu réaliser avec {B} cette année ?
 J|x|3||Je n'ai jamais essayé la sodomie.
-J|x|3|pn|Je n'ai jamais eu de plaisir solo en pensant à quelqu'un de cette pièce.
-J|x|3||Je n'ai jamais eu de plaisir solo au travail.
+J|x|3|pn|Je n'ai jamais pensé à quelqu'un de cette pièce en me touchant.
 J|x|3||Je n'ai jamais payé pour du contenu sexy.
 J|x|3||Je n'ai jamais fait de fellation ou de cunnilingus dans un lieu public.
 J|x|3||Je n'ai jamais simulé avec ma moitié actuelle ou la dernière.
@@ -1238,7 +1214,7 @@ J|x|3||Je n'ai jamais fait de partouze.
 J|x|3||Je n'ai jamais échangé de partenaire.
 J|x|3||Je n'ai jamais couché avec quelqu'un qui avait le double de mon âge.
 J|x|3||Je n'ai jamais gardé les nudes d'un ex.
-J|x|3||Je n'ai jamais fait de visio coquine avec un inconnu.
+J|x|3||Je n'ai jamais fait de visio chaude avec un inconnu.
 J|x|3||Je n'ai jamais joué à un jeu de domination.
 J|x|3||Je n'ai jamais fait l'amour lumière allumée et rideaux ouverts.
 J|x|3||Je n'ai jamais couché avec un ex alors que j'étais en couple.
@@ -1262,7 +1238,6 @@ Q|x|3||Qui de nous a déjà fait l'amour en se filmant ?
 Q|x|3||Qui de nous préfère donner plutôt que recevoir ?
 Q|x|3||Qui de nous a déjà échangé de partenaire ?
 Q|x|3||Qui de nous a déjà couché avec deux personnes dans la même nuit ?
-Q|x|3|pn|Qui de nous a déjà pensé à {B} en se faisant plaisir ?
 Q|x|3|p|Qui de nous a déjà vu {B} sans vêtements ?
 P|x|3||Recevoir sans jamais donner // donner sans jamais recevoir
 P|x|3||Dominer toute ta vie // être dominé toute ta vie
@@ -1344,7 +1319,6 @@ Q|x|3||Qui de nous a déjà testé le sexe tantrique ?
 Q|x|3||Qui de nous a la plus longue liste de fantasmes ?
 Q|x|3||Qui de nous a déjà proposé un plan à trois à sa moitié ?
 Q|x|3||Qui de nous s'est déjà fait dominer par quelqu'un de plus timide que lui ?
-Q|x|3||Qui de nous a déjà eu une histoire avec quelqu'un de beaucoup plus jeune, mais majeur ?
 Q|x|3|p|Qui de nous a déjà simulé avec quelqu'un d'ici ?
 Q|x|3|pn|Qui de nous a déjà embrassé deux personnes autour de cette table ?
 Q|x|3|pn|Qui de nous tenterait un plan à trois avec deux personnes d'ici ?
@@ -1361,7 +1335,7 @@ Q|x|2||Qui de nous tombe amoureux après une seule nuit ?
 Q|x|2||Qui de nous enjolive toujours un peu ses nuits quand il les raconte ?
 Q|x|2||Qui de nous devient insupportable après un mois sans rien ?
 Q|x|2||Qui de nous a le type physique le plus inattendu ?
-Q|x|2||Qui de nous écrit des messages coquins en pleine réunion ?
+Q|x|2||Qui de nous écrit des messages chauds en pleine réunion ?
 Q|x|2||Qui de nous cache un tatouage ou un piercing à un endroit que peu de gens ont vu ?
 Q|x|2||Qui de nous a déjà eu une histoire uniquement par messages ?
 Q|x|2||Qui de nous a un mot de sécurité, juste au cas où ?
@@ -1470,10 +1444,10 @@ J|x|2||Je n'ai jamais eu un crush sur mon prof de sport ou mon coach.
 J|x|2||Je n'ai jamais eu un crush sur le ou la partenaire d'un membre de ma famille.
 J|x|2||Je n'ai jamais eu un crush sur le père ou la mère d'un pote.
 J|x|2||Je n'ai jamais eu un crush sur un personnage de dessin animé.
-J|x|2||Je n'ai jamais fait un rêve coquin sur un collègue et été gêné toute la journée.
-J|x|2||Je n'ai jamais fait un rêve coquin sur un ex alors que j'étais en couple.
+J|x|2||Je n'ai jamais fait un rêve chaud sur un collègue et été gêné toute la journée.
+J|x|2||Je n'ai jamais fait un rêve chaud sur un ex alors que j'étais en couple.
 J|x|2||Je n'ai jamais rougi en recevant un message pendant un repas de famille.
-J|x|2||Je n'ai jamais montré par erreur une photo coquine en faisant défiler ma galerie devant quelqu'un.
+J|x|2||Je n'ai jamais montré par erreur une photo chaude en faisant défiler ma galerie devant quelqu'un.
 J|x|2||Je n'ai jamais eu un nude en photo de profil par erreur, même une seconde.
 J|x|2||Je n'ai jamais pris une photo sexy de moi que je n'ai jamais envoyée.
 J|x|2||Je n'ai jamais fait un shooting photo sexy de moi-même.
@@ -1498,7 +1472,7 @@ J|x|2||Je n'ai jamais eu envie de partir d'un rencard au bout de dix minutes et 
 J|x|2||Je n'ai jamais séduit quelqu'un avec une chanson ou un instrument.
 J|x|2||Je n'ai jamais séduit quelqu'un en cuisinant.
 J|x|2||Je n'ai jamais utilisé un pari pour obtenir un bisou.
-J|x|2||Je n'ai jamais perdu exprès à un jeu pour obtenir un gage coquin.
+J|x|2||Je n'ai jamais perdu exprès à un jeu pour obtenir un gage chaud.
 J|x|2||Je n'ai jamais joué à la bouteille.
 J|x|2||Je n'ai jamais joué au strip-poker en trichant pour perdre.
 J|x|2||Je n'ai jamais terminé un jeu de soirée en sous-vêtements.
@@ -1507,7 +1481,6 @@ J|x|2||Je n'ai jamais fait de naturisme.
 J|x|2||Je n'ai jamais bronzé seins nus ou totalement nu.
 J|x|2||Je n'ai jamais été vu nu par quelqu'un qui n'aurait pas dû.
 J|x|2||Je n'ai jamais vu un voisin dans une situation qu'il aurait voulu cacher.
-J|x|2||Je n'ai jamais entendu mes parents.
 J|x|2||Je n'ai jamais entendu mes colocs et frappé au mur.
 J|x|2||Je n'ai jamais mis de la musique très fort pour couvrir le bruit.
 J|x|2||Je n'ai jamais cassé un lit.
@@ -1553,7 +1526,7 @@ J|x|2||Je n'ai jamais reçu un sextoy en cadeau.
 J|x|2||Je n'ai jamais écouté un podcast ou un audio érotique.
 J|x|2||Je n'ai jamais regardé un film érotique avec mes parents dans la pièce.
 J|x|2||Je n'ai jamais regardé un porno par erreur en public.
-J|x|2||Je n'ai jamais oublié de fermer un onglet coquin sur un ordinateur partagé.
+J|x|2||Je n'ai jamais oublié de fermer un onglet porno sur un ordinateur partagé.
 J|x|2||Je n'ai jamais eu un virus sur mon ordinateur à cause d'un site douteux.
 J|x|2||Je n'ai jamais simulé pour que ça se termine plus vite.
 J|x|2||Je n'ai jamais dit « c'était génial » alors que pas du tout.
@@ -1580,8 +1553,8 @@ J|x|3||Je n'ai jamais fait l'amour sans un mot du début à la fin.
 J|x|3||Je n'ai jamais fait l'amour dans le noir total sans savoir à quoi ressemblait l'autre.
 J|x|3||Je n'ai jamais fait l'amour devant un miroir.
 J|x|3||Je n'ai jamais fait l'amour avec une webcam ou un téléphone qui filmait.
-J|x|3||Je n'ai jamais supprimé une vidéo coquine après une rupture.
-J|x|3||Je n'ai jamais gardé une vidéo coquine après une rupture.
+J|x|3||Je n'ai jamais supprimé une vidéo chaude après une rupture.
+J|x|3||Je n'ai jamais gardé une vidéo chaude après une rupture.
 J|x|3||Je n'ai jamais fait l'amour en visio avec quelqu'un à l'autre bout du monde.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un de plus de 15 ans de différence.
 J|x|3||Je n'ai jamais fait l'amour avec quelqu'un de beaucoup plus expérimenté qui m'a tout appris.
@@ -1642,36 +1615,27 @@ J|x|3||Je n'ai jamais fait l'amour avec des glaçons.
 J|x|3||Je n'ai jamais fait l'amour avec de la chantilly ou du chocolat.
 J|x|3||Je n'ai jamais fait l'amour avec de l'huile de massage partout sur les draps.
 J|x|3||Je n'ai jamais porté de la lingerie en latex ou en cuir.
-J|x|3||Je n'ai jamais joué au docteur à l'âge adulte.
 J|x|3||Je n'ai jamais fait un jeu de rôle prof et élève.
 J|x|3||Je n'ai jamais fait un jeu de rôle avec des inconnus qui se rencontrent dans un bar.
 J|x|3||Je n'ai jamais utilisé un costume pour un jeu de rôle.
-J|x|3||Je n'ai jamais dit des mots cochons qui m'ont fait rire moi-même.
 J|x|3||Je n'ai jamais dit quelque chose de cochon qui a complètement cassé l'ambiance.
-J|x|3||Je n'ai jamais appelé quelqu'un « papa » ou « maman » au lit.
 J|x|3||Je n'ai jamais eu un fétiche que je n'ai jamais avoué.
 J|x|3||Je n'ai jamais eu un fétiche des pieds.
 J|x|3||Je n'ai jamais été excité par un uniforme.
 J|x|3||Je n'ai jamais fantasmé sur un ou une collègue en pleine réunion.
 J|x|3||Je n'ai jamais fantasmé sur quelqu'un pendant un mariage.
 J|x|3|pn|Je n'ai jamais fantasmé sur le ou la partenaire de quelqu'un ici.
-J|x|3||Je n'ai jamais eu un plaisir solo dans un lieu public.
-J|x|3||Je n'ai jamais eu un plaisir solo dans un avion ou un train.
-J|x|3||Je n'ai jamais eu un plaisir solo chez quelqu'un d'autre.
-J|x|3||Je n'ai jamais eu un plaisir solo en pensant à un ex.
-J|x|3||Je n'ai jamais eu un plaisir solo en pensant à une célébrité.
-J|x|3||Je n'ai jamais eu un plaisir solo plus de trois fois dans la même journée.
-J|x|3||Je n'ai jamais été surpris pendant un plaisir solo.
+J|x|3||Je n'ai jamais pensé à un ex en me touchant.
 J|x|3||Je n'ai jamais regardé un porno avec quelqu'un qui ne voulait pas que je le sache.
 J|x|3||Je n'ai jamais regardé un porno qui m'a fait rire au lieu de m'exciter.
 J|x|3||Je n'ai jamais tapé une recherche porno vraiment honteuse.
 J|x|3||Je n'ai jamais reconnu quelqu'un que je connaissais dans un porno.
 J|x|3||Je n'ai jamais lu des histoires érotiques en ligne.
 J|x|3||Je n'ai jamais écrit une histoire érotique.
-J|x|3||Je n'ai jamais envoyé un message vocal coquin.
-J|x|3||Je n'ai jamais envoyé une vidéo coquine.
-J|x|3||Je n'ai jamais reçu une vidéo coquine de quelqu'un que je connaissais à peine.
-J|x|3||Je n'ai jamais vendu ou acheté des photos coquines.
+J|x|3||Je n'ai jamais envoyé un message vocal chaud.
+J|x|3||Je n'ai jamais envoyé une vidéo chaude.
+J|x|3||Je n'ai jamais reçu une vidéo chaude de quelqu'un que je connaissais à peine.
+J|x|3||Je n'ai jamais vendu ou acheté des photos chaudes.
 J|x|3||Je n'ai jamais pensé à ouvrir un OnlyFans.
 J|x|3||Je n'ai jamais été dans un club échangiste.
 J|x|3||Je n'ai jamais eu une relation libre.
@@ -1962,7 +1926,6 @@ J|d|2||Je n'ai jamais fait une fausse déclaration d'assurance.
 J|d|2||Je n'ai jamais revendu quelque chose qui ne m'appartenait pas.
 J|d|2||Je n'ai jamais gardé un portefeuille trouvé.
 J|d|2||Je n'ai jamais lu les messages de ma moitié et trouvé quelque chose.
-J|d|2||Je n'ai jamais caché une dette à ma famille.
 J|d|2||Je n'ai jamais emprunté de l'argent à mes parents en mentant sur la raison.
 J|d|2||Je n'ai jamais fait un mensonge qui dure depuis plus d'un an.
 J|d|2||Je n'ai jamais gardé un secret qui pourrait briser une amitié.
@@ -2147,9 +2110,8 @@ Q|x|2||Qui de nous swipe à droite sur tout le monde ?
 Q|x|2||Qui de nous est le plus difficile sur les applis ?
 Q|x|2||Qui de nous a la bio d'appli la plus gênante ?
 Q|x|2||Qui de nous a déjà payé un abonnement premium sur une appli de rencontre ?
-Q|x|2||Qui de nous a déjà matché avec quelqu'un de sa famille éloignée ?
 Q|x|2||Qui de nous a déjà rencontré quelqu'un d'une appli dans les cinq minutes après le match ?
-Q|x|2||Qui de nous a le plus de conversations coquines en cours en ce moment ?
+Q|x|2||Qui de nous a le plus de conversations chaudes en cours en ce moment ?
 Q|x|2||Qui de nous envoie les messages les plus suggestifs avec juste des emojis ?
 Q|x|2||Qui de nous a déjà envoyé un sexto à sa mère par erreur ?
 Q|x|2||Qui de nous a déjà reçu un nude en pleine réunion ?
@@ -2166,7 +2128,6 @@ Q|x|2||Qui de nous stalke les ex de ses dates ?
 Q|x|2||Qui de nous a un crush sur une célébrité complètement improbable ?
 Q|x|2||Qui de nous a un crush sur un personnage de série ?
 Q|x|2||Qui de nous a un crush sur un collègue en ce moment ?
-Q|x|2||Qui de nous a un crush sur quelqu'un de beaucoup trop jeune pour son goût... mais majeur ?
 Q|x|2||Qui de nous craque toujours pour les gens qui ne sont pas libres ?
 Q|x|2||Qui de nous craque toujours pour les mauvais garçons ou les mauvaises filles ?
 Q|x|2||Qui de nous craque pour les gens en uniforme ?
@@ -2206,14 +2167,13 @@ Q|x|2||Qui de nous a déjà été dans un bar à strip-tease ?
 Q|x|2||Qui de nous connaît le mieux les sex-shops de sa ville ?
 Q|x|2||Qui de nous rougit en passant devant un sex-shop ?
 Q|x|2||Qui de nous a déjà offert un sextoy pour un enterrement de vie de jeune fille ou de garçon ?
-Q|x|2||Qui de nous a déjà reçu un cadeau coquin devant toute sa famille ?
+Q|x|2||Qui de nous a déjà reçu un cadeau sexy devant toute sa famille ?
 Q|x|2||Qui de nous lit des romans érotiques dans le métro ?
 Q|x|2||Qui de nous a déjà regardé un film érotique en pensant que c'était un drame ?
-Q|x|2||Qui de nous fait des commentaires coquins pendant les films ?
+Q|x|2||Qui de nous fait des commentaires chauds pendant les films ?
 Q|x|2||Qui de nous fait les blagues les plus salaces en soirée ?
 Q|x|2||Qui de nous transforme toutes les phrases en sous-entendu ?
 Q|x|2||Qui de nous ne comprend jamais les sous-entendus ?
-Q|x|2||Qui de nous parle de sexe le plus librement avec ses parents ?
 Q|x|2||Qui de nous parle de sexe dès le premier rencard ?
 Q|x|2||Qui de nous pose les questions les plus gênantes en soirée ?
 Q|x|2||Qui de nous raconte tout de sa vie sexuelle à ses potes ?
@@ -2236,15 +2196,9 @@ Q|x|2||Qui de nous oublie toujours de fermer la porte de la salle de bain ?
 Q|x|2||Qui de nous se change devant tout le monde sans gêne ?
 Q|x|2||Qui de nous dort toujours en sous-vêtements chez les autres ?
 Q|x|2||Qui de nous est le plus pudique ?
-Q|x|2||Qui de nous a le plus de complexes alors qu'il n'a aucune raison ?
-Q|x|2||Qui de nous a le corps le plus sous-estimé ?
-Q|x|2||Qui de nous a la plus belle peau ?
 Q|x|2||Qui de nous a les plus belles fesses, d'après vous ?
 Q|x|2||Qui de nous a le plus beau sourire ?
 Q|x|2||Qui de nous a les yeux qui font le plus craquer ?
-Q|x|2||Qui de nous a les plus belles mains ?
-Q|x|2||Qui de nous sent toujours bon ?
-Q|x|2||Qui de nous a le parfum le plus envoûtant ?
 Q|x|2||Qui de nous a la voix la plus sexy ?
 Q|x|2||Qui de nous a l'accent le plus sexy quand il parle anglais ?
 Q|x|2||Qui de nous a le meilleur style pour séduire ?
@@ -2275,7 +2229,6 @@ Q|x|3||Qui de nous a déjà fait l'amour dans une voiture de police... ou presqu
 Q|x|3||Qui de nous a déjà été pris en flagrant délit par des inconnus ?
 Q|x|3||Qui de nous a déjà été pris en flagrant délit par la police ?
 Q|x|3||Qui de nous a déjà été pris en flagrant délit par un membre de sa famille ?
-Q|x|3||Qui de nous a déjà été pris en flagrant délit par un enfant ?
 Q|x|3||Qui de nous a déjà fait l'amour en se faisant filmer ?
 Q|x|3||Qui de nous a déjà fait l'amour devant une webcam ?
 Q|x|3||Qui de nous a déjà fait l'amour devant un miroir ?
@@ -2286,7 +2239,7 @@ Q|x|3||Qui de nous a une position préférée qu'il ne change jamais ?
 Q|x|3||Qui de nous préfère être au-dessus ?
 Q|x|3||Qui de nous préfère le matin ?
 Q|x|3||Qui de nous parle le plus pendant l'amour ?
-Q|x|3||Qui de nous dit les mots les plus cochons ?
+Q|x|3||Qui de nous dit les mots les plus sales ?
 Q|x|3||Qui de nous rit pendant l'amour ?
 Q|x|3||Qui de nous est le plus silencieux pendant l'amour ?
 Q|x|3||Qui de nous a l'endurance d'un marathonien ?
@@ -2297,7 +2250,6 @@ Q|x|3||Qui de nous a déjà simulé pour faire plaisir ?
 Q|x|3||Qui de nous a déjà simulé tellement mal qu'il s'est fait griller ?
 Q|x|3||Qui de nous a déjà eu un orgasme surprise ?
 Q|x|3||Qui de nous est multi-orgasmique ?
-Q|x|3||Qui de nous connaît le mieux le corps humain ?
 Q|x|3||Qui de nous fait les meilleurs massages ?
 Q|x|3||Qui de nous a les mains les plus douées ?
 Q|x|3||Qui de nous embrasse le mieux dans le cou ?
@@ -2311,12 +2263,11 @@ Q|x|3||Qui de nous aime se faire attacher ?
 Q|x|3||Qui de nous aime les fessées, données ou reçues ?
 Q|x|3||Qui de nous aime qu'on lui tire les cheveux ?
 Q|x|3||Qui de nous aime les bandeaux sur les yeux ?
-Q|x|3||Qui de nous aime qu'on lui chuchote des choses cochonnes ?
+Q|x|3||Qui de nous aime qu'on lui chuchote des choses sales ?
 Q|x|3||Qui de nous aime les jeux de pouvoir ?
 Q|x|3||Qui de nous a déjà testé le BDSM ?
 Q|x|3||Qui de nous a une tenue en cuir ou en latex dans son placard ?
 Q|x|3||Qui de nous a déjà joué au prof et à l'élève ?
-Q|x|3||Qui de nous a déjà joué au docteur à l'âge adulte ?
 Q|x|3||Qui de nous a déjà fait un jeu de rôle avec un faux prénom ?
 Q|x|3||Qui de nous a déjà fait semblant d'être un inconnu dans un bar avec sa moitié ?
 Q|x|3||Qui de nous a déjà utilisé de la crème fouettée au lit ?
@@ -2332,14 +2283,12 @@ Q|x|3||Qui de nous a déjà oublié un sextoy chez quelqu'un ?
 Q|x|3||Qui de nous a déjà fait découvrir un sextoy à quelqu'un ?
 Q|x|3||Qui de nous a déjà fait l'amour au téléphone pendant que quelqu'un dormait à côté ?
 Q|x|3||Qui de nous se fait plaisir tous les jours ?
-Q|x|3||Qui de nous s'est déjà fait plaisir au travail ?
-Q|x|3||Qui de nous s'est déjà fait surprendre en plein plaisir solo ?
-Q|x|3|pn|Qui de nous a déjà pensé à quelqu'un d'ici en se faisant plaisir ?
+Q|x|3||Qui de nous s'est déjà fait surprendre en train de se toucher ?
 Q|x|3||Qui de nous a l'historique porno le plus varié ?
 Q|x|3||Qui de nous a déjà reconnu quelqu'un dans un porno ?
 Q|x|3||Qui de nous regarderait un porno avec sa moitié sans gêne ?
 Q|x|3||Qui de nous a déjà payé pour un site porno ?
-Q|x|3||Qui de nous a déjà vendu des photos coquines ?
+Q|x|3||Qui de nous a déjà vendu des photos chaudes ?
 Q|x|3||Qui de nous ouvrirait un OnlyFans si on lui garantissait 5 000 euros par mois ?
 Q|x|3||Qui de nous a déjà eu un sugar daddy ou une sugar mommy ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un pour un repas gratuit ?
@@ -2383,18 +2332,18 @@ Q|x|3|pn|Qui de nous formerait le meilleur duo au lit avec quelqu'un d'ici ?
 Q|x|3|pn|Qui de nous pourrait coucher avec deux personnes d'ici sans que ça fasse de drame ?
 Q|x|3|pn|Qui de nous a le plus de chances de finir la nuit avec {B} ?
 Q|x|3|pn|Qui de nous connaît le mieux les goûts de {B} au lit ?
-Q|x|3|pn|Qui de nous a déjà eu un rêve coquin avec {B} ?
+Q|x|3|pn|Qui de nous a déjà eu un rêve chaud avec {B} ?
 Q|x|3|pn|Qui de nous accepterait de faire un strip-tease pour {B} ?
 Q|x|2|pn|Qui de nous embrasserait {B} pour 100 euros ?
 Q|x|2|pn|Qui de nous trouve que {B} a l'air d'embrasser très bien ?
 Q|x|2|pn|Qui de nous a déjà regardé {B} avec des yeux un peu trop insistants ?
 Q|x|2|pn|Qui de nous serait le plus gêné de partager un lit avec {B} ?
 Q|x|2|pn|Qui de nous {B} a déjà dragué sans le dire ?
-Q|x|2|pn|Qui de nous {B} emmènerait en week-end coquin ?
+Q|x|2|pn|Qui de nous {B} emmènerait en week-end chaud ?
 Q|x|3|pn|Qui de nous {B} choisirait pour un plan à trois ?
 Q|x|2|p|Qui de nous a entendu les nuits de {B} à travers un mur ?
 Q|x|2|p|Qui de nous connaît le body count de {B} ?
-Q|x|3|p|Qui de nous a déjà vu {B} dans une situation coquine ?
+Q|x|3|p|Qui de nous a déjà vu {B} dans une situation chaude ?
 Q|s|1||Qui de nous connaît les videurs de toutes les boîtes de la ville ?
 Q|s|1||Qui de nous a la pire tolérance à l'alcool ?
 Q|s|1||Qui de nous a la meilleure tolérance à l'alcool sans jamais l'avoir cherché ?
@@ -2685,7 +2634,6 @@ Q|f|1||Qui de nous était le plus populaire au lycée ?
 Q|f|1||Qui de nous était le chouchou des profs ?
 Q|f|1||Qui de nous était le cancre de la classe ?
 Q|f|1||Qui de nous a le plus de souvenirs honteux d'enfance ?
-Q|f|1||Qui de nous a été le bébé le plus moche ?
 Q|f|1||Qui de nous est le plus proche de sa mère ?
 Q|f|1||Qui de nous appelle ses parents tous les jours ?
 Q|f|1||Qui de nous ressemble le plus à son père ou sa mère ?
@@ -2754,7 +2702,6 @@ V|x|2||Qui est la dernière personne qui t'a dragué ?
 V|x|2||Qui est la dernière personne que tu as draguée ?
 V|x|2||Quelle célébrité te fait complètement craquer ?
 V|x|2||Quel personnage de film ou de série te fait de l'effet ?
-V|x|2||As-tu déjà eu un crush sur quelqu'un de ta famille éloignée ?
 V|x|2||As-tu déjà eu un crush sur un prof ? Lequel ?
 V|x|2||As-tu déjà eu un crush sur ton boss ou un collègue ?
 V|x|2||As-tu déjà eu un crush sur le ou la partenaire d'un pote ?
@@ -2785,7 +2732,7 @@ V|x|2||Raconte la fois où tu as dragué quelqu'un à un mariage.
 V|x|2||Raconte ton histoire avec quelqu'un que tu n'aurais jamais dû approcher.
 V|x|2||Raconte la fois où tu as reçu un nude que tu n'attendais pas du tout.
 V|x|2||Raconte le sexto le plus gênant que tu aies envoyé.
-V|x|2||Raconte la fois où tu as envoyé un message coquin à la mauvaise personne.
+V|x|2||Raconte la fois où tu as envoyé un message chaud à la mauvaise personne.
 V|x|2||Raconte la conversation la plus chaude que tu aies eue par messages.
 V|x|2||As-tu déjà eu une relation uniquement par messages ? Jusqu'où c'est allé ?
 V|x|2||As-tu déjà envoyé un nude ? Il y a combien de temps ?
@@ -2803,9 +2750,8 @@ V|x|2||As-tu déjà acheté une tenue sexy ? Tu l'as portée ?
 V|x|2||As-tu déjà fait un strip-tease ? Pour qui ?
 V|x|2||As-tu déjà reçu un lap dance ? Raconte.
 V|x|2||As-tu déjà été dans un sex-shop ? Qu'est-ce que tu as acheté ?
-V|x|2||As-tu déjà offert un cadeau coquin ? À qui ?
+V|x|2||As-tu déjà offert un cadeau sexy ? À qui ?
 V|x|2||As-tu déjà fait du naturisme ou un bain de minuit tout nu ?
-V|x|2||Quel est ton plus gros complexe physique ?
 V|x|2||Quelle est la partie de ton corps dont tu es le plus fier ?
 V|x|2||Quelle est la chose la plus sexy chez toi, selon toi ?
 V|x|2||Qu'est-ce qu'on t'a dit de plus flatteur sur ton physique ?
@@ -2821,8 +2767,8 @@ V|x|2||Combien de personnes as-tu eues dans ta vie dont tu ne te rappelles pas l
 V|x|2||Avec combien de personnes as-tu couché cette année ?
 V|x|2||Quel a été ton plus long moment sans rien ? Tu as tenu comment ?
 V|x|2||À quand remonte ta dernière fois ?
-V|x|2||À quand remonte ton dernier plaisir solo ?
-V|x|2||Quelle est la chose la plus coquine que tu aies faite cette semaine ?
+V|x|2||À quand remonte la dernière fois où tu t'es touché ?
+V|x|2||Quelle est la chose la plus chaude que tu aies faite cette semaine ?
 V|x|2||As-tu déjà fait l'amour avec la télé ou un film en fond ? Qu'est-ce qui passait ?
 V|x|2||Quelle est ta playlist idéale pour une nuit à deux ?
 V|x|2||As-tu déjà eu une crampe ou une blessure pendant ? Raconte.
@@ -2863,7 +2809,6 @@ V|x|3||Raconte ton plan à trois, ou ce qui s'en est le plus approché.
 V|x|3||Raconte la fois où tu as été le plus près de te faire prendre en public.
 V|x|3||Raconte ta nuit la plus longue, du début à la fin.
 V|x|3||Raconte ta pire panne ou celle de l'autre.
-V|x|3||Raconte ton meilleur orgasme.
 V|x|3||Raconte la fois où tu as dû simuler.
 V|x|3||Raconte la fois où quelqu'un t'a fait découvrir quelque chose au lit.
 V|x|3||Raconte la fois où tu as fait découvrir quelque chose à quelqu'un au lit.
@@ -2871,7 +2816,6 @@ V|x|3||Raconte la fois où tu as utilisé un objet improbable au lit.
 V|x|3||Raconte ton expérience la plus kinky.
 V|x|3||Raconte ton jeu de rôle le plus mémorable.
 V|x|3||Raconte la fois où un sextoy t'a mis dans l'embarras.
-V|x|3||Raconte la fois où tu as été surpris pendant un plaisir solo.
 V|x|3||Raconte la fois où tu as couché avec quelqu'un en couple.
 V|x|3||Raconte la fois où tu as couché avec quelqu'un par vengeance.
 V|x|3||Raconte la fois où tu as couché avec un ex alors que tu ne devais pas.
@@ -2900,7 +2844,7 @@ V|x|3||As-tu déjà été attaché ? Tu as aimé ?
 V|x|3||As-tu déjà attaché quelqu'un ?
 V|x|3||As-tu déjà donné une fessée au lit ? Et reçu ?
 V|x|3||Aimes-tu qu'on te parle crûment au lit ?
-V|x|3||Quels mots cochons dis-tu au lit ?
+V|x|3||Quels mots sales dis-tu au lit ?
 V|x|3||Es-tu bruyant au lit ? Sur une échelle de 1 à 10 ?
 V|x|3||As-tu déjà eu des marques le lendemain ? Où ?
 V|x|3||As-tu déjà testé le BDSM ? Jusqu'où ?
@@ -2913,9 +2857,6 @@ V|x|3||As-tu déjà regardé un porno à deux ? C'était comment ?
 V|x|3||Quel genre de porno regardes-tu ?
 V|x|3||Combien de fois par semaine regardes-tu du porno ?
 V|x|3||As-tu déjà regardé un porno qui t'a choqué ?
-V|x|3||Ton plaisir solo : où, quand, et à quelle fréquence ?
-V|x|3||Quel est l'endroit le plus improbable où tu t'es fait plaisir ?
-V|x|3|pn|As-tu déjà pensé à quelqu'un d'ici en te faisant plaisir ? Sans nom, juste oui ou non.
 V|x|3||As-tu un sextoy préféré ? Décris-le sans le nommer.
 V|x|3||Combien de sextoys possèdes-tu ?
 V|x|3||As-tu déjà emmené un sextoy en voyage ?
@@ -2946,7 +2887,6 @@ V|x|3||As-tu déjà eu une panne ? Comment tu as géré ?
 V|x|3||Préfères-tu les rapides et intenses, ou les longs et lents ?
 V|x|3||Qu'est-ce que tu fais juste après l'amour ?
 V|x|3||Quel est le pire truc que quelqu'un ait dit juste après ?
-V|x|3||As-tu déjà pleuré après l'amour ? Pourquoi ?
 V|x|3|pn|Si tu devais passer une nuit avec quelqu'un ici, qui serait ton premier choix et ton deuxième ?
 V|x|3|pn|Qui ici a l'air le plus kinky ?
 V|x|3|pn|Qui ici a l'air le plus sage au lit ?
@@ -3104,9 +3044,7 @@ V|d|1||Quelle est ta plus grande peur ?
 V|d|1||Quelle est la chose la plus égoïste que tu aies faite ?
 V|d|1||Quelle est la chose la plus méchante que tu aies pensée de quelqu'un ?
 V|d|1||As-tu déjà été jaloux d'un ami ? De quoi ?
-V|d|1||As-tu déjà souhaité qu'il arrive malheur à quelqu'un ?
 V|d|1||Quelle est la chose la plus chère que tu aies achetée en secret ?
-V|d|1||As-tu des dettes que personne ne connaît ?
 V|d|1||Combien gagnes-tu, à peu près ?
 V|d|1||As-tu déjà menti sur ton salaire ?
 V|d|1||As-tu déjà fait semblant d'être malade ? Pour quoi ?
@@ -3180,7 +3118,6 @@ V|f|1||Si tu gagnais un million demain, quelle serait la première chose que tu 
 V|f|1||Si tu étais un animal, lequel serais-tu, honnêtement ?
 V|f|1|pn|Si tu pouvais échanger ta vie avec quelqu'un ici pendant une semaine, ce serait qui ?
 V|f|1||Quel métier ferais-tu si l'argent n'existait pas ?
-V|f|1||Quelle est la dernière chose qui t'a fait pleurer ?
 V|f|1||Quelle est la dernière chose qui t'a fait rire aux larmes ?
 V|f|1||Quel est ton plaisir coupable musical ?
 V|f|1||Quelle est la série que tu as honte d'avoir regardée en entier ?
@@ -3200,24 +3137,15 @@ V|f|1|pn|Imite {B} en une phrase.
 A|x|2||Regarde {B} dans les yeux et dis-lui une phrase de drague, le plus sérieusement possible.
 A|x|2|pn|Fais un compliment sur le physique de chaque joueur, sans répéter le même.
 A|x|2||Décris ton rencard parfait à {B} comme si tu l'invitais.
-A|x|2||Mime ton premier baiser avec ta main.
 A|x|2||Mime ta technique de drague en boîte.
-A|x|2||Fais ta meilleure démarche sexy jusqu'à la porte et reviens.
 A|x|2||Fais ton regard le plus séducteur à {B} pendant 10 secondes.
-A|x|2|pn|Fais un clin d'œil à chaque joueur, chacun d'une façon différente.
 A|x|2||Lis la dernière recherche de ton navigateur avec une voix sensuelle.
 A|x|2||Lis la composition d'une bouteille avec une voix érotique.
-A|x|2||Fais une déclaration enflammée à ton verre.
-A|x|2||Fais un massage des mains à {B} pendant 30 secondes. Si {B} refuse, c'est {B} qui boit.
 A|x|2||Fais un massage des épaules à la personne de ton choix pendant 30 secondes.
 A|x|2||Danse un slow avec {B} pendant 20 secondes. Si {B} refuse, c'est {B} qui boit.
 A|x|2||Danse de la façon la plus sexy possible pendant 15 secondes.
-A|x|2||Fais une danse sensuelle avec une chaise comme partenaire.
-A|x|2||Chante une chanson d'amour à {B} en le regardant dans les yeux.
 A|x|2||Assieds-toi à côté de {B} et colle-toi jusqu'au prochain tour. Si {B} refuse, c'est {B} qui boit.
 A|x|2||Laisse {B} choisir un mot que tu devras placer dans toutes tes phrases jusqu'au prochain tour.
-A|x|2||Raconte ton dernier rêve coquin en mimant les moments clés.
-A|x|2|pn|Mime une scène de film romantique célèbre avec {B}. Les autres doivent deviner.
 A|x|2||Enlève tes chaussettes avec les dents.
 A|x|2||Enlève un accessoire de la façon la plus sexy possible.
 A|x|2||Enlève un vêtement au choix des autres joueurs, ou prends {s3}.
@@ -3232,15 +3160,7 @@ A|x|2||Envoie « tu fais quoi ce soir ? » à ton dernier match.
 A|x|2||Laisse {B} choisir une personne de tes contacts à qui tu envoies un compliment osé.
 A|x|2||Écris un sexto parfait pour {B} et lis-le à voix haute.
 A|x|2||Décris ton type idéal en regardant {B}.
-A|x|2||Imite la tête que tu fais quand quelqu'un te plaît.
-A|x|2||Fais deviner aux autres ta position préférée en ne disant que des mots qui riment.
-A|x|2||Fais ta meilleure imitation d'un acteur de film érotique.
-A|x|2||Fais une pub de 30 secondes pour vendre ton corps comme un produit de luxe.
-A|x|2||Décris ton corps comme une annonce immobilière.
-A|x|2||Dis à voix haute ton surnom coquin préféré.
 A|x|2||Raconte en 20 secondes ta dernière nuit, sans donner de nom.
-A|x|2||Fais un bisou sur le front de la personne de ton choix.
-A|x|2|pn|Fais un bisou dans la main de chaque joueur.
 A|x|2||Fais un câlin de dix secondes à {B}. Si {B} refuse, c'est {B} qui boit.
 A|x|2||Laisse {B} te faire un suçon sur le bras. Tu peux refuser et prendre {s3}.
 A|x|2||Laisse {B} te dessiner un cœur sur la joue avec du rouge à lèvres ou un feutre.
@@ -3270,10 +3190,7 @@ A|x|3||Laisse {B} s'asseoir sur tes genoux pendant deux tours. Tu peux refuser e
 A|x|3||Garde la main de {B} sur ta cuisse pendant trois tours. Tu peux refuser et prendre {s3}.
 A|x|3||Mime ta position préférée avec {B}, habillés, sans contact. Si {B} refuse, c'est {B} qui boit.
 A|x|3||Simule un orgasme de dix secondes, le plus réaliste possible.
-A|x|3||Fais ta meilleure imitation de toi en plein acte, juste avec la voix.
-A|x|3||Fais un gémissement à chaque fois que tu bois, jusqu'à ton prochain tour.
 A|x|3||Mime ta technique préférée avec un objet de la table.
-A|x|3||Raconte ta dernière nuit en mimant tout, sans un mot.
 A|x|3||Décris ce que tu portes sous tes vêtements, avec le plus de détails possible.
 A|x|3||Montre tes sous-vêtements pendant trois secondes, ou prends {s4}.
 A|x|3||Retire ton soutien-gorge sans enlever ton haut, ou enlève ta ceinture en musique.
@@ -3297,12 +3214,11 @@ A|x|3|c|Choisis un vêtement que {B} doit enlever.
 A|x|3|c|Assieds-toi sur {B} pendant deux tours.
 A|x|3|c|Laisse {B} choisir où tu l'embrasses, pendant dix secondes.
 A|x|3|c|Fais un strip-tease d'une minute pour {B}, en musique.
-A|x|2|c|Écris un mot coquin sur la main de {B}.
+A|x|2|c|Écris un mot sale sur la main de {B}.
 A|x|2|c|Décris à {B} votre nuit idéale.
 A|s|1||Bois une gorgée en faisant un discours sur ta boisson.
 A|s|1||Prépare le pire cocktail possible avec ce qu'il y a sur la table et goûte-le.
 A|s|1||Fais le serveur pour tout le monde jusqu'à ton prochain tour.
-A|s|1|pn|Trinque avec chaque joueur en lui disant pourquoi tu l'aimes bien.
 A|s|1||Porte un toast à la personne la plus drôle de la soirée.
 A|s|1||Bois ton prochain verre en tenant ton verre avec deux doigts.
 A|s|1||Danse sur la prochaine chanson, quelle qu'elle soit.
@@ -3314,11 +3230,7 @@ A|s|1||Imite la personne la plus bourrée que tu aies jamais vue.
 A|s|1||Imite toi-même en fin de soirée.
 A|s|1||Raconte une anecdote de soirée en moins de 30 secondes. Si personne ne rit, prends {s2}.
 A|s|1||Fais un discours d'anniversaire pour {B}, même si ce n'est pas son anniversaire.
-A|s|1||Fais une ola toute seule.
 A|s|1||Appelle un pote absent et invite-le à la soirée en chantant.
-A|s|1||Fais un tour de magie, même raté.
-A|s|1||Fais la météo de la soirée comme à la télé.
-A|s|1|pn|Joue au videur : chaque joueur doit te convaincre de le laisser entrer.
 A|s|1||Change de place avec la personne la plus éloignée de toi.
 A|s|1||Choisis un partenaire de boisson jusqu'à la fin de la partie.
 A|s|1||Bois sans quitter {B} des yeux.
@@ -3326,35 +3238,26 @@ A|f|1||Parle en verlan jusqu'à ton prochain tour.
 A|f|1||Parle uniquement en posant des questions jusqu'à ton prochain tour.
 A|f|1||Réponds à tout par « c'est exact » jusqu'à ton prochain tour.
 A|f|1||Fais un compliment à chaque phrase jusqu'à ton prochain tour.
-A|f|1||Parle comme un pirate jusqu'à ton prochain tour.
 A|f|1||Parle comme un présentateur de télé-achat jusqu'à ton prochain tour.
 A|f|1||Fais le commentaire sportif de ce que fait {B} pendant 30 secondes.
 A|f|1||Raconte ta vie en trois phrases, comme la bande-annonce d'un film.
 A|f|1||Invente une chanson sur {B} et chante-la.
 A|f|1||Fais un rap sur la soirée.
-A|f|1||Fais une impro théâtrale sur un thème choisi par {B}.
 A|f|1|pn|Mime un métier, les autres ont 30 secondes pour deviner.
 A|f|1|pn|Mime un film, les autres ont 30 secondes pour deviner.
 A|f|1|pn|Mime une célébrité, les autres ont 30 secondes pour deviner.
 A|f|1|pn|Fais ta meilleure imitation d'un animal choisi par les autres.
-A|f|1||Fais ta meilleure imitation d'un bébé.
 A|f|1||Fais ta meilleure imitation d'un vieux monsieur ou d'une vieille dame.
 A|f|1||Fais ta meilleure imitation d'un prof.
 A|f|1||Fais ta meilleure imitation de ta mère.
 A|f|1|pn|Fais ta meilleure imitation de quelqu'un ici, les autres doivent deviner.
-A|f|1||Fais 20 secondes de stand-up.
 A|f|1||Raconte la pire blague que tu connaisses.
 A|f|1|pn|Fais rire chaque joueur, un par un. Ceux qui ne rient pas distribuent {s1}.
 A|f|1|pn|Garde un sérieux absolu pendant que les autres essaient de te faire rire 30 secondes.
 A|f|1||Tiens en équilibre sur un pied jusqu'à ton prochain tour.
 A|f|1||Fais 10 pompes.
 A|f|1||Fais 20 squats en chantant.
-A|f|1||Fais la roue, ou essaie.
 A|f|1||Marche comme un mannequin jusqu'à la cuisine et reviens.
-A|f|1||Rampe jusqu'à la porte et reviens.
-A|f|1||Fais le tour de la pièce à cloche-pied.
-A|f|1||Mets tes chaussettes sur tes mains jusqu'à ton prochain tour.
-A|f|1||Mets une cuillère sur ton nez et tiens-la 10 secondes.
 A|f|1||Mange une cuillère de moutarde, de sauce piquante ou de citron.
 A|f|1||Mange quelque chose choisi par {B} les yeux fermés.
 A|f|1||Bois un verre d'eau la tête à l'envers, ou essaie.
@@ -3362,7 +3265,6 @@ A|f|1||Fais un nœud de cravate à {B}, ou une tresse.
 A|f|1||Laisse {B} te coiffer comme il ou elle veut.
 A|f|1||Laisse {B} te maquiller en 30 secondes.
 A|f|1||Laisse {B} te dessiner quelque chose sur le bras.
-A|f|1||Porte un objet sur la tête jusqu'à ton prochain tour.
 A|f|1||Parle avec un accent du Sud jusqu'à ton prochain tour.
 A|f|1||Parle avec un accent belge, suisse ou québécois jusqu'à ton prochain tour.
 A|f|1||Fais une vidéo de toi en train de danser et envoie-la à un membre de ta famille.
@@ -3386,10 +3288,6 @@ A|t|2||Donne ton téléphone déverrouillé à {B} pendant une minute.
 A|t|2|pn|Laisse les autres lire ta dernière conversation de groupe.
 A|a|1||Envoie un message à ton premier crush.
 A|a|1||Appelle ton ex et demande-lui une recette de cuisine.
-A|a|1||Écris un poème d'amour pour le joueur de ton choix.
-A|a|1||Fais une demande en mariage à une plante ou un objet.
-A|a|1||Joue la scène d'une rupture dramatique avec {B}.
-A|a|1||Joue la scène d'un premier rencard gênant avec {B}.
 A|a|1||Fais le profil d'appli de rencontre de {B} à voix haute.
 A|a|2||Envoie « on devrait se revoir » à un ex.
 A|a|2||Like la photo la plus récente de ton ex.
@@ -3451,7 +3349,6 @@ P|x|2||Avoir une moitié trop jalouse // une moitié trop libre
 P|x|2||Savoir que ta moitié fantasme sur ton meilleur ami // sur ta sœur ou ton frère
 P|x|2||Que ta moitié fantasme sur une célébrité // sur un collègue
 P|x|2||Découvrir que ta moitié regarde beaucoup de porno // qu'elle n'en regarde jamais
-P|x|2||Trouver les sextoys de tes parents // que tes parents trouvent les tiens
 P|x|2||Acheter un sextoy en magasin devant ton ex // le recevoir au bureau devant tes collègues
 P|x|2||Un sextoy qui vibre dans ton sac en réunion // dans ta valise à l'aéroport
 P|x|2||Avoir la meilleure technique pour embrasser // la meilleure technique pour masser
@@ -3465,12 +3362,11 @@ P|x|2||Séduire avec ton corps // séduire avec ton humour
 P|x|2||Faire le premier pas à chaque fois // ne jamais faire le premier pas
 P|x|2||Être dragué tout le temps // ne jamais être dragué mais toujours réussir à draguer
 P|x|2||Te faire draguer par une célébrité que tu trouves moche // ne jamais rencontrer ta célébrité préférée
-P|x|2||Sortir avec un acteur de films pour adultes // avec un prêtre ou une religieuse défroqué
 P|x|2||Sortir avec quelqu'un de très expérimenté // avec quelqu'un de vierge
 P|x|2||Être la première fois de quelqu'un // avoir ta première fois avec quelqu'un de très expérimenté
 P|x|2||Revivre ta première fois // revivre ta meilleure nuit
 P|x|2||Effacer ta première fois de ta mémoire // effacer ta pire nuit
-P|x|2|pn|Embrasser {B} devant tout le monde // raconter ton dernier rêve coquin devant tout le monde
+P|x|2|pn|Embrasser {B} devant tout le monde // raconter ton dernier rêve chaud devant tout le monde
 P|x|2|pn|Un slow avec {B} // un slow avec la personne à ta gauche
 P|x|2|pn|Que {B} lise ta dernière conversation avec ton crush // qu'il lise tes recherches Google
 P|x|2|pn|Passer une nuit en cuillère avec {B} // une nuit en cuillère avec la personne de ton choix ici
@@ -3501,9 +3397,7 @@ P|x|3||Ouvrir un OnlyFans à 10 000 euros par mois // garder ton travail actuel
 P|x|3||Faire un film pour adultes payé un million // ne jamais être riche
 P|x|3||Que ta sextape fuite // que tes sextos fuitent
 P|x|3||Que ta mère tombe sur ton historique porno // sur tes sextos
-P|x|3||Regarder un porno avec tes parents dans la pièce // avec ton ex
-P|x|3||Ne plus jamais regarder de porno // ne plus jamais avoir de plaisir solo
-P|x|3||Un plaisir solo par jour obligatoire // aucun plaisir solo pendant un an
+P|x|3||Ne plus jamais regarder de porno // ne plus jamais te toucher
 P|x|3||Faire l'amour une heure par jour // une nuit entière par semaine
 P|x|3||Faire l'amour dix fois en une journée puis rien pendant un mois // une fois par jour tous les jours
 P|x|3||Avoir un orgasme à chaque éternuement // ne plus jamais avoir d'orgasme
@@ -3524,7 +3418,6 @@ P|x|3||Avoir un fétiche bizarre // ne jamais avoir de désir pour rien
 P|x|3||Faire l'amour avec de la chantilly // avec de l'huile de massage
 P|x|3||Des glaçons // de la cire de bougie
 P|x|3||Un sextoy contrôlé à distance par ta moitié pendant un dîner // pendant une réunion
-P|x|3||Un sextoy qui parle // un sextoy qui chante
 P|x|3||Faire l'amour en silence chez tes parents // bruyamment à l'hôtel
 P|x|3||Faire l'amour dans les toilettes d'un avion // dans une cabine d'essayage
 P|x|3||Faire l'amour dans un ascenseur // dans un parking
@@ -3544,7 +3437,7 @@ P|x|3|pn|Que {B} te voie nu // voir {B} nu
 P|x|3|pn|Passer une nuit avec la personne à ta gauche // avec la personne à ta droite
 P|x|3|pn|Que tout le monde ici lise tes sextos // que tout le monde ici regarde ta galerie cachée
 P|x|3|c|Que {B} réalise ton fantasme ce soir // que tu réalises le sien
-P|x|3|c|Un week-end coquin avec {B} à l'hôtel // une nuit sauvage à la maison
+P|x|3|c|Un week-end chaud avec {B} à l'hôtel // une nuit sauvage à la maison
 P|x|3|c|Que {B} te fasse un strip-tease // un massage d'une heure
 P|x|2|c|Un câlin d'une heure avec {B} // un bain à deux
 P|f|1||Pouvoir voler mais seulement à 2 km/h // courir à 100 km/h mais sans pouvoir t'arrêter
@@ -3767,7 +3660,6 @@ D|x|3||Ceux qui ont déjà été attachés prennent {s3}.
 D|x|3||Ceux qui ont déjà fait l'amour dans un lieu public prennent {s3}.
 D|x|3||Ceux qui ont déjà couché avec quelqu'un ici prennent {s4}.
 D|x|3||Ceux qui ont déjà regardé un porno cette semaine prennent {s2}.
-D|x|3||Ceux qui ont déjà eu un plaisir solo aujourd'hui prennent {s3}.
 D|x|3||Tout le monde enlève un vêtement, sauf {A}. Ceux qui refusent prennent {s3}.
 D|x|3||{A} choisit deux joueurs qui doivent s'embrasser sur la joue. S'ils refusent, ils prennent {s3}.
 D|t|1||Tout le monde ouvre sa dernière conversation. Le message le plus récent le plus gênant prend {s2}.
@@ -3786,7 +3678,7 @@ R|f|1||Nouvelle règle : tout le monde parle avec un accent anglais pendant 5 to
 R|f|1||Nouvelle règle : interdit d'utiliser la lettre « s » en parlant pendant 3 tours. Chaque erreur : {s1}.
 R|f|1||Nouvelle règle : chaque fois que quelqu'un dit « je », il prend {s1}, jusqu'au prochain tour de {A}.
 R|a|1||Nouvelle règle : interdit de prononcer le prénom d'un ex jusqu'à la fin de la partie. Chaque erreur : {s2}.
-R|x|2||Nouvelle règle : chaque fois que quelqu'un fait un sous-entendu coquin, il prend {s1}, jusqu'au prochain tour de {A}.
+R|x|2||Nouvelle règle : chaque fois que quelqu'un fait un sous-entendu chaud, il prend {s1}, jusqu'au prochain tour de {A}.
 R|x|2||Nouvelle règle : {A} et {B} doivent se tenir la main pendant 5 tours. Celui qui lâche prend {s2}.
 R|x|3||Nouvelle règle : chaque fois que {A} boit, la personne à sa droite doit lui faire un compliment osé.
 T|s|1||Thème : marques de vodka
@@ -3820,8 +3712,8 @@ T|a|1||Thème : couples célèbres
 T|a|1||Thème : lieux de premier rencard
 T|t|1||Thème : applis sur ton téléphone
 T|t|1||Thème : youtubeurs
-T|x|2||Thème : surnoms coquins
-T|x|2||Thème : mots qui ont un double sens coquin
+T|x|2||Thème : surnoms sexy
+T|x|2||Thème : mots qui ont un double sens sexuel
 T|x|3||Thème : endroits insolites pour faire l'amour
 T|x|3||Thème : films érotiques
 T|x|3||Thème : sous-vêtements
@@ -3830,7 +3722,6 @@ V|x|2||Quelle est la plus longue période où tu as parlé à quelqu'un avant de
 V|x|2||As-tu déjà eu un crush sur quelqu'un rencontré en vacances que tu n'as jamais revu ?
 V|x|2||As-tu déjà dragué quelqu'un de beaucoup trop bien pour toi et réussi ?
 V|x|2||Quel est le plus gros râteau que tu aies pris ?
-V|x|2||As-tu déjà été dragué par quelqu'un de ta famille éloignée ?
 V|x|2||As-tu déjà dragué quelqu'un uniquement pour un verre gratuit ?
 V|x|2||As-tu déjà accepté un rencard par pitié ?
 V|x|2||Quelle est la chose la plus gênante que tu aies dite à un crush ?
@@ -3838,14 +3729,13 @@ V|x|2||Quel est le message le plus long que tu aies écrit à un crush ?
 V|x|2||As-tu déjà écrit un message à quelqu'un juste pour qu'il voie ta nouvelle photo ?
 V|x|2||As-tu déjà fait exprès de croiser quelqu'un qui te plaisait ?
 V|x|2||As-tu déjà menti sur tes goûts pour plaire à quelqu'un ?
-V|x|2||Quel est le cadeau le plus coquin que tu aies offert ou reçu ?
+V|x|2||Quel est le cadeau le plus chaud que tu aies offert ou reçu ?
 V|x|2||Quelle est ta tenue la plus sexy, et quand l'as-tu portée pour la dernière fois ?
 V|x|2||As-tu déjà été pris en photo à ton insu dans une situation gênante ?
 V|x|2||Quelle est la chose la plus osée que tu aies faite en vacances ?
 V|x|2||As-tu déjà fait un bisou à quelqu'un juste pour voir la réaction de son partenaire ?
 V|x|2||Combien de temps peux-tu passer sans embrasser personne avant que ça te manque ?
 V|x|2||Préfères-tu les câlins avant ou après ?
-V|x|2||Qu'est-ce qui te met mal à l'aise au lit ?
 V|x|2||Quel est le meilleur conseil de séduction qu'on t'ait donné ?
 V|x|2|pn|Quel conseil de séduction donnerais-tu à tout le monde ici ?
 V|x|2||Quelle est ta plus grosse erreur de séduction ?
@@ -3881,32 +3771,24 @@ V|x|2|pn|Qui ici a les plus beaux yeux ?
 V|x|2|pn|Qui ici a la voix la plus sexy ?
 V|d|1||Quelle est la chose que tu as faite dont tu es secrètement fier ?
 V|d|1||Quelle est la chose la plus courageuse que tu aies faite ?
-V|d|1||Quel est le moment où tu as eu le plus peur dans ta vie ?
-V|d|1||Quel est le conseil que tu aurais aimé recevoir à 15 ans ?
-V|d|1||Qu'est-ce que tu changerais dans ta vie si tu pouvais ?
 V|a|1||Quelle est la chose la plus mignonne qu'on ait faite pour toi ?
 V|a|1||Quel est le premier rencard dont tu te souviens le mieux ?
 V|a|1||À quoi ressemblerait ta demande en mariage parfaite ?
 V|s|1||Quel est le meilleur after que tu aies fait ?
 V|s|1||Qui est la personne la plus folle que tu aies rencontrée en soirée ?
-A|x|2||Fais deviner aux autres ton type idéal en mimant uniquement.
 A|x|2||Raconte ton premier baiser avec la voix d'un commentateur sportif.
 A|x|2||Fais un compliment osé à la personne en face de toi.
 A|x|2||Fais semblant de draguer un objet de la pièce pendant 20 secondes.
 A|x|2||Danse sensuellement sur la prochaine chanson pendant 15 secondes.
-A|x|2||Écris ton prénom en l'air avec tes hanches.
 A|x|2||Imite ta technique pour séduire quelqu'un en boîte.
-A|x|2||Laisse {B} choisir un emoji coquin que tu envoies à ton dernier contact.
+A|x|2||Laisse {B} choisir un emoji chaud que tu envoies à ton dernier contact.
 A|x|2||Fais un massage de 20 secondes à la personne à ta gauche. Si elle refuse, elle boit.
 A|x|2||Regarde la personne de ton choix dans les yeux pendant 15 secondes sans parler.
 A|x|2||Fais un bisou sur la joue de la personne la plus proche de toi.
 A|x|3||Enlève une chaussure et une chaussette de la façon la plus sexy possible.
 A|x|3||Fais un strip-tease d'un seul vêtement sur la musique choisie par {B}.
-A|x|3||Laisse {B} t'écrire un mot coquin sur le ventre au feutre. Tu peux refuser et prendre {s4}.
+A|x|3||Laisse {B} t'écrire un mot sale sur le ventre au feutre. Tu peux refuser et prendre {s4}.
 A|x|3||Décris ta dernière nuit en cinq mots.
-A|x|3||Mime ce que tu ferais si tu te retrouvais seul avec ton crush dans un ascenseur.
-A|x|3||Fais le bruit que tu fais au lit, version courte.
-A|x|3||Mets ta main sur le cœur de {B} pendant 20 secondes en le regardant. Si {B} refuse, c'est {B} qui boit.
 A|x|3||Laisse la personne de ton choix te bander les yeux et te faire deviner qui t'embrasse sur la joue.
 A|x|3||Raconte ton fantasme à l'oreille de {B}, qui doit le résumer à voix haute en un mot.
 A|x|3|c|Embrasse {B} pendant une minute entière.
@@ -3914,9 +3796,7 @@ A|x|3|c|Enlève tes chaussettes à {B} avec tes dents.
 A|x|3|c|Laisse {B} t'enlever un vêtement de son choix.
 A|s|1||Choisis un joueur qui devient ton serviteur jusqu'à ton prochain tour.
 A|s|1||Bois en faisant le poirier, ou essaie, ou prends {s2}.
-A|f|1||Imite un influenceur qui présente ton verre comme un produit de luxe.
 A|f|1||Fais une interview de {B} comme un journaliste people.
-A|f|1|pn|Fais le présentateur météo de la vie amoureuse de chaque joueur.
 A|t|1||Montre aux autres tes cinq dernières photos sans les regarder avant.
 J|x|2||Je n'ai jamais embrassé quelqu'un en sachant que mon ex regardait.
 J|x|2||Je n'ai jamais dragué quelqu'un uniquement pour qu'il me paie à boire.
@@ -3938,7 +3818,6 @@ J|x|3||Je n'ai jamais fait l'amour en étant en retard au travail à cause de ç
 J|x|3||Je n'ai jamais séché un cours ou une réunion pour une nuit qui ne finissait pas.
 J|x|3||Je n'ai jamais fait l'amour dans une voiture en hiver avec la buée sur les vitres.
 J|x|3||Je n'ai jamais fait l'amour dans un endroit où il y avait des caméras de surveillance.
-J|x|3||Je n'ai jamais eu un plaisir solo en pensant à quelqu'un que je venais de rencontrer.
 J|x|3||Je n'ai jamais envoyé un nude à quelqu'un qui ne l'avait pas demandé.
 J|x|3||Je n'ai jamais rejoué dans ma tête une nuit pendant des semaines.
 J|x|3||Je n'ai jamais choisi un hôtel uniquement pour sa baignoire.
@@ -3960,7 +3839,7 @@ J|f|1||Je n'ai jamais pleuré en regardant un film d'animation à plus de 25 ans
 J|f|1||Je n'ai jamais tenté une recette vue sur TikTok et tout raté.
 Q|x|2||Qui de nous a déjà eu un crush sur un ou une amie de ses parents ?
 Q|x|2||Qui de nous a le meilleur jeu de regard en soirée ?
-Q|x|2||Qui de nous a déjà fait une déclaration coquine par erreur dans le mauvais groupe ?
+Q|x|2||Qui de nous a déjà fait une déclaration chaude par erreur dans le mauvais groupe ?
 Q|x|2||Qui de nous a déjà eu une histoire avec quelqu'un rencontré en vacances avec ses parents ?
 Q|x|2||Qui de nous garde toujours une brosse à dents en plus chez lui, au cas où ?
 Q|x|2||Qui de nous a déjà proposé de dormir chez quelqu'un « parce qu'il est tard » ?
@@ -3974,12 +3853,11 @@ Q|s|1||Qui de nous a la meilleure technique pour entrer en boîte gratuitement ?
 Q|a|1||Qui de nous a le plus de chances de se marier sur un coup de tête ?
 P|x|2||Un baiser parfait avec un inconnu // un baiser raté avec ton crush
 P|x|2||Que ton crush te voie au réveil après une soirée // qu'il te voie en train de manger des spaghettis
-P|x|2||Une nuit sans dormir à discuter avec ton crush // une nuit coquine avec un inconnu
+P|x|2||Une nuit sans dormir à discuter avec ton crush // une nuit chaude avec un inconnu
 P|x|2||Être réveillé par un strip-tease // être réveillé par un massage
 P|x|3||Faire l'amour dans une piscine la nuit // dans un hamac au soleil
-P|x|3||Que ton partenaire te murmure des mots doux // des mots cochons
+P|x|3||Que ton partenaire te murmure des mots doux // des mots sales
 P|x|3||Un plan à trois avec ta célébrité préférée et un inconnu // une nuit seul avec ta deuxième célébrité préférée
-P|x|3||Être surpris par ta grand-mère pendant un plaisir solo // par ton boss en visio
 P|s|1||Un apéro qui dure jusqu'à 6 h // une soirée qui commence à minuit
 P|a|1||Un amour fou qui finit mal // un amour tiède qui dure toute la vie
 P|f|1||Pouvoir parler à ton toi de 15 ans // à ton toi de 60 ans
@@ -4025,7 +3903,7 @@ J|x|3||Je n'ai jamais gardé un sous-vêtement de quelqu'un en souvenir.
 J|x|3||Je n'ai jamais dû inventer une histoire pour expliquer un suçon.
 J|x|3|pn|Je n'ai jamais imaginé deux personnes d'ici ensemble au lit.
 J|x|3|pn|Je n'ai jamais pensé que quelqu'un d'ici serait le meilleur coup de la table.
-J|x|3|pn|Je n'ai jamais eu une conversation coquine avec quelqu'un d'ici.
+J|x|3|pn|Je n'ai jamais eu une conversation chaude avec quelqu'un d'ici.
 J|x|3|pn|Je n'ai jamais été à deux doigts de coucher avec quelqu'un d'ici.
 J|x|3|pn|Je n'ai jamais imaginé {B} dans une tenue sexy.
 J|x|3|pn|Je n'ai jamais eu envie de savoir à quoi ressemble {B} au lit.
@@ -4075,7 +3953,7 @@ Q|x|3||Qui de nous a déjà couché avec quelqu'un uniquement à cause de sa voi
 Q|x|3||Qui de nous a déjà craqué pour quelqu'un en le voyant danser, et fini la nuit avec ?
 Q|x|3||Qui de nous a la nuit la plus folle de l'année à raconter ?
 Q|x|3|pn|Qui de nous a déjà imaginé deux personnes d'ici ensemble ?
-Q|x|3|pn|Qui de nous a déjà eu une conversation coquine avec quelqu'un d'ici ?
+Q|x|3|pn|Qui de nous a déjà eu une conversation chaude avec quelqu'un d'ici ?
 Q|x|3|pn|Qui de nous a été le plus près de coucher avec quelqu'un d'ici ?
 Q|x|3|pn|Qui de nous a déjà imaginé {B} dans une tenue sexy ?
 Q|x|3|pn|Qui de nous aimerait savoir comment est {B} au lit ?
@@ -4107,7 +3985,7 @@ J|x|3||Je n'ai jamais reçu un message de la moitié de quelqu'un avec qui j'ava
 J|x|3||Je n'ai jamais été pris en flagrant délit d'infidélité.
 J|x|3||Je n'ai jamais pris quelqu'un en flagrant délit d'infidélité.
 J|x|3|pn|Je n'ai jamais pensé que quelqu'un ici avait l'air d'être très doué avec ses mains.
-J|x|3|pn|Je n'ai jamais pensé que {B} cachait un côté très coquin.
+J|x|3|pn|Je n'ai jamais pensé que {B} cachait un côté très chaud.
 Q|x|3||Qui de nous a déjà couché avec quelqu'un rencontré moins d'une heure avant dans un bar ?
 Q|x|3||Qui de nous a déjà couché avec quelqu'un uniquement pour son physique, en détestant son caractère ?
 Q|x|3||Qui de nous a déjà découvert après coup qu'il avait un ex en commun avec son plan d'un soir ?
@@ -4147,13 +4025,13 @@ Q|x|3||Qui de nous a déjà réalisé un fantasme et été déçu ?
 Q|x|3||Qui de nous a déjà réalisé un fantasme et voulu recommencer le soir même ?
 Q|x|3||Qui de nous a déjà eu une nuit tellement bien qu'il en parle encore des années après ?
 Q|x|3||Qui de nous a déjà eu une nuit tellement nulle qu'il en rit encore ?
-Q|x|3||Qui de nous a déjà dû arrêter parce que quelqu'un était trop bourré ?
 Q|x|3||Qui de nous a déjà eu une nuit où il a perdu la notion du temps jusqu'au lever du soleil ?
 Q|x|3||Qui de nous a déjà eu un orgasme tellement fort qu'il a crié ?
 Q|x|3||Qui de nous a déjà eu un orgasme dans un lieu public ?
-Q|x|3|pn|Qui de nous a déjà eu un rêve coquin avec quelqu'un d'ici, et n'ose pas le dire ?
+Q|x|3|pn|Qui de nous a déjà eu un rêve chaud avec quelqu'un d'ici, et n'ose pas le dire ?
 Q|x|3|pn|Qui de nous ferait le plan à trois le plus équilibré avec deux personnes d'ici ?
 Q|x|3|pn|Qui de nous a déjà regardé quelqu'un d'ici d'une façon pas très innocente ce soir ?
 Q|x|3|pn|Qui de nous {B} trouverait le plus doué au lit ?
-Q|x|3|pn|Qui de nous a déjà pensé que {B} cachait un côté très coquin ?
+Q|x|3|pn|Qui de nous a déjà pensé que {B} cachait un côté très chaud ?
+J|x|3||Je n'ai jamais été surpris en train de me toucher.
 `;

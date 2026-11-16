@@ -102,12 +102,12 @@ window.TOURNEE_SEPT = `
 2||mensonges qu'on dit à un premier rencard
 2||endroits où draguer
 3|x|types de sous-vêtements
-3|x|surnoms coquins pour sa moitié
+3|x|surnoms sexy pour sa moitié
 3|x|trucs qu'on fait sous la couette à part dormir
 3|x|endroits du corps qu'on peut embrasser
 3|x|films avec des scènes chaudes
 3|x|catégories de porno
-3|x|mots cochons
+3|x|mots sales
 3|x|fétiches
 1||marques de café
 1||chaînes de télé
@@ -218,7 +218,7 @@ window.TOURNEE_SEPT = `
 2||choses qu'on dit quand on est jaloux
 2||choses qu'on fait bourré et qu'on regrette
 3|x|positions acrobatiques
-3|x|accessoires coquins
+3|x|accessoires sexy
 3|x|endroits publics où faire l'amour
 3|x|fantasmes d'uniformes
 3|x|mots pour dire « faire l'amour »
@@ -232,7 +232,7 @@ window.TOURNEE_SEPT = `
 3|x|phrases qu'on dit pendant l'amour
 3|x|films ou séries avec des scènes très chaudes
 3|x|célébrités les plus sexy
-3|x|mots coquins en anglais
+3|x|mots sales en anglais
 `;
 
 // 10/10 mais… : « Il ou elle est 10/10, mais … »
@@ -296,7 +296,6 @@ window.TOURNEE_DIX = `
 1||c'est le boss de {B}
 1||{B} le trouve insupportable
 1||c'est le meilleur ami d'enfance de {B}
-2||c'est le père ou la mère de {B}
 2||{B} a déjà eu une histoire avec
 2||c'est le coloc de {B} et il est toujours là
 2||{B} dit que c'est la pire personne qu'il ou elle ait connue
@@ -474,7 +473,6 @@ window.TOURNEE_DIX = `
 1||boit trop et pleure à chaque soirée
 1||finit toujours par se battre en soirée
 1||s'endort au milieu de chaque soirée
-1||danse comme un robot cassé
 1||fait des blagues de papa en permanence
 1||rit à ses propres blagues avant la chute
 1||ne comprend jamais l'ironie
@@ -535,7 +533,6 @@ window.TOURNEE_DIX = `
 2||est l'ex de ta sœur
 2||est ton ancien boss qui t'a viré
 2||a 20 ans de plus que toi
-2||a 15 ans de moins que toi, mais il est majeur
 2||a déjà couché avec la moitié de tes potes
 2||{B} a déjà eu une aventure avec
 2||{B} l'a embrassé à une soirée
@@ -605,7 +602,6 @@ window.TOURNEE_TEAM = `
 1||Chaque équipe imite une célébrité. L'autre équipe a trois essais pour deviner. L'équipe qui devine le plus vite gagne.
 1||Tout le monde montre son temps d'écran. L'équipe avec le plus petit total gagne.
 1||L'équipe dont les téléphones ont le plus de batterie au total gagne.
-1||Chaque équipe invente un cri de guerre en 30 secondes. {A} choisit le meilleur.
 1||Chaque équipe doit faire rire le joueur le plus sérieux de l'autre équipe en 30 secondes. Celle qui réussit le plus vite gagne.
 1||Les deux équipes chantent un refrain en même temps. La première qui se trompe ou s'arrête perd.
 1||À tour de rôle, chaque équipe cite un joueur de foot. La première qui sèche perd.
@@ -671,10 +667,7 @@ window.TOURNEE_TEAM = `
 1||Chaque équipe doit faire deviner une expression en la mimant. La plus rapide gagne.
 1||Chaque équipe doit faire deviner un personnage célèbre en trois mots maximum. La plus rapide gagne.
 1||Chaque équipe dessine un objet choisi par l'autre équipe en 20 secondes. {A} juge le meilleur dessin.
-1||Chaque équipe fait une chorégraphie de 15 secondes. {A} choisit la meilleure.
-1||Chaque équipe invente un nom d'équipe et un hymne. {A} vote.
 1||Chaque équipe fait la meilleure imitation d'un prof. {A} juge.
-1||Chaque équipe réalise le meilleur sketch de 30 secondes sur un thème choisi par {A}.
 1||Chaque équipe doit raconter une histoire, un mot par joueur. La première qui bloque perd.
 1||Chaque équipe doit construire une pyramide de gobelets ou d'objets en 30 secondes. La plus haute gagne.
 1||Chaque équipe doit lancer un objet dans un verre à deux mètres. La première qui réussit gagne.
@@ -690,7 +683,6 @@ window.TOURNEE_TEAM = `
 1||Un joueur de chaque équipe fait rire le juge {A}. Le premier qui réussit gagne.
 1||Un joueur de chaque équipe mange un biscuit sans les mains. Le plus rapide gagne.
 1||Un joueur de chaque équipe dit le plus de mots qui finissent en « -ment » en 20 secondes.
-1||Un joueur de chaque équipe fait le meilleur cri de Tarzan. {A} juge.
 1||Un joueur de chaque équipe fait une imitation de {A}. {A} juge.
 1||Un joueur de chaque équipe tient la position de la chaise contre le mur. Le dernier qui tient gagne.
 1||Chaque équipe montre le plus vieux selfie de ses téléphones. Le plus ancien gagne.
@@ -708,12 +700,10 @@ window.TOURNEE_TEAM = `
 2||Chaque équipe raconte la pire phrase de drague jamais utilisée par un de ses joueurs. {A} juge.
 2||L'équipe dont un joueur accepte d'appeler son ex en haut-parleur gagne immédiatement.
 2||Chaque équipe écrit la meilleure déclaration d'amour en 30 secondes. {A} juge.
-2||Chaque équipe joue une scène de rupture dramatique. {A} choisit la plus convaincante.
-2||Chaque équipe joue un premier rencard gênant. {A} choisit le plus drôle.
 2||L'équipe qui a le plus de matchs sur les applis au total gagne.
 2||L'équipe dont tous les joueurs ont déjà été largués par message gagne. Sinon, l'autre équipe.
 2||Chaque équipe doit faire rougir {A} en 30 secondes, avec des compliments. La première qui réussit gagne.
-3|x|Chaque équipe a 30 secondes pour citer un maximum de mots coquins.
+3|x|Chaque équipe a 30 secondes pour citer un maximum de mots sales.
 3|x|Chaque équipe a 30 secondes pour citer un maximum d'endroits où faire l'amour.
 3|x|Chaque équipe écrit le fantasme le plus original. {A} choisit le meilleur.
 3|x|Chaque équipe désigne un joueur qui fait la démarche la plus sexy. {A} juge.
@@ -1197,7 +1187,6 @@ window.TOURNEE_MOTS = `
 3|x|Lap dance
 3|x|Fessée
 3|x|Bandeau
-3|x|Jacuzzi coquin
 3|x|Body shot
 3|x|Sexto
 3|x|Jeu de rôle
@@ -1318,10 +1307,10 @@ window.TOURNEE_OUINON = `
 3|x|Recoucher avec un ex dont tu es encore amoureux
 3|x|Faire l'amour dans une voiture en plein jour
 3|x|Tester un sextoy à deux
-3|x|Envoyer une vidéo coquine
+3|x|Envoyer une vidéo chaude
 3|x|Faire l'amour chez tes parents
 3|x|Coucher le premier soir avec quelqu'un dont tu es vraiment amoureux
-3|x|Partir en week-end coquin avec quelqu'un rencontré sur une appli
+3|x|Partir en week-end chaud avec quelqu'un rencontré sur une appli
 3|x|Avouer ton plus gros fantasme à ta moitié
 3|x|Coucher avec quelqu'un qui est en couple
 3|x|Coucher avec quelqu'un sans lui donner ton vrai prénom
@@ -1348,8 +1337,6 @@ window.TOURNEE_OUINON = `
 3|x|Partir en vacances avec un plan cul
 3|x|Coucher avec quelqu'un uniquement parce qu'il sent bon
 3|x|Faire l'amour sans jamais pouvoir s'embrasser
-3|x|Dire ton body count exact à tes parents
-3|x|Raconter ta dernière fois à ta mère
 3|x|Lire tes derniers sextos à voix haute
 3|xg|Raconter ici ta dernière fois, avec les détails
 3|xg|Dire qui ici tu trouves le plus sexy
@@ -1496,7 +1483,6 @@ window.TOURNEE_OUINON = `
 2|x|Envoyer un sexto à ta moitié pendant un repas de famille
 2|x|Faire un strip-tease à ta moitié ce soir
 2|x|Acheter un sextoy ce soir
-2|x|Aller dans un sex-shop avec tes parents
 2|x|Aller dans un sex-shop avec ton meilleur ami
 2|x|Coucher avec quelqu'un qui embrasse bien mais qui est nul au lit
 2|x|Avoir un plan d'un soir en vacances
@@ -1518,7 +1504,6 @@ window.TOURNEE_OUINON = `
 2|x|Faire l'amour dans un lieu où tu risques de te faire voir
 2|x|Montrer à ta moitié ton historique de recherche
 2|x|Laisser ta moitié lire tes vieux sextos avec tes ex
-2|x|Raconter ta première fois à tes parents
 2|x|Raconter ta pire nuit à ta moitié
 2|x|Te mettre en sous-vêtements maintenant pour 50 euros
 2|xg|Embrasser quelqu'un d'ici sur la joue maintenant
@@ -1568,8 +1553,7 @@ window.TOURNEE_OUINON = `
 3|x|Tester un sextoy contrôlé à distance en public
 3|x|Porter un sextoy pendant un dîner
 3|x|Regarder un porno avec un ami
-3|x|Faire un plaisir solo dans un lieu public
-3|x|Envoyer une vidéo coquine à ta moitié
+3|x|Envoyer une vidéo chaude à ta moitié
 3|x|Faire l'amour en visio
 3|x|Faire une sextape
 3|x|Vendre des photos sexy
@@ -1577,7 +1561,6 @@ window.TOURNEE_OUINON = `
 3|x|T'abonner à un OnlyFans
 3|x|Raconter ton body count exact ici
 3|x|Révéler ton fantasme numéro un à tes potes
-3|x|Révéler ta position préférée à tes parents
 3|x|Noter ta dernière nuit sur 10 devant ta moitié
 3|x|Avouer à ta moitié que tu as déjà simulé
 3|x|Coucher avec quelqu'un qui simule tout le temps
@@ -1597,7 +1580,7 @@ window.TOURNEE_OUINON = `
 3|xg|Raconter ici ta pire nuit, avec les détails
 3|xg|Montrer tes sous-vêtements à tout le monde ici
 3|xg|Faire un body shot sur {B}
-3|xg|Raconter ton dernier rêve coquin si quelqu'un d'ici était dedans
+3|xg|Raconter ton dernier rêve chaud si quelqu'un d'ici était dedans
 3|x|Raconter à {B} ton fantasme le plus inavouable
-3|x|Laisser {B} choisir ta tenue pour une nuit coquine
+3|x|Laisser {B} choisir ta tenue pour une nuit chaude
 `;
