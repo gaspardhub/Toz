@@ -34,7 +34,12 @@ body {
   font-family: var(--body);
   font-size: 16px;
   -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+  touch-action: manipulation;
+  -webkit-user-select: none; user-select: none;
+  -webkit-touch-callout: none;
 }
+input, textarea { -webkit-user-select: text; user-select: text; }
 button, input { font: inherit; color: inherit; }
 button { cursor: pointer; }
 button:disabled { cursor: not-allowed; }
@@ -354,7 +359,8 @@ button:disabled { cursor: not-allowed; }
   font-weight: 800; z-index: 40; text-align: center;
   max-width: calc(100% - 32px); box-sizing: border-box;
 }
-#mods { align-self: flex-start; }
+#mods, #premium-btn, #install-btn { align-self: flex-start; }
+#install-btn { border-color: var(--mint); }
 .vibes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
 .vibe {
   border: 2px solid var(--line);
@@ -430,6 +436,7 @@ button:disabled { cursor: not-allowed; }
   <label class="toggle slim" for="sober"><span>Sans alcool<small>Les gorgées deviennent des points : pompes, gages…</small></span><input type="checkbox" id="sober"></label>
   <button type="button" class="pill" id="mods" hidden></button>
   <button type="button" class="pill" id="premium-btn" hidden></button>
+  <button type="button" class="pill" id="install-btn" hidden>Installer l'appli sur ce téléphone</button>
   <div class="modes" id="modes"></div>
 </main>
 
@@ -480,7 +487,7 @@ button:disabled { cursor: not-allowed; }
 // ---------- Pubs et version sans pub ----------
 // Tout ce qui se règle au lancement est ici. Les ID AdMob ci-dessous sont les ID de test publics de Google.
 const CONFIG = {
-  adsEnabled: true,
+  adsEnabled: false,         // à passer à true quand une vraie régie est branchée
   adEveryCards: 12,          // une pub plein écran toutes les N cartes
   adsInAdultModes: false,    // les régies limitent souvent les pubs sur du contenu sexuel : à vérifier avant d'activer
   adMinSeconds: 5,           // délai avant de pouvoir fermer la pub web
@@ -1275,7 +1282,7 @@ $("premium-btn").addEventListener("click", () => openPremium());
 
 // Message d'accueil, une seule fois.
 function showIntro() {
-  if (store.get("introSeen", false) || isPremium()) return;
+  if (!CONFIG.adsEnabled || store.get("introSeen", false) || isPremium()) return;
   store.set("introSeen", true);
   openSheet("Tournée reste gratuite",
     `<p class="hint">Toutes les cartes et tous les jeux sont gratuits, et ça ne changera pas. Pour payer l'hébergement et continuer à écrire de nouvelles cartes, il y a une petite pub de temps en temps, environ toutes les ${CONFIG.adEveryCards} cartes.</p>
@@ -1413,6 +1420,26 @@ document.addEventListener("keydown", e => { if (e.key === "Escape" && !$("sheet"
     if (!$("menu").hidden) renderMenu();
   }, () => { edits = null; });
 })();
+
+// Installation sur l'écran d'accueil (version hébergée uniquement, pas dans l'aperçu claude.ai).
+let installEvent = null;
+const standalone = () => matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+const isIOS = () => /iphone|ipad|ipod/i.test(navigator.userAgent);
+const hosted = () => !!document.querySelector('link[rel="manifest"]');
+function refreshInstall() {
+  $("install-btn").hidden = !hosted() || standalone() || !(installEvent || isIOS());
+}
+addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEvent = e; refreshInstall(); });
+addEventListener("appinstalled", () => { installEvent = null; refreshInstall(); toast("Tournée est installée sur ton écran d'accueil."); });
+$("install-btn").addEventListener("click", async () => {
+  if (installEvent) { installEvent.prompt(); await installEvent.userChoice; installEvent = null; refreshInstall(); return; }
+  openSheet("Installer Tournée",
+    `<p class="hint">Sur iPhone, ça se fait depuis Safari :</p>
+     <p class="hint">1. Appuie sur le bouton <b>Partager</b> (le carré avec une flèche vers le haut).<br>2. Choisis <b>« Sur l'écran d'accueil »</b>.<br>3. Appuie sur <b>Ajouter</b>.</p>
+     <p class="hint">L'icône Tournée apparaît avec tes autres applis, et le jeu s'ouvre en plein écran, même sans réseau.</p>`,
+    `<button type="button" class="primary" data-sheet="close">Compris</button>`);
+});
+refreshInstall();
 
 render();
 </script>

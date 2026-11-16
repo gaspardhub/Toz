@@ -20,13 +20,15 @@ HEAD = """<!doctype html>
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
 <meta name="theme-color" content="#170f1f">
 <meta name="description" content="Le jeu de soirée gratuit : Je n'ai jamais, Action ou Vérité, Qui pourrait, Tu préfères et 11 autres jeux.">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="icon-512.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Tournée">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
 {adsense}
@@ -84,6 +86,8 @@ def main():
         "lang": "fr",
         "start_url": "./",
         "display": "standalone",
+        "orientation": "portrait",
+        "scope": "./",
         "background_color": "#170f1f",
         "theme_color": "#170f1f",
         "icons": [
@@ -94,7 +98,7 @@ def main():
     (DIST / "manifest.webmanifest").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
     # Le nom du cache change à chaque build : les joueurs reçoivent les nouvelles cartes.
     shell = ["./", "index.html", *FILES, "manifest.webmanifest", "icon-192.png", "icon-512.png"]
-    version = hashlib.sha1("".join((DIST / f).read_bytes().hex()[:64] for f in shell[1:]).encode()).hexdigest()[:10]
+    version = hashlib.sha1(b"".join((DIST / f).read_bytes() for f in shell[1:])).hexdigest()[:10]
     (DIST / "sw.js").write_text(f"""const CACHE = "tournee-{version}";
 const SHELL = {json.dumps(shell)};
 self.addEventListener("install", e => e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())));
