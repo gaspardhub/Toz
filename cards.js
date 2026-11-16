@@ -4034,4 +4034,31 @@ Q|x|3|pn|Qui de nous a déjà regardé quelqu'un d'ici d'une façon pas très in
 Q|x|3|pn|Qui de nous {B} trouverait le plus doué au lit ?
 Q|x|3|pn|Qui de nous a déjà pensé que {B} cachait un côté très chaud ?
 J|x|3||Je n'ai jamais été surpris en train de me toucher.
+P|x|2||Te faire surprendre par tes parents // surprendre tes parents
+V|d|1||Quelle est ta plus grande insécurité ?
+V|x|2||Quelle est ta plus grosse insécurité au lit ?
+V|x|3|pn|Tu t'es déjà fait plaisir en pensant à quelqu'un ici ? Qui ?
+Q|x|3|pn|Qui de nous a déjà pensé à {B} en se faisant plaisir ?
+J|x|2||Je n'ai jamais entendu mes parents.
+J|x|3||Je n'ai jamais appelé quelqu'un « papa » ou « maman » au lit.
+J|d|2||Je n'ai jamais caché une dette à ma famille.
+Q|x|2||Qui de nous a déjà matché avec quelqu'un de sa famille éloignée ?
+Q|x|2||Qui de nous parle de sexe le plus librement avec ses parents ?
+Q|x|2||Qui de nous a le plus de complexes alors qu'il n'a aucune raison ?
+Q|x|3|pn|Qui de nous a déjà pensé à quelqu'un d'ici en se faisant plaisir ?
+V|x|2||As-tu déjà eu un crush sur quelqu'un de ta famille éloignée ?
+V|x|2||Quel est ton plus gros complexe physique ?
+V|x|3|pn|As-tu déjà pensé à quelqu'un d'ici en te faisant plaisir ? Sans nom, juste oui ou non.
+V|x|3||As-tu déjà pleuré après l'amour ? Pourquoi ?
+V|d|1||As-tu déjà souhaité qu'il arrive malheur à quelqu'un ?
+V|d|1||As-tu des dettes que personne ne connaît ?
+V|f|1||Quelle est la dernière chose qui t'a fait pleurer ?
+P|x|2||Trouver les sextoys de tes parents // que tes parents trouvent les tiens
+P|x|3||Regarder un porno avec tes parents dans la pièce // avec ton ex
+V|x|2||As-tu déjà été dragué par quelqu'un de ta famille éloignée ?
+V|x|2||Qu'est-ce qui te met mal à l'aise au lit ?
+V|d|1||Quel est le moment où tu as eu le plus peur dans ta vie ?
+V|d|1||Quel est le conseil que tu aurais aimé recevoir à 15 ans ?
+V|d|1||Qu'est-ce que tu changerais dans ta vie si tu pouvais ?
+P|x|3||Être surpris par ta grand-mère pendant que tu te touches // par ton boss en visio
 `;

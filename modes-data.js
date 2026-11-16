@@ -583,6 +583,7 @@ window.TOURNEE_DIX = `
 3|x|travaille sur OnlyFans et en parle à tes parents
 3|x|{B} dit que c'était le meilleur coup de sa vie
 3|x|a déjà fait un plan à trois avec {B}
+2||c'est le père ou la mère de {B}
 `;
 
 // Team Battle : épreuves entre deux équipes. {A} sert d'arbitre quand il en faut un.
@@ -1583,4 +1584,9 @@ window.TOURNEE_OUINON = `
 3|xg|Raconter ton dernier rêve chaud si quelqu'un d'ici était dedans
 3|x|Raconter à {B} ton fantasme le plus inavouable
 3|x|Laisser {B} choisir ta tenue pour une nuit chaude
+3|x|Dire ton body count exact à tes parents
+3|x|Raconter ta dernière fois à ta mère
+2|x|Aller dans un sex-shop avec tes parents
+2|x|Raconter ta première fois à tes parents
+3|x|Révéler ta position préférée à tes parents
 `;
